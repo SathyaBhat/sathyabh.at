@@ -5,7 +5,7 @@ theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 10
 disqusShortname         = "sathyabhat"
-googleAnalytics         = ""
+googleAnalytics         = "UA-155731111-1"
 pluralizeListTitles     = true
 disableLanguages        = ["de", "fr", "pl", "pt"]
 
