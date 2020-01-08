@@ -3,10 +3,10 @@ DefaultContentLanguage  = "en"
 title                   = "My World - Small posts here and there about my life"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 5
-disqusShortname         = ""
+paginate                = 10
+disqusShortname         = "sathyabhat"
 googleAnalytics         = ""
-pluralizeListTitles     = false
+pluralizeListTitles     = true
 disableLanguages        = ["de", "fr", "pl", "pt"]
 
 [params]
