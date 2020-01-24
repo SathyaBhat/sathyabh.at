@@ -63,7 +63,7 @@ disableLanguages        = ["de", "fr", "pl", "pt"]
     socialIntro           = true
 
   [params.sidebar]
-    about               = "test"
+    about               = "AWS Community Hero, SRE at Adobe, Author: Practical Docker With Python"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
