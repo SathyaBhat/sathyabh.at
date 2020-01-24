@@ -36,6 +36,6 @@ So this will basically search for any file(s) older than 30 days ( based on the 
 
 You can further filter out the files by using /m switch. I&#8217;d recommend you have a look at the description [over here][3]{#aptureLink_H8f0VYDmJa}.
 
- [1]: http://en.wikipedia.org/wiki/Storage%20area%20network
- [2]: http://stackoverflow.com/q/51054/92837
- [3]: http://ss64.com/nt/forfiles.html
+ [1]: https://en.wikipedia.org/wiki/Storage%20area%20network
+ [2]: https://stackoverflow.com/q/51054/92837
+ [3]: https://ss64.com/nt/forfiles.html

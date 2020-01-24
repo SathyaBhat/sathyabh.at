@@ -75,8 +75,8 @@ JS code for regexp find & replace
 
 For those interested, full [transcript][5]{#aptureLink_8lQS41Ofmn} of my discussions with Josh
 
- [1]: http://chat.meta.stackoverflow.com/rooms/224/the-roach-motel
- [2]: http://chat.meta.stackoverflow.com/
- [3]: http://jsfiddle.net/M6dxn/1/
- [4]: http://meta.stackoverflow.com/users/131541?tab=accounts#tab-top
- [5]: http://chat.meta.stackoverflow.com/transcript/message/208874#208874
+ [1]: https://chat.meta.stackoverflow.com/rooms/224/the-roach-motel
+ [2]: https://chat.meta.stackoverflow.com/
+ [3]: https://jsfiddle.net/M6dxn/1/
+ [4]: https://meta.stackoverflow.com/users/131541?tab=accounts#tab-top
+ [5]: https://chat.meta.stackoverflow.com/transcript/message/208874#208874

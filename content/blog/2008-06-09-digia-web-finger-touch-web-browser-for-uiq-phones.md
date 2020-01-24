@@ -52,5 +52,5 @@ As for device compatibility, all touch enabled UIQ 3 devices such as the Sony Er
 
 [ad]
 
- [1]: http://www.digia.com/
- [2]: http://www.digia.com/C2256FEF0043E9C1/0/405001847
+ [1]: https://www.digia.com/
+ [2]: https://www.digia.com/C2256FEF0043E9C1/0/405001847

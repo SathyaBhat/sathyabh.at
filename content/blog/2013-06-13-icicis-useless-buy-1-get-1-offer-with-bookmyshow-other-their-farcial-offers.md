@@ -82,7 +82,7 @@ BookMyShow has updated it&#8217;s Terms & Conditions to mention this(thanks, Fis
 > <span style="color: #000000;"></p> 
 > 
 > <p>
->   Read more: <a style="color: #003399;" href="http://in.bookmyshow.com/static/icici-debit-card-movie-ticket-offers/#ixzz3C8WYIZU0">http://in.bookmyshow.com/static/icici-debit-card-movie-ticket-offers/#ixzz3C8WYIZU0</a></span>
+>   Read more: <a style="color: #003399;" href="https://in.bookmyshow.com/static/icici-debit-card-movie-ticket-offers/#ixzz3C8WYIZU0">https://in.bookmyshow.com/static/icici-debit-card-movie-ticket-offers/#ixzz3C8WYIZU0</a></span>
 > </p></blockquote> 
 > 
 > <p>

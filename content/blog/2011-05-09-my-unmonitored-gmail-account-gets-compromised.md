@@ -27,4 +27,4 @@ tags:
 >   * Password Reuse
 >   * Send mail as and Reply-to set to my domain address
 
-Read a complete account of what happened over at <a href="http://techie-buzz.com/gmail/how-playstation-network-attack-password-reuse-and-unmonitored-account-resulted-in-mass-phishing.html" target="_blank">techie-buzz</a>
+Read a complete account of what happened over at <a href="https://techie-buzz.com/gmail/how-playstation-network-attack-password-reuse-and-unmonitored-account-resulted-in-mass-phishing.html" target="_blank">techie-buzz</a>

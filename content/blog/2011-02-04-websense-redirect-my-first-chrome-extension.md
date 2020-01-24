@@ -34,14 +34,14 @@ Building up on this &#8211; I created a simple extension which checks for websen
 
 There are certain bugs, but I can live with those for the moment. If you need a similar thing &#8211; do try out my extension &#8212; it&#8217;s hosted on my servers & can be downloaded from over [here][11]. Let me know if you run into problems.
 
- [1]: http://www.websense.com/content/home.aspx
- [2]: http://twitoaster.com/country-in/sathyabhat/congrats-reddit-you-have-now-been-promoted-to-the-rank-of-a-social-network-by-webnonsense/
+ [1]: https://www.websense.com/content/home.aspx
+ [2]: https://twitoaster.com/country-in/sathyabhat/congrats-reddit-you-have-now-been-promoted-to-the-rank-of-a-social-network-by-webnonsense/
  [3]: twitter.com/SathyaBhat/statuses/28059352136945664
- [4]: http://tumble.sathyabh.at/post/587335342/more-webnonsense-stupidity
+ [4]: https://tumble.sathyabh.at/post/587335342/more-webnonsense-stupidity
  [5]: ttp://friendfeed.com/100rabh/1cec68cc/rt-sathyabhat-all-hail-web-non-sense-says-hacker
- [6]: http://tumble.sathyabh.at/post/49820040/web-non-sense
- [7]: http://chat.stackexchange.com/transcript/118?m=437454#437454
- [8]: http://superuser.com/users/4377/sathya
- [9]: http://superuser.com/users/9666/tomwij
- [10]: http://code.google.com/chrome/extensions/content_scripts.html
- [11]: http://u.sbhat.me/webnonsense
+ [6]: https://tumble.sathyabh.at/post/49820040/web-non-sense
+ [7]: https://chat.stackexchange.com/transcript/118?m=437454#437454
+ [8]: https://superuser.com/users/4377/sathya
+ [9]: https://superuser.com/users/9666/tomwij
+ [10]: https://code.google.com/chrome/extensions/content_scripts.html
+ [11]: https://u.sbhat.me/webnonsense

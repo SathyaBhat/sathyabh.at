@@ -24,7 +24,7 @@ tags:
 ---
 The day I landed in Austin, when I was being driven back, I&#8217;d seen this seemingly nice place &#8211; North by North West and my colleague told me its a beer brewery and restaurant, and I made a mental note to check it out. Somehow I never checked it out &#8211; till today. Yesterday while heading out to Bank of America to encash my Travellers&#8217; Cheque I noticed that North by NorthWest is pretty close and walking distance from where I stay, so I decided to check this place out.
 
-<img class="alignnone" title="North by Northwest" src="http://nxnwbrew.com/images/exterior/ext_siloday_small_02.jpg" alt="" width="224" height="168" /><img class="alignnone" title="North by Northwest" src="http://nxnwbrew.com/images/brewery/brew_viewtodining_01.jpg" alt="" width="224" height="168" /> 
+<img class="alignnone" title="North by Northwest" src="https://nxnwbrew.com/images/exterior/ext_siloday_small_02.jpg" alt="" width="224" height="168" /><img class="alignnone" title="North by Northwest" src="https://nxnwbrew.com/images/brewery/brew_viewtodining_01.jpg" alt="" width="224" height="168" /> 
 
 <!--more-->
 
@@ -37,4 +37,4 @@ Being a beer brewery they&#8217;ve got some of their own brewed beer &#8211; I h
 Anyways if you&#8217;re a beer lover and in Austin, do drop by North by Northwest. Its at 10010 Capital of TX Hwy N  
 Austin, TX 78759.
 
-PS: Pics courtesy North by Northwest <a href="http://nxnwbrew.com/index.php" target="_blank">website</a>.
+PS: Pics courtesy North by Northwest <a href="https://nxnwbrew.com/index.php" target="_blank">website</a>.

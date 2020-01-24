@@ -21,4 +21,4 @@ Well that was about it for this week. Nothing interesting, all too boring.
 What about the next week? That remains to be seen. I&#8217;m contemplating taking a long 4 day leave around Mid- March, planning to go back home and be there for my birthday(March may seem a long way off, but yeah we&#8217;ve to plan ahead, for the sake of the project and resource allocation). Let&#8217;s see how that goes.  
 Cheers
 
- [1]: http://sathyasays.com/
+ [1]: https://sathyasays.com/

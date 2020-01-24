@@ -19,5 +19,5 @@ Yesterday Devesh had [tweeted][1] telling me &#8220;You have to listen to this!&
 
 Head over to [Devesh&#8217;s blog][2] and listen to it!
 
- [1]: http://twitter.com/deveshm/statuses/814144507
- [2]: http://devesh.net/blog/2008/05/18/i-want-to-blow-up-my-school/
+ [1]: https://twitter.com/deveshm/statuses/814144507
+ [2]: https://devesh.net/blog/2008/05/18/i-want-to-blow-up-my-school/

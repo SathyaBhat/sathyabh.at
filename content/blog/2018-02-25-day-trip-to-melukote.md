@@ -13,7 +13,7 @@ tags:
   - travel
 
 ---
-Starting this year, Jo & I wanted to resume our monthly outing to a place outside of Bangalore and we&#8217;d decided to head to Sravanabelagola during the Republic Day weekend. Unfortunately couple of days before the trip, Jo fell ill and we had to cancel the trip and thus January month went by without a trip. Few days later, <a href="http://www.firstpost.com/author/abhilash-pavuluri" target="_blank" rel="noopener">Abhilash</a> mentioned that he was arranging for a ride to Melukote and since this was the week after Barcamp Bangalore, Jo & I signed up for the ride.
+Starting this year, Jo & I wanted to resume our monthly outing to a place outside of Bangalore and we&#8217;d decided to head to Sravanabelagola during the Republic Day weekend. Unfortunately couple of days before the trip, Jo fell ill and we had to cancel the trip and thus January month went by without a trip. Few days later, <a href="https://www.firstpost.com/author/abhilash-pavuluri" target="_blank" rel="noopener">Abhilash</a> mentioned that he was arranging for a ride to Melukote and since this was the week after Barcamp Bangalore, Jo & I signed up for the ride.
 
 <!--more-->
 

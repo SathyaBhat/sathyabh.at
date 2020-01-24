@@ -9,13 +9,13 @@ categories:
   - Life
 
 ---
-Way back in late November/December last year, I took part in reddit&#8217;s <a href="http://redditgifts.com/exchanges/secret-santa-2011/" target="_blank">/r/secretsanta</a>. I found it was pretty cool, to (hopefully) get a random gift based on my barren, lurking <a href="http://www.reddit.com/user/sathyabhat/" target="_blank">reddit account</a>, though a <a href="https://www.google.co.in/search?q=sathyabhat" target="_blank">small search</a> would reveal a lot more about me.
+Way back in late November/December last year, I took part in reddit&#8217;s <a href="https://redditgifts.com/exchanges/secret-santa-2011/" target="_blank">/r/secretsanta</a>. I found it was pretty cool, to (hopefully) get a random gift based on my barren, lurking <a href="https://www.reddit.com/user/sathyabhat/" target="_blank">reddit account</a>, though a <a href="https://www.google.co.in/search?q=sathyabhat" target="_blank">small search</a> would reveal a lot more about me.
 
 Anyway, after [Ashwin&#8217;s][1] feedback(&#8220;my santa didn&#8217;t send anything. I was reassigned. second santa also nothing. #foreveralone&#8221;) I didn&#8217;t expect anything. A month or so later, however, my secret santa confirmed shipment of the gift. And I received it couple of days later.
 
 <blockquote class="twitter-tweet tw-align-center">
   <p>
-    This is what my /r/secretsanta sent me (at Borg Cube) [pic] — <a title="http://path.com/p/2oFaso" href="http://t.co/YCOdr2DO">path.com/p/2oFaso</a>
+    This is what my /r/secretsanta sent me (at Borg Cube) [pic] — <a title="https://path.com/p/2oFaso" href="https://t.co/YCOdr2DO">path.com/p/2oFaso</a>
   </p>
   
   <p>
@@ -25,21 +25,21 @@ Anyway, after [Ashwin&#8217;s][1] feedback(&#8220;my santa didn&#8217;t send a
 
 Sweet! What I didn&#8217;t realize, till couple of weeks ago, was that the folks at /r/secretsanta were trying set a Guinness World Record for &#8220;the largest online secret santa game&#8221; and were successful at that! So that made me a Guinness World Record holder too! Woohoo! 
 
-[<img class="aligncenter" title="Achievement Unlocked" src="http://i.stack.imgur.com/3wG8n.png" alt="Achievement Unlocked" width="423" height="68" />][2]
+[<img class="aligncenter" title="Achievement Unlocked" src="https://i.stack.imgur.com/3wG8n.png" alt="Achievement Unlocked" width="423" height="68" />][2]
 
 Soon enough, I put forward an order for my Guinness World Record certificate and things were all set. Or so I thought. Couple of days ago, I received an email from Guinness stating that due to high volume of orders, the shipment would be delayed by another couple of weeks. That was fine, but then the person who sent the email did the biggest goof up ever. The person put the email address of about 1,072 people in the &#8220;To&#8221; field. Not even the cc, the frigging &#8220;To&#8221; field.
 
 <div style="width: 658px" class="wp-caption aligncenter">
-  <a href="http://i.stack.imgur.com/GrGSK.jpg"><img class=" " title="Epic Facepalm" src="http://i.stack.imgur.com/GrGSK.jpg" alt="Epic Facepalm" width="648" height="494" /></a>
+  <a href="https://i.stack.imgur.com/GrGSK.jpg"><img class=" " title="Epic Facepalm" src="https://i.stack.imgur.com/GrGSK.jpg" alt="Epic Facepalm" width="648" height="494" /></a>
   
   <p class="wp-caption-text">
-    Image courtesy http://www.comicvine.com/
+    Image courtesy https://www.comicvine.com/
   </p>
 </div>
 
   Here&#8217;s how it looked like 
 
-[<img class="aligncenter" src="http://i.stack.imgur.com/VuCB6.png" alt="" width="682" height="369" />][3]
+[<img class="aligncenter" src="https://i.stack.imgur.com/VuCB6.png" alt="" width="682" height="369" />][3]
 
 Naturally, I wasn&#8217;t too pleased 
 
@@ -71,6 +71,6 @@ Marco Frugatti, SVP Records, however did send an email apologizing the data brea
 
 However, I fear that this breach will have even more serious repercussions, given how lax people are with passwords. Good thing is that Guinness owned up to the mistake and have confirmed that they have initiated refunds for the payment of certificates. Time will tell who&#8217;ll be hit more &#8211; Guinness or the individuals in the email. My bet is on the latter.
 
- [1]: http://twitter.com/ashwinsid
- [2]: http://i.stack.imgur.com/3wG8n.png
- [3]: http://i.stack.imgur.com/VuCB6.png
+ [1]: https://twitter.com/ashwinsid
+ [2]: https://i.stack.imgur.com/3wG8n.png
+ [3]: https://i.stack.imgur.com/VuCB6.png

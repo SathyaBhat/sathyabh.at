@@ -41,4 +41,4 @@ A screenshot of part of the result returned
 ![Calender][1]  
 [ad]
 
- [1]: http://img46.imageshack.us/img46/3879/calenderpngeo2.png
+ [1]: https://img46.imageshack.us/img46/3879/calenderpngeo2.png

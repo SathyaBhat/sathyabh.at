@@ -30,7 +30,7 @@ However, most people are unaware that Toad also comes in a [freeware edition][1
 
 Here&#8217;s comparison chart between the commercial edition and freeware.
 
-<a id="aptureLink_DLgVL66flm" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: inline !important; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://www.toadworld.com/Portals/0/ToadOracle/Toad%20Commercial%20vs%20Freeware%2010.5%20Basic%20Functionality.pdf"><img style="border: 0px initial initial;" title="Toad Freeware edition v/s Commercial edition comparison" src="http://placeholder.apture.com/ph/660x390_ScribdByUrlItem/" alt="" width="660px" height="390px" /></a>
+<a id="aptureLink_DLgVL66flm" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: inline !important; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="https://www.toadworld.com/Portals/0/ToadOracle/Toad%20Commercial%20vs%20Freeware%2010.5%20Basic%20Functionality.pdf"><img style="border: 0px initial initial;" title="Toad Freeware edition v/s Commercial edition comparison" src="https://placeholder.apture.com/ph/660x390_ScribdByUrlItem/" alt="" width="660px" height="390px" /></a>
 
 If you&#8217;re OK with the restrictions imposed by freeware edition or a Toad fan, then you can go ahead with getting it. If you ask me, Oracle&#8217;s SQL Developer is a perfectly acceptable alternative tool.
 
@@ -46,6 +46,6 @@ Download Links:
 
 3. [Allround Automations PL/SQL Developer][2]{#aptureLink_fXd7AqwuHo}
 
- [1]: http://www.toadworld.com/DOWNLOADS/Freeware/ToadforOracleFreeware/tabid/558/Default.aspx
- [2]: http://www.allroundautomations.com/plsqldev.html
- [3]: http://www.oracle.com/technology/products/database/sql_developer/index.html
+ [1]: https://www.toadworld.com/DOWNLOADS/Freeware/ToadforOracleFreeware/tabid/558/Default.aspx
+ [2]: https://www.allroundautomations.com/plsqldev.html
+ [3]: https://www.oracle.com/technology/products/database/sql_developer/index.html

@@ -15,7 +15,7 @@ tags:
   - hsf
 
 ---
-It&#8217;s been about 4 years since I built <a href="http://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank" rel="noopener noreferrer">Hellforge</a>. It&#8217;s gotten some updates:
+It&#8217;s been about 4 years since I built <a href="https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank" rel="noopener noreferrer">Hellforge</a>. It&#8217;s gotten some updates:
 
   * Replaced Gigabyte 7750 with an Asus Strix 970
   * Added on a Samsung Evo 840 256GB
@@ -43,18 +43,18 @@ Basically the temperatures were close to Tj Max and I wonder how come the CPU wa
 
 Here&#8217;s what I bought to clean up:
 
-  * <a href="http://www.amazon.in/Foooit-Duster-Remover-Compressed-350-00/dp/B00MWPOCLO/ref=sr_1_1?ie=UTF8&qid=1495381413&tag=mewoof-21&sr=8-1&keywords=compressed+air+can" target="_blank" rel="noopener noreferrer">Compressed air can</a> &#8211;  A blast of this can get a lot of dust off but you need to keep this straight, so difficult to use this for hard to reach surfaces
-  * <a href="http://www.amazon.in/LipiWorld-Cleaner-Keyboard-Computer-Digital/dp/B01FW3DLDW?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o01_s01" target="_blank" rel="noopener noreferrer">Hand pump</a> &#8211; really useful for the hard-to-reach surfaces which can&#8217;t be reached above
-  * <a href="http://www.amazon.in/Propyl-Alcohol-Sanitize-Service-Electronics/dp/B01GRTYVE8?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o00_s00" target="_blank" rel="noopener noreferrer">Isopropyl Alcohol</a> &#8211; You&#8217;re going to use this to wipe off the remaining gunk off the heat sink and the CPU.
+  * <a href="https://www.amazon.in/Foooit-Duster-Remover-Compressed-350-00/dp/B00MWPOCLO/ref=sr_1_1?ie=UTF8&qid=1495381413&tag=mewoof-21&sr=8-1&keywords=compressed+air+can" target="_blank" rel="noopener noreferrer">Compressed air can</a> &#8211;  A blast of this can get a lot of dust off but you need to keep this straight, so difficult to use this for hard to reach surfaces
+  * <a href="https://www.amazon.in/LipiWorld-Cleaner-Keyboard-Computer-Digital/dp/B01FW3DLDW?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o01_s01" target="_blank" rel="noopener noreferrer">Hand pump</a> &#8211; really useful for the hard-to-reach surfaces which can&#8217;t be reached above
+  * <a href="https://www.amazon.in/Propyl-Alcohol-Sanitize-Service-Electronics/dp/B01GRTYVE8?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o00_s00" target="_blank" rel="noopener noreferrer">Isopropyl Alcohol</a> &#8211; You&#8217;re going to use this to wipe off the remaining gunk off the heat sink and the CPU.
   * Some tissues/cotton swabs to clean up the gunk
-  * <a href="http://www.amazon.in/Cooler-Master-MasterGel-Thermal-Compound/dp/B01FZP18OG?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o01_s00" target="_blank" rel="noopener noreferrer">CoolerMaster MasterGel</a> &#8211; I settled on this after extensive discussion with Alpha. He suggested to get the cheaper one, since the higher priced version is more suited for overclockers
+  * <a href="https://www.amazon.in/Cooler-Master-MasterGel-Thermal-Compound/dp/B01FZP18OG?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o01_s00" target="_blank" rel="noopener noreferrer">CoolerMaster MasterGel</a> &#8211; I settled on this after extensive discussion with Alpha. He suggested to get the cheaper one, since the higher priced version is more suited for overclockers
 
 Now, for the pictures. You&#8217;ve been warned. This was how it was when I opened the cabinet
 
 <!--more-->
 
 <div id="attachment_1183" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="wp-image-1183 size-full" src="http://sathyabh.at/wp-content/uploads/2017/05/cpu-hsf-top-fans.jpg" alt="CPU heatsink/fan with cabinet top fans" width="1613" height="1210" />
+  <img class="wp-image-1183 size-full" src="https://sathyabh.at/img/2017/05/cpu-hsf-top-fans.jpg" alt="CPU heatsink/fan with cabinet top fans" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     CPU heatsink/fan with cabinet top fans
@@ -62,7 +62,7 @@ Now, for the pictures. You&#8217;ve been warned. This was how it was when I open
 </div>
 
 <div id="attachment_1182" style="width: 1220px" class="wp-caption aligncenter">
-  <img class="wp-image-1182 size-full" src="http://sathyabh.at/wp-content/uploads/2017/05/full-cabinet.jpg" alt="Full cabinet" width="1210" height="1613" />
+  <img class="wp-image-1182 size-full" src="https://sathyabh.at/img/2017/05/full-cabinet.jpg" alt="Full cabinet" width="1210" height="1613" />
   
   <p class="wp-caption-text">
     Full cabinet
@@ -71,31 +71,31 @@ Now, for the pictures. You&#8217;ve been warned. This was how it was when I open
 
 Getting the heat sink out was far easier than expected. Just had to turn the notch in the direction of the arrow and give it a gentle pull. You can see how much of crud has collected over the past 4 years
 
-<img class="aligncenter size-full wp-image-1189" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_163942.jpg" alt="CPU Fan" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1189" src="https://sathyabh.at/img/2017/05/IMG_20170520_163942.jpg" alt="CPU Fan" width="1210" height="1613" /> 
 
-<img class="aligncenter size-full wp-image-1187" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_164006.jpg" alt="CPU Fan" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1187" src="https://sathyabh.at/img/2017/05/IMG_20170520_164006.jpg" alt="CPU Fan" width="1210" height="1613" /> 
 
-<img class="aligncenter size-full wp-image-1186" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_163954.jpg" alt="CPU Fan" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1186" src="https://sathyabh.at/img/2017/05/IMG_20170520_163954.jpg" alt="CPU Fan" width="1210" height="1613" /> 
 
-<img class="aligncenter size-full wp-image-1188" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_164233.jpg" alt="CPU Fan" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1188" src="https://sathyabh.at/img/2017/05/IMG_20170520_164233.jpg" alt="CPU Fan" width="1210" height="1613" /> 
 
 The compressed air can came in really handy here to clean up the heat sink and fan. Using the hand pump would have taken forever to clean this up and not to forget give you RSI. Unfortunately I didn&#8217;t take a pic of the fan after the clean-up, but I did make it squeaky clean.
 
 Now that the fan was all clean, time for the heat sink. Here&#8217;s the remains of the previous TIM.
 
-<img class="aligncenter size-full wp-image-1191" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_164101.jpg" alt="previous thermal paste" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1191" src="https://sathyabh.at/img/2017/05/IMG_20170520_164101.jpg" alt="previous thermal paste" width="1210" height="1613" /> 
 
-<img class="aligncenter size-full wp-image-1190" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_164000.jpg" alt="previous thermal paste" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1190" src="https://sathyabh.at/img/2017/05/IMG_20170520_164000.jpg" alt="previous thermal paste" width="1210" height="1613" /> 
 
-Next, cleaning this was pretty easy &#8211; just take some tissue paper/cotton buds, dab them with isopropyl alcohol and wipe them off. <img class="aligncenter size-full wp-image-1192" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_165918.jpg" alt="" width="1210" height="1613" />
+Next, cleaning this was pretty easy &#8211; just take some tissue paper/cotton buds, dab them with isopropyl alcohol and wipe them off. <img class="aligncenter size-full wp-image-1192" src="https://sathyabh.at/img/2017/05/IMG_20170520_165918.jpg" alt="" width="1210" height="1613" />
 
-So after cleaning up this is what we have<img class="aligncenter size-full wp-image-1193" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_170328.jpg" alt="Cleaned up CPU heat spreader" width="1613" height="1210" />
+So after cleaning up this is what we have<img class="aligncenter size-full wp-image-1193" src="https://sathyabh.at/img/2017/05/IMG_20170520_170328.jpg" alt="Cleaned up CPU heat spreader" width="1613" height="1210" />
 
-<img class="aligncenter size-full wp-image-1194" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_170054.jpg" alt="Cleaned heat sink" width="1210" height="1613" /> 
+<img class="aligncenter size-full wp-image-1194" src="https://sathyabh.at/img/2017/05/IMG_20170520_170054.jpg" alt="Cleaned heat sink" width="1210" height="1613" /> 
 
-Next, I applied the thermal paste as CoolerMaster described on their <a href="http://www.coolermaster.com/cooling/thermal-compound/mastergel-maker/" target="_blank" rel="noopener noreferrer">site</a>
+Next, I applied the thermal paste as CoolerMaster described on their <a href="https://www.coolermaster.com/cooling/thermal-compound/mastergel-maker/" target="_blank" rel="noopener noreferrer">site</a>
 
-<img class="aligncenter size-full wp-image-1196" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_171536.jpg" alt="thermal paste spread out" width="4032" height="3024" /> 
+<img class="aligncenter size-full wp-image-1196" src="https://sathyabh.at/img/2017/05/IMG_20170520_171536.jpg" alt="thermal paste spread out" width="4032" height="3024" /> 
 
 Now this is where my problems began. I tried to put the heat sink back on and while it slotted in fine, I didn&#8217;t get the distinct &#8216;click&#8217;. I moved the heat sink to confirm whether it had fit in tight &#8211; yeah that didn&#8217;t happen. After multiple detach-attach sessions(and an hour of fiddling with the notches, pillars and what not), I still couldn&#8217;t get it fit in properly. When I flipped the heat sink around, I realized that one of the prongs had bent away.
 
@@ -115,11 +115,11 @@ I straightened it out, realigned the notches and tried again.. to no avail. By t
 
 Few hours later, I decided to try again, and this time I thought I got it right. The heat sink seemed to have no slack, so I connected the power supply and the HDMI cable, booted it up, launched the HWMonitor and was expecting it to be all ok &#8211; only it was not. Disaster.
 
-<img class="aligncenter size-full wp-image-1197" src="http://sathyabh.at/wp-content/uploads/2017/05/crazy-temps.jpg" alt="" width="720" height="1280" /> 
+<img class="aligncenter size-full wp-image-1197" src="https://sathyabh.at/img/2017/05/crazy-temps.jpg" alt="" width="720" height="1280" /> 
 
 102+ degrees on idle, zero workload and by the way the cursor was responding, there was no doubt the CPU was being throttled. Disconnected everything, moved the heat sink slightly &#8211; and it came out. No wonder the temperatures were that high.. I gave one last ditch attempt but failed again. But as an experiment, I pressed the fan tightly against the CPU to see if that would yield to any change(just to confirm the high temperatures were because of heat sink not fitting in tightly) Surprisingly there was no change in temperatures.
 
-By this time it was late into the night, I was tired and I just decided to head to sleep. Just before I slept off, I saw a video on the heat sink installation and realised I was doing a small mistake, but by then I had already removed my <a href="http://sathyabh.at/2012/04/20/on-contact-lenses-and-bausch-lombs-pure-view-hd-lenses/" target="_blank" rel="noopener noreferrer">lenses</a> so decided to just sleep and check it the next day.
+By this time it was late into the night, I was tired and I just decided to head to sleep. Just before I slept off, I saw a video on the heat sink installation and realised I was doing a small mistake, but by then I had already removed my <a href="https://sathyabh.at/2012/04/20/on-contact-lenses-and-bausch-lombs-pure-view-hd-lenses/" target="_blank" rel="noopener noreferrer">lenses</a> so decided to just sleep and check it the next day.
 
 
 
@@ -130,7 +130,7 @@ However, given that the heat sink is seated correctly now, the fans were rotatin
 &nbsp;
 
 <div id="attachment_1201" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1201" src="http://sathyabh.at/wp-content/uploads/2017/05/IMG_20170520_171346.jpg" alt="Paste on CPU heat spreader" width="1613" height="1210" />
+  <img class="size-full wp-image-1201" src="https://sathyabh.at/img/2017/05/IMG_20170520_171346.jpg" alt="Paste on CPU heat spreader" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Paste on CPU heat spreader
@@ -140,7 +140,7 @@ However, given that the heat sink is seated correctly now, the fans were rotatin
 Cleaned up surrounding bits of dirt, seated the heat sink, re-connected the cables and booted the system. Fired up HWMonitor, and _drum roll_
 
 <div id="attachment_1202" style="width: 603px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1202" src="http://sathyabh.at/wp-content/uploads/2017/05/photo_2017-05-23_18-33-36.jpg" alt="CPU Idle Temperatures" width="593" height="174" />
+  <img class="size-full wp-image-1202" src="https://sathyabh.at/img/2017/05/photo_2017-05-23_18-33-36.jpg" alt="CPU Idle Temperatures" width="593" height="174" />
   
   <p class="wp-caption-text">
     CPU Idle Temperatures
@@ -152,7 +152,7 @@ Success! Wanted to check how high it would go on load. Downloaded and started <a
 &nbsp;
 
 <div id="attachment_1203" style="width: 1218px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1203" src="http://sathyabh.at/wp-content/uploads/2017/05/photo_2017-05-23_18-38-00.jpg" alt="AIDA64 CPU stress test" width="1208" height="858" />
+  <img class="size-full wp-image-1203" src="https://sathyabh.at/img/2017/05/photo_2017-05-23_18-38-00.jpg" alt="AIDA64 CPU stress test" width="1208" height="858" />
   
   <p class="wp-caption-text">
     AIDA64 CPU stress test

@@ -26,20 +26,20 @@ tags:
 
 <!--more-->
 
-<span style="text-decoration: line-through;">If that&#8217;s gotten you all excited, head over to the <a href="http://barcampchennai.org/index.php?title=BCC2_Register" target="_blank">registration page &#8211; and enroll yourself</a>. If you want to know what&#8217;s going on behind the scenes or want to sponsor the event/ take part in behind-the-scenes operation, join the <a href="http://groups.google.com/group/barcampchennai" target="_blank">BarCamp Chennai group</a>.</span>
+<span style="text-decoration: line-through;">If that&#8217;s gotten you all excited, head over to the <a href="https://barcampchennai.org/index.php?title=BCC2_Register" target="_blank">registration page &#8211; and enroll yourself</a>. If you want to know what&#8217;s going on behind the scenes or want to sponsor the event/ take part in behind-the-scenes operation, join the <a href="https://groups.google.com/group/barcampchennai" target="_blank">BarCamp Chennai group</a>.</span>
 
 <span style="text-decoration: line-through;">BarChennai 2 is scheduled to be held on October 18th & 19th, 2008. The venue is being finalised, I will keep you guys updated.</span>
 
-<span style="text-decoration: line-through;">Interested on wanting to to learn something? Do you wish certain topic to be discussed on ? Post your idea <a href="http://barcampchennai.org/index.php?title=What_do_you_want_to_hear" target="_blank">here</a>!</span>
+<span style="text-decoration: line-through;">Interested on wanting to to learn something? Do you wish certain topic to be discussed on ? Post your idea <a href="https://barcampchennai.org/index.php?title=What_do_you_want_to_hear" target="_blank">here</a>!</span>
 
 <span style="text-decoration: line-through;">And finally, some things on BarCamp in general:</span>
 
-  * <span style="text-decoration: line-through;">To learn more, check out <a class="external text" title="http://www.barcamp.org" href="http://www.barcamp.org/" rel="nofollow">this site</a>,<a class="external text" title="http://en.wikipedia.org/wiki/BarCamp" href="http://en.wikipedia.org/wiki/BarCamp" rel="nofollow">what is a barcamp?</a></span>
-  * <span style="text-decoration: line-through;">If you are new to barcamp, <a class="external text" title="http://barcampchennai.org/index.php?title=Rules" href="http://barcampchennai.org/index.php?title=Rules" rel="nofollow">Rules</a>!</span>
+  * <span style="text-decoration: line-through;">To learn more, check out <a class="external text" title="https://www.barcamp.org" href="https://www.barcamp.org/" rel="nofollow">this site</a>,<a class="external text" title="https://en.wikipedia.org/wiki/BarCamp" href="https://en.wikipedia.org/wiki/BarCamp" rel="nofollow">what is a barcamp?</a></span>
+  * <span style="text-decoration: line-through;">If you are new to barcamp, <a class="external text" title="https://barcampchennai.org/index.php?title=Rules" href="https://barcampchennai.org/index.php?title=Rules" rel="nofollow">Rules</a>!</span>
 
-<span style="text-decoration: line-through;">And oh yes, if you want to blog on BarCamp Chennai, please use the tags:<a class="external text" title="http://technorati.com/tag/BCC2" href="http://technorati.com/tag/BCC2" rel="nofollow">BCC2</a> and <a class="external text" title="http://technorati.com/tag/barcampchennai" href="http://technorati.com/tag/barcampchennai" rel="nofollow">barcampchennai</a>.</span>
+<span style="text-decoration: line-through;">And oh yes, if you want to blog on BarCamp Chennai, please use the tags:<a class="external text" title="https://technorati.com/tag/BCC2" href="https://technorati.com/tag/BCC2" rel="nofollow">BCC2</a> and <a class="external text" title="https://technorati.com/tag/barcampchennai" href="https://technorati.com/tag/barcampchennai" rel="nofollow">barcampchennai</a>.</span>
 
-<span style="text-decoration: line-through;">Follow BarCamp Chennai 2 updates on twitter <a class="external text" title="http://twitter.com/Barcampchennai" href="http://twitter.com/Barcampchennai" rel="nofollow">Barcamp Chennai </a>and if you&#8217;re going on tweet on BarCamp Chennai 2, please use the hashtag #bcc2.</span>
+<span style="text-decoration: line-through;">Follow BarCamp Chennai 2 updates on twitter <a class="external text" title="https://twitter.com/Barcampchennai" href="https://twitter.com/Barcampchennai" rel="nofollow">Barcamp Chennai </a>and if you&#8217;re going on tweet on BarCamp Chennai 2, please use the hashtag #bcc2.</span>
 
 <span style="text-decoration: line-through;">See you at BarCamp!</span>
 

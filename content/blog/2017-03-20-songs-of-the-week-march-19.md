@@ -26,7 +26,7 @@ Spirit Cold by Tall Heights &#8211; watching their performance is truly incredi
 
 
 
-Electric Indigo by The Paper Kites &#8211; the chorus start riff is somewhat similar to the one in <a href="http://sathyabh.at/2017/02/11/songs-for-the-week-feb-12/" target="_blank">Bear&#8217;s Den&#8217;s Red Earth & Pouring</a> but nonetheless a great song to listen to
+Electric Indigo by The Paper Kites &#8211; the chorus start riff is somewhat similar to the one in <a href="https://sathyabh.at/2017/02/11/songs-for-the-week-feb-12/" target="_blank">Bear&#8217;s Den&#8217;s Red Earth & Pouring</a> but nonetheless a great song to listen to
 
 
 

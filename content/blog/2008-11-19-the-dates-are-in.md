@@ -24,4 +24,4 @@ Finally, 08:00 New Jersey -> Austin flight.
 
 Oh Aalaap just [mentioned about a tweetup][1] in Mumbai International Airport. Anyone coming? 😛
 
- [1]: http://twitter.com/Aalaap/statuses/1012685330
+ [1]: https://twitter.com/Aalaap/statuses/1012685330

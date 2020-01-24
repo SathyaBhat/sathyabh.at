@@ -50,8 +50,8 @@ A big Salute &#8211; to the Ruby gang. It&#8217;s been an awesome time &#8211; a
   </li>
 </ol>
 
- [1]: http://twitter.com/SathyaBhat/status/2536944167
- [2]: http://twitter.com/neetharao
- [3]: http://tech-mania.com/
- [4]: http://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=13.060416%2C80.249634&hl=en&z=11&ie=UTF8
- [5]: http://this-is-the-e-n-d.blogspot.com/
+ [1]: https://twitter.com/SathyaBhat/status/2536944167
+ [2]: https://twitter.com/neetharao
+ [3]: https://tech-mania.com/
+ [4]: https://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=13.060416%2C80.249634&hl=en&z=11&ie=UTF8
+ [5]: https://this-is-the-e-n-d.blogspot.com/

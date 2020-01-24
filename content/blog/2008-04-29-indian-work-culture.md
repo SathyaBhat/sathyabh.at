@@ -103,4 +103,4 @@ Take my office for instance &#8211; I have a team mate who regularly used to sta
 
 So I echo the same sentiment which is reflected in the mail: Leave on time! Don&#8217;t make it a habit to stay back late to &#8220;finish pending work&#8221; &#8211; it&#8217;s highly unlikely you&#8217;ll do that given that you&#8217;re mentally tired and aren&#8217;t likely to come up with a solution to your problem. Instead you&#8217;ll cause inconvenience to others who leave <span style="text-decoration: underline;">on time</span> and yet are seen as &#8220;early leavers&#8221;
 
- [1]: http://en.wikipedia.org/wiki/N.R._Narayana_Murthy
+ [1]: https://en.wikipedia.org/wiki/N.R._Narayana_Murthy

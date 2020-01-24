@@ -22,7 +22,7 @@ tags:
 ---
 Couple of days ago at work I was asked to create a new environment(schema, user) for specific application testing conditions. While that was no big deal, I was also asked to import all the data from existing production environment into a new environment &#8211; and I was in a bit of bother here &#8211; generally the whole importing/exporting is done by DBA&#8217;s not developers. While I knew the usage of exp and imp commands, creating schema would require stuff like tablespace creating, adding data files and more importantly &#8211; grants which I had NO clue on. So after a bit of experimenting and consulting with my fellow colleague Rupam, I finally managed to export and import the data. This post is on how-to go about doing it.
 
-If you want to skip all the commands and all just get the import / export done in 1-click try <a href="http://www.softpedia.com/get/Internet/Servers/Database-Utils/Easy-Dump-Oracle.shtml" target="_blank">Easy Dump Oracle 1.1</a> &#8211; a tool which I found on the database server after all the headbanging 😐
+If you want to skip all the commands and all just get the import / export done in 1-click try <a href="https://www.softpedia.com/get/Internet/Servers/Database-Utils/Easy-Dump-Oracle.shtml" target="_blank">Easy Dump Oracle 1.1</a> &#8211; a tool which I found on the database server after all the headbanging 😐
 
 Anyways here&#8217;s a step by step  process on how you export and import the data &#8211; do note that Easy Dump Oracle can import data ONLY if required grants are given to the user and tablespace has been allocated. For that you need to follow the below mentioned steps.
 

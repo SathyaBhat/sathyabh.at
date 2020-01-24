@@ -35,7 +35,7 @@ Have a look:
 
 Well, it turned out that American Capsicum Noodles is just another fancy name for Chop Suey! More like some fried cut noodles, capsicum, onions and a whole lotta ketchup. Got to admit though, it wasn&#8217;t \_that\_ bad, fairly OK, decent quantity for Rs 40 that I paid for it.Very fattening? Definitely
 
- [1]: http://farm4.static.flickr.com/3079/2283619985_e77bbb0ba6_m.jpg
- [2]: http://www.flickr.com/photos/sathyabhat/2283619985/ "American Capsicum Noodles"
- [3]: http://farm4.static.flickr.com/3212/2284404608_c917b033d9_m.jpg
- [4]: http://www.flickr.com/photos/sathyabhat/2284404608/ "American Capsicum Noodles, Again"
+ [1]: https://farm4.static.flickr.com/3079/2283619985_e77bbb0ba6_m.jpg
+ [2]: https://www.flickr.com/photos/sathyabhat/2283619985/ "American Capsicum Noodles"
+ [3]: https://farm4.static.flickr.com/3212/2284404608_c917b033d9_m.jpg
+ [4]: https://www.flickr.com/photos/sathyabhat/2284404608/ "American Capsicum Noodles, Again"

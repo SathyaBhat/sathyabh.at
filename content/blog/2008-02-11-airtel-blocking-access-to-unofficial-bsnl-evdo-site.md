@@ -22,5 +22,5 @@ So is Airtel getting scared about BSNL&#8217;s EVDO device and trying to block t
 
 You can guess what my stance is on this.
 
- [1]: http://bsnlevdo.themebin.com/
- [2]: http://bsnlevdo.themebin.com/forum/
+ [1]: https://bsnlevdo.themebin.com/
+ [2]: https://bsnlevdo.themebin.com/forum/

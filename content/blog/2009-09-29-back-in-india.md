@@ -21,7 +21,7 @@ tags:
 ---
 Yeah, I’m back in India. Well, actually landed in Chennai long time [ damn it’s been more than a month o_0 ]. So let me recap what’s been happening and what I’ve bene upto.
 
-First thing: the return trip. The return flight was <a href="http://sathyabh.at/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/" target="_blank">rather uneventful, nowhere near</a> <a href="http://sathyabh.at/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/" target="_blank"></a> how my flight from Mumbai to Austin was ( well, that’s a good thing).
+First thing: the return trip. The return flight was <a href="https://sathyabh.at/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/" target="_blank">rather uneventful, nowhere near</a> <a href="https://sathyabh.at/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/" target="_blank"></a> how my flight from Mumbai to Austin was ( well, that’s a good thing).
 
 [My flight itself was rather long][1]{#aptureLink_llUMjJTApt} ( heck what do ya expect from a transcontinental flight anyway), covering 4 different flights – American Airlines from Austin to Chicago, and from Chicago to New York  and Jet Airways from New York to Brussels (stop over) and from Brussels to Chennai.
 
@@ -43,10 +43,10 @@ We’ll be having our second meet this weekend, will write more on that soon.
 
 Cheers till then!
 
- [1]: http://post.sathyabh.at/my-flight-details
- [2]: http://www.flickr.com/photos/sathyabhat/tags/iphone
- [3]: http://this-is-the-e-n-d.blogspot.com/
- [4]: http://www.flickr.com/photos/sathyabhat/sets/72157604172156342/
- [5]: http://tech-mania.com/
- [6]: http://twitter.com/ashwinsid
- [7]: http://www.chip.in/forums/viewtopic.php?f=11&t=50570
+ [1]: https://post.sathyabh.at/my-flight-details
+ [2]: https://www.flickr.com/photos/sathyabhat/tags/iphone
+ [3]: https://this-is-the-e-n-d.blogspot.com/
+ [4]: https://www.flickr.com/photos/sathyabhat/sets/72157604172156342/
+ [5]: https://tech-mania.com/
+ [6]: https://twitter.com/ashwinsid
+ [7]: https://www.chip.in/forums/viewtopic.php?f=11&t=50570

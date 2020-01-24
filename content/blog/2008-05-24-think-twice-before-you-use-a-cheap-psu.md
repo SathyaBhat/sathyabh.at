@@ -17,7 +17,7 @@ tags:
 
 ---
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:45da25f1-278b-4936-919e-20ff449d233a" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="http://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="http://technorati.com/tags/harware">hardware</a>,<a rel="tag" href="http://technorati.com/tags/PSU">PSU</a>,<a rel="tag" href="http://technorati.com/tags/smps">smps</a>,<a rel="tag" href="http://technorati.com/tags/tips">tips</a>
+  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="https://technorati.com/tags/harware">hardware</a>,<a rel="tag" href="https://technorati.com/tags/PSU">PSU</a>,<a rel="tag" href="https://technorati.com/tags/smps">smps</a>,<a rel="tag" href="https://technorati.com/tags/tips">tips</a>
 </div>
 
 [ad]
@@ -28,6 +28,6 @@ I hang out couple of tech forums while I&#8217;m free &#8211; gives me a general
 
 My friend, Roshan aka  &#8220;The Sorcerer&#8221; Made this infographic to highlight just what happens if you use an el-cheapo PSU(as he likes to put it 😛 ). All due credits to him for creating this image. Issued in public interest.
 
-[<img class="alignnone size-medium wp-image-54" title="Dont Use cheap PSU\'s" src="http://kurast.sathyabh.at/wp-content/uploads/2008/05/untitled-6-300x180.jpg" alt="Dont Use cheap PSU\'s" width="300" height="180" />][1]
+[<img class="alignnone size-medium wp-image-54" title="Dont Use cheap PSU\'s" src="https://kurast.sathyabh.at/wp-content/uploads/2008/05/untitled-6-300x180.jpg" alt="Dont Use cheap PSU\'s" width="300" height="180" />][1]
 
- [1]: http://img.photobucket.com/albums/v449/ROSHANASHRAF/untitled-6.jpg
+ [1]: https://img.photobucket.com/albums/v449/ROSHANASHRAF/untitled-6.jpg

@@ -27,6 +27,6 @@ For the bandwidth conscious &#8211; its a 4mb file.
   
 [kml_flashembed movie=&#8221;wp-content/uploads/animation.swf&#8221; height=&#8221;500&#8243; width=&#8221;500&#8243; /]\`
 
- [1]: http://www.atomfilms.com/
- [2]: http://www.atomfilms.com/film/animator_vs_animation_2.jsp
- [3]: http://www.atomfilms.com/search.jsp?search_text=Alan%20Becker&by_artist=true
+ [1]: https://www.atomfilms.com/
+ [2]: https://www.atomfilms.com/film/animator_vs_animation_2.jsp
+ [3]: https://www.atomfilms.com/search.jsp?search_text=Alan%20Becker&by_artist=true

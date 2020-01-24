@@ -20,7 +20,7 @@ tags:
 ---
 Picture courtesy [Karthik][1]
 
-<img style="display: none;" src="http://img54.imageshack.us/img54/5310/tweetupiq2.png" alt="Chennai Twitter Meetup" /> 
+<img style="display: none;" src="https://img54.imageshack.us/img54/5310/tweetupiq2.png" alt="Chennai Twitter Meetup" /> 
 
 Well the third Chennai twitter meetup was held yesterday &#8211; and like the second tweetup, this one too was decided in a hurry. UNLIKE the last tweetup, we had more people &#8211; 7 people all in all including me, The ones that attended were
 
@@ -78,11 +78,11 @@ Well the third Chennai twitter meetup was held yesterday &#8211; and like the se
 </div>
 
 <div>
-  You can also read up on <a href="http://blog.karthiksn.com/2008/09/22/chennai-tweet-up/">Karthik&#8217;s post on the tweetup</a>.
+  You can also read up on <a href="https://blog.karthiksn.com/2008/09/22/chennai-tweet-up/">Karthik&#8217;s post on the tweetup</a>.
 </div>
 
 <div>
-  Update: Here are the <a href="http://www.flickr.com/photos/sathyabhat/sets/72157607577662441/">pictures taken</a>. Sorry about the quality &#8211; it was pretty dark, and @Gbot&#8217;s phone cam did a great job in capturing them.
+  Update: Here are the <a href="https://www.flickr.com/photos/sathyabhat/sets/72157607577662441/">pictures taken</a>. Sorry about the quality &#8211; it was pretty dark, and @Gbot&#8217;s phone cam did a great job in capturing them.
 </div>
 
- [1]: http://karthiksn.com
+ [1]: https://karthiksn.com

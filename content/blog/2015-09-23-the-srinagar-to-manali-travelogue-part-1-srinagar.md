@@ -13,11 +13,11 @@ tags:
   - vacation
 
 ---
-Few weeks ago, <a href="http://sathyabh.at/2013/12/24/on-to-a-new-life/" target="_blank">Jo</a> & me went on a 11-day vacation from starting from Srinagar  heading south-west bound towards Manali via Kargil, Leh, Nubra Valley and Jispa. During this 11-day visit, we had a blast, met bunch of great folks, visited some breathtaking places and ran into wee bit of trouble. And since it&#8217;s been awhile since I posted here, decided to do a travelogue.
+Few weeks ago, <a href="https://sathyabh.at/2013/12/24/on-to-a-new-life/" target="_blank">Jo</a> & me went on a 11-day vacation from starting from Srinagar  heading south-west bound towards Manali via Kargil, Leh, Nubra Valley and Jispa. During this 11-day visit, we had a blast, met bunch of great folks, visited some breathtaking places and ran into wee bit of trouble. And since it&#8217;s been awhile since I posted here, decided to do a travelogue.
 
 ## The Plan
 
-So, we booked a tour via <a href="http://www.alifetimetrip.com/" target="_blank">A Lifetime Trip</a>. To be honest, I didn&#8217;t do much of the research on the tour operators &#8211; my college friend Prasad & his wife Shyamala did bulk of the research and finalized on A Lifetime Trip. We pretty much looked at the places to visit, Jo wanted to visit a lot of the places, I was happy with the places. I did a basic check for A Lifetime Trip, saw that they had good reviews and confirmed to go with them.
+So, we booked a tour via <a href="https://www.alifetimetrip.com/" target="_blank">A Lifetime Trip</a>. To be honest, I didn&#8217;t do much of the research on the tour operators &#8211; my college friend Prasad & his wife Shyamala did bulk of the research and finalized on A Lifetime Trip. We pretty much looked at the places to visit, Jo wanted to visit a lot of the places, I was happy with the places. I did a basic check for A Lifetime Trip, saw that they had good reviews and confirmed to go with them.
 
 The tour was supposed to start from Sringar on July 31st and return to Delhi on August 10th, with overnight halts at Kargil, Leh, Nubra, Pangong Lake, Jispa and Manali.
 
@@ -27,7 +27,7 @@ The 4 of us (Prasad, Shyamala, Jo and me) decided to reach Srinagar a day early 
 
 I booked the flight to Srinagar pretty early &#8211; actually a good 4 months before our journey so I don&#8217;t have to worry about not flights not being available later or flights being out of my price band. The flight was to take off at 06:15 and land in Delhi at 09:00 with a follow up flight at 13:20 and land in Srinagar at 15:00.
 
-Not wanting to take a chance against Bangalore&#8217;s <a href="http://sathyabh.at/2015/01/07/ambulance-and-bangalore-traffic/" target="_blank">famed traffic</a>, I booked an Ola for 03:00. Trust Ola to screw it up, the cab guy was nowhere to be seen even at 02:50. I called up Ola Customer Care, they reassigned another driver&#8230; who also didn&#8217;t come. I had to call him up, wake him and plead him to come over. On the bright side, we ended up with a new Ciaz to take us to the Airport. The roads were empty, and the driver seemed to make full use of this by treating the road to the Airport like a racetrack and driving like one. We reached the Airport in a record breaking 40 minutes. If you think that&#8217;s too long &#8211; well, you&#8217;ll know when you&#8217;re here.
+Not wanting to take a chance against Bangalore&#8217;s <a href="https://sathyabh.at/2015/01/07/ambulance-and-bangalore-traffic/" target="_blank">famed traffic</a>, I booked an Ola for 03:00. Trust Ola to screw it up, the cab guy was nowhere to be seen even at 02:50. I called up Ola Customer Care, they reassigned another driver&#8230; who also didn&#8217;t come. I had to call him up, wake him and plead him to come over. On the bright side, we ended up with a new Ciaz to take us to the Airport. The roads were empty, and the driver seemed to make full use of this by treating the road to the Airport like a racetrack and driving like one. We reached the Airport in a record breaking 40 minutes. If you think that&#8217;s too long &#8211; well, you&#8217;ll know when you&#8217;re here.
 
 <a title="IMG_20150730_051652" href="https://www.flickr.com/photos/sathyabhat/21336690581/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm1.staticflickr.com/720/21336690581_50aaea5515_z.jpg" alt="IMG_20150730_051652" width="640" height="360" /></a>
 

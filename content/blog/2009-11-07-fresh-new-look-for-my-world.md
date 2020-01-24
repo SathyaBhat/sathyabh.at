@@ -27,5 +27,5 @@ Comments on the theme/how further are always welcome.
 
  [1]: ../2008/07/01/my-world-gets-spiffier/
  [2]: ../2008/07/15/the-my-world-comment-and-win-contestwell-sorta/
- [3]: http://theojones.net/
- [4]: http://theojones.net/tj-clean-wordpress-theme/
+ [3]: https://theojones.net/
+ [4]: https://theojones.net/tj-clean-wordpress-theme/

@@ -34,9 +34,9 @@ So, go grab it now!
 
 Update: [Swaroop][4]{#aptureLink_gE9qZNl4QN} just [informed me][5]{#aptureLink_bu2lfXzq8o} about Cisco&#8217;s [WebVPN][6]{#aptureLink_OR8Qkket7j}. Neat stuff, but requires additional config from Net Admins.
 
- [1]: http://www.shrew.net/download/vpn
- [2]: http://www.shrew.net/download/ike
- [3]: http://sathyasays.com
- [4]: http://twitter.com/SwaroopH
- [5]: http://twitter.com/SwaroopH/statuses/20045728621
- [6]: http://www.cisco.com/en/US/products/ps6496/products_configuration_example09186a008071c58b.shtml
+ [1]: https://www.shrew.net/download/vpn
+ [2]: https://www.shrew.net/download/ike
+ [3]: https://sathyasays.com
+ [4]: https://twitter.com/SwaroopH
+ [5]: https://twitter.com/SwaroopH/statuses/20045728621
+ [6]: https://www.cisco.com/en/US/products/ps6496/products_configuration_example09186a008071c58b.shtml

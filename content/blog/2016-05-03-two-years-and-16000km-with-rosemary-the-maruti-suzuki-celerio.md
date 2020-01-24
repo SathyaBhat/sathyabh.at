@@ -20,9 +20,9 @@ Dad told me that a new car is coming and is quite within the budget and he was r
 
 <!--more-->
 
-<img class="aligncenter wp-image-903" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio1.jpg" alt="celerio1" width="950" height="1267" /> 
+<img class="aligncenter wp-image-903" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio1.jpg" alt="celerio1" width="950" height="1267" /> 
 
-<img class="aligncenter wp-image-902" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio2.jpg" alt="celerio2" width="950" height="1267" /> 
+<img class="aligncenter wp-image-902" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio2.jpg" alt="celerio2" width="950" height="1267" /> 
 
 With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
 
@@ -30,7 +30,7 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
   * Speaking of long distance &#8211; the longest was Bangalore &#8211; Pondicherry (~380km) followed by Bangalore to Mangalore (~360km). Other places visited include Ooty, Belur/Halebidu, Coory, Mysore, Kushalnagar. Many more places to visit 🙂
   * The steepest climb was on the Bangalore &#8211; Ooty drive, I took the 36 hairpin route and thoroughly enjoyed every bit of it.
   * <div id="attachment_904" style="width: 960px" class="wp-caption aligncenter">
-      <img class=" wp-image-904" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio3.jpg" alt="Starting the hairpin bend route at Masinagudi" width="950" height="1267" />
+      <img class=" wp-image-904" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio3.jpg" alt="Starting the hairpin bend route at Masinagudi" width="950" height="1267" />
       
       <p class="wp-caption-text">
         Starting the hairpin bend route at Masinagudi
@@ -38,7 +38,7 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
     </div>
     
     <div id="attachment_906" style="width: 960px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-906" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio4.jpg" alt="Final hairpin bend" width="950" height="1267" />
+      <img class="size-full wp-image-906" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio4.jpg" alt="Final hairpin bend" width="950" height="1267" />
       
       <p class="wp-caption-text">
         Final hairpin bend
@@ -61,7 +61,7 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
     Enjoy more pictures
     
     <div id="attachment_909" style="width: 960px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-909" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio5.jpg" alt="View from Doddabetta, Ooty." width="950" height="1267" />
+      <img class="size-full wp-image-909" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio5.jpg" alt="View from Doddabetta, Ooty." width="950" height="1267" />
       
       <p class="wp-caption-text">
         View from Doddabetta, Ooty.
@@ -69,7 +69,7 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
     </div>
     
     <div id="attachment_910" style="width: 960px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-910" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio6.jpg" alt="Driving through Bandipur" width="950" height="1267" />
+      <img class="size-full wp-image-910" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio6.jpg" alt="Driving through Bandipur" width="950" height="1267" />
       
       <p class="wp-caption-text">
         Driving through Bandipur
@@ -77,7 +77,7 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
     </div>
     
     <div id="attachment_911" style="width: 960px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-911" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio7.jpg" alt="Arcot - Kanchipuram road, en route to Pondicherry" width="950" height="1267" />
+      <img class="size-full wp-image-911" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio7.jpg" alt="Arcot - Kanchipuram road, en route to Pondicherry" width="950" height="1267" />
       
       <p class="wp-caption-text">
         Arcot &#8211; Kanchipuram road, en route to Pondichery
@@ -85,7 +85,7 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
     </div>
     
     <div id="attachment_912" style="width: 960px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-912" src="http://sathyabh.at/wp-content/uploads/2016/05/celerio8.jpg" alt="Monsoons in Mangalore" width="950" height="1267" />
+      <img class="size-full wp-image-912" src="https://sathyabh.at/wp-content/uploads/2016/05/celerio8.jpg" alt="Monsoons in Mangalore" width="950" height="1267" />
       
       <p class="wp-caption-text">
         Monsoons in Mangalore
@@ -113,6 +113,6 @@ With that bit of intro away, here&#8217;s few thoughts and stats on the Celerio
     
     &nbsp;
 
- [1]: http://twitter.com/SathyaBhat/statuses/102608019103301632
+ [1]: https://twitter.com/SathyaBhat/statuses/102608019103301632
  [2]: https://twitter.com/SathyaBhat/statuses/111717975639339008
- [3]: http://www.magnetimarelli.com/excellence/technological-excellences/amt
+ [3]: https://www.magnetimarelli.com/excellence/technological-excellences/amt

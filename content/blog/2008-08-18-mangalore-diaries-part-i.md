@@ -15,7 +15,7 @@ tags:
   - mangalore
 
 ---
-If you&#8217;ve been <a href="http://twitter.com/sathyabhat" target="_blank">following me</a> on twitter, you&#8217;d be knowing that I was due for a trip to Mangalore soon. Well it&#8217;s been couple of days since I&#8217;ve been in Mangalore, so I thought I&#8217;ll do a short post on what&#8217;s been up past couple of days.
+If you&#8217;ve been <a href="https://twitter.com/sathyabhat" target="_blank">following me</a> on twitter, you&#8217;d be knowing that I was due for a trip to Mangalore soon. Well it&#8217;s been couple of days since I&#8217;ve been in Mangalore, so I thought I&#8217;ll do a short post on what&#8217;s been up past couple of days.
 
 <!--more-->
 
@@ -31,13 +31,13 @@ From there we headed onto Sultan Battery. Though its an ASI protected monument &
 
 Here&#8217;s some shots
 
-<img src="http://farm4.static.flickr.com/3268/2772183380_b2e069b239_m.jpg" alt="Entrance to Sultan Battery" width="240" height="180" /> [<img src="http://farm4.static.flickr.com/3190/2772183382_edaacb99eb_m.jpg" alt="" width="240" height="180" />][3]
+<img src="https://farm4.static.flickr.com/3268/2772183380_b2e069b239_m.jpg" alt="Entrance to Sultan Battery" width="240" height="180" /> [<img src="https://farm4.static.flickr.com/3190/2772183382_edaacb99eb_m.jpg" alt="" width="240" height="180" />][3]
 
-[<img src="http://farm4.static.flickr.com/3008/2772184098_07d2d8fc65_m.jpg" alt="" width="240" height="180" />][4]
+[<img src="https://farm4.static.flickr.com/3008/2772184098_07d2d8fc65_m.jpg" alt="" width="240" height="180" />][4]
 
 These are just the backwaters actually, you can take a boat from this side over to the other side, which leads to the beach.  We didn&#8217;t cross over, as it was pretty cloudy then and we didn&#8217;t want to take the risk. After spending a while over here(and watch couple of college people do their &#8220;romancing&#8221;) we headed back to my home. We stopped by Empire mall for a little bit, just to check it out.
 
-The following day, I&#8217;d been to Kanhangad, Kerala as it was my neice, Shriya&#8217;s first birthday. You can check out some snaps and videos over at my <a href="http://flickr.com/photos/sathyabhat" target="_blank">Flickr photostream</a>.
+The following day, I&#8217;d been to Kanhangad, Kerala as it was my neice, Shriya&#8217;s first birthday. You can check out some snaps and videos over at my <a href="https://flickr.com/photos/sathyabhat" target="_blank">Flickr photostream</a>.
 
 Some chances since the last time I visited
 
@@ -47,7 +47,7 @@ Some chances since the last time I visited
 
 Maybe I&#8217;m cranky. Maybe I&#8217;m ranting too much, maybe I still want Mangalore to remain as it is. But then that&#8217;s me being selfish ain&#8217;t it? Regardless of how it transforms to, for me Mangalore will still retain its old charm. Next couple of days I&#8217;ll be meeting up with few old buddies, checking out some places, maybe drop by my old engineering college. Lets see. WIll keep posting the details
 
- [1]: http://farm4.static.flickr.com/3164/2772183372_2b44b0230b_m.jpg
- [2]: http://www.flickr.com/photos/sathyabhat/2772183372/
- [3]: http://www.flickr.com/photos/sathyabhat/2772183382/http://www.flickr.com/photos/sathyabhat/2772183382/
- [4]: http://www.flickr.com/photos/sathyabhat/2772184098/
+ [1]: https://farm4.static.flickr.com/3164/2772183372_2b44b0230b_m.jpg
+ [2]: https://www.flickr.com/photos/sathyabhat/2772183372/
+ [3]: https://www.flickr.com/photos/sathyabhat/2772183382/https://www.flickr.com/photos/sathyabhat/2772183382/
+ [4]: https://www.flickr.com/photos/sathyabhat/2772184098/

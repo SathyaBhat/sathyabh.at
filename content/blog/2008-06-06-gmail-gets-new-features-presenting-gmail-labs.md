@@ -37,7 +37,7 @@ The features include
   * Signature tweaks &#8211; Places your signature before the quoted text in a reply, and removes the &#8220;&#8211;&#8221; line that appears before signatures. Can&#8217;t use this and the &#8220;Random signature&#8221; Labs feature at the same time. Nice tweak, doesn&#8217;t make much difference to me.
   * Random signature Rotates among random quotations for your email signature. Can&#8217;t use this and the &#8220;Signature tweaks&#8221; Labs feature at the same time. Random signature quotes &#8211; neat idea, but wonder who reads signatures.
   * Custom date formats Adds options to the general settings page allowing the date and time format to be changed independent of language. Not using this, happy with the current formats.
-  * Muzzle Conserves screen real estate by hiding your friends&#8217; status messages. Enabled this. For status messages I&#8217;ll use <a href="http://twitter.com/" target="_blank">twitter</a>, thank you very much
+  * Muzzle Conserves screen real estate by hiding your friends&#8217; status messages. Enabled this. For status messages I&#8217;ll use <a href="https://twitter.com/" target="_blank">twitter</a>, thank you very much
   * Old Snakey &#8211; Kick it old school with Old Snakey! Enable keyboard shortcuts and hit &#8216;&&#8217; from the main page to play a game of snake. Who doesn&#8217;t love snake? 😀
   * Email Addict &#8211; Lets you take a break from email and chat by blocking the screen for fifteen minutes and making you invisible in chat. Hmm, Can be handy at times!
   * Hide Unread Counts Hides the unread counts for inbox, labels, etc. Not using this, no need for this for me atleast.
@@ -45,9 +45,9 @@ The features include
 Here&#8217;s a snapshot of Gmail Labs
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2556540962/"><img class="aligncenter" src="http://farm3.static.flickr.com/2132/2556540962_10ccfd6540_m.jpg" alt="Gmail Labs" width="240" height="114" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2556540962/"><img class="aligncenter" src="https://farm3.static.flickr.com/2132/2556540962_10ccfd6540_m.jpg" alt="Gmail Labs" width="240" height="114" /></a>
 </p>
 
 So have you got GMail Labs enabled? Which of the features have you enabled? Do comment on it!.
 
- [1]: http://www.gmail.com/
+ [1]: https://www.gmail.com/

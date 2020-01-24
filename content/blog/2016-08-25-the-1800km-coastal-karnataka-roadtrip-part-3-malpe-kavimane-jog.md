@@ -18,14 +18,14 @@ tags:
   - travelogue
 
 ---
-I’ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="http://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 3 continues..
+I’ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 3 continues..
 
 Waking up beach side in Malpe, I was more excited than ever &#8211; we had a long day coming up.Kavimane, Kavishaila and more importantly, I was really excited about the ride through Agumbe. Agumbe  is called as &#8220;The Cherrapunji of the South&#8221; due to heavy rainfall it receives, and the ghat roads leading to it are rather infamous. Plus driving through it in July meant that we&#8217;d be driving during the wettest month of the year and I wondered what would be in store.
 
 <!--more-->
 
 <div id="attachment_1038" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1038" src="http://sathyabh.at/wp-content/uploads/2016/08/Breakfast-at-Paradise-Isle.jpg" alt="Breakfast at Paradise Isle" width="1613" height="1210" />
+  <img class="size-full wp-image-1038" src="https://sathyabh.at/wp-content/uploads/2016/08/Breakfast-at-Paradise-Isle.jpg" alt="Breakfast at Paradise Isle" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Breakfast at Paradise Isle
@@ -133,12 +133,12 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
 
 As we got closer and closer towards Agumbe, the roads got narrower, the weather outside was changing &#8211; it becoming more and more foggy, till I noticed what Google Maps was showing up on the road ahead.
 
-<img class="aligncenter size-full wp-image-1044" src="http://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Maps.jpg" alt="Agumbe Maps" width="900" height="1600" /> 
+<img class="aligncenter size-full wp-image-1044" src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Maps.jpg" alt="Agumbe Maps" width="900" height="1600" /> 
 
 Fully pumped, we started climbing up only for the roads to get even narrower and foggier. Our car got clumped with a set of 2 cars ahead of us to form a cavalcade of sorts, closely sticking close to each other to avoid running into problems.
 
 <div id="attachment_1068" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1068" src="http://sathyabh.at/wp-content/uploads/2016/08/Agumbe-cavalcade.jpg" alt="Agumbe cavalcade" width="1613" height="1210" />
+  <img class="size-full wp-image-1068" src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-cavalcade.jpg" alt="Agumbe cavalcade" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Agumbe cavalcade
@@ -473,7 +473,7 @@ A <a href="https://goo.gl/photos/USDY5zbiuhjCZj5TA" target="_blank">360 degree p
 With lunch time near and stomach rumbling, we had to stop for lunch. There aren&#8217;t any places in Kupalli and I decided to stop at Thirthalli for lunch. After a quick lunch pitstop we started towards Jog and reached there in another couple of hours. A massive plaque welcomed us to Jog
 
 <div id="attachment_1058" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1058" src="http://sathyabh.at/wp-content/uploads/2016/08/Welcome-to-Jog.jpg" alt="Welcome to Jog" width="1613" height="1210" />
+  <img class="size-full wp-image-1058" src="https://sathyabh.at/wp-content/uploads/2016/08/Welcome-to-Jog.jpg" alt="Welcome to Jog" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Welcome to Jog

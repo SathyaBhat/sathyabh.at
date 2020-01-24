@@ -24,4 +24,4 @@ This **should** work with any organization which uses AT&T and accepts Collect
 
 This will come in real handy especially in situations where BoA detects Irregular/Fraudulent card activity and wants you to verify the transaction by dialling in &#8211; but you have no way of reaching out to an International number. Have your card number & other details ready
 
- [1]: http://www.business.att.com/bt/access.jsp?c=I
+ [1]: https://www.business.att.com/bt/access.jsp?c=I

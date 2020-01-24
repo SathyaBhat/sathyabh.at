@@ -33,7 +33,7 @@ Me: Ok. Thanks, I&#8217;ll go there(leave the exchange).
 
 Oh well, atleast he pointed me in some direction!! I didn&#8217;t goto that place, as today&#8217;s a holiday. So that&#8217;ll have to be done next week 🙁
 
- [1]: http://en.wikipedia.org/wiki/Evolution-Data_Optimized
- [2]: http://bsnlevdo.themebin.com/
- [3]: http://en.wikipedia.org/wiki/Triplicane
- [4]: http://en.wikipedia.org/wiki/Chennai
+ [1]: https://en.wikipedia.org/wiki/Evolution-Data_Optimized
+ [2]: https://bsnlevdo.themebin.com/
+ [3]: https://en.wikipedia.org/wiki/Triplicane
+ [4]: https://en.wikipedia.org/wiki/Chennai

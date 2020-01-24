@@ -26,4 +26,4 @@ Further probing indicated that the Oracle installation was a 64-bit one, and PL/
 
 Next, configure PL/SQL Developer to use this version by clicking on Tool menus -> Preferences. Under Oracle Home, point to the location where you had extracted Instant client (\instant\_client, in this case)  and under location of OCI Library, point to the oci.dll file present in location where you had extracted Instant client ( \instant\_client\oci.dll). Restart PL/SQL Developer and you should be able to connect now.
 
- [1]: http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
+ [1]: https://www.oracle.com/technetwork/database/features/instant-client/index-097480.html

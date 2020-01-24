@@ -40,13 +40,13 @@ Ever think you’re a weird person? Want to know how weird you are? I found this
 </p>
 
 <p style="text-align: center;">
-  So 76% are more weird than me? COOL! 9% are just as weird? Hmm So I guess I&#8217;m a relatively &#8220;non-weird&#8221; person eh? :)) 😛 So what&#8217;s your score? Find out<br /> <a href="http://www.nerdtests.com/ft_weird.php?im"><br /> <img class="aligncenter" src="http://www.nerdtests.com/thetester/images/php/wq.php?val=5267" alt="What is your weird quotient? Click to find out!" /> </a>
+  So 76% are more weird than me? COOL! 9% are just as weird? Hmm So I guess I&#8217;m a relatively &#8220;non-weird&#8221; person eh? :)) 😛 So what&#8217;s your score? Find out<br /> <a href="https://www.nerdtests.com/ft_weird.php?im"><br /> <img class="aligncenter" src="https://www.nerdtests.com/thetester/images/php/wq.php?val=5267" alt="What is your weird quotient? Click to find out!" /> </a>
 </p>
 
 and post your score in the comments!
 
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4f1da116-06bb-4a75-a6a4-02b79e92fa33" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="http://technorati.com/tags/timepass">timepass</a>,<a rel="tag" href="http://technorati.com/tags/tp">tp</a>,<a rel="tag" href="http://technorati.com/tags/weird">weird</a>,<a rel="tag" href="http://technorati.com/tags/weirdness+quotent">weirdness quotent</a>,<a rel="tag" href="http://technorati.com/tags/weirdness+test">weirdness test</a>,<a rel="tag" href="http://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="http://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="http://technorati.com/tags/My+World">My World</a>
+  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/timepass">timepass</a>,<a rel="tag" href="https://technorati.com/tags/tp">tp</a>,<a rel="tag" href="https://technorati.com/tags/weird">weird</a>,<a rel="tag" href="https://technorati.com/tags/weirdness+quotent">weirdness quotent</a>,<a rel="tag" href="https://technorati.com/tags/weirdness+test">weirdness test</a>,<a rel="tag" href="https://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="https://technorati.com/tags/My+World">My World</a>
 </div>
 
 EDIT: Fixed the image link

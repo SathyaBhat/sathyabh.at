@@ -32,4 +32,4 @@ On an unrelated note, I&#8217;m looking forward to going back home to [Mangalore
 That&#8217;s about it.  
 Cheers.
 
- [1]: http://en.wikipedia.org/wiki/Mangalore
+ [1]: https://en.wikipedia.org/wiki/Mangalore

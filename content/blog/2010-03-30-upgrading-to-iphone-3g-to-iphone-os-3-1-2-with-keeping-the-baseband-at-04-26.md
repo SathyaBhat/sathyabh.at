@@ -45,28 +45,28 @@ Baseband is the part of the iPhone which controls the telephony and other commun
 
 which was not true in my case. The iPhone screen was showing the connect to iTunes icon.
 
-<a id="aptureLink_rL2Vac2OE5" style="margin: 0pt auto; text-align: center; display: block; padding: 0px 6px;" href="http://www.dino.co.uk/blogbox/random/iphone_os3_error.png"><img style="border: 0px none;" src="http://www.dino.co.uk/blogbox/random/iphone_os3_error.png" alt="" width="240px" height="360px" /></a>
+<a id="aptureLink_rL2Vac2OE5" style="margin: 0pt auto; text-align: center; display: block; padding: 0px 6px;" href="https://www.dino.co.uk/blogbox/random/iphone_os3_error.png"><img style="border: 0px none;" src="https://www.dino.co.uk/blogbox/random/iphone_os3_error.png" alt="" width="240px" height="360px" /></a>
 
 I was uncertain at this point, then realized, the phone was not jailbroken. So next went over to download [redsn0w][13]{#aptureLink_NAj3jDs5B5}. Once downloaded, launched it, pointed it to the ipsw file and it did its thingamijig and \*ta-dah\*  the iPhone came alive, jailbroken, and confirmed it was still on [04.26][14]{#aptureLink_1mhu7l12Pq}
 
-<a id="aptureLink_oXKeXHu2Cc" style="margin: 0pt auto; text-align: center; display: block; padding: 0px 6px;" href="http://apture.s3.amazonaws.com/00000127acd9c15573cf76aa007f000000000001.IMG_0700.PNG"><img style="border: 0px none;" title="IMG_0700" src="http://apture.s3.amazonaws.com/00000127acd9c15573cf76aa007f000000000001.IMG_0700.PNG" alt="" width="252.20000000000002px" height="378.3px" /></a>
+<a id="aptureLink_oXKeXHu2Cc" style="margin: 0pt auto; text-align: center; display: block; padding: 0px 6px;" href="https://apture.s3.amazonaws.com/00000127acd9c15573cf76aa007f000000000001.IMG_0700.PNG"><img style="border: 0px none;" title="IMG_0700" src="https://apture.s3.amazonaws.com/00000127acd9c15573cf76aa007f000000000001.IMG_0700.PNG" alt="" width="252.20000000000002px" height="378.3px" /></a>
 
 Next step was to install ultrasn0w &#8211; which was pretty easy, just went over to Cydia and installed it. Rebooted, and [my carrier was recognised][15]{#aptureLink_9FFHvhN5rN}. Finally, all that remained was restoring my backup. That was even easier, since the moment I launched iTunes, it prompted me, asking if I wanted to restore from my previous backup. Gave the affirmative choice and &#8211; about half hour later, my iPhone was ready &#8211; with all settings intact ( heh, including the battery percentage meter on the status bar and my office mail settings!).
 
 The whole process took about  2 hours, but it was worth it, as now my iPhone is noticeably faster!
 
  [1]: ../2010/02/23/get-your-iphone-in-india-for-99-rs-4500-only/
- [2]: http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html
- [3]: http://www.google.com/search?q=unlocking+the+iPhone&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
- [4]: http://wikee.iphwn.org/
- [5]: http://twitpic.com/1872m3
- [6]: http://twitpic.com/16gox7
- [7]: http://twitpic.com/13o1t6
- [8]: http://twitpic.com/123vgp
- [9]: http://twitpic.com/11384o
- [10]: http://twitpic.com/vwxn2
- [11]: http://twitpic.com/9v70o
- [12]: http://www.redmondpie.com/jailbreak-and-unlock-iphone-3.1.2-firmware-on-windows-anu759/
- [13]: http://wikee.iphwn.org/howto:rs9
- [14]: http://twitter.com/SathyaBhat/status/11183955041
- [15]: http://twitter.com/SathyaBhat/status/11184177123
+ [2]: https://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html
+ [3]: https://www.google.com/search?q=unlocking+the+iPhone&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
+ [4]: https://wikee.iphwn.org/
+ [5]: https://twitpic.com/1872m3
+ [6]: https://twitpic.com/16gox7
+ [7]: https://twitpic.com/13o1t6
+ [8]: https://twitpic.com/123vgp
+ [9]: https://twitpic.com/11384o
+ [10]: https://twitpic.com/vwxn2
+ [11]: https://twitpic.com/9v70o
+ [12]: https://www.redmondpie.com/jailbreak-and-unlock-iphone-3.1.2-firmware-on-windows-anu759/
+ [13]: https://wikee.iphwn.org/howto:rs9
+ [14]: https://twitter.com/SathyaBhat/status/11183955041
+ [15]: https://twitter.com/SathyaBhat/status/11184177123

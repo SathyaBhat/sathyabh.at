@@ -46,7 +46,7 @@ One of the many TIL moments was about Apostille:
 The good thing was most of these documents were well catalogued and saved (I have almost everything digitised with multiple backups) and the ones that needed to be done, namely the transcripts and PCC, I could apply for these online. 
 
 - [PCC](https://portal2.passportindia.gov.in/AppOnlineProject/docAdvisor/pccPassport)
-- [Transcripts from VTU](http://vtu.ac.in/en/online-fee-payment/)
+- [Transcripts from VTU](https://vtu.ac.in/en/online-fee-payment/)
 
 For getting the documents Apostilled, I went to [Superb Enterprises at Infantry Road, Bangalore](https://goo.gl/maps/fkF2PqWp7394S5Ci8). I visited them the first time solely on the basis of Google reviews and then kept going back (I had to get the documents apostilled multiple times, especially the PCC due to delays in paperwork) because I really liked the service. They also gave a link where I could follow the status of the document - which is fantastic for someone who's _just a little bit_ paranoid about things getting lost like me.
 

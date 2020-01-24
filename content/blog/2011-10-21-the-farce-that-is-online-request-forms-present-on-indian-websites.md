@@ -30,7 +30,7 @@ The culprits so far:
   * Fiat (cat)
 
 <div>
-  Heck Volkswagen haven&#8217;t bothered getting back to me, yet have nicely subscribed me to their promotional crapware that gets deleted straightaway(oh thank thee, <a href="http://techie-buzz.com/gmail/gmail-smart-labels-classify-bulk-emails.html">GMail filters</a>). (<strong>Update: </strong>Volkswagen gave me a call today, <strong>nearly  a year</strong> after I had filled in their online inquiry form. Are they freaking insane? Call up after a <strong>whole freaking year?) </strong>
+  Heck Volkswagen haven&#8217;t bothered getting back to me, yet have nicely subscribed me to their promotional crapware that gets deleted straightaway(oh thank thee, <a href="https://techie-buzz.com/gmail/gmail-smart-labels-classify-bulk-emails.html">GMail filters</a>). (<strong>Update: </strong>Volkswagen gave me a call today, <strong>nearly  a year</strong> after I had filled in their online inquiry form. Are they freaking insane? Call up after a <strong>whole freaking year?) </strong>
 </div>
 
 <div>
@@ -58,5 +58,5 @@ The culprits so far:
 </div>
 
 <div>
-  Update: Added <a href="https://twitter.com/#!/techrsr/status/155661672466485248">Honda</a> & <a href="https://twitter.com/#!/techrsr/status/155662862084354049">Fiat</a>, as mentioned to me by <a href="http://twitter.com/techrsr">techrsr</a>
+  Update: Added <a href="https://twitter.com/#!/techrsr/status/155661672466485248">Honda</a> & <a href="https://twitter.com/#!/techrsr/status/155662862084354049">Fiat</a>, as mentioned to me by <a href="https://twitter.com/techrsr">techrsr</a>
 </div>

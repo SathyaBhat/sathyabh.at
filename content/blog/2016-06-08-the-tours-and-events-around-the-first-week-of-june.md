@@ -43,7 +43,7 @@ We seemed to have done nothing in 2014, though I guess this was mainly because w
 
 ### 2013
 
-2013 was quite jam-packed though. First was trip to Chennai for <a href="https://twitter.com/narayananh" target="_blank">Narayanan</a>&#8216;s and <a href="http://passingports.com/" target="_blank">Preethika</a>&#8216;s wedding
+2013 was quite jam-packed though. First was trip to Chennai for <a href="https://twitter.com/narayananh" target="_blank">Narayanan</a>&#8216;s and <a href="https://passingports.com/" target="_blank">Preethika</a>&#8216;s wedding
 
 ![][1] 
 

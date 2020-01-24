@@ -25,7 +25,7 @@ tags:
 
 **4 Movies I Could Watch Over and Over**
 
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.imdb.com/title/tt0078346/');" href="http://www.imdb.com/title/tt0137523/">Fight Club<br /> </a>
+  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.imdb.com/title/tt0078346/');" href="https://www.imdb.com/title/tt0137523/">Fight Club<br /> </a>
   * [The Matrix][3]
   * [The Godfather, Part I][4]
   * [V For Vendetta][5]
@@ -39,9 +39,9 @@ tags:
 **4 TV Shows I Like**
 
   * [Top Gear][8]
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/friends/show/71/summary.html?q=friends&tag=search_results;title;1');" href="http://www.tv.com/friends/show/71/summary.html?q=friends&tag=search_results;title;1">Friends</a>
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/my-name-is-earl/show/31988/summary.html?q=my%20name%20is%20earl&tag=search_results;title;1');" href="http://www.tv.com/amazing-race/show/6686/summary.html">The Amazing Race<br /> </a>
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/brothers-and-sisters/show/58012/summary.html?q=brothers%20and%20sisters&tag=search_results;title;1');" href="http://www.tv.com/Numb3rs/show/25043/summary.html">Numb3rs</a>
+  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/friends/show/71/summary.html?q=friends&tag=search_results;title;1');" href="https://www.tv.com/friends/show/71/summary.html?q=friends&tag=search_results;title;1">Friends</a>
+  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/my-name-is-earl/show/31988/summary.html?q=my%20name%20is%20earl&tag=search_results;title;1');" href="https://www.tv.com/amazing-race/show/6686/summary.html">The Amazing Race<br /> </a>
+  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/brothers-and-sisters/show/58012/summary.html?q=brothers%20and%20sisters&tag=search_results;title;1');" href="https://www.tv.com/Numb3rs/show/25043/summary.html">Numb3rs</a>
 
 **4 Favorite Food**s
 
@@ -64,18 +64,18 @@ tags:
   * [Manan][14]
   * [Preshit][15]
 
- [1]: http://devesh.net
- [2]: http://devesh.net/blog/2008/05/29/tag-youre-it/
- [3]: http://www.imdb.com/title/tt0133093
- [4]: http://www.imdb.com/title/tt0068646/
- [5]: http://www.imdb.com/title/tt0434409/
- [6]: http://en.wikipedia.org/wiki/Mangalore
- [7]: http://en.wikipedia.org/wiki/Chennai
- [8]: http://www.tv.com/Top-Gear/show/27682/summary.html
- [9]: http://en.wikipedia.org/wiki/Cuisine_of_Karnataka#Mangalooru_Cuisine
- [10]: http://en.wikipedia.org/wiki/Tandoori_chicken
- [11]: http://en.wikipedia.org/wiki/Rava_dosa
- [12]: http://unitechy.com/
- [13]: http://aravindjose.com/blog/
- [14]: http://beingmanan.com
- [15]: http://preshit.net/
+ [1]: https://devesh.net
+ [2]: https://devesh.net/blog/2008/05/29/tag-youre-it/
+ [3]: https://www.imdb.com/title/tt0133093
+ [4]: https://www.imdb.com/title/tt0068646/
+ [5]: https://www.imdb.com/title/tt0434409/
+ [6]: https://en.wikipedia.org/wiki/Mangalore
+ [7]: https://en.wikipedia.org/wiki/Chennai
+ [8]: https://www.tv.com/Top-Gear/show/27682/summary.html
+ [9]: https://en.wikipedia.org/wiki/Cuisine_of_Karnataka#Mangalooru_Cuisine
+ [10]: https://en.wikipedia.org/wiki/Tandoori_chicken
+ [11]: https://en.wikipedia.org/wiki/Rava_dosa
+ [12]: https://unitechy.com/
+ [13]: https://aravindjose.com/blog/
+ [14]: https://beingmanan.com
+ [15]: https://preshit.net/

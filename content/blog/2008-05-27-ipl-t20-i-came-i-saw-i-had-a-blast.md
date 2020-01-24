@@ -34,4 +34,4 @@ It goes without saying &#8211; it was one of the best events I&#8217;d been to. 
 
 PS: You can have a look at some of the pictures and video&#8217;s I&#8217;d taken using my trusty P1i camera, over at my [Flickr page][1].
 
- [1]: http://flickr.com/photos/sathyabhat/sets/72157605254178230/
+ [1]: https://flickr.com/photos/sathyabhat/sets/72157605254178230/

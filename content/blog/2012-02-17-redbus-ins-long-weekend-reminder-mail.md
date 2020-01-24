@@ -34,7 +34,7 @@ Didn&#8217;t hurt that they had a very nice, clutter free UI. Off late, they hav
 >     </td>
 >     
 >     <td valign="top" width="107">
->       <a href="http://redbus.zeemail.in/redbus/lt.php?id=cEoFUVIEBlRUAhlWAQUHAE8=VAMEUAQOHRADFQxMUCERWUJdGANHVx0VGgYJXA==" target="_blank">Book now</a>
+>       <a href="https://redbus.zeemail.in/redbus/lt.php?id=cEoFUVIEBlRUAhlWAQUHAE8=VAMEUAQOHRADFQxMUCERWUJdGANHVx0VGgYJXA==" target="_blank">Book now</a>
 >     </td>
 >   </tr>
 >   
@@ -48,7 +48,7 @@ Didn&#8217;t hurt that they had a very nice, clutter free UI. Off late, they hav
 >     </td>
 >     
 >     <td valign="top" width="107">
->       <a href="http://redbus.zeemail.in/redbus/lt.php?id=cEoFUVIEBlRUAhlWAQUHAE8=VAMEUAQOHRADFQxMUCERWUJdGANHVx0VGgYJXA==" target="_blank">Book now</a>
+>       <a href="https://redbus.zeemail.in/redbus/lt.php?id=cEoFUVIEBlRUAhlWAQUHAE8=VAMEUAQOHRADFQxMUCERWUJdGANHVx0VGgYJXA==" target="_blank">Book now</a>
 >     </td>
 >   </tr>
 > </table>
@@ -59,4 +59,4 @@ Perfect to remind you well-in-advance and get those tickets booked ahead of the 
 
 Well done, redbus! Thank you very much for the lovely service that you guys are providing!
 
- [1]: http://redbus.in
+ [1]: https://redbus.in

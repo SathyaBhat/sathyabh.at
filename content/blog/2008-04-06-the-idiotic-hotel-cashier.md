@@ -52,4 +52,4 @@ _So here&#8217;s 50 paise to the hotel guy. I hope that amount is &#8220;big eno
 
 Also posted on [Fifty Paise][1]
 
- [1]: http://www.fiftypaise.com/the-idiotic-cashier-at-the-restaurant/
+ [1]: https://www.fiftypaise.com/the-idiotic-cashier-at-the-restaurant/

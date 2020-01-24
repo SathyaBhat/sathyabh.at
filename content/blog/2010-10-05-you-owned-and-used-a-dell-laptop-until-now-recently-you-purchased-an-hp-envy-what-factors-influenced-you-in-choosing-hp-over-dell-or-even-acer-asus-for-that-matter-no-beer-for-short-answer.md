@@ -13,7 +13,7 @@ categories:
 
 ---
 <p class="formspringmeAnswer">
-  Posted as an answer to Ashwin&#8217;s <a id="aptureLink_B9TdEu7y7Q" href="http://www.formspring.me/sathyabhat/q/1262994332">formspring me question</a>
+  Posted as an answer to Ashwin&#8217;s <a id="aptureLink_B9TdEu7y7Q" href="https://www.formspring.me/sathyabhat/q/1262994332">formspring me question</a>
 </p>
 
 <p class="formspringmeAnswer">
@@ -102,5 +102,5 @@ categories:
   </p>
   
   <p class="formspringmeFooter">
-    <a href="http://formspring.me/sathyabhat?utm_medium=social&utm_source=wordpress&utm_campaign=shareanswer">Fire away.</a>
+    <a href="https://formspring.me/sathyabhat?utm_medium=social&utm_source=wordpress&utm_campaign=shareanswer">Fire away.</a>
   </p>

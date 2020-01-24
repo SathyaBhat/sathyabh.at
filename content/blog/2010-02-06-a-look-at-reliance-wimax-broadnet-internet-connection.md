@@ -35,6 +35,6 @@ To conclude &#8211; I didn&#8217;t expect the &#8216;net to be as good &#8211; I
 
 As posted on [MouthShut][3]{#aptureLink_Tl8gB34hE5}.
 
- [1]: http://www.mouthshut.com/review/Airtel_Data_Card-137337-1.html
+ [1]: https://www.mouthshut.com/review/Airtel_Data_Card-137337-1.html
  [2]: ../2008/09/21/onsite-opportunity-beckons/
- [3]: http://www.mouthshut.com/review/Reliance_Wi-Max-185804-1.html
+ [3]: https://www.mouthshut.com/review/Reliance_Wi-Max-185804-1.html

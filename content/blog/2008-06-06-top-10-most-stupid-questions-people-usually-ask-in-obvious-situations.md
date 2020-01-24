@@ -92,4 +92,4 @@ Bonus: [Manan][1] added another gem of stupid question
 > Q: Are you at home?  
 > A: _err, do you expect me to answer that_?
 
- [1]: http://beingmanan.com
+ [1]: https://beingmanan.com

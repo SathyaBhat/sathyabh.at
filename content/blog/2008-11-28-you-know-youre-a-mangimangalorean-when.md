@@ -120,6 +120,6 @@ Found this post while randomly browsing through facebook groups. Was literally R
 Sidenote: I have NO idea how many times I&#8217;ve repeated quote #50.  
 For more chuckles refer to my post on [being a Mangalorean Konkana.][1] Might also want to read up on my posts Mangalore Diaries [Part I][2] and [Part II][3]
 
- [1]: http://sathyabh.at/2008/08/07/for-all-you-mangalore-konkanas-and-non-konkanas-here%e2%80%99s-what-it%e2%80%99s-like-to-be-a-konkana/
- [2]: http://sathyabh.at/2008/08/18/mangalore-diaries-part-i/
- [3]: http://sathyabh.at/2008/08/21/mangalore-diaries-part-ii/
+ [1]: https://sathyabh.at/2008/08/07/for-all-you-mangalore-konkanas-and-non-konkanas-here%e2%80%99s-what-it%e2%80%99s-like-to-be-a-konkana/
+ [2]: https://sathyabh.at/2008/08/18/mangalore-diaries-part-i/
+ [3]: https://sathyabh.at/2008/08/21/mangalore-diaries-part-ii/

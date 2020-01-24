@@ -51,7 +51,7 @@ Today, i had another such incident. with Log. For sake of not embarrassing the g
 > 16:26:45: xxxx:  dont get angry  
 > 16:26:49: xxxx:  ok  
 > 16:27:28: xxxx:  u works in which company  
-> 16:28:15: coolpcguy:  3i Infotech Ltd, http://www.3i-infotech.com/  
+> 16:28:15: coolpcguy:  3i Infotech Ltd, https://www.3i-infotech.com/  
 > 16:28:35: xxxx:  oh man u work for info tech  
 > 16:29:24: coolpcguy:  yea  
 > 16:29:47: xxxx:   So how u got to know about tech2.com  
@@ -71,4 +71,4 @@ Today, i had another such incident. with Log. For sake of not embarrassing the g
 
 Man how DUMB and  STOOPID people can be?
 
- [1]: http://www.tech2.com/
+ [1]: https://www.tech2.com/

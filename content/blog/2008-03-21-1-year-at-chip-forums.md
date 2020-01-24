@@ -22,10 +22,10 @@ Over the this period, I&#8217;ve made quite a lot of friends. In-fact, [Sathya S
 
 Thanks to all for making this stay worthwhile and an extremely pleasant experience.
 
- [1]: http://www.chip.in/forums/profile.php?mode=viewprofile&u=31003
- [2]: http://www.chip.in/forums/
- [3]: http://sathyasays.com/
- [4]: http://www.preshit.net/
- [5]: http://www.expertrio.com/
- [6]: http://www.tech2.com/forums/memberlist.php?mode=viewprofile&u=628
- [7]: http://www.tech2.com/forums
+ [1]: https://www.chip.in/forums/profile.php?mode=viewprofile&u=31003
+ [2]: https://www.chip.in/forums/
+ [3]: https://sathyasays.com/
+ [4]: https://www.preshit.net/
+ [5]: https://www.expertrio.com/
+ [6]: https://www.tech2.com/forums/memberlist.php?mode=viewprofile&u=628
+ [7]: https://www.tech2.com/forums

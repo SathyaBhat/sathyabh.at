@@ -36,10 +36,10 @@ Update: Kotaku has a _19-minute_ gameplay video, the trailer and artwork clip.
 Check it out [here][4]
 
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:43851322-20b0-4a07-9aaa-0651cd68244e" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="http://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="http://technorati.com/tags/My+World">My World</a>,<a rel="tag" href="http://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="http://technorati.com/tags/diablo">diablo</a>,<a rel="tag" href="http://technorati.com/tags/D3">D3</a>,<a rel="tag" href="http://technorati.com/tags/Diablo+3">Diablo 3</a>,<a rel="tag" href="http://technorati.com/tags/Blizzard">Blizzard</a>,<a rel="tag" href="http://technorati.com/tags/gaming">gaming</a>,<a rel="tag" href="http://technorati.com/tags/RPG">RPG</a>
+  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="https://technorati.com/tags/My+World">My World</a>,<a rel="tag" href="https://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="https://technorati.com/tags/diablo">diablo</a>,<a rel="tag" href="https://technorati.com/tags/D3">D3</a>,<a rel="tag" href="https://technorati.com/tags/Diablo+3">Diablo 3</a>,<a rel="tag" href="https://technorati.com/tags/Blizzard">Blizzard</a>,<a rel="tag" href="https://technorati.com/tags/gaming">gaming</a>,<a rel="tag" href="https://technorati.com/tags/RPG">RPG</a>
 </div>
 
- [1]: http://farm4.static.flickr.com/3143/2618270784_5fc1f1ac10_m.jpg
- [2]: http://eu.blizzard.com/diablo3/
- [3]: http://www.youtube.com/watch?v=EgbUSsblCSQ
- [4]: http://kotaku.com/5020479/diablo-iii-videos-trailer-gameplay-footage
+ [1]: https://farm4.static.flickr.com/3143/2618270784_5fc1f1ac10_m.jpg
+ [2]: https://eu.blizzard.com/diablo3/
+ [3]: https://www.youtube.com/watch?v=EgbUSsblCSQ
+ [4]: https://kotaku.com/5020479/diablo-iii-videos-trailer-gameplay-footage

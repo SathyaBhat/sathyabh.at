@@ -36,7 +36,7 @@ On statusbar &#8211; tweetcaster, Google Talk, Foursquare, Titanium Backup, USB 
 
 ![3u1DP.png][4]
 
- [1]: http://i.imgur.com/aG1Fu.png
- [2]: http://i.imgur.com/RUIx9.png
- [3]: http://i.imgur.com/qHI7c.png
- [4]: http://i.imgur.com/3u1DP.png
+ [1]: https://i.imgur.com/aG1Fu.png
+ [2]: https://i.imgur.com/RUIx9.png
+ [3]: https://i.imgur.com/qHI7c.png
+ [4]: https://i.imgur.com/3u1DP.png

@@ -19,7 +19,7 @@ tags:
   - work
 
 ---
-By default, Oracle Forms Application Server serves Oracle Forms applications using the built-in [Jinitiator JVM][1]. While JVM works _swell_ with cutting edge browsers<sup><a href="#footnote_0_424" id="identifier_0_424" class="footnote-link footnote-identifier-link" title="IE6">1</a></sup> it pretty much crashes most of the other browsers<sup><a href="#footnote_1_424" id="identifier_1_424" class="footnote-link footnote-identifier-link" title="Firefox, IE7+">2</a></sup> and doesn&#8217;t work at all in Chrome. There <a href="http://sathyabh.at/2009/06/27/fixing-internet-explorer-crash-on-launching-oracle-forms-application-with-jinitiator/" target="_blank">are workarounds</a> but the workarounds do not play well while working with multiple tabs.
+By default, Oracle Forms Application Server serves Oracle Forms applications using the built-in [Jinitiator JVM][1]. While JVM works _swell_ with cutting edge browsers<sup><a href="#footnote_0_424" id="identifier_0_424" class="footnote-link footnote-identifier-link" title="IE6">1</a></sup> it pretty much crashes most of the other browsers<sup><a href="#footnote_1_424" id="identifier_1_424" class="footnote-link footnote-identifier-link" title="Firefox, IE7+">2</a></sup> and doesn&#8217;t work at all in Chrome. There <a href="https://sathyabh.at/2009/06/27/fixing-internet-explorer-crash-on-launching-oracle-forms-application-with-jinitiator/" target="_blank">are workarounds</a> but the workarounds do not play well while working with multiple tabs.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Here&#8217;s a simple way to make the Application Server serve Oracle Forms Appl
 Locate your formsweb.cfg file. It should be in $oracle_home/forms/server directory. Add the below lines to the section corresponding to your config= setting.
 
 <pre class="brush:bash">baseHTMLjinitiator=basejpi.htm
-jpi_download_page=http://www.oracle.com/technetwork/java/javase/downloads/index-jdk5-jsp-142662.html
+jpi_download_page=https://www.oracle.com/technetwork/java/javase/downloads/index-jdk5-jsp-142662.html
 jpi_classid=clsid:8AD9C840-044E-11D1-B3E9-00805F499D93
 jpi_codebase=https://java.sun.com/update/1.5.0/jinstall-1_5-windows-i586.cab
 jpi_mimetype=application/x-java-applet;version=1.4.2</pre>
@@ -51,5 +51,5 @@ Refer [here][2] for a detailed explanation of each of these terms. That&#8217;s 
   </li>
 </ol>
 
- [1]: http://en.wikipedia.org/wiki/Jinitiator
- [2]: http://www.oratransplant.nl/2005/05/24/settings-for-dynamic-versioning-with-sun-jpi-and-oracle-forms/
+ [1]: https://en.wikipedia.org/wiki/Jinitiator
+ [2]: https://www.oratransplant.nl/2005/05/24/settings-for-dynamic-versioning-with-sun-jpi-and-oracle-forms/

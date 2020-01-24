@@ -32,5 +32,5 @@ Your guess is good as mine.
 
 Till then, [enjoy the video][2]
 
- [1]: http://www.farcry2-hq.com/news,54,far-cry-2-dunia-engine.htm
- [2]: http://www.shacknews.com/onearticle.x/53316
+ [1]: https://www.farcry2-hq.com/news,54,far-cry-2-dunia-engine.htm
+ [2]: https://www.shacknews.com/onearticle.x/53316

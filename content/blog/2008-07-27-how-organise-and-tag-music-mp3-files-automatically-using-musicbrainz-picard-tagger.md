@@ -39,30 +39,30 @@ Picard tagger has a 3-pane interface, the left pane is the File browser/manager,
 Now, from the file browser drag and drop the files you want to be identified and tagged. The files will be grouped under “Unmatched files”. Click on the cluster button to cluster them according to to albums.
 
 <p style="text-align: center;">
-  <a href="http://i.imgur.com/QlZ7t.png"><img class="aligncenter" src="http://i.imgur.com/QlZ7tl.jpg" alt="" width="640" height="498" /></a>
+  <a href="https://i.imgur.com/QlZ7t.png"><img class="aligncenter" src="https://i.imgur.com/QlZ7tl.jpg" alt="" width="640" height="498" /></a>
 </p>
 
 Next, click on the folder and click on Lookup or Scan button. Picard Tagger will contact the MusicBrainz database and list all the albums and the tracks will have an icon next to them, indicating how much of a match it is.
 
 <p style="text-align: center;">
-  <a href="http://i.imgur.com/hrm3R.png"><img class="aligncenter" src="http://i.imgur.com/hrm3Rl.jpg" alt="" width="640" height="382" /></a>
+  <a href="https://i.imgur.com/hrm3R.png"><img class="aligncenter" src="https://i.imgur.com/hrm3Rl.jpg" alt="" width="640" height="382" /></a>
 </p>
 
 Now if you’ve got your music from multiple sources(you know, \*ahem\*) then its possible that looking up will bring up multiple albums, so just drag and drop the tracks to the relevant albums.
 
 <p style="text-align: center;">
-  <a href="http://i.imgur.com/8Uw4l.png"><img class="aligncenter" src="http://i.imgur.com/8Uw4ll.jpg" alt="" width="640" height="382" /></a>
+  <a href="https://i.imgur.com/8Uw4l.png"><img class="aligncenter" src="https://i.imgur.com/8Uw4ll.jpg" alt="" width="640" height="382" /></a>
 </p>
 
 This isn’t necessary, though, and you can skip this and just click on Save.
 
 <p style="text-align: center;">
-  <a href="http://i.imgur.com/DknY6.png"><img class="aligncenter" src="http://i.imgur.com/DknY6l.jpg" alt="" width="640" height="380" /></a>
+  <a href="https://i.imgur.com/DknY6.png"><img class="aligncenter" src="https://i.imgur.com/DknY6l.jpg" alt="" width="640" height="380" /></a>
 </p>
 
 And that’s it’s it! The tags are saved.
 
-Picard tagger is also extensible, you can use plugins to extend its capability. One of the must-have plugins is the <a href="http://users.musicbrainz.org/~luks/picard-qt/plugins/coverart.py" target="_blank">cover art downloader</a>. By this plugin you can not only embed the cover art within the tag, but also save the cover art as a separate file. Just click on Options –> Options –> Cover Art –> and ensure “Embed Cover Images into Tags” and “Save cover images as files” is checked. Windows Media Player 11 users would want to enter “folder” as the file name, else WMP won’t detect the CoverArt.
+Picard tagger is also extensible, you can use plugins to extend its capability. One of the must-have plugins is the <a href="https://users.musicbrainz.org/~luks/picard-qt/plugins/coverart.py" target="_blank">cover art downloader</a>. By this plugin you can not only embed the cover art within the tag, but also save the cover art as a separate file. Just click on Options –> Options –> Cover Art –> and ensure “Embed Cover Images into Tags” and “Save cover images as files” is checked. Windows Media Player 11 users would want to enter “folder” as the file name, else WMP won’t detect the CoverArt.
 
 Besides tagging, Picard can also rename files based on the tags. For this Click on Options –> Rename. You can also change the filename structure, for this Click on Options –> Options –> File Naming and change the structure there.
 
@@ -70,10 +70,10 @@ Hope this post was helpful.
 
 Here are the download Links:
 
-MusicBrainz Picard Tagger: <a href="http://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">Windows</a> / <a href="http://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">*Nix</a> / <a href="http://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">Mac OS X</a>
+MusicBrainz Picard Tagger: <a href="https://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">Windows</a> / <a href="https://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">*Nix</a> / <a href="https://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">Mac OS X</a>
 
-<a href="http://users.musicbrainz.org/~luks/picard-qt/plugins/coverart.py" target="_blank">Cover Art Downloader Plugin</a>
+<a href="https://users.musicbrainz.org/~luks/picard-qt/plugins/coverart.py" target="_blank">Cover Art Downloader Plugin</a>
 
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:8d17b15b-7de3-4490-9195-105201d1b9bd" class="wlWriterSmartContent" style="display: inline; float: none; margin: 0px; padding: 0px;">
-  Technorati Tags: <a rel="tag" href="http://technorati.com/tags/tags">tags</a>,<a rel="tag" href="http://technorati.com/tags/ID3">ID3</a>,<a rel="tag" href="http://technorati.com/tags/music">music</a>,<a rel="tag" href="http://technorati.com/tags/organizing">organizing</a>,<a rel="tag" href="http://technorati.com/tags/Picard">Picard</a>,<a rel="tag" href="http://technorati.com/tags/MusicBrainz">MusicBrainz</a>,<a rel="tag" href="http://technorati.com/tags/MusicBrainz+Picard">MusicBrainz Picard</a>,<a rel="tag" href="http://technorati.com/tags/CoverArt">CoverArt</a>,<a rel="tag" href="http://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="http://technorati.com/tags/Sathya">Sathya</a>,<a rel="tag" href="http://technorati.com/tags/My+World">My World</a>
+  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/tags">tags</a>,<a rel="tag" href="https://technorati.com/tags/ID3">ID3</a>,<a rel="tag" href="https://technorati.com/tags/music">music</a>,<a rel="tag" href="https://technorati.com/tags/organizing">organizing</a>,<a rel="tag" href="https://technorati.com/tags/Picard">Picard</a>,<a rel="tag" href="https://technorati.com/tags/MusicBrainz">MusicBrainz</a>,<a rel="tag" href="https://technorati.com/tags/MusicBrainz+Picard">MusicBrainz Picard</a>,<a rel="tag" href="https://technorati.com/tags/CoverArt">CoverArt</a>,<a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="https://technorati.com/tags/Sathya">Sathya</a>,<a rel="tag" href="https://technorati.com/tags/My+World">My World</a>
 </div>

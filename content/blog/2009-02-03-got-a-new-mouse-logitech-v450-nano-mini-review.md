@@ -21,9 +21,9 @@ Well not a &#8220;rodent&#8221; mouse, but a mouse, mouse. You know the computer
 
 <!--more-->
 
-[<img src="http://farm4.static.flickr.com/3302/3244708681_5eac434764.jpg" alt="Logitech v450 nano" width="500" height="375" />][2]
+[<img src="https://farm4.static.flickr.com/3302/3244708681_5eac434764.jpg" alt="Logitech v450 nano" width="500" height="375" />][2]
 
-[<img src="http://farm4.static.flickr.com/3447/3245517816_accc2ac22e.jpg" alt="logitech v450 Nano" width="500" height="375" />][3]
+[<img src="https://farm4.static.flickr.com/3447/3245517816_accc2ac22e.jpg" alt="logitech v450 Nano" width="500" height="375" />][3]
 
 I bought this for $39 over Amazon -the little thingy next to the mouse is actually the receiver &#8211; and its pretty tiny. The mouse itself is pretty awesome, 1000dpi resolution, and its a Laser rather than a plain optical LED mouse. The scroll wheel has got both vertical (the usual) and horizontal scrolling (just move the scroll wheel to left or right), however for the horizontal scrolling to work in Windows you&#8217;ll need the 60MB drivers and Logitech SetPoint, while in Linux it works out of the box flawlessly.
 
@@ -31,6 +31,6 @@ The Mouse requires 2xAA size batteries, and its a bit on the heavier side, but t
 
 Overall, its a great mouse 😀
 
- [1]: http://sathyabh.at/2008/06/23/and-the-lamest-mouse-award-goes-to/
- [2]: http://www.flickr.com/photos/sathyabhat/3244708681/
- [3]: http://www.flickr.com/photos/sathyabhat/3245517816/
+ [1]: https://sathyabh.at/2008/06/23/and-the-lamest-mouse-award-goes-to/
+ [2]: https://www.flickr.com/photos/sathyabhat/3244708681/
+ [3]: https://www.flickr.com/photos/sathyabhat/3245517816/

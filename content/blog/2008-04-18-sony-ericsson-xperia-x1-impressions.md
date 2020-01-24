@@ -20,13 +20,13 @@ tags:
   - Xperia X1
 
 ---
-Ever since I&#8217;d seen a preview Sony Ericsson Xperia X1 at GSMArena, I&#8217;ve been floored by that awesome device. The good folks at <a rel="nofollow" href="http://www.wmexperts.com" target="_blank">WMExperts</a> have managed to get a unit of Xperia X1, and take it for a spin. Lets see what they have to say about the X1. WMExperts also had a chat with Martin Winlet, the Director of Global Marketing for Sony Ericsson and he also <a rel="nofollow" href="http://www.wmexperts.com/what_do_you_want_to_know_about.html" target="_blank">answered some questions people had put to him</a>. Here are some excerpts from their article
+Ever since I&#8217;d seen a preview Sony Ericsson Xperia X1 at GSMArena, I&#8217;ve been floored by that awesome device. The good folks at <a rel="nofollow" href="https://www.wmexperts.com" target="_blank">WMExperts</a> have managed to get a unit of Xperia X1, and take it for a spin. Lets see what they have to say about the X1. WMExperts also had a chat with Martin Winlet, the Director of Global Marketing for Sony Ericsson and he also <a rel="nofollow" href="https://www.wmexperts.com/what_do_you_want_to_know_about.html" target="_blank">answered some questions people had put to him</a>. Here are some excerpts from their article
 
 <!--more-->
 
 #### Hardware
 
-[<img src="http://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-11-thumb.jpg" alt="XPERIA X1 Hands-On by WMExperts" hspace="4" vspace="4" align="right" />][1]
+[<img src="https://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-11-thumb.jpg" alt="XPERIA X1 Hands-On by WMExperts" hspace="4" vspace="4" align="right" />][1]
 
 WMExperts say that the X1 has a “curved slide” that angles the screen up, banana-style, when you slide out the keyboard. The hinge feels very sturdy without being difficult to use (go hinge nerds!), and overall the brushed metal to be found throughout the device is just beautiful. There are also no floppy rubber doors over ports or the MicroSD card slot to ruin the feel of the device. That feel, in case I haven&#8217;t made it clear yet, is great.
 
@@ -64,7 +64,7 @@ Excepting the new panels interface (seriously, more on that below), the built-in
 
 #### The Panels
 
-[<img src="http://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-2-thumb.jpg" alt="XPERIA X1 Hands-On by WMExperts" hspace="4" vspace="4" align="right" />][2]
+[<img src="https://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-2-thumb.jpg" alt="XPERIA X1 Hands-On by WMExperts" hspace="4" vspace="4" align="right" />][2]
 
 Winkler (who we interviewed about the X1) spent quite a bit of time talking to us and answering our questions about the infamous panels. Some examples of panels they showed me:
 
@@ -124,7 +124,7 @@ They ain&#8217;t saying.
 
 * * *So there you have it, the X1 looks to be an incredible device, though the Panels interface does leave me a little worried that we&#8217;re looking at yet another target for developers to have to think about wrt Windows Mobile.</p> 
 
-Read up on the entire article with a dedicated gallery over at <a rel="nofollow" href="http://www.wmexperts.com/reviews/smartphones/review_first_impressions_of_th.html" target="_blank">WMExperts</a>
+Read up on the entire article with a dedicated gallery over at <a rel="nofollow" href="https://www.wmexperts.com/reviews/smartphones/review_first_impressions_of_th.html" target="_blank">WMExperts</a>
 
- [1]: http://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-11.jpg
- [2]: http://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-2.jpg
+ [1]: https://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-11.jpg
+ [2]: https://www.wmexperts.com/articleimages/2008/xperia-x1/xperia-x1-2.jpg

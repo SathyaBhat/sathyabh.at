@@ -30,15 +30,15 @@ I&#8217;ve been using this for the past few <span style="text-decoration: line-t
 [Download Link:][1]  
 Sources available on [GitHub][2]
 
-( Based on [Omkar&#8217;s][3] ScreenUp <del datetime="2010-06-02T01:32:56+00:00">and uses <a href="http://www.codeemporium.com/2009/06/14/dot-net-c-sharp-wrapper-for-the-imageshack-xml-api">Bryce&#8217;s C# Wrapper for ImageShack XML API</a></del>. Also, thanks to Omkar for the [selection screenshot library][4]. )
+( Based on [Omkar&#8217;s][3] ScreenUp <del datetime="2010-06-02T01:32:56+00:00">and uses <a href="https://www.codeemporium.com/2009/06/14/dot-net-c-sharp-wrapper-for-the-imageshack-xml-api">Bryce&#8217;s C# Wrapper for ImageShack XML API</a></del>. Also, thanks to Omkar for the [selection screenshot library][4]. )
 
 Screenshot of the software in action:  
 ![IS Uploader][5] 
 
 Update: Bryce&#8217;s imageshack library stopped working, due to a probable change in API by Imageshack. The tool now uploads the image to imgur. Functionality remains the same 🙂
 
- [1]: http://j.mp/cFESGw
- [2]: http://github.com/SathyaBhat/imageshackuploader
- [3]: http://intelomkar.wordpress.com
- [4]: http://intelomkar.wordpress.com/2009/12/21/screencapture-library/
- [5]: http://img704.imageshack.us/img704/8379/uploadk.jpg
+ [1]: https://j.mp/cFESGw
+ [2]: https://github.com/SathyaBhat/imageshackuploader
+ [3]: https://intelomkar.wordpress.com
+ [4]: https://intelomkar.wordpress.com/2009/12/21/screencapture-library/
+ [5]: https://img704.imageshack.us/img704/8379/uploadk.jpg

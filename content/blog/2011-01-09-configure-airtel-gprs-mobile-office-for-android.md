@@ -30,6 +30,6 @@ To recap:
 
 That&#8217;s it. Restart your phone(if required) and you should be able to start browsing.
 
- [1]: http://sathyabh.at/2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
- [2]: http://post.sathyabh.at/hello-to-the-nexus
- [3]: http://sathyabh.at/2008/10/25/a-guide-to-airtel-gprs-and-airtel-gprs-configuration-settings/
+ [1]: https://sathyabh.at/2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
+ [2]: https://post.sathyabh.at/hello-to-the-nexus
+ [3]: https://sathyabh.at/2008/10/25/a-guide-to-airtel-gprs-and-airtel-gprs-configuration-settings/

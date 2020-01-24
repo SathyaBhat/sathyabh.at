@@ -16,6 +16,6 @@ tags:
 ---
 No need to describe anything. The picture says it all!
 
-[<img src="http://farm4.static.flickr.com/3050/2645977562_0b73a40d18_m.jpg" alt="Opening Shortly!" width="240" height="180" />][1]
+[<img src="https://farm4.static.flickr.com/3050/2645977562_0b73a40d18_m.jpg" alt="Opening Shortly!" width="240" height="180" />][1]
 
- [1]: http://flickr.com/photos/sathyabhat/2645977562/
+ [1]: https://flickr.com/photos/sathyabhat/2645977562/

@@ -37,7 +37,7 @@ Opted for a 1366&#215;768 resolution screen, instead of a 1600&#215;900. I [rea
 
   * Processor: Intel Core i5 520M @ 2.4 GHz, Turbo boost upto 2.93 GHz, 3 MB L2 Cache w/ [HT][3]{#aptureLink_iWCXVHcPii}, [EM64T][4]{#aptureLink_VvcOV5KReH}, [VT-x][5]{#aptureLink_XsP85VBwz4} & [VT-d][5]{#aptureLink_xiP8JuyPe1} & AES new instructions ( [CPU-z validation][6]{#aptureLink_AkymiEZmei})
   * Main memory: 2x2GB DDR3 1066 MHz Dual Channel mode
-  * HDD: Seagate Momentus ST9500420AS 500 GB 7200RPM SATA 3Gbps ( <a href="http://i.imgur.com/tqDtx.png" target="_blank">HDTach result</a> )
+  * HDD: Seagate Momentus ST9500420AS 500 GB 7200RPM SATA 3Gbps ( <a href="https://i.imgur.com/tqDtx.png" target="_blank">HDTach result</a> )
   * DVD-RW: hp DVD RAM UJ897 Slot loading drive
   * Sound Card: IDT High Definition/ ATi High Definition ( if you&#8217;re going to use HDMI )
   * Graphics Card: ATi Mobility Radeon 5650 1GB / Intel HD ( switchable graphics) ([GPU-z validation][7]{#aptureLink_Es3zC791xc})
@@ -50,7 +50,7 @@ Opted for a 1366&#215;768 resolution screen, instead of a 1600&#215;900. I [rea
  **** The packaging was pretty good. The Envy 14 was shipped in a laptop briefcase-esque carton, with lots of of foam padding which offers shock protection.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5053072382/in/photostream/"><img title="Envy 14 shipped box" src="http://farm5.static.flickr.com/4130/5053072382_296edd522f.jpg" alt="Envy 14 shipped box" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5053072382/in/photostream/"><img title="Envy 14 shipped box" src="https://farm5.static.flickr.com/4130/5053072382_296edd522f.jpg" alt="Envy 14 shipped box" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Envy 14 shipped box
@@ -58,7 +58,7 @@ Opted for a 1366&#215;768 resolution screen, instead of a 1600&#215;900. I [rea
 </div>
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5052454779/in/photostream/"><img title="Envy 14 unboxed" src="http://farm5.static.flickr.com/4086/5052454779_715d639992.jpg" alt="Envy 14 unboxed" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5052454779/in/photostream/"><img title="Envy 14 unboxed" src="https://farm5.static.flickr.com/4086/5052454779_715d639992.jpg" alt="Envy 14 unboxed" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Envy 14 unboxed
@@ -74,7 +74,7 @@ Inside the &#8220;briefcase&#8221; was the laptop enclosed in a nice, svelte vel
 At 5.25 pounds ( ~ 2.2 kilos) the Envy 14 isn&#8217;t very light, but not very bulky either. The underneath of the Envy 14 feels plastic, but in reality it&#8217;s a magnesium alloy which is used for heat dissipation.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5053080990/in/photostream/"><img title="Envy 14 laptop lid" src="http://farm5.static.flickr.com/4133/5053080990_aab40e58e1.jpg" alt="Envy 14 laptop lid" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5053080990/in/photostream/"><img title="Envy 14 laptop lid" src="https://farm5.static.flickr.com/4133/5053080990_aab40e58e1.jpg" alt="Envy 14 laptop lid" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Envy 14 laptop lid
@@ -86,7 +86,7 @@ At 5.25 pounds ( ~ 2.2 kilos) the Envy 14 isn&#8217;t very light, but not very b
 The Envy 14 comes with the standard assortment of USB ports, headphone /microphone  jacks and the Ethernet ports. In addition, the Envy also features a hybrid eSATA /USB port as well as a MiniDisplay port &#8211; something which you don&#8217;t see often. With just 3 USB ports ( 2, if you decide to use an eSATA device) you might fall short of USB ports if you use lot of USB peripherals.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5122163514/in/photostream/"><img title="Left side of Envy 14" src="http://farm2.static.flickr.com/1226/5122163514_7c76fefef1.jpg" alt="Left side of Envy 14" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5122163514/in/photostream/"><img title="Left side of Envy 14" src="https://farm2.static.flickr.com/1226/5122163514_7c76fefef1.jpg" alt="Left side of Envy 14" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Left side of Envy 14
@@ -94,7 +94,7 @@ The Envy 14 comes with the standard assortment of USB ports, headphone /micropho
 </div>
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5121561975/in/photostream/"><img title="Right side of Envy 14" src="http://farm5.static.flickr.com/4038/5121561975_26ce24280b.jpg" alt="Right side of Envy 14" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5121561975/in/photostream/"><img title="Right side of Envy 14" src="https://farm5.static.flickr.com/4038/5121561975_26ce24280b.jpg" alt="Right side of Envy 14" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Right side of Envy 14
@@ -110,7 +110,7 @@ The keyboard is fantastic, with big chunky chicklet-style keys. The response of 
 As good as the keyboard is, the touchpad is equally crappy. Taking the Macbook cue, HP decided to replace the standard trackpad + 2 dedicated keys to a single slightly recessed pool. Result being the touchpad is a utter mess, with no proper response. The response is not even predictive. The cursor either skips too fast or just does not respond at all. Scrolling is another exercise in frustration. The touchpad is multi-touch capable, but the drivers are real bad and as a result you get so frustrated with the touchpad that you feel like ripping off the touchpad and throwing it away. Thankfully, the newer drivers improve this experience a lot, but still isn&#8217;t good enough.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5052464035/in/photostream/"><img class=" " title="Keyboard & Touchpad" src="http://farm5.static.flickr.com/4109/5052464035_05d26e062f.jpg" alt="Keyboard & Touchpad" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5052464035/in/photostream/"><img class=" " title="Keyboard & Touchpad" src="https://farm5.static.flickr.com/4109/5052464035_05d26e062f.jpg" alt="Keyboard & Touchpad" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Keyboard & Touchpad
@@ -149,7 +149,7 @@ The battery life is pretty good &#8211; with normal browsing, media playback, ha
 The Envy 14 comes with lot of bundled utilities &#8211; Corel PaintShop Photo Pro, Corel VideoStudio, CyberLink DVD Suite, HP Media Smart, HP QuickWeb, HP Recovery Manager, Roxio CinemaNow, StackDock MyColors, ObjectDesktop, HP Barnes & Noble Desktop eReader, Hulu Desktop, Fences and ofcourse, Norton Internet Suite & Microsoft Office Starter. At first boot, in addition to creating user accounts, you are also prompted if you want to use the Envy theme or Windows&#8217; theme.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <img class=" " title="Envy at first boot" src="http://i.imgur.com/PbgH7.jpg" alt="Envy at first boot" width="500" height="375" />
+  <img class=" " title="Envy at first boot" src="https://i.imgur.com/PbgH7.jpg" alt="Envy at first boot" width="500" height="375" />
   
   <p class="wp-caption-text">
     Envy at first boot
@@ -163,7 +163,7 @@ The HP QuickWeb is a small utility which starts when you switch on your Envy &#8
 The Envy is a great laptop. There are certain drawbacks &#8211; the touchpad and the audio being the main ones. But these are dwarfed by the positives &#8211; and at price of of $1153 &#8211; this is a great deal.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5052459335/in/photostream/"><img title="The whole package" src="http://farm5.static.flickr.com/4113/5052459335_8b79796b8b.jpg" alt="The whole package" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5052459335/in/photostream/"><img title="The whole package" src="https://farm5.static.flickr.com/4113/5052459335_8b79796b8b.jpg" alt="The whole package" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     The whole package
@@ -181,11 +181,11 @@ The Envy is a great laptop. There are certain drawbacks &#8211; the touchpad and
   * Lousy touchpad
   * Bad sound
 
- [1]: http://sathyasays.com/2007/12/02/dell-inspiron-1520-review/
- [2]: http://sathyabh.at/2010/10/05/you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced-you-in-choosing-hp-over-dell-or-even-acer-asus-for-that-matter-no-beer-for-short-answer/
- [3]: http://en.wikipedia.org/wiki/Hyper-threading
- [4]: http://en.wikipedia.org/wiki/EM64T
- [5]: http://en.wikipedia.org/wiki/X86%20virtualization
- [6]: http://valid.canardpc.com/show_oc.php?id=1419647
- [7]: http://www.techpowerup.com/gpuz/4bgdg/
- [8]: http://www.chip.in/forums/viewtopic.php?p=574217#p574217
+ [1]: https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/
+ [2]: https://sathyabh.at/2010/10/05/you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced-you-in-choosing-hp-over-dell-or-even-acer-asus-for-that-matter-no-beer-for-short-answer/
+ [3]: https://en.wikipedia.org/wiki/Hyper-threading
+ [4]: https://en.wikipedia.org/wiki/EM64T
+ [5]: https://en.wikipedia.org/wiki/X86%20virtualization
+ [6]: https://valid.canardpc.com/show_oc.php?id=1419647
+ [7]: https://www.techpowerup.com/gpuz/4bgdg/
+ [8]: https://www.chip.in/forums/viewtopic.php?p=574217#p574217

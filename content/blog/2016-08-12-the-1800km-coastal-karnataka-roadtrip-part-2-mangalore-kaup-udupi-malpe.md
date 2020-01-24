@@ -15,14 +15,14 @@ tags:
   - udupi
 
 ---
-I&#8217;ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="http://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 2 continues..
+I&#8217;ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 2 continues..
 
 <!--more-->
 
 Come Tuesday morning, we woke up earlier than usual and started packing for our journey. Sat down for breakfast and gulped down buns made by Mom. Saying bye is always hard, we took leave from home, filled up fuel and started on.
 
 <div id="attachment_1001" style="width: 1065px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1001" src="http://sathyabh.at/wp-content/uploads/2016/08/start-for-Udupi.jpg" alt="Odo at start of trip for Udupi" width="1055" height="899" />
+  <img class="size-full wp-image-1001" src="https://sathyabh.at/wp-content/uploads/2016/08/start-for-Udupi.jpg" alt="Odo at start of trip for Udupi" width="1055" height="899" />
   
   <p class="wp-caption-text">
     Odo at start of trip for Udupi
@@ -34,7 +34,7 @@ Before we went on the highway, I stopped by my friend Raylen&#8217;s house. Ray 
 Anyone who&#8217;s done the Mangalore &#8211; Udupi roads will know they&#8217;re rather infamous &#8211; the bus drivers think Formula 1 drivers are kart drivers, combined with the rather narrow road, driving down the Mangalore &#8211; Udupi highway was a nightmare. In the recent past, work has progressed on upgrading the roads to a 4-lane highway and when I visited the roads were nearly complete. It was truly a pleasure to drive on these roads without having to worry that a hulking piece of metal was hurling towards you.
 
 <div id="attachment_999" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-999" src="http://sathyabh.at/wp-content/uploads/2016/08/Mangalore-Udupi-Highway.jpg" alt="Mangalore Udupi Highway" width="1613" height="1210" />
+  <img class="size-full wp-image-999" src="https://sathyabh.at/wp-content/uploads/2016/08/Mangalore-Udupi-Highway.jpg" alt="Mangalore Udupi Highway" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Mangalore Udupi Highway
@@ -42,7 +42,7 @@ Anyone who&#8217;s done the Mangalore &#8211; Udupi roads will know they&#8217;r
 </div>
 
 <div id="attachment_1000" style="width: 900px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1000" src="http://sathyabh.at/wp-content/uploads/2016/08/IMG_20160705_105112-ANIMATION.gif" alt="Zoomin' through the highway" width="890" height="668" />
+  <img class="size-full wp-image-1000" src="https://sathyabh.at/wp-content/uploads/2016/08/IMG_20160705_105112-ANIMATION.gif" alt="Zoomin' through the highway" width="890" height="668" />
   
   <p class="wp-caption-text">
     Zoomin&#8217; through the highway
@@ -52,7 +52,7 @@ Anyone who&#8217;s done the Mangalore &#8211; Udupi roads will know they&#8217;r
 We had decided to stop by a few temples while heading to Goa and the Hale Mariyamma Temple in Kaup was the first stop. I&#8217;ve many fond memories of this temple. During Ganesh Chaturthi, my family would visit Kaup since a Ganapathi would be housed here. We&#8217;d stay in Kaup pretty much the whole day and since there was nothing much to do, a customary visit to the temple and to Kaup lighthouse was done in the evening. This temple is known to be open only on Tuesdays and coincidentally we happened to be travelling on a Tuesday.
 
 <div id="attachment_1004" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1004" src="http://sathyabh.at/wp-content/uploads/2016/08/Hale-Mariyamma-Temple.jpg" alt="Hale Mariyamma Temple from outside" width="1197" height="896" />
+  <img class="size-full wp-image-1004" src="https://sathyabh.at/wp-content/uploads/2016/08/Hale-Mariyamma-Temple.jpg" alt="Hale Mariyamma Temple from outside" width="1197" height="896" />
   
   <p class="wp-caption-text">
     Hale Mariyamma Temple from outside
@@ -60,7 +60,7 @@ We had decided to stop by a few temples while heading to Goa and the Hale Mariya
 </div>
 
 <div id="attachment_1003" style="width: 774px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1003" src="http://sathyabh.at/wp-content/uploads/2016/08/Hale-Mariyamma-Temple-2.jpg" alt="Hale Mariyamma Temple inside hallway" width="764" height="1024" />
+  <img class="size-full wp-image-1003" src="https://sathyabh.at/wp-content/uploads/2016/08/Hale-Mariyamma-Temple-2.jpg" alt="Hale Mariyamma Temple inside hallway" width="764" height="1024" />
   
   <p class="wp-caption-text">
     Hale Mariyamma Temple inside hallway
@@ -70,7 +70,7 @@ We had decided to stop by a few temples while heading to Goa and the Hale Mariya
 From here we went ahead and stopped at Ambalpady temple, which was about 10km ahead. I didn&#8217;t expect too many people at the temple, but surprisingly, I was wrong &#8211; the temple was fairly crowded. Sort of unexpected for a mid Tuesday morning
 
 <div id="attachment_1006" style="width: 1247px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1006" src="http://sathyabh.at/wp-content/uploads/2016/08/Ambalpadi-Temple.jpg" alt="Ambalpadi Temple from outside" width="1237" height="762" />
+  <img class="size-full wp-image-1006" src="https://sathyabh.at/wp-content/uploads/2016/08/Ambalpadi-Temple.jpg" alt="Ambalpadi Temple from outside" width="1237" height="762" />
   
   <p class="wp-caption-text">
     Ambalpadi Temple from outside
@@ -78,7 +78,7 @@ From here we went ahead and stopped at Ambalpady temple, which was about 10km ah
 </div>
 
 <div id="attachment_1005" style="width: 1506px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1005" src="http://sathyabh.at/wp-content/uploads/2016/08/Ambalpadi-Temple-2.jpg" alt="Ambalpadi Temple inside courtyard" width="1496" height="1138" />
+  <img class="size-full wp-image-1005" src="https://sathyabh.at/wp-content/uploads/2016/08/Ambalpadi-Temple-2.jpg" alt="Ambalpadi Temple inside courtyard" width="1496" height="1138" />
   
   <p class="wp-caption-text">
     Ambalpadi Temple inside courtyard
@@ -90,7 +90,7 @@ Since the state of the roads was pretty good, we were able to reach Udupi in abo
 First stop in Udupi was the historic Shri Krishna Temple in Udupi. Since the roads leading to the temple were narrow, I parked the car about a kilometer or so before the temple and went walking. Walking through the streets of Udupi was a like going down the memory lane. Udupi still has the old world charm especially if you go deeper and deeper into the heart of the city.
 
 <div id="attachment_1009" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1009" src="http://sathyabh.at/wp-content/uploads/2016/08/Udupi-Temple.jpg" alt="Udupi Temple" width="1197" height="1600" />
+  <img class="size-full wp-image-1009" src="https://sathyabh.at/wp-content/uploads/2016/08/Udupi-Temple.jpg" alt="Udupi Temple" width="1197" height="1600" />
   
   <p class="wp-caption-text">
     Udupi Temple
@@ -100,7 +100,7 @@ First stop in Udupi was the historic Shri Krishna Temple in Udupi. Since the roa
 We paid a visit to the famous <a href="https://en.wikipedia.org/wiki/Kanakana_kindi" target="_blank">Kanakana Kindi</a> just outside of Shri Krishna temple.
 
 <div id="attachment_1011" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1011" src="http://sathyabh.at/wp-content/uploads/2016/08/Kanakana-Kindi.jpg" alt="Kanakana Kindi" width="1197" height="1600" />
+  <img class="size-full wp-image-1011" src="https://sathyabh.at/wp-content/uploads/2016/08/Kanakana-Kindi.jpg" alt="Kanakana Kindi" width="1197" height="1600" />
   
   <p class="wp-caption-text">
     Kanakana Kindi
@@ -108,7 +108,7 @@ We paid a visit to the famous <a href="https://en.wikipedia.org/wiki/Kanakana_ki
 </div>
 
 <div id="attachment_1010" style="width: 1610px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1010" src="http://sathyabh.at/wp-content/uploads/2016/08/Udupi-Temple-Lake.jpg" alt="Udupi Temple Lake" width="1600" height="1197" />
+  <img class="size-full wp-image-1010" src="https://sathyabh.at/wp-content/uploads/2016/08/Udupi-Temple-Lake.jpg" alt="Udupi Temple Lake" width="1600" height="1197" />
   
   <p class="wp-caption-text">
     Udupi Temple Lake
@@ -118,7 +118,7 @@ We paid a visit to the famous <a href="https://en.wikipedia.org/wiki/Kanakana_ki
 Post the temple visit, we went over to Mitra Samaj to grab a small bite.
 
 <div id="attachment_1013" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1013" src="http://sathyabh.at/wp-content/uploads/2016/08/Mitra-Samaj.jpg" alt="Mitra Samaj" width="1197" height="1600" />
+  <img class="size-full wp-image-1013" src="https://sathyabh.at/wp-content/uploads/2016/08/Mitra-Samaj.jpg" alt="Mitra Samaj" width="1197" height="1600" />
   
   <p class="wp-caption-text">
     Mitra Samaj
@@ -126,7 +126,7 @@ Post the temple visit, we went over to Mitra Samaj to grab a small bite.
 </div>
 
 <div id="attachment_1012" style="width: 1610px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1012" src="http://sathyabh.at/wp-content/uploads/2016/08/Biscuit-Rotti-and-Sheera.jpg" alt="Biscuit Rotti and Sheera" width="1600" height="1197" />
+  <img class="size-full wp-image-1012" src="https://sathyabh.at/wp-content/uploads/2016/08/Biscuit-Rotti-and-Sheera.jpg" alt="Biscuit Rotti and Sheera" width="1600" height="1197" />
   
   <p class="wp-caption-text">
     Biscuit Rotti and Sheera

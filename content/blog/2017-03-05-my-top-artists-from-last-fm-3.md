@@ -11,6 +11,6 @@ tags:
   - music
 
 ---
-♫ My Top 5 <a href="http://last.fm" target="_blank">Last.fm</a> artists: Daft Punk (6), Gorillaz (3), Barns Courtney (2), deadmau5 (2) & Ghost (2) #music
+♫ My Top 5 <a href="https://last.fm" target="_blank">Last.fm</a> artists: Daft Punk (6), Gorillaz (3), Barns Courtney (2), deadmau5 (2) & Ghost (2) #music
 
 <small><a href="https://tweekly.fm">Powered by Tweekly.fm</a></small>

@@ -19,7 +19,7 @@ tags:
   - SQL
 
 ---
-I spotted this question on Super User about <a href="http://superuser.com/q/197453/4377" target="_blank">creating parameterized queries in Excel 2007</a> and attempted to answer it &#8211; as I thought it would be pretty easy.
+I spotted this question on Super User about <a href="https://superuser.com/q/197453/4377" target="_blank">creating parameterized queries in Excel 2007</a> and attempted to answer it &#8211; as I thought it would be pretty easy.
 
 And well &#8211; it was easy &#8211; the part part where you create the query, that is. Now creating _**parameterized**_ queries &#8211; now that&#8217;s something totally different. I searched around a bit for documentation on doing so &#8211; and found that any articles on the same were woefully inadequate. To be specific: There are plenty of articles on how to _change_ the parameters &#8211; just head over to Properties -> Query Definition -> Parameters. Ok, cool. Now hang on, the Parameters button is disabled. How the heck am I supposed to get it enabled ? I had a ball of a time trying to figure out a way to do it &#8211; and in the end, found the answer, and posted it. Figured might as well post it here for my reference&#8230; and for others who are searching for a way to do the same.
 
@@ -53,9 +53,9 @@ To edit the parameters, click on Data -> Properties -> Finger icon -> Definition
 
 ![][6]
 
- [1]: http://i.imgur.com/xgNTl.jpg
- [2]: http://i.imgur.com/UfJ1F.png
- [3]: http://i.imgur.com/TnJoi.png
- [4]: http://i.imgur.com/a2l5C.png
- [5]: http://i.imgur.com/XXhfs.png
- [6]: http://i.imgur.com/NgXxc.png
+ [1]: https://i.imgur.com/xgNTl.jpg
+ [2]: https://i.imgur.com/UfJ1F.png
+ [3]: https://i.imgur.com/TnJoi.png
+ [4]: https://i.imgur.com/a2l5C.png
+ [5]: https://i.imgur.com/XXhfs.png
+ [6]: https://i.imgur.com/NgXxc.png

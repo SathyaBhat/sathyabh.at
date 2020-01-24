@@ -19,7 +19,7 @@ tags:
 ---
 Yup, that&#8217;s right! I will leaving for Delhi tomorrow night <span style="text-decoration: line-through;">who&#8217;s </span><span style="text-decoration: line-through;">going to get married</span> to attend my teammate&#8217;s wedding on Sunday. So why am I leaving so early? Sight seeing 😀 \:D/ ! Will be reaching Delhi tomorrow night(taking a flight, scheduled for departure at 20:30), we have an elaborate &#8220;schedule&#8221; all planned out. Lets see how it goes!
 
-Will keep twittering about it, <a href="http://www.twitter.com/sathyabhat/" target="_blank">follow me</a> and you&#8217;ll know more!
+Will keep twittering about it, <a href="https://www.twitter.com/sathyabhat/" target="_blank">follow me</a> and you&#8217;ll know more!
 
 Update: I was sent a text file containing the &#8220;elaborate schedule&#8221; I was speaking about, here it goes:
 

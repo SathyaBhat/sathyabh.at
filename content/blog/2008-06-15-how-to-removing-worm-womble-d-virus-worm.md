@@ -26,7 +26,7 @@ tags:
 ---
 </p> 
 
-Well as mentioned <a href="http://sathyabh.at/2008/06/15/my-laptop-gets-an-attack/" target="_blank">here</a> my system was infected by this worm, so I thought I’d do a short post on how to fix this, as most Anti Virus Programs don’t get rid of this cleanly.
+Well as mentioned <a href="https://sathyabh.at/2008/06/15/my-laptop-gets-an-attack/" target="_blank">here</a> my system was infected by this worm, so I thought I’d do a short post on how to fix this, as most Anti Virus Programs don’t get rid of this cleanly.
 
 First thing, if you’re on the internet, GO OFFLINE! Disconnect, switch off the modem/router, pull the LAN/USB cable, just go offline. This is critical. Why you may ask?
 
@@ -148,5 +148,5 @@ Delete the WinTools folder. After this your system should be free from the worm
 [ad]</p> 
 
 <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:82947d79-0f6e-4875-b8be-314c29dd3633" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a href="http://technorati.com/tags/sathyabh.at" rel="tag">sathyabh.at</a>,<a href="http://technorati.com/tags/myworld" rel="tag">myworld</a>,<a href="http://technorati.com/tags/sathya" rel="tag">sathya</a>,<a href="http://technorati.com/tags/virus" rel="tag">virus</a>,<a href="http://technorati.com/tags/worm" rel="tag">worm</a>,<a href="http://technorati.com/tags/AV" rel="tag">AV</a>,<a href="http://technorati.com/tags/antivirus" rel="tag">antivirus</a>,<a href="http://technorati.com/tags/womble" rel="tag">womble</a>,<a href="http://technorati.com/tags/Womble.d" rel="tag">Womble.d</a>,<a href="http://technorati.com/tags/cleanup" rel="tag">cleanup</a>,<a href="http://technorati.com/tags/tips" rel="tag">tips</a>,<a href="http://technorati.com/tags/tutorials" rel="tag">tutorials</a>,<a href="http://technorati.com/tags/AVG" rel="tag">AVG</a>,<a href="http://technorati.com/tags/NOD32" rel="tag">NOD32</a>,<a href="http://technorati.com/tags/Kaspersky" rel="tag">Kaspersky</a>
+  Technorati Tags: <a href="https://technorati.com/tags/sathyabh.at" rel="tag">sathyabh.at</a>,<a href="https://technorati.com/tags/myworld" rel="tag">myworld</a>,<a href="https://technorati.com/tags/sathya" rel="tag">sathya</a>,<a href="https://technorati.com/tags/virus" rel="tag">virus</a>,<a href="https://technorati.com/tags/worm" rel="tag">worm</a>,<a href="https://technorati.com/tags/AV" rel="tag">AV</a>,<a href="https://technorati.com/tags/antivirus" rel="tag">antivirus</a>,<a href="https://technorati.com/tags/womble" rel="tag">womble</a>,<a href="https://technorati.com/tags/Womble.d" rel="tag">Womble.d</a>,<a href="https://technorati.com/tags/cleanup" rel="tag">cleanup</a>,<a href="https://technorati.com/tags/tips" rel="tag">tips</a>,<a href="https://technorati.com/tags/tutorials" rel="tag">tutorials</a>,<a href="https://technorati.com/tags/AVG" rel="tag">AVG</a>,<a href="https://technorati.com/tags/NOD32" rel="tag">NOD32</a>,<a href="https://technorati.com/tags/Kaspersky" rel="tag">Kaspersky</a>
 </div>

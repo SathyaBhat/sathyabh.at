@@ -250,6 +250,6 @@ Map of the day&#8217;s journey
 
 ### Previously
 
-  * <a href="http://sathyabh.at/2016/08/02/the-1800km-coastal-karnataka-roadtrip-part-1-bangalore-mangalore/" target="_blank">The 1800km Roadtrip, Part 1</a>
-  * <a href="http://sathyabh.at/2016/08/12/the-1800km-coastal-karnataka-roadtrip-part-2-mangalore-kaup-udupi-malpe/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 2 – Mangalore – Kaup &#8211; Udupi &#8211; Malpe</a>
-  * <a href="http://sathyabh.at/2016/08/25/the-1800km-coastal-karnataka-roadtrip-part-3-malpe-kavimane-jog/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 3 &#8211; Malpe &#8211; Kavimane &#8211; Jog</a>
+  * <a href="https://sathyabh.at/2016/08/02/the-1800km-coastal-karnataka-roadtrip-part-1-bangalore-mangalore/" target="_blank">The 1800km Roadtrip, Part 1</a>
+  * <a href="https://sathyabh.at/2016/08/12/the-1800km-coastal-karnataka-roadtrip-part-2-mangalore-kaup-udupi-malpe/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 2 – Mangalore – Kaup &#8211; Udupi &#8211; Malpe</a>
+  * <a href="https://sathyabh.at/2016/08/25/the-1800km-coastal-karnataka-roadtrip-part-3-malpe-kavimane-jog/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 3 &#8211; Malpe &#8211; Kavimane &#8211; Jog</a>

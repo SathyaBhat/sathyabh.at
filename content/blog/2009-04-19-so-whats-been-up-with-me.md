@@ -47,11 +47,11 @@ Maybe a tweetup with [Sindhu][6]{#aptureLink_9MLmMrDR2v}, [Manish][7]{#aptureLin
 
 Cheers till then!
 
- [1]: http://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=29.876617%2C-97.940336&hl=en&z=13&ie=UTF8
- [2]: http://www.beingmanan.com/wp/2009/04/the-im-a-pc-sticker-give-away/
- [3]: http://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/
+ [1]: https://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=29.876617%2C-97.940336&hl=en&z=13&ie=UTF8
+ [2]: https://www.beingmanan.com/wp/2009/04/the-im-a-pc-sticker-give-away/
+ [3]: https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/
  [4]: ../2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/
- [5]: http://aalaap.com/
- [6]: http://sindhu-s.com/
- [7]: http://blog.manishsinha.net/
- [8]: http://twitter.com/SwaroopH
+ [5]: https://aalaap.com/
+ [6]: https://sindhu-s.com/
+ [7]: https://blog.manishsinha.net/
+ [8]: https://twitter.com/SwaroopH

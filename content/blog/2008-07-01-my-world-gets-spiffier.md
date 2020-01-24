@@ -26,9 +26,9 @@ So how do you like the new theme? Drop by a comment and let me know!
 
 Cheers!
 
- [1]: http://www.wpthemesfree.com/view.php?theme_id=1908
- [2]: http://i31.tinypic.com/2hx0fb9.jpg
- [3]: http://santoshgs.com/
- [4]: http://twitter.com/SathyaBhat/statuses/846979118
- [5]: http://twitter.com/SathyaBhat/statuses/847545611
- [6]: http://twitter.com/SathyaBhat/statuses/847411568
+ [1]: https://www.wpthemesfree.com/view.php?theme_id=1908
+ [2]: https://i31.tinypic.com/2hx0fb9.jpg
+ [3]: https://santoshgs.com/
+ [4]: https://twitter.com/SathyaBhat/statuses/846979118
+ [5]: https://twitter.com/SathyaBhat/statuses/847545611
+ [6]: https://twitter.com/SathyaBhat/statuses/847411568

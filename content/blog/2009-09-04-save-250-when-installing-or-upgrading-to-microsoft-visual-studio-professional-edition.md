@@ -41,5 +41,5 @@ PS: Yes, I&#8217;m back in India. Will update soon 😐
 
 PPS: You can use Express Edition and save $800 &#8211;  but thats according to your requirements
 
- [1]: http://store.microsoft.com/microsoft/Visual-Studio-2008-Professional-Edition-Upgrade/product/7157765E
- [2]: http://social.msdn.microsoft.com/Forums/en-US/Vsexpressvcs/thread/b1c06113-db07-4e8b-b71e-a51a4937e9dc
+ [1]: https://store.microsoft.com/microsoft/Visual-Studio-2008-Professional-Edition-Upgrade/product/7157765E
+ [2]: https://social.msdn.microsoft.com/Forums/en-US/Vsexpressvcs/thread/b1c06113-db07-4e8b-b71e-a51a4937e9dc

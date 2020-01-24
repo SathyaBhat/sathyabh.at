@@ -23,7 +23,7 @@ tags:
   * A bit of patience
 
 1. Getting the latest drivers.  
-Unfortunately, the drivers from nvidia&#8217;s site won&#8217;t work for a laptop, as they don&#8217;t recognize the mobile versions. What you need are drivers from http://www.laptopvideo2go.com Also do note that NOT ALL drivers support OC&#8217;ing. The latest that I tried were 171.16.
+Unfortunately, the drivers from nvidia&#8217;s site won&#8217;t work for a laptop, as they don&#8217;t recognize the mobile versions. What you need are drivers from https://www.laptopvideo2go.com Also do note that NOT ALL drivers support OC&#8217;ing. The latest that I tried were 171.16.
 
 Grab the latest drivers from [here][1]. Also, pick up the modified inf files from the same thread. Now extract the downloaded drivers to a folder(the .exe is a self extracting 7z compressed file). Next, goto the folder where the drivers are extracted. Replace the inf file with the modded inf file you have downloaded. DO NOT run the setup.exe file. You will have to update the drivers manually, using the Have Disk Method.  
 To do this, goto Control Panel, Double click the System, Click on Hardware Tab and Choose the Device Manager. Expand Display adapters, right click on the 8600m GT and Click on Properties. Click on Driver tab, and Choose update drivers.  
@@ -65,11 +65,11 @@ OC&#8217;d speeds: 630/505(any higher than 640 would give artifacts, so to give 
 
 Nearly a 1000point increase. I think increasing the mem clock I can crack the 4500 mark, but with the current clocks, the peak temp is 66, so I&#8217;m happy \:D/
 
- [1]: http://www.laptopvideo2go.com/forum/index.php?showforum=73
- [2]: http://img225.imageshack.us/img225/2740/updatexm8.jpg
- [3]: http://img136.imageshack.us/img136/1663/update1bb8.jpg
- [4]: http://img218.imageshack.us/img218/8094/update2nf2.jpg
- [5]: http://img221.imageshack.us/img221/601/update3bz2.jpg
- [6]: http://img221.imageshack.us/img221/8127/atitoolmo3.jpg
- [7]: http://img240.imageshack.us/img240/518/noartifactsrz8.jpg
- [8]: http://img233.imageshack.us/img233/8664/artifactslo6.jpg
+ [1]: https://www.laptopvideo2go.com/forum/index.php?showforum=73
+ [2]: https://img225.imageshack.us/img225/2740/updatexm8.jpg
+ [3]: https://img136.imageshack.us/img136/1663/update1bb8.jpg
+ [4]: https://img218.imageshack.us/img218/8094/update2nf2.jpg
+ [5]: https://img221.imageshack.us/img221/601/update3bz2.jpg
+ [6]: https://img221.imageshack.us/img221/8127/atitoolmo3.jpg
+ [7]: https://img240.imageshack.us/img240/518/noartifactsrz8.jpg
+ [8]: https://img233.imageshack.us/img233/8664/artifactslo6.jpg

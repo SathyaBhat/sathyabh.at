@@ -15,6 +15,6 @@ tags:
   - magazine
 
 ---
-<span style="text-decoration: line-through;">Read this tweet by LinuxJournal. Downloaded it, and it rocks<br /> Get your free copy, download it from <a href="http://www.linuxjournal.com/dlissue" target="_blank">here</a>.</span>
+<span style="text-decoration: line-through;">Read this tweet by LinuxJournal. Downloaded it, and it rocks<br /> Get your free copy, download it from <a href="https://www.linuxjournal.com/dlissue" target="_blank">here</a>.</span>
 
 😳 published on the wrong blog. Sorry! More on Linux on my Linux blog

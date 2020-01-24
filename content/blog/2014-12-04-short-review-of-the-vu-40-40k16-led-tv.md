@@ -81,7 +81,7 @@ I inquired about panel replacement for dead/light up pixels &#8211; the rep ment
 
 ### Pricing and Verdict
 
-The Vu 40&#8243; 40k16 model is priced at a MRP of about  ₹35,000 &#8211; and you&#8217;ll find it on <a title="Flipkart listing for 40k16" href="http://www.flipkart.com/vu-40k16-101-cm-40-led-tv/p/itmduh4jupmeqeqw?q=VU+40K16+101+cm+%2840%29+LED+TV&as=on&affid=sathyasath&as-show=on&otracker=start&as-pos=p_1_40k16&pid=TVSDUH4JUPMEQEQW" target="_blank">Flipkart</a> or <a href="http://www.snapdeal.com/product/vu-technologies-40-inch-40k16/530676301?utm_source=aff_prog&utm_campaign=afts&offer_id=17&aff_id=27728" target="_blank">Snapdeal</a> at about  ₹29000. During the <a href="http://blog.snapdeal.com/snapdeal-savings-day-1111-savings-like-never-before/" target="_blank">Snapdeals savings day</a>, the 40k16 was available for ₹24,990 and I bought it after doing some research and opinions from folks on twitter &#8211; and I should say it&#8217;s been a good purchase so far.
+The Vu 40&#8243; 40k16 model is priced at a MRP of about  ₹35,000 &#8211; and you&#8217;ll find it on <a title="Flipkart listing for 40k16" href="https://www.flipkart.com/vu-40k16-101-cm-40-led-tv/p/itmduh4jupmeqeqw?q=VU+40K16+101+cm+%2840%29+LED+TV&as=on&affid=sathyasath&as-show=on&otracker=start&as-pos=p_1_40k16&pid=TVSDUH4JUPMEQEQW" target="_blank">Flipkart</a> or <a href="https://www.snapdeal.com/product/vu-technologies-40-inch-40k16/530676301?utm_source=aff_prog&utm_campaign=afts&offer_id=17&aff_id=27728" target="_blank">Snapdeal</a> at about  ₹29000. During the <a href="https://blog.snapdeal.com/snapdeal-savings-day-1111-savings-like-never-before/" target="_blank">Snapdeals savings day</a>, the 40k16 was available for ₹24,990 and I bought it after doing some research and opinions from folks on twitter &#8211; and I should say it&#8217;s been a good purchase so far.
 
 So overall: if you&#8217;re looking for a great budget TV, I&#8217;d definitely recommend the Vu 40k16.
 
@@ -97,4 +97,4 @@ So overall: if you&#8217;re looking for a great budget TV, I&#8217;d definitely 
   * Visible backlight bleed, especially with dark background
   * Meh sound quality
 
- [1]: http://ogleit.in
+ [1]: https://ogleit.in

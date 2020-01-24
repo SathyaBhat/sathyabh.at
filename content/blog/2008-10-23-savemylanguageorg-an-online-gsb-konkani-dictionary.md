@@ -16,8 +16,8 @@ tags:
   - savemylanguage
 
 ---
-I&#8217;m not sure how exactly this conversation came about but @prolificd casually tweeted me, asking me If I&#8217;d heard of <a href="http://www.savemylanguage.org/app/home.php" target="_blank">savemylanguage.org</a> I replied no, and checked it &#8211; and it turned out to be an awesome site.
+I&#8217;m not sure how exactly this conversation came about but @prolificd casually tweeted me, asking me If I&#8217;d heard of <a href="https://www.savemylanguage.org/app/home.php" target="_blank">savemylanguage.org</a> I replied no, and checked it &#8211; and it turned out to be an awesome site.
 
-Its got quite a lot of articles, a <a href="http://www.savemylanguage.org/konkani/wordindex.php" target="_blank">wordlist</a> of Konkani words in Devnagiri script, with meanings in English, and also an English To Konkani and Konkani to English translator. Unfortunately the translator didn&#8217;t quite work, even for a relatively simple &#8216;how are you doing&#8217; phrase. Regardless, its quite a good site, and you can even submit a Konkani word which is not there in the word list.
+Its got quite a lot of articles, a <a href="https://www.savemylanguage.org/konkani/wordindex.php" target="_blank">wordlist</a> of Konkani words in Devnagiri script, with meanings in English, and also an English To Konkani and Konkani to English translator. Unfortunately the translator didn&#8217;t quite work, even for a relatively simple &#8216;how are you doing&#8217; phrase. Regardless, its quite a good site, and you can even submit a Konkani word which is not there in the word list.
 
-Chceck the site &#8211; <a href="http://www.savemylanguage.org/app/home.php" target="_blank">SaveMyLanguage</a>
+Chceck the site &#8211; <a href="https://www.savemylanguage.org/app/home.php" target="_blank">SaveMyLanguage</a>

@@ -33,4 +33,4 @@ tags:
 
 Déjà vu all over. Must read.
 
- [1]: http://www.mcsweeneys.net/links/dreamjobs/dreamjobs5.html
+ [1]: https://www.mcsweeneys.net/links/dreamjobs/dreamjobs5.html

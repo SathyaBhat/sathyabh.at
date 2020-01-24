@@ -11,6 +11,6 @@ tags:
   - music
 
 ---
-♫ My Top 5 <a href="http://last.fm" target="_blank">Last.fm</a> artists: Jamestown Revival (34), Coast Modern (6), Miike Snow (6), Susto (5) & Dawes (4) #music
+♫ My Top 5 <a href="https://last.fm" target="_blank">Last.fm</a> artists: Jamestown Revival (34), Coast Modern (6), Miike Snow (6), Susto (5) & Dawes (4) #music
 
 <small><a href="https://tweekly.fm">Powered by Tweekly.fm</a></small>

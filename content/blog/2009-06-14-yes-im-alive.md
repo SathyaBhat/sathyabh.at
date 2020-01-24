@@ -62,12 +62,12 @@ So what&#8217;s in the future &#8211; I&#8217;m going to complete 2 years of wor
 
 Besides these I&#8217;m also contemplating starting a gaming blog. With work relaxing in the upcoming days (hopefully) I should be able to devote more time to these. Well that&#8217;s about it for now. More updates soon!
 
- [1]: http://en.wikipedia.org/wiki/Texas
- [2]: http://farm4.static.flickr.com/3628/3623341387_2a15ba31a7_m.jpg
- [3]: http://www.flickr.com/photos/sathyabhat/sets/72157619709230492/
- [4]: http://farm4.static.flickr.com/3649/3602608078_9661a4a9bc_m.jpg
- [5]: http://farm4.static.flickr.com/3336/3601773425_5bce7cd3a0_m.jpg
- [6]: http://farm4.static.flickr.com/3611/3601754801_7cd5acf7e3_m.jpg
- [7]: http://farm3.static.flickr.com/2434/3623721624_84bfd54bc7_m.jpg
- [8]: http://www.aicpcu.org/flyers/INS.htm
- [9]: http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=39&p_org_id=1001&lang=US
+ [1]: https://en.wikipedia.org/wiki/Texas
+ [2]: https://farm4.static.flickr.com/3628/3623341387_2a15ba31a7_m.jpg
+ [3]: https://www.flickr.com/photos/sathyabhat/sets/72157619709230492/
+ [4]: https://farm4.static.flickr.com/3649/3602608078_9661a4a9bc_m.jpg
+ [5]: https://farm4.static.flickr.com/3336/3601773425_5bce7cd3a0_m.jpg
+ [6]: https://farm4.static.flickr.com/3611/3601754801_7cd5acf7e3_m.jpg
+ [7]: https://farm3.static.flickr.com/2434/3623721624_84bfd54bc7_m.jpg
+ [8]: https://www.aicpcu.org/flyers/INS.htm
+ [9]: https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=39&p_org_id=1001&lang=US

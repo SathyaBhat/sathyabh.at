@@ -29,7 +29,7 @@ Speaking of breaks &#8211; its been quite sometime since I took a break &#8211; 
 The plan was that I&#8217;d reach Bangalore on 1st morning ( yeah, was travelling on 31st night boo!), Rakesh & Smi would join at Rac&#8217;s place the same day while Prasad would join the next day. Sid couldn&#8217;t make it to the meet unfortunately. I reached Bangalore at ~ 05:45, and though I had heard it was cold, it didn&#8217;t expect it to be \_this\_ cold:
 
 <p style="text-align: center;">
-  <a title="Share photos on twitter with Twitpic" href="http://twitpic.com/w478i"><img class="aligncenter" src="http://twitpic.com/show/thumb/w478i.jpg" alt="Share photos on twitter with Twitpic" width="150" height="150" /></a>
+  <a title="Share photos on twitter with Twitpic" href="https://twitpic.com/w478i"><img class="aligncenter" src="https://twitpic.com/show/thumb/w478i.jpg" alt="Share photos on twitter with Twitpic" width="150" height="150" /></a>
 </p>
 
 Brr.  Anyhow the rest of the day I was Rac&#8217;s place, just catching up, talking and wondering and discussing who is now at which place. Later on in the evening we decided to move to Amoeba for a game of bowling &#8211; and were er, disappointed to say the least once there. Being a holiday, and a weekend, there was a mad rush which mean a waiting time of 2 and half _hours_. For bowling. Yeah. Not too keen on waiting for that long, we didn&#8217;t bother signing up for bowling, rather went to the top floor where bunch of arcade games were there, played a game of throw-thebasketball-over-the-barrier and won a bunch of ticket :)) &#8211; handed them over to Rac for &#8220;later use&#8221; 😛
@@ -44,7 +44,7 @@ After stomachs (half) full, we went roaming about the mall a bit, and then to th
 
 The bowling game was meh for me &#8211; I started out OK but then things got rather embarrassing.  We wrapped the game, and Rakesh, Prasad and me headed over to [Windsor][11]{#aptureLink_DykpsRLbvh}. Upon reaching there we found that Ashwin couldn&#8217;t quite wait for us and started off on Beer & Fries already (grr..). After the initial introductions, Ashwin informed that 2 of his buddies, Paresh and Shreenidhi would join us. We had a great time (well I hope the others did, I surelt did), talking about music, work, life over Beer, French Fries, Fried Squid Rings(which nearly choked Shreenidhi 😛 ), Rajah&#8217;s Special, Fried Fish(Pomfret to be specific) &#8211; [good times indeed][12]{#aptureLink_GKjmQmZdZM} .
 
-<a id="aptureLink_PcOuPh8GgM" style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="http://www.flickr.com/photos/sathyabhat/4247899368/"><img style="border: 0px none;" title="IMG_0510" src="http://farm5.static.flickr.com/4033/4247899368_c9e84c8dac.jpg" alt="" width="500px" height="370px" /></a>
+<a id="aptureLink_PcOuPh8GgM" style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="https://www.flickr.com/photos/sathyabhat/4247899368/"><img style="border: 0px none;" title="IMG_0510" src="https://farm5.static.flickr.com/4033/4247899368_c9e84c8dac.jpg" alt="" width="500px" height="370px" /></a>
 
 <p style="text-align: center;">
   <em> ( from L &#8211; Rakesh, Me, Prasad, Paresh, Shreenidhi, Ashwin)</em>
@@ -60,13 +60,13 @@ Will try to squeeze in a post about the previous year, till then &#8211; Ciao!
 
  [1]: ../2009/09/29/back-in-india/
  [2]: ../2008/11/10/my-last-few-days-in-india/
- [3]: http://bangalore.burrp.com/listing/vaayu-sky-lounge_brigade-road_bangalore_bars-pubs-lounges/129874980
- [4]: http://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=12.9879708%2C77.594558&hl=en&z=16&ie=UTF8
- [5]: http://en.wikipedia.org/wiki/Quesadilla
- [6]: http://en.wikipedia.org/wiki/Enchilada
- [7]: http://twitter.com/SathyaBhat/status/7296683969
- [8]: http://twitter.com/SathyaBhat/status/7297356735
- [9]: http://twitter.com/SathyaBhat/status/7297542537
- [10]: http://twitter.com/ashwinsid
- [11]: http://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=12.9948313%2C77.5948268&hl=en&z=16&ie=UTF8
- [12]: http://twitter.com/ashwinsid/status/7303101713
+ [3]: https://bangalore.burrp.com/listing/vaayu-sky-lounge_brigade-road_bangalore_bars-pubs-lounges/129874980
+ [4]: https://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=12.9879708%2C77.594558&hl=en&z=16&ie=UTF8
+ [5]: https://en.wikipedia.org/wiki/Quesadilla
+ [6]: https://en.wikipedia.org/wiki/Enchilada
+ [7]: https://twitter.com/SathyaBhat/status/7296683969
+ [8]: https://twitter.com/SathyaBhat/status/7297356735
+ [9]: https://twitter.com/SathyaBhat/status/7297542537
+ [10]: https://twitter.com/ashwinsid
+ [11]: https://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=12.9948313%2C77.5948268&hl=en&z=16&ie=UTF8
+ [12]: https://twitter.com/ashwinsid/status/7303101713

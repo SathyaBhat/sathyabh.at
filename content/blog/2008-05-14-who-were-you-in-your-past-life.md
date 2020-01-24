@@ -40,4 +40,4 @@ Remember&#8230;errr.. No.  But a Chinese? Hmmm&#8230;
 
 Do post in the comments about what it said about you!
 
- [1]: http://www.thebigview.com/pastlife/index.html
+ [1]: https://www.thebigview.com/pastlife/index.html

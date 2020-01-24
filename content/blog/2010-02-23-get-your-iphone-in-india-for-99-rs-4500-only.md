@@ -20,7 +20,7 @@ That got your attention ? Well, brace up, this is a rant.
 
 <!--more-->
 
-_Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, _long, long ago. I decided to post this because people keep saying the same old shit &#8211; &#8216;its only 4k in US blah blah. This post was triggered by that guy <a href="http://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav &#8211; if you&#8217;re trying to reject this &#8211;_ 
+_Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, _long, long ago. I decided to post this because people keep saying the same old shit &#8211; &#8216;its only 4k in US blah blah. This post was triggered by that guy <a href="https://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav &#8211; if you&#8217;re trying to reject this &#8211;_ 
 
 > <div>
 >   <div>
@@ -78,7 +78,7 @@ _Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, 
   </p>
   
   <p>
-    Requires new <strong>two-year AT&T wireless service contract</strong>, sold separately to qualified customers; <strong>credit check</strong> required; must be 18 or older. Existing AT&T customers who want to upgrade from another phone or replace an iPhone 3G should check with AT&T or use http://www.apple.com/iphone/buy to find out if they are eligible for early upgrade pricing: $299 (8GB), $399 (16GB), or $499 (32GB) with a new two-year contract.
+    Requires new <strong>two-year AT&T wireless service contract</strong>, sold separately to qualified customers; <strong>credit check</strong> required; must be 18 or older. Existing AT&T customers who want to upgrade from another phone or replace an iPhone 3G should check with AT&T or use https://www.apple.com/iphone/buy to find out if they are eligible for early upgrade pricing: $299 (8GB), $399 (16GB), or $499 (32GB) with a new two-year contract.
   </p>
   
   <p>
@@ -122,4 +122,4 @@ _Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, 
   /rant
 </div>
 
- [1]: http://txtb.in/6LV
+ [1]: https://txtb.in/6LV

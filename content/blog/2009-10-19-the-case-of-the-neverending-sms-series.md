@@ -33,7 +33,7 @@ Anyways back to the post,  couple of days ago, as I was spending time in mornin
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://kurast.sathyabh.at/wp-content/uploads/2009/10/sms-spam.jpg"><img class="size-medium wp-image-309 aligncenter" title="sms-spam" src="http://kurast.sathyabh.at/wp-content/uploads/2009/10/sms-spam-200x300.jpg" alt="sms-spam" width="200" height="300" /></a>
+  <a href="https://kurast.sathyabh.at/wp-content/uploads/2009/10/sms-spam.jpg"><img class="size-medium wp-image-309 aligncenter" title="sms-spam" src="https://kurast.sathyabh.at/wp-content/uploads/2009/10/sms-spam-200x300.jpg" alt="sms-spam" width="200" height="300" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -45,16 +45,16 @@ Anyways back to the post,  couple of days ago, as I was spending time in mornin
 </p>
 
 <p style="text-align: left;">
-  Finally, I was able to connect to Cydia and install iBlacklist. Next step was to figure out, who this bugger was. <a id="aptureLink_RXWH1RdHhL" href="http://suksy.com">Suksy</a> pointed me to a site where I could get <a id="aptureLink_uasxpRHsQq" href="http://trace.bharatiyamobile.com/">details on approximate location</a>, based on the number (thanks dude &#8211; much appreciated!) & figured that this bugger is a Chennai guy and has a Vodafone connection. Next up called Airtel and spoke to them about my predicament. Airtel customer care mentioned that since it was a Vodafone number they couldn&#8217;t do much, but they informed me to call up Vodafone customer care or the Cyber Crime cell. I tried to  give Vodafone Vodafail customer care number but all I got was a &#8220;Number is too busy&#8221;. ENTIRE FREAKING DAY. Ever heard of Customer Care numbers being busy whole day ? Yeah.
+  Finally, I was able to connect to Cydia and install iBlacklist. Next step was to figure out, who this bugger was. <a id="aptureLink_RXWH1RdHhL" href="https://suksy.com">Suksy</a> pointed me to a site where I could get <a id="aptureLink_uasxpRHsQq" href="https://trace.bharatiyamobile.com/">details on approximate location</a>, based on the number (thanks dude &#8211; much appreciated!) & figured that this bugger is a Chennai guy and has a Vodafone connection. Next up called Airtel and spoke to them about my predicament. Airtel customer care mentioned that since it was a Vodafone number they couldn&#8217;t do much, but they informed me to call up Vodafone customer care or the Cyber Crime cell. I tried to  give Vodafone Vodafail customer care number but all I got was a &#8220;Number is too busy&#8221;. ENTIRE FREAKING DAY. Ever heard of Customer Care numbers being busy whole day ? Yeah.
 </p>
 
 <p style="text-align: left;">
-  I posted on Chip forums if anyone had Vodafone number, Giri informed me that he was near a Vodafone centre and asked me to send the number over to him. <a id="aptureLink_TVLiiDB4gt" href="http://twitter.com/ashwinsid">Ashwin</a> also asked me to send over the number to him, and I did so.Giri replied couple of hours later informing me that Vodafone Vodafail is helpless and could not do anything ( HUH?? MORONS!). Anyhow at this time iBlacklist was taking care of the SMS and I got involved in work. Next day, I got a call from the same number (I&#8217;d setup the blacklist for SMS, not calls), the guy seemed frantic and kept saying he got the phone just yesterday, he has no idea how this happened, said he won&#8217;t do it again. (heh). He also mentioned something about getting calls from Bangalore and asking not to get his number barred (heh, Ashwin at work). Anyhow I said OK, OK in my broken Tamil never got a call or SMS from him. I did examine the blacklist history, and seems that there was close to 170 SMS that I received from him. With Rs. 0.25 charged per message, I can only feel sorry for the unwanted expenditure of the guy. Oh well.
+  I posted on Chip forums if anyone had Vodafone number, Giri informed me that he was near a Vodafone centre and asked me to send the number over to him. <a id="aptureLink_TVLiiDB4gt" href="https://twitter.com/ashwinsid">Ashwin</a> also asked me to send over the number to him, and I did so.Giri replied couple of hours later informing me that Vodafone Vodafail is helpless and could not do anything ( HUH?? MORONS!). Anyhow at this time iBlacklist was taking care of the SMS and I got involved in work. Next day, I got a call from the same number (I&#8217;d setup the blacklist for SMS, not calls), the guy seemed frantic and kept saying he got the phone just yesterday, he has no idea how this happened, said he won&#8217;t do it again. (heh). He also mentioned something about getting calls from Bangalore and asking not to get his number barred (heh, Ashwin at work). Anyhow I said OK, OK in my broken Tamil never got a call or SMS from him. I did examine the blacklist history, and seems that there was close to 170 SMS that I received from him. With Rs. 0.25 charged per message, I can only feel sorry for the unwanted expenditure of the guy. Oh well.
 </p>
 
 <p style="text-align: left;">
   On the brightside, I&#8217;ve noticed that iBlacklist is an awesome app. Will post more on it soon.
 </p>
 
- [1]: http://www.flickr.com/photos/sathyabhat/4025641571/
- [2]: http://krishashok.wordpress.com/2009/10/16/dear-lonely-planet/
+ [1]: https://www.flickr.com/photos/sathyabhat/4025641571/
+ [2]: https://krishashok.wordpress.com/2009/10/16/dear-lonely-planet/

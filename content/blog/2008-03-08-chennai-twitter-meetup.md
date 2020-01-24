@@ -30,5 +30,5 @@ If you&#8217;re a twitterer in Chennai and would like to be part of the meetup t
 
 Cheers guys and have a good time
 
- [1]: http://www.kiruba.com/
- [2]: http://tweetup.pbwiki.com/
+ [1]: https://www.kiruba.com/
+ [2]: https://tweetup.pbwiki.com/

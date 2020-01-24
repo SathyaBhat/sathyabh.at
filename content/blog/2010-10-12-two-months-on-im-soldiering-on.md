@@ -44,12 +44,12 @@ In other gadget news, I&#8217;ve purchased some new goodies &#8211; the [Denon 
 
 Also found couple of Mangaloreans near Arlington, hoping to meet them soon. So let&#8217;s see how it goes. Will post an update soon.
 
- [1]: http://sathyabh.at/2010/08/08/heading-back-to-austin/
- [2]: http://sathyabh.at/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/
- [3]: http://www.anuppimpalkhare.com/
- [4]: http://sathyabh.at/2008/12/21/a-visit-to-north-by-northwest/
- [5]: http://post.sathyabh.at/my-new-denon-ah-c360-is-here
- [6]: http://www.flickr.com/photos/sathyabhat/tags/envy/
- [7]: http://codinghorror.com
- [8]: http://post.sathyabh.at/yaaaay-the-d-link-dgl-4500-sent-by-codinghorr
- [9]: http://superuser.com/users/4377/sathya
+ [1]: https://sathyabh.at/2010/08/08/heading-back-to-austin/
+ [2]: https://sathyabh.at/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/
+ [3]: https://www.anuppimpalkhare.com/
+ [4]: https://sathyabh.at/2008/12/21/a-visit-to-north-by-northwest/
+ [5]: https://post.sathyabh.at/my-new-denon-ah-c360-is-here
+ [6]: https://www.flickr.com/photos/sathyabhat/tags/envy/
+ [7]: https://codinghorror.com
+ [8]: https://post.sathyabh.at/yaaaay-the-d-link-dgl-4500-sent-by-codinghorr
+ [9]: https://superuser.com/users/4377/sathya

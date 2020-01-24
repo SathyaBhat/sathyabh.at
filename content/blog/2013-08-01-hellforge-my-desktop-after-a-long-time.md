@@ -20,13 +20,13 @@ In mid Jan I finally decided to get a new desktop than fix my laptop. Anyway, af
 
 <!--more-->
 
-  * <a href="http://www.flipkart.com/intel-core-i5-3470/p/itmdd2xsg3gvjzrz?pid=PSRDD2HHC9GF4GEF&affid=sathyasath" target="_blank" rel="noopener noreferrer">Core i5 3470</a> (initially was a i3, but decided to move i5 thanks some light warning from Jayesh)
-  * <a href="http://www.flipkart.com/msi-zh77a-g41-motherboard/p/itmdeh3fjcdga8gc?pid=MBDDEG8JE46VYZ39&affid=sathyasath" target="_blank" rel="noopener noreferrer">MSI ZH77A-G41</a> Motherboard
-  * <a href="http://www.flipkart.com/corsair-vengeance-ddr3-8-gb-2-x-4-gb-pc-ram-cmz8gx3m2a1600c9r/p/itmddca5zbuhqesh?pid=RAMDDC9YQNNXFY3H&affid=sathyasath" target="_blank" rel="noopener noreferrer">Corsair Vengeance DDR3 8 GB (2 x 4 GB) PC RAM (CMZ8GX3M2A1600C9R)</a>
-  * <a href="http://www.amazon.in/Asus-STRIX-GTX970-DC2OC-4GD5-Graphic-Card/dp/B00NFFAW50?ie=UTF8&tag=mewoof-21&qid=1461004183&ref_=sr_1_1&sr=8-1" target="_blank" rel="noopener noreferrer">ASUS Strix 970</a> <del>Gigabyte 7750 GV-R775OC-1GI</del>
-  * <a href="http://www.flipkart.com/seasonic-s12ii-620-watts-psu/p/itmd5xz46hjzzrax?pid=PSUD5XZ4GCGRASAY&affid=sathyasath" target="_blank" rel="noopener noreferrer">Seasonic S12II 620 Watts PSU</a>
+  * <a href="https://www.flipkart.com/intel-core-i5-3470/p/itmdd2xsg3gvjzrz?pid=PSRDD2HHC9GF4GEF&affid=sathyasath" target="_blank" rel="noopener noreferrer">Core i5 3470</a> (initially was a i3, but decided to move i5 thanks some light warning from Jayesh)
+  * <a href="https://www.flipkart.com/msi-zh77a-g41-motherboard/p/itmdeh3fjcdga8gc?pid=MBDDEG8JE46VYZ39&affid=sathyasath" target="_blank" rel="noopener noreferrer">MSI ZH77A-G41</a> Motherboard
+  * <a href="https://www.flipkart.com/corsair-vengeance-ddr3-8-gb-2-x-4-gb-pc-ram-cmz8gx3m2a1600c9r/p/itmddca5zbuhqesh?pid=RAMDDC9YQNNXFY3H&affid=sathyasath" target="_blank" rel="noopener noreferrer">Corsair Vengeance DDR3 8 GB (2 x 4 GB) PC RAM (CMZ8GX3M2A1600C9R)</a>
+  * <a href="https://www.amazon.in/Asus-STRIX-GTX970-DC2OC-4GD5-Graphic-Card/dp/B00NFFAW50?ie=UTF8&tag=mewoof-21&qid=1461004183&ref_=sr_1_1&sr=8-1" target="_blank" rel="noopener noreferrer">ASUS Strix 970</a> <del>Gigabyte 7750 GV-R775OC-1GI</del>
+  * <a href="https://www.flipkart.com/seasonic-s12ii-620-watts-psu/p/itmd5xz46hjzzrax?pid=PSUD5XZ4GCGRASAY&affid=sathyasath" target="_blank" rel="noopener noreferrer">Seasonic S12II 620 Watts PSU</a>
   * Cabinet is a CM690 handed down to me, thanks to Kshitij aka Zoombas
-  * <a href="https://www.amazon.in/s/ref=sr_nr_n_12?fst=as%3Aoff&rh=n%3A1375379031%2Ck%3ASamsung+Evo&keywords=Samsung+Evo&ie=UTF8&tag=mewoof-21&qid=1461004321&rnid=3576079031" target="_blank" rel="noopener noreferrer">Samsung Evo 840 256GB</a> <del><a href="http://www.flipkart.com/seagate-barracuda-500-gb-desktop-internal-hard-drive-st500dm002/p/itmd4kwhyxz3mqwh?pid=IHDD4KWHWQGNZSBM&affid=sathyasath" target="_blank" rel="noopener noreferrer">Seagate 7200RPM ST500DM002</a></del>
+  * <a href="https://www.amazon.in/s/ref=sr_nr_n_12?fst=as%3Aoff&rh=n%3A1375379031%2Ck%3ASamsung+Evo&keywords=Samsung+Evo&ie=UTF8&tag=mewoof-21&qid=1461004321&rnid=3576079031" target="_blank" rel="noopener noreferrer">Samsung Evo 840 256GB</a> <del><a href="https://www.flipkart.com/seagate-barracuda-500-gb-desktop-internal-hard-drive-st500dm002/p/itmd4kwhyxz3mqwh?pid=IHDD4KWHWQGNZSBM&affid=sathyasath" target="_blank" rel="noopener noreferrer">Seagate 7200RPM ST500DM002</a></del>
   * Display&#8217;s my existing Dell UltraSharp U2312HM
 
 So the first thing that happened was that Flipkart logistics completely messed up the delivery. Despite my explicit request & their acknowledgement to deliver it after 5pm, it was delivered at 1pm, with me not at my house.
@@ -119,7 +119,7 @@ Temps after one round of 3D Mark 06 & 3D Mark Vantage
 
 ![KrC4JcB.png][23] 
 
-Over the past few months, I&#8217;ve been playing most of the games at 1080p at high, if not max details. Then again, I don&#8217;t play too demanding games (read: no to most FPS), so it&#8217;s all good. You can catch some of my <a href="http://www.youtube.com/user/SathyaSJBhat" target="_blank" rel="noopener noreferrer">gameplay videos on YouTube</a>.
+Over the past few months, I&#8217;ve been playing most of the games at 1080p at high, if not max details. Then again, I don&#8217;t play too demanding games (read: no to most FPS), so it&#8217;s all good. You can catch some of my <a href="https://www.youtube.com/user/SathyaSJBhat" target="_blank" rel="noopener noreferrer">gameplay videos on YouTube</a>.
 
 Some more notes:
 
@@ -136,7 +136,7 @@ Some more notes:
 
 Questions/comments? let me know! The full picture set is <a href="https://plus.google.com/photos/102438636933093151901/albums/5841334607223534849" target="_blank" rel="noopener noreferrer">available on G+, btw</a>.
 
-(PS: In case you&#8217;re wondering why &#8220;Hellforge&#8221; &#8211; most of my device hostnames are sourced from <a href="http://diablo.gamepedia.com/Lore_Summary" target="_blank" rel="noopener noreferrer">Diablo lore</a>, Hellforge is <a href="http://diablo.gamepedia.com/Hellforge" target="_blank" rel="noopener noreferrer">no exception</a>.)
+(PS: In case you&#8217;re wondering why &#8220;Hellforge&#8221; &#8211; most of my device hostnames are sourced from <a href="https://diablo.gamepedia.com/Lore_Summary" target="_blank" rel="noopener noreferrer">Diablo lore</a>, Hellforge is <a href="https://diablo.gamepedia.com/Hellforge" target="_blank" rel="noopener noreferrer">no exception</a>.)
 
  [1]: https://lh4.googleusercontent.com/-haKdxYf3H_0/URCW4IwI-nI/AAAAAAAACEs/Wq8C66Zh6RU/s681/IMG_20130204_191325.jpg
  [2]: https://lh6.googleusercontent.com/-6NKmQtCYE48/URCW4GOqOKI/AAAAAAAACEs/yH8VYoWAMOs/s908/IMG_20130204_211956.jpg
@@ -157,7 +157,7 @@ Questions/comments? let me know! The full picture set is <a href="https://plus.g
  [17]: https://lh5.googleusercontent.com/-rWXDsYasdd8/URcyaNWoa9I/AAAAAAAACQQ/gX7UqbwNGNY/s821/IMG_20130210_110445.jpg
  [18]: https://lh3.googleusercontent.com/-K8TV5lZQyz0/URc_jgUsyEI/AAAAAAAACRM/VUFsceWspy8/s821/IMG_20130210_120349.jpg
  [19]: https://lh6.googleusercontent.com/-okSWmtORRBk/URdBM6RGxxI/AAAAAAAACRY/_QEbBtRot5g/s821/IMG_20130210_121048.jpg
- [20]: http://valid.canardpc.com/2688681
- [21]: http://www.techpowerup.com/gpuz/5krs5/
- [22]: http://i.imgur.com/djxb9Pk.png
- [23]: http://i.imgur.com/KrC4JcB.png
+ [20]: https://valid.canardpc.com/2688681
+ [21]: https://www.techpowerup.com/gpuz/5krs5/
+ [22]: https://i.imgur.com/djxb9Pk.png
+ [23]: https://i.imgur.com/KrC4JcB.png

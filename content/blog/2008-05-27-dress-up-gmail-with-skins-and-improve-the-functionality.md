@@ -46,8 +46,8 @@ You can get Better Gmail from **<a href="https://addons.mozilla.org/en-US/firefo
 here&#8217;s a screenshot of my GMail after using Better Gmail
 
 <p style="text-align: center;">
-  <a href="http://flickr.com/photos/sathyabhat/2526350703/" target="_blank"><img class="aligncenter" src="http://farm3.static.flickr.com/2223/2526350703_87a06fc016_m.jpg" alt="Better GMail" width="240" height="134" /></a>
+  <a href="https://flickr.com/photos/sathyabhat/2526350703/" target="_blank"><img class="aligncenter" src="https://farm3.static.flickr.com/2223/2526350703_87a06fc016_m.jpg" alt="Better GMail" width="240" height="134" /></a>
 </p>
 
- [1]: http://gmail.com/
+ [1]: https://gmail.com/
  [2]: https://addons.mozilla.org/en-US/firefox/addon/748

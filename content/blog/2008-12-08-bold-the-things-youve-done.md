@@ -120,5 +120,5 @@ reblogged from [krishanu][2]:
 
 So what&#8217;ve you done from the list?
 
- [1]: http://cameracrazy-misty.blogspot.com/2008/12/bold-things-youve-done.html
- [2]: http://krishanu.de/post/63535824/bold-the-things-youve-done
+ [1]: https://cameracrazy-misty.blogspot.com/2008/12/bold-things-youve-done.html
+ [2]: https://krishanu.de/post/63535824/bold-the-things-youve-done

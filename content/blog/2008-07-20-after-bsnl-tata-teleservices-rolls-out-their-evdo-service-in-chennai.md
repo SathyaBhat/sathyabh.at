@@ -37,7 +37,7 @@ The USB modem is available for purchase only, unlike BSNL which offers the devic
 
 The Photon service device is also available as a router, for business and commercial purposes(I guess), with rather steep price tags.  Click here to read more on the [Router][4]
 
- [1]: http://sathyabh.at/2008/05/26/bsnl-evdo-availability-in-chennai/
- [2]: http://en.wikipedia.org/wiki/Cdma
- [3]: http://www.tataindicom.com/customer-service.aspx
- [4]: http://www.tataindicom.com/hsia-router.aspx
+ [1]: https://sathyabh.at/2008/05/26/bsnl-evdo-availability-in-chennai/
+ [2]: https://en.wikipedia.org/wiki/Cdma
+ [3]: https://www.tataindicom.com/customer-service.aspx
+ [4]: https://www.tataindicom.com/hsia-router.aspx

@@ -15,7 +15,7 @@ tags:
 ---
 I had originally wanted to publish this back in late August when I shifted from Borg Cube to Borg Cube Grande.. ie, my new home.. but #lazybhat happened and I never got around to finishing that.
 
-Since shifting to Bangalore, I&#8217;d been staying in a tiny 1BHK house in Murugeshpalya, off Old Airport Road. Back then, I&#8217;d chosen this place mainly for it&#8217;s proximity to my workplace &#8211; at about 4.4km, it takes me an average of 15 minutes to a maximum of 30 minutes to reach office. With 335E plying in copious amounts, heading to office or to Majestic to head back home was quite easy too. 2 years in, I decided to to move to a bigger place, so that things are all set when the inevitable <a title="#cpgweds" href="http://cpgweds.com" target="_blank">#cpgweds</a> happens.
+Since shifting to Bangalore, I&#8217;d been staying in a tiny 1BHK house in Murugeshpalya, off Old Airport Road. Back then, I&#8217;d chosen this place mainly for it&#8217;s proximity to my workplace &#8211; at about 4.4km, it takes me an average of 15 minutes to a maximum of 30 minutes to reach office. With 335E plying in copious amounts, heading to office or to Majestic to head back home was quite easy too. 2 years in, I decided to to move to a bigger place, so that things are all set when the inevitable <a title="#cpgweds" href="https://cpgweds.com" target="_blank">#cpgweds</a> happens.
 
 <!--more-->
 
@@ -23,11 +23,11 @@ I wasn&#8217;t really inclined to move away from this area, and started searchin
 
 This is how the house looked like the day I shifted
 
-[<img alt="IMG_20130813_185731" src="http://farm3.staticflickr.com/2849/10097366083_08f26a9ce5_b.jpg" width="1024" height="768" />][1]
+[<img alt="IMG_20130813_185731" src="https://farm3.staticflickr.com/2849/10097366083_08f26a9ce5_b.jpg" width="1024" height="768" />][1]
 
-[<img alt="IMG_20130813_185911" src="http://farm8.staticflickr.com/7390/10097388213_b13a1f34af_b.jpg" width="1024" height="768" />][2]
+[<img alt="IMG_20130813_185911" src="https://farm8.staticflickr.com/7390/10097388213_b13a1f34af_b.jpg" width="1024" height="768" />][2]
 
-<span style="line-height: 1.5em;">Little did I know in </span><a style="line-height: 1.5em;" href="http://cpgweds.com/timeline.html" target="_blank">that brief time</a> <span style="line-height: 1.5em;">of moving away from the previous into the new house, I&#8217;d </span><span style="line-height: 1.5em;">fall head over heels </span><span style="line-height: 1.5em;">for Jyothsna and ask her to marry me 🙂 </span>
+<span style="line-height: 1.5em;">Little did I know in </span><a style="line-height: 1.5em;" href="https://cpgweds.com/timeline.html" target="_blank">that brief time</a> <span style="line-height: 1.5em;">of moving away from the previous into the new house, I&#8217;d </span><span style="line-height: 1.5em;">fall head over heels </span><span style="line-height: 1.5em;">for Jyothsna and ask her to marry me 🙂 </span>
 
 Over the course of next few weeks, we started furnishing the house. I&#8217;d bought the basic appliances. And in the past couple of weekends, we bought the furniture. In style.
 
@@ -41,7 +41,7 @@ Over the course of next few weeks, we started furnishing the house. I&#8217;d bo
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Couldn&#8217;t help but take a video of me and <a href="https://twitter.com/joshenoy">@joshenoy</a> sitting on couch on a tempo getting delivered <a href="http://t.co/pbyZ7UJo4U">http://t.co/pbyZ7UJo4U</a>
+    Couldn&#8217;t help but take a video of me and <a href="https://twitter.com/joshenoy">@joshenoy</a> sitting on couch on a tempo getting delivered <a href="https://t.co/pbyZ7UJo4U">https://t.co/pbyZ7UJo4U</a>
   </p>
   
   <p>
@@ -53,15 +53,15 @@ Over the course of next few weeks, we started furnishing the house. I&#8217;d bo
 
 Now with the furniture all in, this is how it looks like.
 
-[<img alt="DSC00599" src="http://farm8.staticflickr.com/7303/11519088684_3352544012_b.jpg" width="1024" height="768" />][3]
+[<img alt="DSC00599" src="https://farm8.staticflickr.com/7303/11519088684_3352544012_b.jpg" width="1024" height="768" />][3]
 
-[<img alt="DSC00611" src="http://farm4.staticflickr.com/3832/11519151713_76f7863320_b.jpg" width="1024" height="768" />][4]
+[<img alt="DSC00611" src="https://farm4.staticflickr.com/3832/11519151713_76f7863320_b.jpg" width="1024" height="768" />][4]
 
 <p style="text-align: center;">
   ****
 </p>
 
-So here we are. It&#8217;s almost end of this year. What I thought would be a <a href="http://sathyabh.at/2013/03/27/closing-the-chapter" target="_blank">wretched year</a>, instead has turned out to be a kickass one, ending in the way I never thought imagined. One particular tweet, however, has turned out to be just near prophetic &#8211; especialy considering that was her first tweet to me.
+So here we are. It&#8217;s almost end of this year. What I thought would be a <a href="https://sathyabh.at/2013/03/27/closing-the-chapter" target="_blank">wretched year</a>, instead has turned out to be a kickass one, ending in the way I never thought imagined. One particular tweet, however, has turned out to be just near prophetic &#8211; especialy considering that was her first tweet to me.
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
@@ -77,16 +77,16 @@ Trust in it to get better indeed.. here I am, with her, married to her.
 
 Here&#8217;s to the new life
 
-[<img alt="DSC00239" src="http://farm6.staticflickr.com/5478/11266823943_0d7038ba14_b.jpg" width="1024" height="768" />][5]
+[<img alt="DSC00239" src="https://farm6.staticflickr.com/5478/11266823943_0d7038ba14_b.jpg" width="1024" height="768" />][5]
 
-[<img alt="Jyothsna & Me" src="http://farm6.staticflickr.com/5491/10889721045_0f68259485_b.jpg" width="768" height="1024" />][6]
+[<img alt="Jyothsna & Me" src="https://farm6.staticflickr.com/5491/10889721045_0f68259485_b.jpg" width="768" height="1024" />][6]
 
-[<img alt="Wifey @joshenoy and me, during today's Satyanarayan Pooja" src="http://farm6.staticflickr.com/5509/11114545064_8d5001552d_o.jpg" width="640" height="640" />][7]
+[<img alt="Wifey @joshenoy and me, during today's Satyanarayan Pooja" src="https://farm6.staticflickr.com/5509/11114545064_8d5001552d_o.jpg" width="640" height="640" />][7]
 
- [1]: http://www.flickr.com/photos/sathyabhat/10097366083/ "IMG_20130813_185731 by SathyaBhat, on Flickr"
- [2]: http://www.flickr.com/photos/sathyabhat/10097388213/ "IMG_20130813_185911 by SathyaBhat, on Flickr"
- [3]: http://www.flickr.com/photos/sathyabhat/11519088684/ "DSC00599 by SathyaBhat, on Flickr"
- [4]: http://www.flickr.com/photos/sathyabhat/11519151713/ "DSC00611 by SathyaBhat, on Flickr"
- [5]: http://www.flickr.com/photos/sathyabhat/11266823943/ "DSC00239 by SathyaBhat, on Flickr"
- [6]: http://www.flickr.com/photos/sathyabhat/10889721045/ "Jyothsna & Me by SathyaBhat, on Flickr"
- [7]: http://www.flickr.com/photos/sathyabhat/11114545064/ "Wifey @joshenoy and me, during today's Satyanarayan Pooja by SathyaBhat, on Flickr"
+ [1]: https://www.flickr.com/photos/sathyabhat/10097366083/ "IMG_20130813_185731 by SathyaBhat, on Flickr"
+ [2]: https://www.flickr.com/photos/sathyabhat/10097388213/ "IMG_20130813_185911 by SathyaBhat, on Flickr"
+ [3]: https://www.flickr.com/photos/sathyabhat/11519088684/ "DSC00599 by SathyaBhat, on Flickr"
+ [4]: https://www.flickr.com/photos/sathyabhat/11519151713/ "DSC00611 by SathyaBhat, on Flickr"
+ [5]: https://www.flickr.com/photos/sathyabhat/11266823943/ "DSC00239 by SathyaBhat, on Flickr"
+ [6]: https://www.flickr.com/photos/sathyabhat/10889721045/ "Jyothsna & Me by SathyaBhat, on Flickr"
+ [7]: https://www.flickr.com/photos/sathyabhat/11114545064/ "Wifey @joshenoy and me, during today's Satyanarayan Pooja by SathyaBhat, on Flickr"

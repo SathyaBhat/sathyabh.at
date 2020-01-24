@@ -24,8 +24,8 @@ has taken the same route, offering their single &#8220;Violet Hill&#8221; from t
 
 Enjoy the song, it&#8217;s awesome. Cant&#8217; wait for their album.
 
- [1]: http://en.wikipedia.org/wiki/Nine_inch_nails
- [2]: http://dl.nin.com/discipline/nin
- [3]: http://en.wikipedia.org/wiki/Coldplay
- [4]: http://en.wikipedia.org/wiki/Viva_la_Vida_or_Death_and_All_His_Friends "Viva la Vida or Death and All His Friends"
- [5]: http://www.coldplay.com/song.html
+ [1]: https://en.wikipedia.org/wiki/Nine_inch_nails
+ [2]: https://dl.nin.com/discipline/nin
+ [3]: https://en.wikipedia.org/wiki/Coldplay
+ [4]: https://en.wikipedia.org/wiki/Viva_la_Vida_or_Death_and_All_His_Friends "Viva la Vida or Death and All His Friends"
+ [5]: https://www.coldplay.com/song.html

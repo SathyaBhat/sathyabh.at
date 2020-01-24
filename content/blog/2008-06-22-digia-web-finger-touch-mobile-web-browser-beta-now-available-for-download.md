@@ -19,7 +19,7 @@ tags:
   - Web
 
 ---
-Previously I’d <a href="http://sathyabh.at/2008/06/09/digia-web-finger-touch-web-browser-for-uiq-phones/" target="_blank">posted</a> about Digia @web – a fully, finger touch operated WebKit-based browser for UIQ3 phones like the Sony Ericsson P1i would be available for download soon in this month. <a href="http://www.allaboutsymbian.com/news/item/7509_Digia_Web_first_beta_available.php" target="_blank">All About Symbian</a> has confirmed that the beta version is now available for download.
+Previously I’d <a href="https://sathyabh.at/2008/06/09/digia-web-finger-touch-web-browser-for-uiq-phones/" target="_blank">posted</a> about Digia @web – a fully, finger touch operated WebKit-based browser for UIQ3 phones like the Sony Ericsson P1i would be available for download soon in this month. <a href="https://www.allaboutsymbian.com/news/item/7509_Digia_Web_first_beta_available.php" target="_blank">All About Symbian</a> has confirmed that the beta version is now available for download.
 
 <!--more-->
 
@@ -32,5 +32,5 @@ Once I get my download link, I will take the browser for a spin and see how it c
 [ad]
 
 <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:658cfeac-5fde-4263-b6c4-b6c95864f447" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a href="http://technorati.com/tags/sathya" rel="tag">sathya</a>,<a href="http://technorati.com/tags/sathyabh.at" rel="tag">sathyabh.at</a>,<a href="http://technorati.com/tags/Digia" rel="tag">Digia</a>,<a href="http://technorati.com/tags/%40web" rel="tag">@web</a>,<a href="http://technorati.com/tags/UIQ" rel="tag">UIQ</a>,<a href="http://technorati.com/tags/browser" rel="tag">browser</a>,<a href="http://technorati.com/tags/mobile" rel="tag">mobile</a>,<a href="http://technorati.com/tags/smart+phone" rel="tag">smart phone</a>,<a href="http://technorati.com/tags/touch" rel="tag">touch</a>
+  Technorati Tags: <a href="https://technorati.com/tags/sathya" rel="tag">sathya</a>,<a href="https://technorati.com/tags/sathyabh.at" rel="tag">sathyabh.at</a>,<a href="https://technorati.com/tags/Digia" rel="tag">Digia</a>,<a href="https://technorati.com/tags/%40web" rel="tag">@web</a>,<a href="https://technorati.com/tags/UIQ" rel="tag">UIQ</a>,<a href="https://technorati.com/tags/browser" rel="tag">browser</a>,<a href="https://technorati.com/tags/mobile" rel="tag">mobile</a>,<a href="https://technorati.com/tags/smart+phone" rel="tag">smart phone</a>,<a href="https://technorati.com/tags/touch" rel="tag">touch</a>
 </div>

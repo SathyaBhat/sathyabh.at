@@ -28,7 +28,7 @@ While the SSD was in transit, I started researching on how would I be able to fi
 <!--more-->
 
 <div style="width: 591px" class="wp-caption aligncenter">
-  <a href="http://i.imgur.com/SNq5n.png"><img title="HP Service Manual Illustration" src="http://i.imgur.com/SNq5n.png" alt="HP Service Manual Illustration" width="581" height="275" /></a>
+  <a href="https://i.imgur.com/SNq5n.png"><img title="HP Service Manual Illustration" src="https://i.imgur.com/SNq5n.png" alt="HP Service Manual Illustration" width="581" height="275" /></a>
   
   <p class="wp-caption-text">
     (here 1 indicates the primary HDD bay, 2 the secondary HDD/SSD bay)
@@ -41,7 +41,7 @@ _
 Soon as I got the SSD, I set about [ripping apart my Envy 14][3], only to be dismayed.
 
 <div style="width: 509px" class="wp-caption aligncenter">
-  <a href="http://i.imgur.com/JXrKY.png"><img title="Seagate HDD on the Envy" src="http://i.imgur.com/JXrKY.png" alt="Seagate HDD on the Envy" width="499" height="365" /></a>
+  <a href="https://i.imgur.com/JXrKY.png"><img title="Seagate HDD on the Envy" src="https://i.imgur.com/JXrKY.png" alt="Seagate HDD on the Envy" width="499" height="365" /></a>
   
   <p class="wp-caption-text">
     Seagate HDD on the Envy
@@ -49,7 +49,7 @@ Soon as I got the SSD, I set about [ripping apart my Envy 14][3], only to be di
 </div>
 
 <div style="width: 605px" class="wp-caption aligncenter">
-  <a href="http://i.imgur.com/Quhqf.png"><img title="Second empty bay for HDD/SSD" src="http://i.imgur.com/Quhqf.png" alt="Second empty bay for HDD/SSD" width="595" height="495" /></a>
+  <a href="https://i.imgur.com/Quhqf.png"><img title="Second empty bay for HDD/SSD" src="https://i.imgur.com/Quhqf.png" alt="Second empty bay for HDD/SSD" width="595" height="495" /></a>
   
   <p class="wp-caption-text">
     Second empty bay for HDD/SSD
@@ -61,7 +61,7 @@ While you can certainly add a second drive, it&#8217;s by no means user replacea
 Replacing the existing hard disk, however was simple and straightforward. Had to slide off the battery cover, remove the battery, unscrew the 4&#215;2.5MM screws holding the drive and slide the HDD off.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568944962/"><img title="Envy 14 with the Seagate Momentus" src="http://farm6.static.flickr.com/5292/5568944962_97a65750b3.jpg" alt="Envy 14 with the Seagate Momentus" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568944962/"><img title="Envy 14 with the Seagate Momentus" src="https://farm6.static.flickr.com/5292/5568944962_97a65750b3.jpg" alt="Envy 14 with the Seagate Momentus" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Envy 14 with the Seagate Momentus
@@ -69,7 +69,7 @@ Replacing the existing hard disk, however was simple and straightforward. Had to
 </div>
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568909000/"><img title="Seagate Momentus, with screws removed and ready to be slid off" src="http://farm6.static.flickr.com/5266/5568909000_731e689744.jpg" alt="Seagate Momentus, with screws removed and ready to be slid off" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568909000/"><img title="Seagate Momentus, with screws removed and ready to be slid off" src="https://farm6.static.flickr.com/5266/5568909000_731e689744.jpg" alt="Seagate Momentus, with screws removed and ready to be slid off" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Seagate Momentus, with screws removed and ready to be slid off
@@ -77,7 +77,7 @@ Replacing the existing hard disk, however was simple and straightforward. Had to
 </div>
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568935998/"><img title="Envy 14 with SSD fitted" src="http://farm6.static.flickr.com/5052/5568935998_cd3de7415f.jpg" alt="Envy 14 with SSD fitted" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568935998/"><img title="Envy 14 with SSD fitted" src="https://farm6.static.flickr.com/5052/5568935998_cd3de7415f.jpg" alt="Envy 14 with SSD fitted" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Envy 14 with SSD fitted
@@ -89,7 +89,7 @@ Trying to fit in the Seagate internal HDD into the case, however, took a little 
 Some more pics:
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568995010/"><img title="Kingston v100 SSD" src="http://farm6.static.flickr.com/5018/5568995010_0e00d79a8b.jpg" alt="Kingston v100 SSD" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568995010/"><img title="Kingston v100 SSD" src="https://farm6.static.flickr.com/5018/5568995010_0e00d79a8b.jpg" alt="Kingston v100 SSD" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Kingston v100 SSD box
@@ -97,7 +97,7 @@ Some more pics:
 </div>
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568337709/"><img title="Kingston v100 SSD front side" src="http://farm6.static.flickr.com/5307/5568337709_668a31259c.jpg" alt="Kingston v100 SSD front side" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568337709/"><img title="Kingston v100 SSD front side" src="https://farm6.static.flickr.com/5307/5568337709_668a31259c.jpg" alt="Kingston v100 SSD front side" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Kingston v100 SSD front side
@@ -105,7 +105,7 @@ Some more pics:
 </div>
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568928704/"><img title="Kingston v100SD - back side" src="http://farm6.static.flickr.com/5131/5568928704_33a6ea7f5f.jpg" alt="Kingston v100SD - back side" width="500" height="375" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568928704/"><img title="Kingston v100SD - back side" src="https://farm6.static.flickr.com/5131/5568928704_33a6ea7f5f.jpg" alt="Kingston v100SD - back side" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Kingston v100SD - back side
@@ -115,7 +115,7 @@ Some more pics:
 Some more shots of the Transcend external drive case:
 
 <div style="width: 385px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568911294/"><img title="Transcend StoreJet casing" src="http://farm6.static.flickr.com/5185/5568911294_0b6dbd9c9e.jpg" alt="Transcend StoreJet casing" width="375" height="500" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568911294/"><img title="Transcend StoreJet casing" src="https://farm6.static.flickr.com/5185/5568911294_0b6dbd9c9e.jpg" alt="Transcend StoreJet casing" width="375" height="500" /></a>
   
   <p class="wp-caption-text">
     Transcend StoreJet casing box
@@ -123,7 +123,7 @@ Some more shots of the Transcend external drive case:
 </div>
 
 <div style="width: 385px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568915880/"><img title="Transcend StoreJet casing" src="http://farm6.static.flickr.com/5268/5568915880_837afd6075.jpg" alt="Transcend StoreJet casing" width="375" height="500" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568915880/"><img title="Transcend StoreJet casing" src="https://farm6.static.flickr.com/5268/5568915880_837afd6075.jpg" alt="Transcend StoreJet casing" width="375" height="500" /></a>
   
   <p class="wp-caption-text">
     Transcend StoreJet casing
@@ -131,7 +131,7 @@ Some more shots of the Transcend external drive case:
 </div>
 
 <div style="width: 385px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568329593/in/photostream/"><img title="Connecting the HDD to the casing" src="http://farm6.static.flickr.com/5226/5568329593_8064e18404.jpg" alt="Connecting the HDD to the casing" width="375" height="500" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568329593/in/photostream/"><img title="Connecting the HDD to the casing" src="https://farm6.static.flickr.com/5226/5568329593_8064e18404.jpg" alt="Connecting the HDD to the casing" width="375" height="500" /></a>
   
   <p class="wp-caption-text">
     Connecting the HDD to the casing
@@ -139,7 +139,7 @@ Some more shots of the Transcend external drive case:
 </div>
 
 <div style="width: 385px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/sathyabhat/5568918798/in/photostream/"><img title="Removing the railining on the drive" src="http://farm6.static.flickr.com/5187/5568918798_5b968474c0.jpg" alt="Removing the railining on the drive" width="375" height="500" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/5568918798/in/photostream/"><img title="Removing the railining on the drive" src="https://farm6.static.flickr.com/5187/5568918798_5b968474c0.jpg" alt="Removing the railining on the drive" width="375" height="500" /></a>
   
   <p class="wp-caption-text">
     Removing the railing on the drive
@@ -148,8 +148,8 @@ Some more shots of the Transcend external drive case:
 
 I&#8217;ll have the SSD review up in a day or two. For now, I&#8217;m enjoying the zippy response and near instant resume from sleep à la my [Cr-48][5].
 
- [1]: http://sathyabh.at/2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
- [2]: http://sathyabh.at/tag/mangalore/
- [3]: http://post.sathyabh.at/my-hp-envy-14-dismantled-and-ripped-apart
- [4]: http://cgi.ebay.in/ws/eBayISAPI.dll?ViewItem&item=200582624183&ssPageName=STRK:MEWNX:IT#ht_6541wt_905
- [5]: http://www.flickr.com/photos/sathyabhat/tags/cr48
+ [1]: https://sathyabh.at/2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
+ [2]: https://sathyabh.at/tag/mangalore/
+ [3]: https://post.sathyabh.at/my-hp-envy-14-dismantled-and-ripped-apart
+ [4]: https://cgi.ebay.in/ws/eBayISAPI.dll?ViewItem&item=200582624183&ssPageName=STRK:MEWNX:IT#ht_6541wt_905
+ [5]: https://www.flickr.com/photos/sathyabhat/tags/cr48

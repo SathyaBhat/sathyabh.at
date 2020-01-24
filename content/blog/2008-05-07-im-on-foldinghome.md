@@ -26,7 +26,7 @@ If you&#8217;re interested, head over to [Folding@Home][4] download the client a
 
 Join the cause!
 
- [1]: http://en.wikipedia.org/wiki/Folding%40home
- [2]: http://setiathome.ssl.berkeley.edu/
- [3]: http://boinc.berkeley.edu/
- [4]: http://folding.stanford.edu/
+ [1]: https://en.wikipedia.org/wiki/Folding%40home
+ [2]: https://setiathome.ssl.berkeley.edu/
+ [3]: https://boinc.berkeley.edu/
+ [4]: https://folding.stanford.edu/

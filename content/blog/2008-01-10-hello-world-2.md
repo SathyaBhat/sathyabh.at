@@ -18,10 +18,10 @@ No, this post has got nothing to do with the song [&#8220;Here I Go Again&#8221;
 
 Few months later, I got a job at 3i Infotech, shifted to Chennai and with my first salary, I purchased my domain and hosting, with help from [Preshit][4] and [Subbu][5] and this site, [Sathya Says][6] was born, to be hosted on [ExperTrio][7]. Past couple of weeks I&#8217;ve been unable to update my main site because of hectic work schedules, and my mind was getting too screwed up, hence decided to start blogging on my life so that I could get certain things off my mind. With this short note, I&#8217;d conclude this small post. Thanks for reading!
 
- [1]: http://www.youtube.com/watch?v=oKTiwCez6Zs
- [2]: http://www.wordpress.com/
- [3]: http://sathyasays.wordpress.com
- [4]: http://www.acchablog.com
- [5]: http://xubz.com
- [6]: http://sathyasays.com
- [7]: http://www.expertrio.com
+ [1]: https://www.youtube.com/watch?v=oKTiwCez6Zs
+ [2]: https://www.wordpress.com/
+ [3]: https://sathyasays.wordpress.com
+ [4]: https://www.acchablog.com
+ [5]: https://xubz.com
+ [6]: https://sathyasays.com
+ [7]: https://www.expertrio.com

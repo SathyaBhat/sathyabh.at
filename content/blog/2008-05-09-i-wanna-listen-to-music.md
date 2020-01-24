@@ -40,8 +40,8 @@ LISTEN YOU DUMB PRICK,IF YOU WANNA LISTEN TO MUSIC, DO IT AT MORNINGS OR EVENING
 _IF you can&#8217;t afford that, here&#8217;s **[Fifty Paise][5].** Go grab them and stuff them in your ears_.  
 RETARDS.
 
- [1]: http://sathyabh.at/2008/01/13/my-room-gets-raided/
- [2]: http://sathyabh.at/2008/01/15/the-reason-why-my-room-was-raided/
- [3]: http://sathyabh.at/2008/01/19/my-laptop-chronicles-obtainingor-trying-to-obtain-a-bsnl-evdo-connection-part-1/
- [4]: http://sathyabh.at/2008/04/06/the-idiotic-hotel-cashier/
- [5]: http://www.fiftypaise.com/
+ [1]: https://sathyabh.at/2008/01/13/my-room-gets-raided/
+ [2]: https://sathyabh.at/2008/01/15/the-reason-why-my-room-was-raided/
+ [3]: https://sathyabh.at/2008/01/19/my-laptop-chronicles-obtainingor-trying-to-obtain-a-bsnl-evdo-connection-part-1/
+ [4]: https://sathyabh.at/2008/04/06/the-idiotic-hotel-cashier/
+ [5]: https://www.fiftypaise.com/
