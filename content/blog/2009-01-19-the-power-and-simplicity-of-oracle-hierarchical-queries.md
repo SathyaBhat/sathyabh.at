@@ -21,7 +21,7 @@ They say &#8220;Necessity is the Power of Invention&#8221; &#8211; a quote which
 <p style="text-align: left;">
   <!--more-->
   
-  <a href="https://sathyabh.at/wp-content/uploads/2009/01/menu.png"><img class="size-medium wp-image-209 aligncenter" title="menu" src="https://sathyabh.at/wp-content/uploads/2009/01/menu-300x178.png" alt="menu" width="300" height="178" /></a>The above picure shows the menu structure of the our application. Now the implementer wanted the menu structure, of each and _every_ module, in a spreadsheet so that he could forward it to the client and get the user authorization thing going(ie, who&#8217;s got authority to view/edit etc). Now under each module we have several menus and submenus, and manually entering these would be like ultimate FAIL (later ananlysis showed on an average, each module had about 80 entries). So I was figuring out how to extract this. Now I knew that all these entries were there in the database I was struggling with the query to extract it.
+  <a href="https://images.sbhat.me/sb/2009/01/menu.png"><img class="size-medium wp-image-209 aligncenter" title="menu" src="https://images.sbhat.me/sb/2009/01/menu-300x178.png" alt="menu" width="300" height="178" /></a>The above picure shows the menu structure of the our application. Now the implementer wanted the menu structure, of each and _every_ module, in a spreadsheet so that he could forward it to the client and get the user authorization thing going(ie, who&#8217;s got authority to view/edit etc). Now under each module we have several menus and submenus, and manually entering these would be like ultimate FAIL (later ananlysis showed on an average, each module had about 80 entries). So I was figuring out how to extract this. Now I knew that all these entries were there in the database I was struggling with the query to extract it.
 </p>
 
 So the first query I came up was this:
@@ -33,7 +33,7 @@ So the first query I came up was this:
 
 This is what the query results were &#8211; a simple output.
 
-<span style="font-family: Courier New; font-size: 10pt;"><a href="https://sathyabh.at/wp-content/uploads/2009/01/query1.png"><img class="alignnone size-full wp-image-211" title="Query results" src="https://sathyabh.at/wp-content/uploads/2009/01/query1.png" alt="Query results" width="180" height="338" /></a></span>
+<span style="font-family: Courier New; font-size: 10pt;"><a href="https://images.sbhat.me/sb/2009/01/query1.png"><img class="alignnone size-full wp-image-211" title="Query results" src="https://images.sbhat.me/sb/2009/01/query1.png" alt="Query results" width="180" height="338" /></a></span>
 
 Now I knew I&#8217;d be going nowhere with this simple query, and I knew normal joins won&#8217;t work, so I started looking at Hierarchical queries. Hierarchical queries(going to refer as h-queries) basically allow you to build queries, based on well, hierarchies. Parent &#8211; Child Relationships. Tree-Leaf style. Read a bit on h-queries and reconstructed the SQL query to the one below.
 
@@ -44,7 +44,7 @@ Now I knew I&#8217;d be going nowhere with this simple query, and I knew normal 
 </span>`  
 The result of the query is shown below:
 
-<span style="font-family: Courier New; font-size: 10;"><a href="https://sathyabh.at/wp-content/uploads/2009/01/query2.png"><img class="alignnone size-full wp-image-212" title="query2" src="https://sathyabh.at/wp-content/uploads/2009/01/query2.png" alt="query2" width="215" height="350" /></a></span>
+<span style="font-family: Courier New; font-size: 10;"><a href="https://images.sbhat.me/sb/2009/01/query2.png"><img class="alignnone size-full wp-image-212" title="query2" src="https://images.sbhat.me/sb/2009/01/query2.png" alt="query2" width="215" height="350" /></a></span>
 
 While the result of the query looks the same as the first, I knew that it was returning the results in a hierarchy,just check the first image. The keyword for this query is &#8220;Connect by&#8221; and &#8220;Prior&#8221; which transforms the query into a h-query. The &#8220;connect by&#8221; and &#8220;prior&#8221; gives the conditions for hierarachy in the query, with the column next to &#8220;prior&#8221; being the child column and the one next to equality being the parent column. The &#8220;start with&#8221; keyword tells Oracle which is the root record.
 
@@ -66,7 +66,7 @@ So the query now became a little bit more (unnecessarily) complicated:
 </span>`  
 The Lpad function is an Oracle PL/SQL function which adds padding of a specified character to the left. The results were not exactly what I was looking for.
 
-[<img class="alignnone size-full wp-image-216" title="query3" src="https://sathyabh.at/wp-content/uploads/2009/01/query3.png" alt="query3" width="160" height="360" />][1]
+[<img class="alignnone size-full wp-image-216" title="query3" src="https://images.sbhat.me/sb/2009/01/query3.png" alt="query3" width="160" height="360" />][1]
 
 A bit of further reading and I came to know that order by destroys the hierarchy, and &#8220;order siblings&#8221; by is what is supported to be used.
 
@@ -88,7 +88,7 @@ And it all came into place. Almost.
 
 Have a look:
 
-[<img class="alignnone size-full wp-image-217" title="query4" src="https://sathyabh.at/wp-content/uploads/2009/01/query4.png" alt="query4" width="189" height="480" />][2]
+[<img class="alignnone size-full wp-image-217" title="query4" src="https://images.sbhat.me/sb/2009/01/query4.png" alt="query4" width="189" height="480" />][2]
 
 Unfortunately, it wasn&#8217;t quite right, as the query was going into an almost infinite loop, as the child record itself became the root record.
 
@@ -106,8 +106,8 @@ I had a look at the query again, and realized that my query itself was wrong, as
 
 So in essence, I got rid of the unnecessary inner sub-query and voila!
 
-[<img class="alignnone size-full wp-image-218" title="query5" src="https://sathyabh.at/wp-content/uploads/2009/01/query5.png" alt="query5" width="215" height="520" />][3]
+[<img class="alignnone size-full wp-image-218" title="query5" src="https://images.sbhat.me/sb/2009/01/query5.png" alt="query5" width="215" height="520" />][3]
 
- [1]: https://sathyabh.at/wp-content/uploads/2009/01/query3.png
- [2]: https://sathyabh.at/wp-content/uploads/2009/01/query4.png
- [3]: https://sathyabh.at/wp-content/uploads/2009/01/query5.png
+ [1]: https://images.sbhat.me/sb/2009/01/query3.png
+ [2]: https://images.sbhat.me/sb/2009/01/query4.png
+ [3]: https://images.sbhat.me/sb/2009/01/query5.png

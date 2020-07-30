@@ -25,7 +25,7 @@ Waking up beach side in Malpe, I was more excited than ever &#8211; we had a lon
 <!--more-->
 
 <div id="attachment_1038" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1038" src="https://sathyabh.at/wp-content/uploads/2016/08/Breakfast-at-Paradise-Isle.jpg" alt="Breakfast at Paradise Isle" width="1613" height="1210" />
+  <img class="size-full wp-image-1038" src="https://images.sbhat.me/sb/2016/08/Breakfast-at-Paradise-Isle.jpg" alt="Breakfast at Paradise Isle" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Breakfast at Paradise Isle
@@ -41,7 +41,7 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-4.jpg" alt="Narrow roads.." /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-4.jpg" alt="Narrow roads.." /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -57,13 +57,13 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Narrow roads.." class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Narrow roads.." class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-3.jpg" alt="Narrow roads.." /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-3.jpg" alt="Narrow roads.." /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -79,13 +79,13 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Narrow roads.." class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Narrow roads.." class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-1.jpg" alt="Narrow roads.." /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-1.jpg" alt="Narrow roads.." /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -101,13 +101,13 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Narrow roads.." class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Narrow roads.." class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-2.jpg" alt="Passing through a plantation" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-2.jpg" alt="Passing through a plantation" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -123,7 +123,7 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Passing through a plantation" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Passing through a plantation" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -133,12 +133,12 @@ Unlike our earlier days, today&#8217;s journey was solely through State Highway
 
 As we got closer and closer towards Agumbe, the roads got narrower, the weather outside was changing &#8211; it becoming more and more foggy, till I noticed what Google Maps was showing up on the road ahead.
 
-<img class="aligncenter size-full wp-image-1044" src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Maps.jpg" alt="Agumbe Maps" width="900" height="1600" /> 
+<img class="aligncenter size-full wp-image-1044" src="https://images.sbhat.me/sb/2016/08/Agumbe-Maps.jpg" alt="Agumbe Maps" width="900" height="1600" /> 
 
 Fully pumped, we started climbing up only for the roads to get even narrower and foggier. Our car got clumped with a set of 2 cars ahead of us to form a cavalcade of sorts, closely sticking close to each other to avoid running into problems.
 
 <div id="attachment_1068" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1068" src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-cavalcade.jpg" alt="Agumbe cavalcade" width="1613" height="1210" />
+  <img class="size-full wp-image-1068" src="https://images.sbhat.me/sb/2016/08/Agumbe-cavalcade.jpg" alt="Agumbe cavalcade" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Agumbe cavalcade
@@ -154,7 +154,7 @@ By the time we reached the peak, the fog was so thick, I could barely see anythi
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-1.jpg" alt="Agumbe Peak" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-1.jpg" alt="Agumbe Peak" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -170,13 +170,13 @@ By the time we reached the peak, the fog was so thick, I could barely see anythi
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Agumbe Peak" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Agumbe Peak" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-2.jpg" alt="Foggy.." /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-2.jpg" alt="Foggy.." /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -192,13 +192,13 @@ By the time we reached the peak, the fog was so thick, I could barely see anythi
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Foggy.." class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Foggy.." class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-3.jpg" alt="Foggy.." /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-3.jpg" alt="Foggy.." /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -214,13 +214,13 @@ By the time we reached the peak, the fog was so thick, I could barely see anythi
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Foggy.." class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Foggy.." class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-4.jpg" alt="Selfie at Agumbe Peak" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-4.jpg" alt="Selfie at Agumbe Peak" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -236,7 +236,7 @@ By the time we reached the peak, the fog was so thick, I could barely see anythi
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Agumbe-Peak-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Selfie at Agumbe Peak" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Agumbe-Peak-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Selfie at Agumbe Peak" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -257,7 +257,7 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-5.jpg" alt="Kavimane entrance" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavimane-5.jpg" alt="Kavimane entrance" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -273,13 +273,13 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-5.jpg" data-gal="prettyPhoto[pp_gal]" title="Kavimane entrance" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavimane-5.jpg" data-gal="prettyPhoto[pp_gal]" title="Kavimane entrance" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-4.jpg" alt="My house" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavimane-4.jpg" alt="My house" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -295,13 +295,13 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Roughly translated, this is a poem about his house" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavimane-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Roughly translated, this is a poem about his house" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-3.jpg" alt="Outhouse containing farming equipment" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavimane-3.jpg" alt="Outhouse containing farming equipment" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -317,13 +317,13 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Outhouse containing farming equipment" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavimane-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Outhouse containing farming equipment" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-2.jpg" alt="Asian Paints protection!" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavimane-2.jpg" alt="Asian Paints protection!" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -339,13 +339,13 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Asian Paints protection!" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavimane-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Asian Paints protection!" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-6.jpg" alt="Small road leading to Kavimane" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavimane-6.jpg" alt="Small road leading to Kavimane" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -361,13 +361,13 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-6.jpg" data-gal="prettyPhoto[pp_gal]" title="Small road leading to Kavimane" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavimane-6.jpg" data-gal="prettyPhoto[pp_gal]" title="Small road leading to Kavimane" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-1.jpg" alt="Side view of kavimane" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavimane-1.jpg" alt="Side view of kavimane" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -383,7 +383,7 @@ Kavimane houses a lot of interesting and mundane artifacts from Kuvempu&#8217;s 
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavimane-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Side view of kavimane" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavimane-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Side view of kavimane" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -402,7 +402,7 @@ A <a href="https://goo.gl/photos/USDY5zbiuhjCZj5TA" target="_blank">360 degree p
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavishaila.jpg" alt="Kavishaila" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavishaila.jpg" alt="Kavishaila" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -418,13 +418,13 @@ A <a href="https://goo.gl/photos/USDY5zbiuhjCZj5TA" target="_blank">360 degree p
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavishaila.jpg" data-gal="prettyPhoto[pp_gal]" title="Kavishaila " class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavishaila.jpg" data-gal="prettyPhoto[pp_gal]" title="Kavishaila " class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavishaila-3.jpg" alt="Jo at Kavishaila entrance" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavishaila-3.jpg" alt="Jo at Kavishaila entrance" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -440,13 +440,13 @@ A <a href="https://goo.gl/photos/USDY5zbiuhjCZj5TA" target="_blank">360 degree p
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavishaila-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Jo at Kavishaila entrance" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavishaila-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Jo at Kavishaila entrance" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Kavishaila-2.jpg" alt="Kavishaila" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Kavishaila-2.jpg" alt="Kavishaila" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -462,7 +462,7 @@ A <a href="https://goo.gl/photos/USDY5zbiuhjCZj5TA" target="_blank">360 degree p
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Kavishaila-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Kavishaila " class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Kavishaila-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Kavishaila " class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -473,7 +473,7 @@ A <a href="https://goo.gl/photos/USDY5zbiuhjCZj5TA" target="_blank">360 degree p
 With lunch time near and stomach rumbling, we had to stop for lunch. There aren&#8217;t any places in Kupalli and I decided to stop at Thirthalli for lunch. After a quick lunch pitstop we started towards Jog and reached there in another couple of hours. A massive plaque welcomed us to Jog
 
 <div id="attachment_1058" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1058" src="https://sathyabh.at/wp-content/uploads/2016/08/Welcome-to-Jog.jpg" alt="Welcome to Jog" width="1613" height="1210" />
+  <img class="size-full wp-image-1058" src="https://images.sbhat.me/sb/2016/08/Welcome-to-Jog.jpg" alt="Welcome to Jog" width="1613" height="1210" />
   
   <p class="wp-caption-text">
     Welcome to Jog
@@ -487,7 +487,7 @@ Since it was a public holiday, Jog was pretty heavily crowded. We decided to che
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-1.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-1.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -503,13 +503,13 @@ Since it was a public holiday, Jog was pretty heavily crowded. We decided to che
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Road leading to the hotel" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Road leading to the hotel" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-4.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-4.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -525,13 +525,13 @@ Since it was a public holiday, Jog was pretty heavily crowded. We decided to che
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-4.jpg" data-gal="prettyPhoto[pp_gal]" title="KSTDC Mayura Gersoppa" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-4.jpg" data-gal="prettyPhoto[pp_gal]" title="KSTDC Mayura Gersoppa" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-3.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-3.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -547,13 +547,13 @@ Since it was a public holiday, Jog was pretty heavily crowded. We decided to che
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Yes, that's the view from the room" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Yes, that's the view from the room" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-2.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-2.jpg" alt="KSTDC Mayura Gersoppa" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -569,7 +569,7 @@ Since it was a public holiday, Jog was pretty heavily crowded. We decided to che
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/KSTDC-Mayura-Gersoppa-2.jpg" data-gal="prettyPhoto[pp_gal]" title="KSTDC Mayura Gersoppa" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/KSTDC-Mayura-Gersoppa-2.jpg" data-gal="prettyPhoto[pp_gal]" title="KSTDC Mayura Gersoppa" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -588,7 +588,7 @@ Since it&#8217;s quite common to have fog come over in no time and spoil the vie
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Jog-falls.jpg" alt="Jog falls" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Jog-falls.jpg" alt="Jog falls" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -604,13 +604,13 @@ Since it&#8217;s quite common to have fog come over in no time and spoil the vie
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Jog-falls.jpg" data-gal="prettyPhoto[pp_gal]" title="Selfie at Jog" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Jog-falls.jpg" data-gal="prettyPhoto[pp_gal]" title="Selfie at Jog" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Jog-falls-2.jpg" alt="Jog falls" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Jog-falls-2.jpg" alt="Jog falls" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -626,13 +626,13 @@ Since it&#8217;s quite common to have fog come over in no time and spoil the vie
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Jog-falls-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Jo at Jog" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Jog-falls-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Jo at Jog" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/foggy-Jog.jpg" alt="Foggy Jog" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/foggy-Jog.jpg" alt="Foggy Jog" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -648,13 +648,13 @@ Since it&#8217;s quite common to have fog come over in no time and spoil the vie
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/foggy-Jog.jpg" data-gal="prettyPhoto[pp_gal]" title="Foggy Jog" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/foggy-Jog.jpg" data-gal="prettyPhoto[pp_gal]" title="Foggy Jog" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/08/Jo-looking-at-Jog.jpg" alt="Jo looking at Jog" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/08/Jo-looking-at-Jog.jpg" alt="Jo looking at Jog" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -670,7 +670,7 @@ Since it&#8217;s quite common to have fog come over in no time and spoil the vie
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/08/Jo-looking-at-Jog.jpg" data-gal="prettyPhoto[pp_gal]" title="Jo looking at Jog" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/08/Jo-looking-at-Jog.jpg" data-gal="prettyPhoto[pp_gal]" title="Jo looking at Jog" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   

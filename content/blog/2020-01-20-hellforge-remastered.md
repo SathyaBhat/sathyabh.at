@@ -61,24 +61,24 @@ What's a build post without some pictures?
 
 #### Processor & Motherboard 
 
-{{< fancybox "/img/hellforge-remastered" "processor-motherboard-power-supply.jpg" "Processor, Motherboard & Power Supply" "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "processor.jpg" "Processor. TIM is rather thin..." "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "processor-fan.jpg" "Stock Ryzen processor fan" "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "cabinet.jpg" "CoolerMaster MasterBox MB511" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "processor-motherboard-power-supply.jpg" "Processor, Motherboard & Power Supply" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "processor.jpg" "Processor. TIM is rather thin..." "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "processor-fan.jpg" "Stock Ryzen processor fan" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "cabinet.jpg" "CoolerMaster MasterBox MB511" "Hellforge Remastered" >}}
 
 #### Monitor 
 
-{{< fancybox "/img/hellforge-remastered" "monitor-box.jpg" "The box in which the Acer monitor came in" "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "useless-stand.jpg" "The monitor stand is simply useless." "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "assembled-monitor.jpg" "Yep, that's it standing straight." "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "connected-to-ps4.jpg" "Playing Driveclub on the PS4" "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "monitor-arm.jpg" "Monitor Arm" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "monitor-box.jpg" "The box in which the Acer monitor came in" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "useless-stand.jpg" "The monitor stand is simply useless." "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "assembled-monitor.jpg" "Yep, that's it standing straight." "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "connected-to-ps4.jpg" "Playing Driveclub on the PS4" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "monitor-arm.jpg" "Monitor Arm" "Hellforge Remastered" >}}
 
 #### Road to final assembly
 
-{{< fancybox "/img/hellforge-remastered" "fully-assembled.jpg" "Components built" "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "initial-setup.jpg" "Initial setup without the monitor arm" "Hellforge Remastered" >}}
-{{< fancybox "/img/hellforge-remastered" "final-setup.jpg" "Final setup" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fully-assembled.jpg" "Components built" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "initial-setup.jpg" "Initial setup without the monitor arm" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "final-setup.jpg" "Final setup" "Hellforge Remastered" >}}
 
 ### Temps and stuff
 

@@ -71,6 +71,6 @@ Some pics and a video of the basic components being put in place
 
 &nbsp;
 
-<img class="aligncenter wp-image-923" src="https://sathyabh.at/wp-content/uploads/2016/05/IMG_20160514_133602.jpg" alt="IMG_20160514_133602" width="503" height="377" /> 
+<img class="aligncenter wp-image-923" src="https://images.sbhat.me/sb/2016/05/IMG_20160514_133602.jpg" alt="IMG_20160514_133602" width="503" height="377" /> 
 
-<img class="aligncenter wp-image-924" src="https://sathyabh.at/wp-content/uploads/2016/05/IMG_20160514_154429.jpg" alt="IMG_20160514_154429" width="302" height="405" />
+<img class="aligncenter wp-image-924" src="https://images.sbhat.me/sb/2016/05/IMG_20160514_154429.jpg" alt="IMG_20160514_154429" width="302" height="405" />

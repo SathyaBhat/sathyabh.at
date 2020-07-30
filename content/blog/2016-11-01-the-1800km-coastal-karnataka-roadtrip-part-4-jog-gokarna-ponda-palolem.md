@@ -28,7 +28,7 @@ We took the Gersoppa/Honnavar route and while driving, were so glad to have take
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/11/Langur.jpg" alt="Grey Langur" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/11/Langur.jpg" alt="Grey Langur" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -44,7 +44,7 @@ We took the Gersoppa/Honnavar route and while driving, were so glad to have take
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/11/Langur.jpg" data-gal="prettyPhoto[pp_gal]" title="Grey Langur" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/11/Langur.jpg" data-gal="prettyPhoto[pp_gal]" title="Grey Langur" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -69,7 +69,7 @@ First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-1.jpg" alt="Mahalasa Temple Main Gate" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-1.jpg" alt="Mahalasa Temple Main Gate" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -85,13 +85,13 @@ First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple Main Gate" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple Main Gate" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-3.jpg" alt="Mahalasa Temple Inside Hall" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-3.jpg" alt="Mahalasa Temple Inside Hall" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -107,13 +107,13 @@ First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple Inside Hall" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-3.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple Inside Hall" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-2.jpg" alt="Mahalasa Temple surrounding walkway" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-2.jpg" alt="Mahalasa Temple surrounding walkway" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -129,13 +129,13 @@ First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple surrounding walkway" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-2.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple surrounding walkway" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure><figure class="mythemes-item effect-bubba">
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-4.jpg" alt="Mahalasa Temple corridors" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-4.jpg" alt="Mahalasa Temple corridors" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -151,7 +151,7 @@ First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/11/Mahalasa-Temple-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple corridors" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/11/Mahalasa-Temple-4.jpg" data-gal="prettyPhoto[pp_gal]" title="Mahalasa Temple corridors" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   
@@ -164,7 +164,7 @@ After a short time here, we headed for Shri Ramnath temple which is Jo&#8217;s f
 <div id='gallery-10' class='gallery galleryid-1082 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-3/'><img width="150" height="112" src="https://sathyabh.at/wp-content/uploads/2016/11/Ramnathi-3.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi Temple Main Entrance" aria-describedby="gallery-10-1092" /></a>
+      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-3/'><img width="150" height="112" src="https://images.sbhat.me/sb/2016/11/Ramnathi-3.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi Temple Main Entrance" aria-describedby="gallery-10-1092" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-1092'>
@@ -174,7 +174,7 @@ After a short time here, we headed for Shri Ramnath temple which is Jo&#8217;s f
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-2/'><img width="150" height="112" src="https://sathyabh.at/wp-content/uploads/2016/11/Ramnathi-2.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi Temple Main Entrance" aria-describedby="gallery-10-1091" /></a>
+      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-2/'><img width="150" height="112" src="https://images.sbhat.me/sb/2016/11/Ramnathi-2.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi Temple Main Entrance" aria-describedby="gallery-10-1091" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-1091'>
@@ -186,7 +186,7 @@ After a short time here, we headed for Shri Ramnath temple which is Jo&#8217;s f
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-4/'><img width="112" height="150" src="https://sathyabh.at/wp-content/uploads/2016/11/Ramnathi-4.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi temple" aria-describedby="gallery-10-1093" /></a>
+      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-4/'><img width="112" height="150" src="https://images.sbhat.me/sb/2016/11/Ramnathi-4.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi temple" aria-describedby="gallery-10-1093" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-1093'>
@@ -196,7 +196,7 @@ After a short time here, we headed for Shri Ramnath temple which is Jo&#8217;s f
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-1/'><img width="112" height="150" src="https://sathyabh.at/wp-content/uploads/2016/11/Ramnathi-1.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi temple" aria-describedby="gallery-10-1090" /></a>
+      <a href='https://sathyabh.at/2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/ramnathi-1/'><img width="112" height="150" src="https://images.sbhat.me/sb/2016/11/Ramnathi-1.jpg" class="attachment-thumbnail size-thumbnail" alt="Ramnathi temple" aria-describedby="gallery-10-1090" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-10-1090'>
@@ -214,7 +214,7 @@ By the time we were done with the temple visits, it was close to 6:00pm and it&#
   
   <div>
     <div class="mythemes-thumbnail">
-      <img src="https://sathyabh.at/wp-content/uploads/2016/11/castle-house-1.jpg" alt="Castle House" /><figcaption>
+      <img src="https://images.sbhat.me/sb/2016/11/castle-house-1.jpg" alt="Castle House" /><figcaption>
       
       <div class="mythemes-text">
         <div class="mythemes-title">
@@ -230,7 +230,7 @@ By the time we were done with the temple visits, it was close to 6:00pm and it&#
         </div>
       </div>
       
-      <a href="https://sathyabh.at/wp-content/uploads/2016/11/castle-house-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Castle House" class="waves-effect waves-dark"></a></figcaption>
+      <a href="https://images.sbhat.me/sb/2016/11/castle-house-1.jpg" data-gal="prettyPhoto[pp_gal]" title="Castle House" class="waves-effect waves-dark"></a></figcaption>
     </div>
   </div></figure>
   

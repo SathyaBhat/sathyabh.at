@@ -12,7 +12,7 @@ tags:
 
 It's been 7 months since I've been in Bucharest. The past couple of months I've been under quarantine and staying indoors. That aside, people kept asking me how's it been in Bucharest and how's life been in Bucharest, how different life is compared to Bangalore. 
 
-{{< fancybox "/img/" "bucharest.jpg" "Sunset at Bucharest" "Mărțișor" >}}
+{{< fancybox "https://images.sbhat.me/sb/bucharest.jpg" "Sunset at Bucharest" "Mărțișor" >}}
 
 
 Moving across the world is a huge endeavour and even though I've done my share of travels, moving and settling in Bucharest while smooth, experiencing day to day life in Bucharest took me by surprise. Here's a list of things that stood out:
