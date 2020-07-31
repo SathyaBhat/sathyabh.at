@@ -22,11 +22,11 @@ tags:
 
 [ad]
 
-I hang out couple of tech forums while I&#8217;m free &#8211; gives me a general idea of what hardware configuration is more or less &#8220;standard&#8221;, and one of the worst mistakes I&#8217;ve been people doing is that they COMPLETELY ignore the PSU(or SMPS, as it&#8217;s often known). I mean we&#8217;re talking about Quad Core processors, 8800GT graphics cards, hard drives in RAID and what not, only to get a cheap local, generic 500W/600W PSU, thinking the higher the wattage, the better it is for them. The problem is that these can&#8217;t deliver the current required for these high-end components, neither are they reliable or efficient &#8211; the components inside are of the worst quality.
+I hang out couple of tech forums while I'm free - gives me a general idea of what hardware configuration is more or less "standard", and one of the worst mistakes I've been people doing is that they COMPLETELY ignore the PSU(or SMPS, as it's often known). I mean we're talking about Quad Core processors, 8800GT graphics cards, hard drives in RAID and what not, only to get a cheap local, generic 500W/600W PSU, thinking the higher the wattage, the better it is for them. The problem is that these can't deliver the current required for these high-end components, neither are they reliable or efficient - the components inside are of the worst quality.
 
 <!--more-->
 
-My friend, Roshan aka  &#8220;The Sorcerer&#8221; Made this infographic to highlight just what happens if you use an el-cheapo PSU(as he likes to put it 😛 ). All due credits to him for creating this image. Issued in public interest.
+My friend, Roshan aka  "The Sorcerer" Made this infographic to highlight just what happens if you use an el-cheapo PSU(as he likes to put it 😛 ). All due credits to him for creating this image. Issued in public interest.
 
 [<img class="alignnone size-medium wp-image-54" title="Dont Use cheap PSU\'s" src="https://kurast.sathyabh.at/wp-content/uploads/2008/05/untitled-6-300x180.jpg" alt="Dont Use cheap PSU\'s" width="300" height="180" />][1]
 

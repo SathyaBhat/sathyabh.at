@@ -22,11 +22,11 @@ tags:
 ---
 <span style="text-decoration: line-through;">After a loong gap of about 2 and a half years, BarCamp Chennai 2[BCC2] is all set to rock your world!</span>
 
-<span style="text-decoration: line-through;">If you&#8217;re wondering what BarCamp is all about [as I was couple of months ago], BarCamp is an &#8220;unconference&#8221; &#8211; a venue where share, volunteer and participate in an open environment. The hallmark of BarCamp is that &#8211; there is no audience, all are participants! Participation can mean &#8211; giving a talk, demos, volunteering, or even blogging/twittering/podcasting/photography!</span>
+<span style="text-decoration: line-through;">If you're wondering what BarCamp is all about [as I was couple of months ago], BarCamp is an "unconference" - a venue where share, volunteer and participate in an open environment. The hallmark of BarCamp is that - there is no audience, all are participants! Participation can mean - giving a talk, demos, volunteering, or even blogging/twittering/podcasting/photography!</span>
 
 <!--more-->
 
-<span style="text-decoration: line-through;">If that&#8217;s gotten you all excited, head over to the <a href="https://barcampchennai.org/index.php?title=BCC2_Register" target="_blank">registration page &#8211; and enroll yourself</a>. If you want to know what&#8217;s going on behind the scenes or want to sponsor the event/ take part in behind-the-scenes operation, join the <a href="https://groups.google.com/group/barcampchennai" target="_blank">BarCamp Chennai group</a>.</span>
+<span style="text-decoration: line-through;">If that's gotten you all excited, head over to the <a href="https://barcampchennai.org/index.php?title=BCC2_Register" target="_blank">registration page - and enroll yourself</a>. If you want to know what's going on behind the scenes or want to sponsor the event/ take part in behind-the-scenes operation, join the <a href="https://groups.google.com/group/barcampchennai" target="_blank">BarCamp Chennai group</a>.</span>
 
 <span style="text-decoration: line-through;">BarChennai 2 is scheduled to be held on October 18th & 19th, 2008. The venue is being finalised, I will keep you guys updated.</span>
 
@@ -39,7 +39,7 @@ tags:
 
 <span style="text-decoration: line-through;">And oh yes, if you want to blog on BarCamp Chennai, please use the tags:<a class="external text" title="https://technorati.com/tag/BCC2" href="https://technorati.com/tag/BCC2" rel="nofollow">BCC2</a> and <a class="external text" title="https://technorati.com/tag/barcampchennai" href="https://technorati.com/tag/barcampchennai" rel="nofollow">barcampchennai</a>.</span>
 
-<span style="text-decoration: line-through;">Follow BarCamp Chennai 2 updates on twitter <a class="external text" title="https://twitter.com/Barcampchennai" href="https://twitter.com/Barcampchennai" rel="nofollow">Barcamp Chennai </a>and if you&#8217;re going on tweet on BarCamp Chennai 2, please use the hashtag #bcc2.</span>
+<span style="text-decoration: line-through;">Follow BarCamp Chennai 2 updates on twitter <a class="external text" title="https://twitter.com/Barcampchennai" href="https://twitter.com/Barcampchennai" rel="nofollow">Barcamp Chennai </a>and if you're going on tweet on BarCamp Chennai 2, please use the hashtag #bcc2.</span>
 
 <span style="text-decoration: line-through;">See you at BarCamp!</span>
 

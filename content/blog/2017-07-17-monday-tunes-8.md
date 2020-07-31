@@ -18,25 +18,25 @@ Songs of the week/fortnight/month is now Monday tunes. Will be regular. Mother p
 
 <!--more-->
 
-&#8220;It was a sin&#8221; by The Revivalists
+"It was a sin" by The Revivalists
 
 
 
-&#8220;Inside your Mind&#8221; by Gypsy & The Cat
+"Inside your Mind" by Gypsy & The Cat
 
 
 
-&#8220;Bad Blood&#8221; by Bastille &#8211; yes, not the hot shizz but still great song 🙂
+"Bad Blood" by Bastille - yes, not the hot shizz but still great song 🙂
 
 
 
-&#8220;First&#8221; by Cold War Kids
+"First" by Cold War Kids
 
 
 
 &nbsp;
 
-And.. pump you up. &#8220;Move&#8221; by Saint Motel
+And.. pump you up. "Move" by Saint Motel
 
 
 
@@ -44,8 +44,8 @@ And.. pump you up. &#8220;Move&#8221; by Saint Motel
 
 Will be adding all the songs to <a href="https://www.youtube.com/playlist?list=PLxKOjmEYzYcTogkkHfq_7tObgpFLEMmG4" target="_blank" rel="noopener">Monday Tunes Playlist</a>
 
-If Spotify&#8217;s your thing, a <a href="https://open.spotify.com/user/sathyabhat/playlist/2L5gZLGx8lL1g5nHqJdkKp" target="_blank" rel="noopener">Spotify playlist</a> is below:
+If Spotify's your thing, a <a href="https://open.spotify.com/user/sathyabhat/playlist/2L5gZLGx8lL1g5nHqJdkKp" target="_blank" rel="noopener">Spotify playlist</a> is below:
 
 
 
-Till next week &#8211; Enjoy the music!
+Till next week - Enjoy the music!

@@ -16,7 +16,7 @@ tags:
   - smartthings hub
 
 ---
-This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought a <a href="https://www.amazon.com/Kwikset-SmartCode-Electronic-SmartThings-featuring/dp/B004F1B24I/ref=sr_1_1?ie=UTF8&qid=1514550037&sr=8-1&keywords=kwikset+910" target="_blank" rel="noopener">Kwikset 910 deadbolt</a> (more like I asked her to buy &#8211; hindsight I should have done more and better research) and I was trying to setup the remote locking feature using Alexa/Google Assistant via <a href="https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE/ref=sr_1_3?s=hi&ie=UTF8&qid=1514550067&sr=1-3&keywords=smartthings+hub" target="_blank" rel="noopener">SmartThings</a> Hub. Here&#8217;s a copy-paste of the entire message. I&#8217;ll have a separate post on my home automation setup.
+This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought a <a href="https://www.amazon.com/Kwikset-SmartCode-Electronic-SmartThings-featuring/dp/B004F1B24I/ref=sr_1_1?ie=UTF8&qid=1514550037&sr=8-1&keywords=kwikset+910" target="_blank" rel="noopener">Kwikset 910 deadbolt</a> (more like I asked her to buy - hindsight I should have done more and better research) and I was trying to setup the remote locking feature using Alexa/Google Assistant via <a href="https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE/ref=sr_1_3?s=hi&ie=UTF8&qid=1514550067&sr=1-3&keywords=smartthings+hub" target="_blank" rel="noopener">SmartThings</a> Hub. Here's a copy-paste of the entire message. I'll have a separate post on my home automation setup.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought
 > put the deadbolt in pairing mode.
 > 
 > Sathya Bhat, [29.12.17 16:26]  
-> deadbolt doesn&#8217;t get detected by smartthings
+> deadbolt doesn't get detected by smartthings
 > 
 > Sathya Bhat, [29.12.17 16:26]  
 > help says keep hub near 10-15 feet of deadbolt
@@ -51,7 +51,7 @@ This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought
 > move the hub
 > 
 > Sathya Bhat, [29.12.17 16:26]  
-> Hub&#8217;s battery powered, so no problem right
+> Hub's battery powered, so no problem right
 > 
 > Sathya Bhat, [29.12.17 16:26]  
 > wrong
@@ -84,7 +84,7 @@ This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought
 > one result says try excluding device first
 > 
 > Sathya Bhat, [29.12.17 16:27]  
-> but what to exclude when it&#8217;s not included?!?
+> but what to exclude when it's not included?!?
 > 
 > Sathya Bhat, [29.12.17 16:28]  
 > ok, no harm in trying
@@ -181,7 +181,7 @@ This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought
 > connect google assistant
 > 
 > Sathya Bhat, [29.12.17 16:32]  
-> put in ifttt: if you say &#8220;abracadabra&#8221; or &#8220;khul ja sim sim&#8221; or &#8220;open the door&#8221; tell smart things to unlock
+> put in ifttt: if you say "abracadabra" or "khul ja sim sim" or "open the door" tell smart things to unlock
 > 
 > Sathya Bhat, [29.12.17 16:32]  
 > ok, done
@@ -280,7 +280,7 @@ This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought
 > > me open lock:
 > 
 > Sathya Bhat, [29.12.17 16:36]  
-> smartthings: nopes, you&#8217;re imagining shit. door still locked
+> smartthings: nopes, you're imagining shit. door still locked
 > 
 > Sathya Bhat, [29.12.17 16:36]  
 > me: ok, since I disconnected the hub let me try to reconnect
@@ -289,13 +289,13 @@ This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought
 > > find z-wave network repair deep in app
 > 
 > Sathya Bhat, [29.12.17 16:37]  
-> > app: yo, yer deadbolt: seems to be lost, can&#8217;t find it
+> > app: yo, yer deadbolt: seems to be lost, can't find it
 > 
 > Sathya Bhat, [29.12.17 16:37]  
 > ok, let me do the exclusion
 > 
 > Sathya Bhat, [29.12.17 16:37]  
-> can&#8217;t exclude
+> can't exclude
 > 
 > Sathya Bhat, [29.12.17 16:37]  
 > so yeah remember the 10-15ft thing

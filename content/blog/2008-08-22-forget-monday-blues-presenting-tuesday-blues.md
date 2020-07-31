@@ -17,7 +17,7 @@ tags:
 ---
 I was checking my office mail inbox to <span style="text-decoration: line-through;">check if I have any important mails</span> clearing out junk forwards, and this mail from the HR Department caught my eye.Dear All,
 
-> As per the request from the Government of Tamilnadu, we will be working on all Saturday&#8217;s effective 23rd Aug 2008.
+> As per the request from the Government of Tamilnadu, we will be working on all Saturday's effective 23rd Aug 2008.
 > 
 > We will be observing Sunday and Monday as weekly holidays until further notice.
 > 

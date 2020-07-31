@@ -46,7 +46,7 @@ Some of the features include
   * HTTP cookies
   * AJAX support
 
-@Web beta version download is supposed to be available on their [website][2] during this month, but as of now, they haven&#8217;t put it yet. Will update with the link once they do.
+@Web beta version download is supposed to be available on their [website][2] during this month, but as of now, they haven't put it yet. Will update with the link once they do.
 
 As for device compatibility, all touch enabled UIQ 3 devices such as the Sony Ericsson M600, P990, P1i, G700, G900, W950, W960i,  are supported.
 

@@ -15,7 +15,7 @@ tags:
   - udupi
 
 ---
-I&#8217;ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 2 continues..
+I've always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 2 continues..
 
 <!--more-->
 
@@ -29,9 +29,9 @@ Come Tuesday morning, we woke up earlier than usual and started packing for our 
   </p>
 </div>
 
-Before we went on the highway, I stopped by my friend Raylen&#8217;s house. Ray and I have been friends since school and it&#8217;d been a while since I had visited their house and met his Mom and since their place was on the way, I stopped by his place for a short time.
+Before we went on the highway, I stopped by my friend Raylen's house. Ray and I have been friends since school and it'd been a while since I had visited their house and met his Mom and since their place was on the way, I stopped by his place for a short time.
 
-Anyone who&#8217;s done the Mangalore &#8211; Udupi roads will know they&#8217;re rather infamous &#8211; the bus drivers think Formula 1 drivers are kart drivers, combined with the rather narrow road, driving down the Mangalore &#8211; Udupi highway was a nightmare. In the recent past, work has progressed on upgrading the roads to a 4-lane highway and when I visited the roads were nearly complete. It was truly a pleasure to drive on these roads without having to worry that a hulking piece of metal was hurling towards you.
+Anyone who's done the Mangalore - Udupi roads will know they're rather infamous - the bus drivers think Formula 1 drivers are kart drivers, combined with the rather narrow road, driving down the Mangalore - Udupi highway was a nightmare. In the recent past, work has progressed on upgrading the roads to a 4-lane highway and when I visited the roads were nearly complete. It was truly a pleasure to drive on these roads without having to worry that a hulking piece of metal was hurling towards you.
 
 <div id="attachment_999" style="width: 1623px" class="wp-caption aligncenter">
   <img class="size-full wp-image-999" src="https://images.sbhat.me/sb/2016/08/Mangalore-Udupi-Highway.jpg" alt="Mangalore Udupi Highway" width="1613" height="1210" />
@@ -45,11 +45,11 @@ Anyone who&#8217;s done the Mangalore &#8211; Udupi roads will know they&#8217;r
   <img class="size-full wp-image-1000" src="https://images.sbhat.me/sb/2016/08/IMG_20160705_105112-ANIMATION.gif" alt="Zoomin' through the highway" width="890" height="668" />
   
   <p class="wp-caption-text">
-    Zoomin&#8217; through the highway
+    Zoomin' through the highway
   </p>
 </div>
 
-We had decided to stop by a few temples while heading to Goa and the Hale Mariyamma Temple in Kaup was the first stop. I&#8217;ve many fond memories of this temple. During Ganesh Chaturthi, my family would visit Kaup since a Ganapathi would be housed here. We&#8217;d stay in Kaup pretty much the whole day and since there was nothing much to do, a customary visit to the temple and to Kaup lighthouse was done in the evening. This temple is known to be open only on Tuesdays and coincidentally we happened to be travelling on a Tuesday.
+We had decided to stop by a few temples while heading to Goa and the Hale Mariyamma Temple in Kaup was the first stop. I've many fond memories of this temple. During Ganesh Chaturthi, my family would visit Kaup since a Ganapathi would be housed here. We'd stay in Kaup pretty much the whole day and since there was nothing much to do, a customary visit to the temple and to Kaup lighthouse was done in the evening. This temple is known to be open only on Tuesdays and coincidentally we happened to be travelling on a Tuesday.
 
 <div id="attachment_1004" style="width: 1207px" class="wp-caption aligncenter">
   <img class="size-full wp-image-1004" src="https://images.sbhat.me/sb/2016/08/Hale-Mariyamma-Temple.jpg" alt="Hale Mariyamma Temple from outside" width="1197" height="896" />
@@ -67,7 +67,7 @@ We had decided to stop by a few temples while heading to Goa and the Hale Mariya
   </p>
 </div>
 
-From here we went ahead and stopped at Ambalpady temple, which was about 10km ahead. I didn&#8217;t expect too many people at the temple, but surprisingly, I was wrong &#8211; the temple was fairly crowded. Sort of unexpected for a mid Tuesday morning
+From here we went ahead and stopped at Ambalpady temple, which was about 10km ahead. I didn't expect too many people at the temple, but surprisingly, I was wrong - the temple was fairly crowded. Sort of unexpected for a mid Tuesday morning
 
 <div id="attachment_1006" style="width: 1247px" class="wp-caption aligncenter">
   <img class="size-full wp-image-1006" src="https://images.sbhat.me/sb/2016/08/Ambalpadi-Temple.jpg" alt="Ambalpadi Temple from outside" width="1237" height="762" />
@@ -85,7 +85,7 @@ From here we went ahead and stopped at Ambalpady temple, which was about 10km ah
   </p>
 </div>
 
-Since the state of the roads was pretty good, we were able to reach Udupi in about 1hr 15 minutes, as compared to the usual time about 1hr 45 minutes &#8211; 2 hours. We decided to head to Udupi first instead of checking into the hotel at Malpe, since we were still about an hour or so off from the check-in time.
+Since the state of the roads was pretty good, we were able to reach Udupi in about 1hr 15 minutes, as compared to the usual time about 1hr 45 minutes - 2 hours. We decided to head to Udupi first instead of checking into the hotel at Malpe, since we were still about an hour or so off from the check-in time.
 
 First stop in Udupi was the historic Shri Krishna Temple in Udupi. Since the roads leading to the temple were narrow, I parked the car about a kilometer or so before the temple and went walking. Walking through the streets of Udupi was a like going down the memory lane. Udupi still has the old world charm especially if you go deeper and deeper into the heart of the city.
 
@@ -133,13 +133,13 @@ Post the temple visit, we went over to Mitra Samaj to grab a small bite.
   </p>
 </div>
 
-While heading back to the car, we took a longer detour since Jo having grown up in Udupi, wanted to reminisce about her days of staying in Udupi. It&#8217;s always fun to be given a guided tour about a place unknown to you, especially a tour of your childhood days. it brings back memories of your childhood days as well 🙂
+While heading back to the car, we took a longer detour since Jo having grown up in Udupi, wanted to reminisce about her days of staying in Udupi. It's always fun to be given a guided tour about a place unknown to you, especially a tour of your childhood days. it brings back memories of your childhood days as well 🙂
 
-From Udupi, we drove over to Manipal just to see some how much Manipal has changed &#8211; the answer&#8217;s not much. Bunch of new flats aside, the main road&#8217;s still the same, the colleges are still around and some of the older eateries are still around. We stopped by China Valley for a quick light lunch since we were pretty full from our previous snack.
+From Udupi, we drove over to Manipal just to see some how much Manipal has changed - the answer's not much. Bunch of new flats aside, the main road's still the same, the colleges are still around and some of the older eateries are still around. We stopped by China Valley for a quick light lunch since we were pretty full from our previous snack.
 
-We drove over to Malpe to check-in to our hotel. We stayed at Malpe Sea Front Cottage which is right next to Paradise Isle resort &#8211; they actually share the same management. The cottages were going at half rate as compared to rooms on Paradise Isle Resort &#8211; and at ₹1,500 per night for an AC cottage including breakfast, the tariff was pretty good. No sooner we checked in than it started raining pretty heavily, so we took a short nap. Few hours later the rains had subsided and we went over to the beach for a walk. Off-season meant that bulk of the beach-side shacks/shops were closed.
+We drove over to Malpe to check-in to our hotel. We stayed at Malpe Sea Front Cottage which is right next to Paradise Isle resort - they actually share the same management. The cottages were going at half rate as compared to rooms on Paradise Isle Resort - and at ₹1,500 per night for an AC cottage including breakfast, the tariff was pretty good. No sooner we checked in than it started raining pretty heavily, so we took a short nap. Few hours later the rains had subsided and we went over to the beach for a walk. Off-season meant that bulk of the beach-side shacks/shops were closed.
 
-It was incredibly relaxing to go walking down the beach &#8211; the wind blowing in your ear, the peace and quiet of an empty beach was simply unmatched
+It was incredibly relaxing to go walking down the beach - the wind blowing in your ear, the peace and quiet of an empty beach was simply unmatched
 
 <div id='gallery-1' class='gallery galleryid-997 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
@@ -193,9 +193,9 @@ After spending some time here, we retired for the day, having another long drive
 
   * Total distance travelled: 91 km
   * Places stopped at: 8
-  * Mangalore &#8211; Udupi highway is actually a toll road now, with one part being a &#8220;free trial&#8221; mode. You&#8217;ll realize why it&#8217;s free when you cross that part
+  * Mangalore - Udupi highway is actually a toll road now, with one part being a "free trial" mode. You'll realize why it's free when you cross that part
 
-Map of the day&#8217;s journey:
+Map of the day's journey:
 
 
 

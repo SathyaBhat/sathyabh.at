@@ -25,7 +25,7 @@ Consider this case:
 
 <!--more-->
 
-You enter some values via the front end. Assume that there are \*a lot\* of fields to be entered. You save them. The <sequence-name>.nextval will pick up the next number in the sequence and goes into your table as the primary key. Now consider that most of the data is common, so instead of entering them via the front-end, you fire up Toad or SQL Developer or PL/SQL Developer and make use of the &#8220;duplicate row” feature. You enter some random value in the PK column, and save it.
+You enter some values via the front end. Assume that there are \*a lot\* of fields to be entered. You save them. The <sequence-name>.nextval will pick up the next number in the sequence and goes into your table as the primary key. Now consider that most of the data is common, so instead of entering them via the front-end, you fire up Toad or SQL Developer or PL/SQL Developer and make use of the "duplicate row” feature. You enter some random value in the PK column, and save it.
 
 Now later on while working on the application, it may happen that the sequence will generate a number which you’d already entered. Now while trying to save this, you’ll end an Oracle error: ORA-00001: Unique Constraint Violated since the sequence number you’re trying to enter is already present, hence violating the constraints.
 
@@ -37,23 +37,23 @@ p_val   IN NUMBER)
 IS  
 v_num  NUMBER;  
 BEGIN  
-EXECUTE IMMEDIATE &#8216;SELECT &#8216;  
+EXECUTE IMMEDIATE 'SELECT '  
 ||p_Name  
-||&#8217;.NEXTVAL FROM DUAL&#8217; INTO v_num;  
-EXECUTE IMMEDIATE &#8216;ALTER SEQUENCE &#8216;  
+||'.NEXTVAL FROM DUAL' INTO v_num;  
+EXECUTE IMMEDIATE 'ALTER SEQUENCE '  
 ||p_Name  
-||&#8217; INCREMENT BY &#8216;  
-||(p\_val &#8211; v\_num &#8211; 1)  
-||&#8217; MINVALUE 1&#8242;;  
-EXECUTE IMMEDIATE &#8216;SELECT &#8216;  
+||' INCREMENT BY '  
+||(p\_val - v\_num - 1)  
+||' MINVALUE 1&#8242;;  
+EXECUTE IMMEDIATE 'SELECT '  
 ||p_Name  
-||&#8217;.NEXTVAL FROM DUAL&#8217; INTO v_num;  
-EXECUTE IMMEDIATE &#8216;ALTER SEQUENCE &#8216;  
+||'.NEXTVAL FROM DUAL' INTO v_num;  
+EXECUTE IMMEDIATE 'ALTER SEQUENCE '  
 ||p_Name  
-||&#8217; INCREMENT BY 1 &#8216;;  
-dbms\_Output.Put\_Line(&#8216;Sequence &#8216;  
+||' INCREMENT BY 1 ';  
+dbms\_Output.Put\_Line('Sequence '  
 ||p_Name  
-||&#8217; IS NOW AT &#8216;  
+||' IS NOW AT '  
 ||p_val);  
 END;
 

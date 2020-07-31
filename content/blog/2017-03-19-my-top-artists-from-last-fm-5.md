@@ -11,6 +11,6 @@ tags:
   - music
 
 ---
-♫ My Top 5 <a href="https://last.fm" target="_blank">Last.fm</a> artists: spinnin&#8217; records (8), Armada Music (3), blink-182 (3), First Aid Kit (3) & Phillip Phillips (3) #music
+♫ My Top 5 <a href="https://last.fm" target="_blank">Last.fm</a> artists: spinnin' records (8), Armada Music (3), blink-182 (3), First Aid Kit (3) & Phillip Phillips (3) #music
 
 <small><a href="https://tweekly.fm">Powered by Tweekly.fm</a></small>

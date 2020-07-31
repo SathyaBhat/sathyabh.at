@@ -13,27 +13,27 @@ tags:
   - top 5
 
 ---
-Long time, no music.. slightly occupied with house shifting and new job &#8211; but more on that later. For now, enjoy the songs
+Long time, no music.. slightly occupied with house shifting and new job - but more on that later. For now, enjoy the songs
 
 <!--more-->
 
-&#8220;Humbug Mountain Song&#8221; by Fruit Bats -&#8216;shrooms. nuff said.
+"Humbug Mountain Song" by Fruit Bats -'shrooms. nuff said.
 
 
 
-&#8220;Galactic Appeal&#8221; by Pretty Sister & Dragonette feat. Tobtok &#8211; Very old school, peppy dance song
+"Galactic Appeal" by Pretty Sister & Dragonette feat. Tobtok - Very old school, peppy dance song
 
 
 
-&#8220;Walking In My Sleep&#8221; by Kris Orlowski
+"Walking In My Sleep" by Kris Orlowski
 
 
 
-&#8220;Shine&#8221; by Mondo Cozmo &#8211; Church choir-esque but catchy song nevertheless
+"Shine" by Mondo Cozmo - Church choir-esque but catchy song nevertheless
 
 
 
-&#8220;Echo&#8221; by Incubus &#8211; yes, yes I know this isn&#8217;t a new song but by golly, one of the most sublime songs I&#8217;ve ever heard. Instantly transports me to another world altogether
+"Echo" by Incubus - yes, yes I know this isn't a new song but by golly, one of the most sublime songs I've ever heard. Instantly transports me to another world altogether
 
 
 

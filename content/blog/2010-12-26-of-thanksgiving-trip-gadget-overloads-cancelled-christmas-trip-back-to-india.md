@@ -25,7 +25,7 @@ tags:
   - work
 
 ---
-I&#8217;ve been absent in posting here &#8211; more because there&#8217;s hardly anything interesting going on. Well, there&#8217;s laziness as well. So here&#8217;s a recap.
+I've been absent in posting here - more because there's hardly anything interesting going on. Well, there's laziness as well. So here's a recap.
 
 \****
 
@@ -33,7 +33,7 @@ For the past couple of months, my colleague had returned back to India, which me
 
 <!--more-->
 
-With no International OR a US driving license, I was worried if they’d reject the rental ( the Texas DMV, however, says you can drive with a valid license – doesn’t have to be International or US) – but thankfully, Enterprise didn’t reject it. The other worry I had was that Enterprise **requires** a valid credit card to be presented while renting. Now I didn’t have a US credit card. Then I realized that I did have my Indian credit card which was a valid International credit card – so I presented it – and voilà  &#8211; it was accepted. I also enquired if if the final payment could be done with my Bank Of America debit card – they said that would be fine – so USD <-> INR exchange rate problems.
+With no International OR a US driving license, I was worried if they’d reject the rental ( the Texas DMV, however, says you can drive with a valid license – doesn’t have to be International or US) – but thankfully, Enterprise didn’t reject it. The other worry I had was that Enterprise **requires** a valid credit card to be presented while renting. Now I didn’t have a US credit card. Then I realized that I did have my Indian credit card which was a valid International credit card – so I presented it – and voilà  - it was accepted. I also enquired if if the final payment could be done with my Bank Of America debit card – they said that would be fine – so USD <-> INR exchange rate problems.
 
 Since I was the only one driving and in the car – I opted for the lowest tier of available cars – the economy tier(the weekend special rate was about $12.99 a day). I was expecting some low-end crap hatchback – but the cars offered to me were the Kia Forte or the Toyota Corolla. Wow. I opted for the Toyota. Now apart from driving around in parking lots for a brief time, I had never done any “real” driving in the US ( just a reminder – they drive on the wrong side of the road<img class="wlEmoticon wlEmoticon-winkingsmile" style="border-style: none;" src="https://kurast.sathyabh.at/wp-content/uploads/2010/12/wlEmoticon-winkingsmile.png" alt="Winking smile" /> ) – but I was confident but driving – and lo – didn’t have any problems. ( Honestly: if you can drive in India without a scratch – you can drive anywhere – well, except for <a href="https://www.streetfire.net/video/top-gear-vietnam-special-part-1_208329.htm" target="_blank">Vietnam</a> -.- ).
 

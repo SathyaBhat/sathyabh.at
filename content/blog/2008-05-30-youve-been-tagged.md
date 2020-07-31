@@ -17,7 +17,7 @@ tags:
 ---
 [ad]
 
-[Devesh][1] was kind enough to [tag][2] me in this 4-things meme, so let me answer most of them(can&#8217;t answer two them, not yet experienced 😉 ) and tag the rest!
+[Devesh][1] was kind enough to [tag][2] me in this 4-things meme, so let me answer most of them(can't answer two them, not yet experienced 😉 ) and tag the rest!
 
 <span style="text-decoration: line-through;"><strong>4 Jobs I’ve Had (in chronological order)</strong></span>
 
@@ -30,7 +30,7 @@ tags:
   * [The Godfather, Part I][4]
   * [V For Vendetta][5]
 
-<span style="text-decoration: line-through;"><strong>4 Places I’ve Lived (in order)</strong></span> **Only 2 places I&#8217;ve stayed at so far  
+<span style="text-decoration: line-through;"><strong>4 Places I’ve Lived (in order)</strong></span> **Only 2 places I've stayed at so far  
 ** 
 
   * [Mangalore][6], Karnataka, India
@@ -45,9 +45,9 @@ tags:
 
 **4 Favorite Food**s
 
-  * Mum&#8217;s Fish Fry And Fish Curry, [Mangalorean Style][9]
+  * Mum's Fish Fry And Fish Curry, [Mangalorean Style][9]
   * [Tandoori Chicken][10]
-  * Cadbury&#8217;s Dairy Milk Chocolates
+  * Cadbury's Dairy Milk Chocolates
   * [Rava Dosa][11]
 
 **4 Places I’d Rather Be**

@@ -26,9 +26,9 @@ Date: Saturday, August 2nd 2008. Time: Around 13:00-13:30
 
 Venue: Not decided yet, most probably Resto Bronx bar at Hotel Manhattan, Santhome.
 
-I&#8217;m open to any other suggestions.
+I'm open to any other suggestions.
 
-If you&#8217;re interested in coming, drop a comment or send me a @[reply on twitter][1]. Hope to see you there!
+If you're interested in coming, drop a comment or send me a @[reply on twitter][1]. Hope to see you there!
 
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:a1dfe3fd-d029-4c73-a666-3001c075c833" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
   Technorati Tags: <a rel="tag" href="https://technorati.com/tags/Chennai">Chennai</a>,<a rel="tag" href="https://technorati.com/tags/twitter">twitter</a>,<a rel="tag" href="https://technorati.com/tags/meetup">meetup</a>,<a rel="tag" href="https://technorati.com/tags/tweetup">tweetup</a>

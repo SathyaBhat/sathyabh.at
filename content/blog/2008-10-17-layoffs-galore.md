@@ -39,4 +39,4 @@ Yesterday was “phase 1” of axe swinging, today was “phase 2” – about 5
 
 Whether I will be layed off – that’s another thing which I’m uncertain. For now, every phone call to my extension, my mobile phone, everytime I see a “new mail” icon in systray causes my heart to skip a beat.
 
-For all I know it might say &#8211; “Please meet us at ground floor”. Then you know the ritual.
+For all I know it might say - “Please meet us at ground floor”. Then you know the ritual.

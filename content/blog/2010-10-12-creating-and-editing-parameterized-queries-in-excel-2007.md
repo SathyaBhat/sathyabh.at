@@ -19,9 +19,9 @@ tags:
   - SQL
 
 ---
-I spotted this question on Super User about <a href="https://superuser.com/q/197453/4377" target="_blank">creating parameterized queries in Excel 2007</a> and attempted to answer it &#8211; as I thought it would be pretty easy.
+I spotted this question on Super User about <a href="https://superuser.com/q/197453/4377" target="_blank">creating parameterized queries in Excel 2007</a> and attempted to answer it - as I thought it would be pretty easy.
 
-And well &#8211; it was easy &#8211; the part part where you create the query, that is. Now creating _**parameterized**_ queries &#8211; now that&#8217;s something totally different. I searched around a bit for documentation on doing so &#8211; and found that any articles on the same were woefully inadequate. To be specific: There are plenty of articles on how to _change_ the parameters &#8211; just head over to Properties -> Query Definition -> Parameters. Ok, cool. Now hang on, the Parameters button is disabled. How the heck am I supposed to get it enabled ? I had a ball of a time trying to figure out a way to do it &#8211; and in the end, found the answer, and posted it. Figured might as well post it here for my reference&#8230; and for others who are searching for a way to do the same.
+And well - it was easy - the part part where you create the query, that is. Now creating _**parameterized**_ queries - now that's something totally different. I searched around a bit for documentation on doing so - and found that any articles on the same were woefully inadequate. To be specific: There are plenty of articles on how to _change_ the parameters - just head over to Properties -> Query Definition -> Parameters. Ok, cool. Now hang on, the Parameters button is disabled. How the heck am I supposed to get it enabled ? I had a ball of a time trying to figure out a way to do it - and in the end, found the answer, and posted it. Figured might as well post it here for my reference&#8230; and for others who are searching for a way to do the same.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ Click on Data -> From External Sources -> From Microsoft Query. Choose Data sour
 
 ![][1] 
 
-Click on Next, don&#8217;t select any filtering criteria, choose sort by criteria, click on next. Now, click on View/Edit in MS Query instead of selecting Return to Excel
+Click on Next, don't select any filtering criteria, choose sort by criteria, click on next. Now, click on View/Edit in MS Query instead of selecting Return to Excel
 
 ![][2] 
 

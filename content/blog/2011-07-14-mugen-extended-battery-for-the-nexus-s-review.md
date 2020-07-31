@@ -18,9 +18,9 @@ tags:
   - review
 
 ---
-It&#8217;s been about 7 months now since I purchased <a title="Nexus S" href="https://sathyabh.at/tag/nexus-s/" target="_blank">the Nexus S</a>, and overall I&#8217;ve been very pleased about the phone (yeah, yeah detailed review soon. Promise!). However a point of bother has been the battery life- or the lack of it. While it&#8217;s better than my better than previous iPhone 3G, the stock Nexus S battery lasts just about a business day. By business day I mean about ~ 12-14hours (though I I do use it heavily &#8211; on an average ~3hours of music, about hour and half or so of browsing on 3G, checking mail, facebook, twitter every half hour or so).  And my addiction to the phone means that the low battery life generally becomes a problem when I&#8217;m travelling.
+It's been about 7 months now since I purchased <a title="Nexus S" href="https://sathyabh.at/tag/nexus-s/" target="_blank">the Nexus S</a>, and overall I've been very pleased about the phone (yeah, yeah detailed review soon. Promise!). However a point of bother has been the battery life- or the lack of it. While it's better than my better than previous iPhone 3G, the stock Nexus S battery lasts just about a business day. By business day I mean about ~ 12-14hours (though I I do use it heavily - on an average ~3hours of music, about hour and half or so of browsing on 3G, checking mail, facebook, twitter every half hour or so).  And my addiction to the phone means that the low battery life generally becomes a problem when I'm travelling.
 
-<a href="https://www.mugen-power-batteries.com/" target="_blank">Mugen Power Batteries</a>, one of the most popular aftermarket battery manufacturers have brought out some high capacity batteries for quite a few mobile devices, including the Nexus S. Mugen were kind enough to send me a review sample of the <a title="Mugen Power Extended Battery for the Nexus S" href="https://www.mugen-power-batteries.com/google/google-samsung-nexus-s/mugen-power-3300mah-extended-battery-for-google-samsung-nexus-s-with-battery-door.html" target="_blank">Mugen Power Nexus S Extended Capacity</a> 3300mAH Batteries, and I&#8217;ve been testing them for the past 3 weeks and have been quite pleased.
+<a href="https://www.mugen-power-batteries.com/" target="_blank">Mugen Power Batteries</a>, one of the most popular aftermarket battery manufacturers have brought out some high capacity batteries for quite a few mobile devices, including the Nexus S. Mugen were kind enough to send me a review sample of the <a title="Mugen Power Extended Battery for the Nexus S" href="https://www.mugen-power-batteries.com/google/google-samsung-nexus-s/mugen-power-3300mah-extended-battery-for-google-samsung-nexus-s-with-battery-door.html" target="_blank">Mugen Power Nexus S Extended Capacity</a> 3300mAH Batteries, and I've been testing them for the past 3 weeks and have been quite pleased.
 
 <!--more-->
 
@@ -29,9 +29,9 @@ First, a look at the extended battery specifications:
 **Voltage:** 3.7v  
 **Capacity (mAh):** 3300
 
-In comparison the stock Nexus S battery is a Li-Ion, 3.7v 1500mAh battery. Theoretically, the battery capacity is about 2.2 times the stock battery. Unfortunately, this also means that the battery is quite thick &#8211; almost 2 times as thick as the stock battery. The thickness of the battery means that Stock Nexus S back cover will not fit over the extended battery.
+In comparison the stock Nexus S battery is a Li-Ion, 3.7v 1500mAh battery. Theoretically, the battery capacity is about 2.2 times the stock battery. Unfortunately, this also means that the battery is quite thick - almost 2 times as thick as the stock battery. The thickness of the battery means that Stock Nexus S back cover will not fit over the extended battery.
 
-Mugen has thoughtfully provided a replacement battery door. It&#8217;s worth pointing out that the replacement battery door also features a NFC Antenna so that you don&#8217;t have to worry about losing any functionality.
+Mugen has thoughtfully provided a replacement battery door. It's worth pointing out that the replacement battery door also features a NFC Antenna so that you don't have to worry about losing any functionality.
 
 <p style="text-align: center;">
   <a href="https://www.flickr.com/photos/sathyabhat/5839694696/in/photostream"><img class="aligncenter" title="My 3300mAh battery by @MugenBatteries is here" src="https://farm4.static.flickr.com/3347/5839694696_0482bfa57f.jpg" alt="My 3300mAh battery by @MugenBatteries is here" width="375" height="500" /></a>
@@ -43,15 +43,15 @@ Mugen has thoughtfully provided a replacement battery door. It&#8217;s worth poi
 
 ### Build Quality, Weight & Thickness
 
-A pet-peeve I&#8217;ve had with the Nexus S is that the plastic back door doesn&#8217;t seem to be very durable and there&#8217;s this constant fear of it breaking into two while trying to remove the cover. While the replacement back cover is still plastic, thankfully it has a more rugged & sturdy feel. To aid in easy removal of the cover, there&#8217;s a handy little notch at the top of the cover. The notch also assists in giving you a nice grip to remove the cover.
+A pet-peeve I've had with the Nexus S is that the plastic back door doesn't seem to be very durable and there's this constant fear of it breaking into two while trying to remove the cover. While the replacement back cover is still plastic, thankfully it has a more rugged & sturdy feel. To aid in easy removal of the cover, there's a handy little notch at the top of the cover. The notch also assists in giving you a nice grip to remove the cover.
 
-As mentioned earlier, the higher capacity battery is about 2 times as thick as the stock battery. This results in your very slim & slick Nexus S looking quite literally like a <a title="Chalkboard Duster" href="https://www.google.co.in/search?q=chalkboard+duster&hl=en&prmd=ivns&source=lnms&tbm=isch&ei=09MdTo_JNsTFtAbjhqmyDQ&sa=X&oi=mode_link&ct=mode&cd=2&ved=0CA4Q_AUoAQ&biw=1366&bih=643&start=0&uss=1" target="_blank">chalkboard duster</a>. The battery also adds considerable weight to the phone. If you have trousers with rather tight pockets, the results are definitely not pretty and it&#8217;s going to look like a big bulge. The thickness also means that the phone will now be more susceptible to scratches from keys and the like.
+As mentioned earlier, the higher capacity battery is about 2 times as thick as the stock battery. This results in your very slim & slick Nexus S looking quite literally like a <a title="Chalkboard Duster" href="https://www.google.co.in/search?q=chalkboard+duster&hl=en&prmd=ivns&source=lnms&tbm=isch&ei=09MdTo_JNsTFtAbjhqmyDQ&sa=X&oi=mode_link&ct=mode&cd=2&ved=0CA4Q_AUoAQ&biw=1366&bih=643&start=0&uss=1" target="_blank">chalkboard duster</a>. The battery also adds considerable weight to the phone. If you have trousers with rather tight pockets, the results are definitely not pretty and it's going to look like a big bulge. The thickness also means that the phone will now be more susceptible to scratches from keys and the like.
 
 [<img class="aligncenter" src="https://farm6.static.flickr.com/5169/5272144013_dccf16718c.jpg" alt="P1010024" width="500" height="375" />][1]
 
 [<img class="aligncenter" src="https://farm7.static.flickr.com/6022/5934653756_ae50a7a92a.jpg" alt="Nexus S After Installing the Extended Battery" width="500" height="375" />][2]
 
-Despite the bulk & thickness, the phone doesn&#8217;t feel awkard to hold, fits in your palms rather well.
+Despite the bulk & thickness, the phone doesn't feel awkard to hold, fits in your palms rather well.
 
 ### Performance
 
@@ -66,11 +66,11 @@ For testing, rather than using any synthetic battery testing software or benchma
   * About 1 hour of calls,  10 or so SMS
 
 <div>
-  Note that I&#8217;m always on 3G, on the rare occasion the phone falls back to EDGE. With this kind of usage, my Nexus S lasted what I call as a &#8220;business day&#8221; &#8211; about 12hours or so. After fitting the battery and letting it settle into its groove, I subjected the extended battery to the same kind of usage. And the results were impressive.
+  Note that I'm always on 3G, on the rare occasion the phone falls back to EDGE. With this kind of usage, my Nexus S lasted what I call as a "business day" - about 12hours or so. After fitting the battery and letting it settle into its groove, I subjected the extended battery to the same kind of usage. And the results were impressive.
 </div>
 
 <div>
-  Perhaps impressive is an understatement, I was blown away by the performance &#8211; normally I leave from my home with the battery fully charged and by the time I return home, the stock battery would be at about 15%-18% battery level. With the Mugen Extended battery, the battery level at the end of the day was about 50%. That&#8217;s just phenomenal.
+  Perhaps impressive is an understatement, I was blown away by the performance - normally I leave from my home with the battery fully charged and by the time I return home, the stock battery would be at about 15%-18% battery level. With the Mugen Extended battery, the battery level at the end of the day was about 50%. That's just phenomenal.
 </div>
 
 <div>
@@ -83,7 +83,7 @@ For testing, rather than using any synthetic battery testing software or benchma
   <a href="https://kurast.sathyabh.at/wp-content/uploads/2011/07/snap20110621_195218.png"><img class="aligncenter size-medium wp-image-519" title="Android Battery Usage" src="https://kurast.sathyabh.at/wp-content/uploads/2011/07/snap20110621_195218-180x300.png" alt="Android Battery Usage" width="180" height="300" /></a>
 </div>
 
-I subjected the battery to yet another torture test: one of my favourite features of the Android: Portable WiFi Hotspot. With the portable hotspot running for about 3 hours on 3G, the battery drain was about 25%. That&#8217;s just awesome.
+I subjected the battery to yet another torture test: one of my favourite features of the Android: Portable WiFi Hotspot. With the portable hotspot running for about 3 hours on 3G, the battery drain was about 25%. That's just awesome.
 
 &nbsp;
 
@@ -103,7 +103,7 @@ I subjected the battery to yet another torture test: one of my favourite feature
 ### Conclusion
 
 <div>
-  Despite it&#8217;s bulk & thickness, the Mugen Extended Battery is definitely a worthy purchase. Now you might wonder why go for a thick bulky piece of slab when you can always carry a spare battery? That decision is definitely up to you. My take? Honestly, I would rather have a single battery rather than have to juggle 2 batteries, their rotation, keeping them charged et al. At about $99.95 the extended battery isn&#8217;t exactly cheap &#8211; but then again, the ROI in terms of the how much longer you can use the phone without having to cut down your expenses is unmatched.
+  Despite it's bulk & thickness, the Mugen Extended Battery is definitely a worthy purchase. Now you might wonder why go for a thick bulky piece of slab when you can always carry a spare battery? That decision is definitely up to you. My take? Honestly, I would rather have a single battery rather than have to juggle 2 batteries, their rotation, keeping them charged et al. At about $99.95 the extended battery isn't exactly cheap - but then again, the ROI in terms of the how much longer you can use the phone without having to cut down your expenses is unmatched.
 </div>
 
 <div>

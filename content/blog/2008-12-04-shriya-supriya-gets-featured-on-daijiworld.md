@@ -16,8 +16,8 @@ tags:
   - Supriya
 
 ---
-As part of Children&#8217;s day the Kannada daily Vijaya Karnataka had held an &#8220;Muddu Kanda&#8221;(translated means sweet child) contest. My sister Supriya had enrolled her daughter, my neice Shriya in the contest and guess what Shriya won the second place 😀
+As part of Children's day the Kannada daily Vijaya Karnataka had held an "Muddu Kanda"(translated means sweet child) contest. My sister Supriya had enrolled her daughter, my neice Shriya in the contest and guess what Shriya won the second place 😀
 
 Daiji World features this story. Below is the picture.
 
-For more of my Neice&#8217;s pics you can check my flickr set.
+For more of my Neice's pics you can check my flickr set.

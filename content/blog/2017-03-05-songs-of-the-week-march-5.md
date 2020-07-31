@@ -14,27 +14,27 @@ tags:
   - top 5
 
 ---
-I missed last week&#8217;s post, but back this week. Enjoy ♫♬
+I missed last week's post, but back this week. Enjoy ♫♬
 
 <!--more-->
 
-Zac Saber&#8217;s Soak Up The Sun : Some lovely guitars and harmonica
+Zac Saber's Soak Up The Sun : Some lovely guitars and harmonica
 
 
 
-Hunck&#8217;s Never Had a Dream &#8211; some incredibly transcending electronica/sob rock
+Hunck's Never Had a Dream - some incredibly transcending electronica/sob rock
 
 
 
-Rynn&#8217;s Islands: Incredibly relaxing song
+Rynn's Islands: Incredibly relaxing song
 
 
 
-Sam Roberts Band&#8217;s TerraForm: Another great song that&#8217;s not been heard much
+Sam Roberts Band's TerraForm: Another great song that's not been heard much
 
 
 
-and rounding up for this week is Ghost&#8217;s Square Hammer. Funky video and great music to boot. Bonus feature: <a href="https://en.wikipedia.org/wiki/Ghost_(Swedish_band)" target="_blank">Read up on the band</a>. Not your usual stuff.
+and rounding up for this week is Ghost's Square Hammer. Funky video and great music to boot. Bonus feature: <a href="https://en.wikipedia.org/wiki/Ghost_(Swedish_band)" target="_blank">Read up on the band</a>. Not your usual stuff.
 
 
 

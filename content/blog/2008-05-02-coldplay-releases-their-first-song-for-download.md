@@ -20,9 +20,9 @@ tags:
 ---
 Well first it was [Nine Inch Nails][1] offering their single Discipline for free [download][2] and now [Coldplay][3]  
 [ad]  
-has taken the same route, offering their single &#8220;Violet Hill&#8221; from their New album &#8220;[Viva la Vida or Death and All His Friends][4]&#8221; for  free [download][5].
+has taken the same route, offering their single "Violet Hill" from their New album "[Viva la Vida or Death and All His Friends][4]" for  free [download][5].
 
-Enjoy the song, it&#8217;s awesome. Cant&#8217; wait for their album.
+Enjoy the song, it's awesome. Cant' wait for their album.
 
  [1]: https://en.wikipedia.org/wiki/Nine_inch_nails
  [2]: https://dl.nin.com/discipline/nin

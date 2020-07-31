@@ -14,9 +14,9 @@ tags:
   - travel
 
 ---
-I&#8217;ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip.
+I've always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip.
 
-With a date set, we next wondered which route to take? We considered Coastal Karnataka(Bangalore &#8211; Goa &#8211; Mangalore &#8211; Bangalore) and Tamil Nadu(Bangalore &#8211; Madurai &#8211; Kanyakumari &#8211; Thanjavur &#8211; Chennai &#8211; Bangalore), but eventually decided upon Coastal Karnataka after consulting with resident travel expert <a href="https://medium.com/@ashwinsid" target="_blank">Ashwin</a>. He also suggested few additional places(OK, he suggested a lot of the intermediate places) and we decided on this route and timeline.
+With a date set, we next wondered which route to take? We considered Coastal Karnataka(Bangalore - Goa - Mangalore - Bangalore) and Tamil Nadu(Bangalore - Madurai - Kanyakumari - Thanjavur - Chennai - Bangalore), but eventually decided upon Coastal Karnataka after consulting with resident travel expert <a href="https://medium.com/@ashwinsid" target="_blank">Ashwin</a>. He also suggested few additional places(OK, he suggested a lot of the intermediate places) and we decided on this route and timeline.
 
 <!--more-->
 
@@ -353,7 +353,7 @@ With a date set, we next wondered which route to take? We considered Coastal Ka
   </tr>
 </table>
 
-### Bangalore &#8211; Mangalore
+### Bangalore - Mangalore
 
 Our travel day was finally here. Trip meters reset, fuel filled, car serviced the week before, spare tyres checked, some snacks, biscuits and chewing gum for the road we started from Bangalore.
 
@@ -365,7 +365,7 @@ Our travel day was finally here. Trip meters reset, fuel filled, car serviced th
   </p>
 </div>
 
-We usually stop for breakfast at a place right after Nelamangala, soon as we hop on to Bangalore &#8211; Mangalore highway, but surprisingly this place had not yet opened. Tummy rumbling, we decided to move on to our other usual place about 10km before Kunigal.
+We usually stop for breakfast at a place right after Nelamangala, soon as we hop on to Bangalore - Mangalore highway, but surprisingly this place had not yet opened. Tummy rumbling, we decided to move on to our other usual place about 10km before Kunigal.
 
 <div id="attachment_966" style="width: 1207px" class="wp-caption aligncenter">
   <img class="wp-image-966 size-full" src="https://images.sbhat.me/sb/2016/07/blr1.jpg" alt="Stop just after Nelamangala" width="1197" height="1600" />
@@ -375,7 +375,7 @@ We usually stop for breakfast at a place right after Nelamangala, soon as we hop
   </p>
 </div>
 
-20 minutes later, we arrived at our spot, &#8220;New Golden Breeze&#8221; restaurant only to find that even that had not yet opened. I&#8217;m not sure why that was the case, but anyway decided to move on and have food at Kamat near Kunigal. Before reached there, we came across <a href="https://goo.gl/maps/1rD5AoStF7E2" target="_blank">Sri Siddalingeshwara Cafe</a>(lol) which seemed good enough and we stopped. Before we went in, I had a look at the scenery which reinforced how beautiful the roads are during monsoons.
+20 minutes later, we arrived at our spot, "New Golden Breeze" restaurant only to find that even that had not yet opened. I'm not sure why that was the case, but anyway decided to move on and have food at Kamat near Kunigal. Before reached there, we came across <a href="https://goo.gl/maps/1rD5AoStF7E2" target="_blank">Sri Siddalingeshwara Cafe</a>(lol) which seemed good enough and we stopped. Before we went in, I had a look at the scenery which reinforced how beautiful the roads are during monsoons.
 
 <div id="attachment_969" style="width: 1610px" class="wp-caption aligncenter">
   <img class="wp-image-969 size-full" src="https://images.sbhat.me/sb/2016/07/kunigal1.jpg" alt="Kunigal" width="1600" height="1197" />
@@ -426,7 +426,7 @@ The breakfast was good, the idly soft and fluffy, the vada crispy and the filter
 
 &nbsp;
 
-It was a shame we had to leave the cat back, seemed really friendly. Belly full and kitty pet, we decided to move on. Driving through the monsoons is a sheer bliss, especially if it&#8217;s not raining. Lush greenery everywhere, the cool breeze blowing, it&#8217;s really hard to not park your car aside and step out and soak in the breeze and the atmosphere.
+It was a shame we had to leave the cat back, seemed really friendly. Belly full and kitty pet, we decided to move on. Driving through the monsoons is a sheer bliss, especially if it's not raining. Lush greenery everywhere, the cool breeze blowing, it's really hard to not park your car aside and step out and soak in the breeze and the atmosphere.
 
 <div id="attachment_972" style="width: 1623px" class="wp-caption aligncenter">
   <img class="wp-image-972 size-full" src="https://images.sbhat.me/sb/2016/07/ChannaPatna.jpg" alt="Empty roads en route to Hassan. Pic taken near ChannaPatna" width="1613" height="1210" />
@@ -436,7 +436,7 @@ It was a shame we had to leave the cat back, seemed really friendly. Belly full 
   </p>
 </div>
 
-We took the Hassan &#8211; Sakleshpur &#8211; Shiradi ghat route and barring few bullet tankers(aka the LPG tankers), the road was pretty much empty. We had our usual second pit stop at a different place &#8211; at <a href="https://foursquare.com/v/hotel-durga-international/566d9c9b498edbe089d84cf9" target="_blank">Shri Durga International</a> instead of our usual <a href="https://foursquare.com/sathyabhat/checkin/57219215498ebf04d9ff1b46" target="_blank">Surabhi NX</a>
+We took the Hassan - Sakleshpur - Shiradi ghat route and barring few bullet tankers(aka the LPG tankers), the road was pretty much empty. We had our usual second pit stop at a different place - at <a href="https://foursquare.com/v/hotel-durga-international/566d9c9b498edbe089d84cf9" target="_blank">Shri Durga International</a> instead of our usual <a href="https://foursquare.com/sathyabhat/checkin/57219215498ebf04d9ff1b46" target="_blank">Surabhi NX</a>
 
 <div id="attachment_973" style="width: 1141px" class="wp-caption aligncenter">
   <img class="wp-image-973 size-full" src="https://images.sbhat.me/sb/2016/07/dosa.jpg" alt="Plain Dosa stop at Sakleshpur" width="1131" height="933" />
@@ -446,7 +446,7 @@ We took the Hassan &#8211; Sakleshpur &#8211; Shiradi ghat route and barring few
   </p>
 </div>
 
-After having a round of dosa and coffee, we resumed our journey with the ghats coming up. Recently, a big chunk of the Shiradi ghats were concreted and thus driving through it was a pleasure and not the usual pothole ridden experience. The caveat however, is that the edges of the road are still not done and padded with mud. With rains, these patches erode away and leave a really steep and dangerous cut. Once the concrete roads were over though, the tarred roads had started giving away and was obvious they weren&#8217;t going to last long.
+After having a round of dosa and coffee, we resumed our journey with the ghats coming up. Recently, a big chunk of the Shiradi ghats were concreted and thus driving through it was a pleasure and not the usual pothole ridden experience. The caveat however, is that the edges of the road are still not done and padded with mud. With rains, these patches erode away and leave a really steep and dangerous cut. Once the concrete roads were over though, the tarred roads had started giving away and was obvious they weren't going to last long.
 
 <div id="attachment_974" style="width: 1623px" class="wp-caption aligncenter">
   <img class="wp-image-974 size-full" src="https://images.sbhat.me/sb/2016/07/shiradi-1.jpg" alt="Concrete ghat section at Shiradi" width="1613" height="1210" />
@@ -490,7 +490,7 @@ As we got closer and closer towards Mangalore, the tanker traffic increased and 
   </p>
 </div>
 
-Later on in the evening, I went over to my sister&#8217;s place to meet her and Shriya. She took me to a part of Mangalore, just behind her place, which I hadn&#8217;t visited since a really long time. The view of the Nethravathi river from there was fabulous.
+Later on in the evening, I went over to my sister's place to meet her and Shriya. She took me to a part of Mangalore, just behind her place, which I hadn't visited since a really long time. The view of the Nethravathi river from there was fabulous.
 
 <div id="attachment_986" style="width: 988px" class="wp-caption aligncenter">
   <img class="wp-image-986 size-full" src="https://images.sbhat.me/sb/2016/08/shriya.jpg" alt="Selfie with my niece Shriya" width="978" height="1307" />
@@ -508,7 +508,7 @@ Later on in the evening, I went over to my sister&#8217;s place to meet her and 
   </p>
 </div>
 
-Here&#8217;s a link to the 360° view <a href="https://goo.gl/photos/wcsnGZuB1yTLTsag8" target="_blank">from here</a>. The remaining couple of days were spent at my folks&#8217; place, my in-laws&#8217; place and at Jo&#8217;s cousins. We went over to <a href="https://foursquare.com/v/the-high-wave/4f09bf0be4b09d21f7e15941" target="_blank">The High Wave</a>(though initially it was supposed to be Froth on Top) for some decent food and good times with Jo&#8217;s cousins.
+Here's a link to the 360° view <a href="https://goo.gl/photos/wcsnGZuB1yTLTsag8" target="_blank">from here</a>. The remaining couple of days were spent at my folks' place, my in-laws' place and at Jo's cousins. We went over to <a href="https://foursquare.com/v/the-high-wave/4f09bf0be4b09d21f7e15941" target="_blank">The High Wave</a>(though initially it was supposed to be Froth on Top) for some decent food and good times with Jo's cousins.
 
 <div id="attachment_985" style="width: 1610px" class="wp-caption aligncenter">
   <img class="size-full wp-image-985" src="https://images.sbhat.me/sb/2016/08/highwave.jpg" alt="Nice poster at Highwave" width="1600" height="1197" />
@@ -522,7 +522,7 @@ Here&#8217;s a link to the 360° view <a href="https://goo.gl/photos/wcsnGZuB1yT
   <img class="size-full wp-image-984" src="https://images.sbhat.me/sb/2016/08/highwave-2.jpg" alt="Chillin' at HighWave" width="1197" height="1600" />
   
   <p class="wp-caption-text">
-    Chillin&#8217; at HighWave
+    Chillin' at HighWave
   </p>
 </div>
 
@@ -534,13 +534,13 @@ Here&#8217;s a link to the 360° view <a href="https://goo.gl/photos/wcsnGZuB1yT
   </p>
 </div>
 
-No trip to Mangalore would be complete without an Ice cream from Pabba&#8217;s.. so went over to <a href="https://foursquare.com/sathyabhat/checkin/57791f43498e059a714f8264" target="_blank">Pabba&#8217;s</a>, grabbed some ice cream for us as well as for family and headed back home
+No trip to Mangalore would be complete without an Ice cream from Pabba's.. so went over to <a href="https://foursquare.com/sathyabhat/checkin/57791f43498e059a714f8264" target="_blank">Pabba's</a>, grabbed some ice cream for us as well as for family and headed back home
 
 <div id="attachment_988" style="width: 1207px" class="wp-caption aligncenter">
   <img class="size-full wp-image-988" src="https://images.sbhat.me/sb/2016/08/icecream.jpg" alt="Ice cream from Pabba's" width="1197" height="1600" />
   
   <p class="wp-caption-text">
-    Ice cream from Pabba&#8217;s
+    Ice cream from Pabba's
   </p>
 </div>
 

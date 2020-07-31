@@ -16,10 +16,10 @@ tags:
   - styletag.com
 
 ---
-July has been a month of great changes.. I started my first job in July in Chennai &#8211;  new city, staying on my own, earning my own money.. but that was about 9 years back.
+July has been a month of great changes.. I started my first job in July in Chennai -  new city, staying on my own, earning my own money.. but that was about 9 years back.
 
-This year again, July is a month of change. <a href="https://sathyabh.at/2011/04/22/goodbye-3i/" target="_blank">After 5 years</a>(and few days) at CGI(<a href="https://www.cgi.com/en/CGI-completes-Logica-acquisition-new-leadership-team" target="_blank">erstwhile</a> Logica), I will be moving away and onto the new unknown. Reasons for moving are many &#8211; completed my project, didn&#8217;t like the new project&#8217;s commute/timings, tech stagnation and personal growth are some of the major ones. Where to next, you might ask?
+This year again, July is a month of change. <a href="https://sathyabh.at/2011/04/22/goodbye-3i/" target="_blank">After 5 years</a>(and few days) at CGI(<a href="https://www.cgi.com/en/CGI-completes-Logica-acquisition-new-leadership-team" target="_blank">erstwhile</a> Logica), I will be moving away and onto the new unknown. Reasons for moving are many - completed my project, didn't like the new project's commute/timings, tech stagnation and personal growth are some of the major ones. Where to next, you might ask?
 
-Well after all these years of corporate life, time for something new &#8211; will be joining <a href="https://styletag.com" target="_blank">Styletag.com</a> as the DevOps guy. From Oracle to Rails, on-premise to AWS, this is something that will be a challenge I am sure, and I look forward to it.
+Well after all these years of corporate life, time for something new - will be joining <a href="https://styletag.com" target="_blank">Styletag.com</a> as the DevOps guy. From Oracle to Rails, on-premise to AWS, this is something that will be a challenge I am sure, and I look forward to it.
 
 Wish me best wishes 😉

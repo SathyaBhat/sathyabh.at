@@ -17,7 +17,7 @@ tags:
   - Programming
 
 ---
-Steven Feuerstein has a nice little presentation on some golden rules for developers. They aren&#8217;t anything new, yet not many people read/follow them 🙂
+Steven Feuerstein has a nice little presentation on some golden rules for developers. They aren't anything new, yet not many people read/follow them 🙂
 
 Download the PDF from <a href="https://www.toadworld.com/Portals/0/stevenf/Golden%20Rules%20for%20Developers.pdf" target="_blank">here</a>, or just read it via the embedded doc
 

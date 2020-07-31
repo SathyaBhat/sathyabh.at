@@ -18,30 +18,30 @@ Another series of Monday tunes! Let me know how you like the songs! &#x1f3b6;&#x
 
 <!--more-->
 
-&#8220;Begin&#8221; by Shallou(ft Wales)
+"Begin" by Shallou(ft Wales)
 
 
 
-&#8220;Intro&#8221; by Cubicolor. Sublime piece of music
+"Intro" by Cubicolor. Sublime piece of music
 
 
 
-&#8220;I get it now&#8221; by Fjord
+"I get it now" by Fjord
 
 
 
-&#8220;Nothing Personal&#8221; by Night Riots
+"Nothing Personal" by Night Riots
 
 
 
-To wrap up for this week, &#8220;Amerika&#8221; by Wintersleep.
+To wrap up for this week, "Amerika" by Wintersleep.
 
 
 
 The <a href="https://www.youtube.com/playlist?list=PLxKOjmEYzYcTogkkHfq_7tObgpFLEMmG4" target="_blank" rel="noopener">Monday Tunes Playlist</a>
 
-If Spotify&#8217;s your thing, a <a href="https://open.spotify.com/user/sathyabhat/playlist/2L5gZLGx8lL1g5nHqJdkKp" target="_blank" rel="noopener">Spotify playlist</a> is below:
+If Spotify's your thing, a <a href="https://open.spotify.com/user/sathyabhat/playlist/2L5gZLGx8lL1g5nHqJdkKp" target="_blank" rel="noopener">Spotify playlist</a> is below:
 
 
 
-Till next week &#8211; Enjoy the music!
+Till next week - Enjoy the music!

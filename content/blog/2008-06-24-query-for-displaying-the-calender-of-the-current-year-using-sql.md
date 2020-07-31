@@ -18,7 +18,7 @@ tags:
 ---
 Another of things I got via IpMessenger, this query(yes, its a QUERY, not even a full-blown code) returns the calender of the current year. Do note this query will work only in Oracle.
 
-Here&#8217;s the query.  
+Here's the query.  
 <!--more-->
 
 > `SELECT LPAD( MONTH, 20-(20-LENGTH(MONTH))/2 ) MONTH,"Sun", "Mon", "Tue",<br />

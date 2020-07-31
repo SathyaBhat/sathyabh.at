@@ -40,7 +40,7 @@ Ever think you’re a weird person? Want to know how weird you are? I found this
 </p>
 
 <p style="text-align: center;">
-  So 76% are more weird than me? COOL! 9% are just as weird? Hmm So I guess I&#8217;m a relatively &#8220;non-weird&#8221; person eh? :)) 😛 So what&#8217;s your score? Find out<br /> <a href="https://www.nerdtests.com/ft_weird.php?im"><br /> <img class="aligncenter" src="https://www.nerdtests.com/thetester/images/php/wq.php?val=5267" alt="What is your weird quotient? Click to find out!" /> </a>
+  So 76% are more weird than me? COOL! 9% are just as weird? Hmm So I guess I'm a relatively "non-weird" person eh? :)) 😛 So what's your score? Find out<br /> <a href="https://www.nerdtests.com/ft_weird.php?im"><br /> <img class="aligncenter" src="https://www.nerdtests.com/thetester/images/php/wq.php?val=5267" alt="What is your weird quotient? Click to find out!" /> </a>
 </p>
 
 and post your score in the comments!

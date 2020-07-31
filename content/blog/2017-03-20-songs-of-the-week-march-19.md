@@ -14,7 +14,7 @@ tags:
   - top 5
 
 ---
-Another week of missed songs.. but I&#8217;m back.. again. Enjoy ♫♬
+Another week of missed songs.. but I'm back.. again. Enjoy ♫♬
 
 <!--more-->
 
@@ -22,11 +22,11 @@ Only Love by Ben Howard
 
 
 
-Spirit Cold by Tall Heights &#8211; watching their performance is truly incredible.
+Spirit Cold by Tall Heights - watching their performance is truly incredible.
 
 
 
-Electric Indigo by The Paper Kites &#8211; the chorus start riff is somewhat similar to the one in <a href="https://sathyabh.at/2017/02/11/songs-for-the-week-feb-12/" target="_blank">Bear&#8217;s Den&#8217;s Red Earth & Pouring</a> but nonetheless a great song to listen to
+Electric Indigo by The Paper Kites - the chorus start riff is somewhat similar to the one in <a href="https://sathyabh.at/2017/02/11/songs-for-the-week-feb-12/" target="_blank">Bear's Den's Red Earth & Pouring</a> but nonetheless a great song to listen to
 
 
 
@@ -34,4 +34,4 @@ You Rascal You by Hann El Khatib
 
 
 
-And some good ol&#8217; rock to end the post. Yes it&#8217;s not new but still a great song. Do I Wanna Know? by Arctic Monkeys
+And some good ol' rock to end the post. Yes it's not new but still a great song. Do I Wanna Know? by Arctic Monkeys
