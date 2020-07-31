@@ -18,19 +18,19 @@ Songs of the week continues.
 
 <!--more-->
 
-Coast Modern &#8211; Animals  
+Coast Modern - Animals  
 
 
-Boy & Bear &#8211; Southern Sun  
+Boy & Bear - Southern Sun  
 
 
-The Head and the Heart &#8211; Shake  
+The Head and the Heart - Shake  
 
 
-Love Is a Burden &#8211; Jamestown Revival  
+Love Is a Burden - Jamestown Revival  
 
 
-Last but not least &#8211; found this off Reddit. What a voice this guy&#8217;s got!  
+Last but not least - found this off Reddit. What a voice this guy's got!  
 
 
-If Spotify&#8217;s your thing, check this out.
+If Spotify's your thing, check this out.

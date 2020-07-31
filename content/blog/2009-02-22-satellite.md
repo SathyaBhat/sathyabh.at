@@ -36,7 +36,7 @@ tags:
 > And I will watch over you like a satellite
 > 
 > River will flow from scenes unknown  
-> I&#8217;ll guide you through by the love I&#8217;ll show  
+> I'll guide you through by the love I'll show  
 > And the stars will wish upon the night  
 > That they could have a guiding satellite 
 

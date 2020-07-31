@@ -9,9 +9,9 @@ categories:
   - Life
 
 ---
-Way back in late November/December last year, I took part in reddit&#8217;s <a href="https://redditgifts.com/exchanges/secret-santa-2011/" target="_blank">/r/secretsanta</a>. I found it was pretty cool, to (hopefully) get a random gift based on my barren, lurking <a href="https://www.reddit.com/user/sathyabhat/" target="_blank">reddit account</a>, though a <a href="https://www.google.co.in/search?q=sathyabhat" target="_blank">small search</a> would reveal a lot more about me.
+Way back in late November/December last year, I took part in reddit's <a href="https://redditgifts.com/exchanges/secret-santa-2011/" target="_blank">/r/secretsanta</a>. I found it was pretty cool, to (hopefully) get a random gift based on my barren, lurking <a href="https://www.reddit.com/user/sathyabhat/" target="_blank">reddit account</a>, though a <a href="https://www.google.co.in/search?q=sathyabhat" target="_blank">small search</a> would reveal a lot more about me.
 
-Anyway, after [Ashwin&#8217;s][1] feedback(&#8220;my santa didn&#8217;t send anything. I was reassigned. second santa also nothing. #foreveralone&#8221;) I didn&#8217;t expect anything. A month or so later, however, my secret santa confirmed shipment of the gift. And I received it couple of days later.
+Anyway, after [Ashwin's][1] feedback("my santa didn't send anything. I was reassigned. second santa also nothing. #foreveralone") I didn't expect anything. A month or so later, however, my secret santa confirmed shipment of the gift. And I received it couple of days later.
 
 <blockquote class="twitter-tweet tw-align-center">
   <p>
@@ -23,11 +23,11 @@ Anyway, after [Ashwin&#8217;s][1] feedback(&#8220;my santa didn&#8217;t send a
   </p>
 </blockquote>
 
-Sweet! What I didn&#8217;t realize, till couple of weeks ago, was that the folks at /r/secretsanta were trying set a Guinness World Record for &#8220;the largest online secret santa game&#8221; and were successful at that! So that made me a Guinness World Record holder too! Woohoo! 
+Sweet! What I didn't realize, till couple of weeks ago, was that the folks at /r/secretsanta were trying set a Guinness World Record for "the largest online secret santa game" and were successful at that! So that made me a Guinness World Record holder too! Woohoo! 
 
 [<img class="aligncenter" title="Achievement Unlocked" src="https://i.stack.imgur.com/3wG8n.png" alt="Achievement Unlocked" width="423" height="68" />][2]
 
-Soon enough, I put forward an order for my Guinness World Record certificate and things were all set. Or so I thought. Couple of days ago, I received an email from Guinness stating that due to high volume of orders, the shipment would be delayed by another couple of weeks. That was fine, but then the person who sent the email did the biggest goof up ever. The person put the email address of about 1,072 people in the &#8220;To&#8221; field. Not even the cc, the frigging &#8220;To&#8221; field.
+Soon enough, I put forward an order for my Guinness World Record certificate and things were all set. Or so I thought. Couple of days ago, I received an email from Guinness stating that due to high volume of orders, the shipment would be delayed by another couple of weeks. That was fine, but then the person who sent the email did the biggest goof up ever. The person put the email address of about 1,072 people in the "To" field. Not even the cc, the frigging "To" field.
 
 <div style="width: 658px" class="wp-caption aligncenter">
   <a href="https://i.stack.imgur.com/GrGSK.jpg"><img class=" " title="Epic Facepalm" src="https://i.stack.imgur.com/GrGSK.jpg" alt="Epic Facepalm" width="648" height="494" /></a>
@@ -37,11 +37,11 @@ Soon enough, I put forward an order for my Guinness World Record certificate and
   </p>
 </div>
 
-  Here&#8217;s how it looked like 
+  Here's how it looked like 
 
 [<img class="aligncenter" src="https://i.stack.imgur.com/VuCB6.png" alt="" width="682" height="369" />][3]
 
-Naturally, I wasn&#8217;t too pleased 
+Naturally, I wasn't too pleased 
 
 <blockquote class="twitter-tweet tw-align-center">
   <p>
@@ -69,7 +69,7 @@ Marco Frugatti, SVP Records, however did send an email apologizing the data brea
 > 
 > I can confirm that this breach was a human error by one of our own staff. Naturally, we take this matter extremely seriously and are conducting a formal investigation to ensure an event like this never happens again. I would like to offer you our unreserved apologies for this situation and any inconvenience it has caused.
 
-However, I fear that this breach will have even more serious repercussions, given how lax people are with passwords. Good thing is that Guinness owned up to the mistake and have confirmed that they have initiated refunds for the payment of certificates. Time will tell who&#8217;ll be hit more &#8211; Guinness or the individuals in the email. My bet is on the latter.
+However, I fear that this breach will have even more serious repercussions, given how lax people are with passwords. Good thing is that Guinness owned up to the mistake and have confirmed that they have initiated refunds for the payment of certificates. Time will tell who'll be hit more - Guinness or the individuals in the email. My bet is on the latter.
 
  [1]: https://twitter.com/ashwinsid
  [2]: https://i.stack.imgur.com/3wG8n.png

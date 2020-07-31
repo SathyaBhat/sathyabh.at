@@ -18,23 +18,23 @@ Monday tunes is here again. Let me know how you like the songs! &#x1f3b6;&#x1f3b
 
 <!--more-->
 
-&#8220;Goodnight&#8221; by Shoffy &#8211; this is probably the first song that I really like <a href="https://open.spotify.com/track/2bWoRWc3AD9Dv2IZTa6MaN" target="_blank" rel="noopener">the version on Spotify</a>(which I suspect is the orignal) but YouTube doesn&#8217;t have this one. I&#8217;m going to link another one for YouTube but if you can &#8211; do listen to the <a href="https://open.spotify.com/track/2bWoRWc3AD9Dv2IZTa6MaN" target="_blank" rel="noopener">one on Spotify</a>
+"Goodnight" by Shoffy - this is probably the first song that I really like <a href="https://open.spotify.com/track/2bWoRWc3AD9Dv2IZTa6MaN" target="_blank" rel="noopener">the version on Spotify</a>(which I suspect is the orignal) but YouTube doesn't have this one. I'm going to link another one for YouTube but if you can - do listen to the <a href="https://open.spotify.com/track/2bWoRWc3AD9Dv2IZTa6MaN" target="_blank" rel="noopener">one on Spotify</a>
 
 
 
-&#8220;Can&#8217;t Let Go&#8221; by VALNTN (feat. Emilia Ali)
+"Can't Let Go" by VALNTN (feat. Emilia Ali)
 
 
 
-&#8220;Kiss Fight&#8221; by Tülpa ft. gnash & Blankts
+"Kiss Fight" by Tülpa ft. gnash & Blankts
 
 
 
-&#8220;Two Thousand And Seventeen&#8221; by Four Tet
+"Two Thousand And Seventeen" by Four Tet
 
 
 
-To wrap up for this week, &#8220;Ghost&#8221; by Sir Sly
+To wrap up for this week, "Ghost" by Sir Sly
 
 
 
@@ -53,4 +53,4 @@ You can now subscribe to the Monday Tunes newsletter to receive an email when a 
   <span class="es_subscription_message" id="es_subscription_message_1571559193"></span>
 </div>
 
-Till next week &#8211; Enjoy the music!
+Till next week - Enjoy the music!

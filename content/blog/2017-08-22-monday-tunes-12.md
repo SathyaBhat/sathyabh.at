@@ -18,23 +18,23 @@ Monday tunes is here again. Let me know how you like the songs! &#x1f3b6;&#x1f3b
 
 <!--more-->
 
-&#8220;Good Times&#8221; by All Time Low
+"Good Times" by All Time Low
 
 
 
-&#8220;What&#8217;s Wrong&#8221; by PVRIS
+"What's Wrong" by PVRIS
 
 
 
-&#8220;Million Bucks&#8221; by Smallpools
+"Million Bucks" by Smallpools
 
 
 
-&#8220;Front to Back&#8221; by Buku
+"Front to Back" by Buku
 
 
 
-To wrap up for this week, &#8220;Only For You&#8221; by Heartless Bastards
+To wrap up for this week, "Only For You" by Heartless Bastards
 
 
 
@@ -45,4 +45,4 @@ The full Monday Tunes collection:
 
 
 
-Till next week &#8211; Enjoy the music!
+Till next week - Enjoy the music!

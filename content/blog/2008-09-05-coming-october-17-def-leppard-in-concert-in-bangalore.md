@@ -21,7 +21,7 @@ tags:
 </p>
 
 <p style="text-align: left; ">
-  I _should_ be able to make it, and if I do, this will be the first concert I&#8217;ll be attending! I desperately wanted Red Hot Chili Peppers to perform live(there were rumours of them performing in Bangalore), sadly seems the concert didn&#8217;t materialize. Oh well. Santosh & Subbu have confirmed their presence for the concert, are you coming? Confirm your presence over at <a href="https://www.last.fm/event/583424">last.fm events</a>.
+  I _should_ be able to make it, and if I do, this will be the first concert I'll be attending! I desperately wanted Red Hot Chili Peppers to perform live(there were rumours of them performing in Bangalore), sadly seems the concert didn't materialize. Oh well. Santosh & Subbu have confirmed their presence for the concert, are you coming? Confirm your presence over at <a href="https://www.last.fm/event/583424">last.fm events</a>.
 </p>
 
 <p style="text-align: left; ">

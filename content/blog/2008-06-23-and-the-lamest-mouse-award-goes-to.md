@@ -17,7 +17,7 @@ tags:
 
 ---
 [ad]  
-Preshit’s [tweet][1] about him having the lamest mouse triggered a series of “my-mouse-is-lamer-than-yours&#8221; tweets, and in midst of that we decided to have a contest &#8211; Who&#8217;s mouse is the Lamest? So who gets the award? Lets have a look at the contenders  
+Preshit’s [tweet][1] about him having the lamest mouse triggered a series of “my-mouse-is-lamer-than-yours" tweets, and in midst of that we decided to have a contest - Who's mouse is the Lamest? So who gets the award? Lets have a look at the contenders  
 <!--more-->
 
   1. [Preshit][2]
@@ -39,7 +39,7 @@ Preshit’s [tweet][1] about him having the lamest mouse triggered a series of �
   6. [Me][16]
 ![My Lame Mouse][17] </ol> 
 
-And the winner is&#8230;&#8230;.. well that&#8217;s for you to decide. Drop a comment and give your opinion. If you feel your mouse deserves an entry then post it in the comments! I&#8217;ll include it in the post!
+And the winner is&#8230;&#8230;.. well that's for you to decide. Drop a comment and give your opinion. If you feel your mouse deserves an entry then post it in the comments! I'll include it in the post!
 
  [1]: https://twitter.com/preshit/statuses/841690226
  [2]: https://presh.it/

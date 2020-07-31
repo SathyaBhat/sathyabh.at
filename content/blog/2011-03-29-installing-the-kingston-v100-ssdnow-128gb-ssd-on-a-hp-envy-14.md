@@ -21,7 +21,7 @@ tags:
   - SSD
 
 ---
-Quite some time back Kingston was kind enough to send me their v100 128GB SSD for review. Due to [my travel back to India][1], I had to stall the SSD shipment since I wouldn&#8217;t in the US by the time I would have received it. Once back here, I had to further delay since I had planned to take a short week-long vacation to [Mangalore][2].
+Quite some time back Kingston was kind enough to send me their v100 128GB SSD for review. Due to [my travel back to India][1], I had to stall the SSD shipment since I wouldn't in the US by the time I would have received it. Once back here, I had to further delay since I had planned to take a short week-long vacation to [Mangalore][2].
 
 While the SSD was in transit, I started researching on how would I be able to fit the SSD into my laptop, with the SSD as the primary drive and the existing Seagate Momentus 7200rpm hard drive as the secondary drive. Digging up the Envy 14 manual, I was under the impression that having both drives would be possible.
 
@@ -56,7 +56,7 @@ Soon as I got the SSD, I set about [ripping apart my Envy 14][3], only to be di
   </p>
 </div>
 
-While you can certainly add a second drive, it&#8217;s by no means user replaceable/serviceable and seems to be tightly sealed off. So I had to dump my plans to have the Seagate HDD as the secondary internal HDD and was forced to convert to an external USB 2.0 hard drive ( criminal, I know!) using this [Transcend StoreJet case][4] for an internal drive.
+While you can certainly add a second drive, it's by no means user replaceable/serviceable and seems to be tightly sealed off. So I had to dump my plans to have the Seagate HDD as the secondary internal HDD and was forced to convert to an external USB 2.0 hard drive ( criminal, I know!) using this [Transcend StoreJet case][4] for an internal drive.
 
 Replacing the existing hard disk, however was simple and straightforward. Had to slide off the battery cover, remove the battery, unscrew the 4&#215;2.5MM screws holding the drive and slide the HDD off.
 
@@ -84,7 +84,7 @@ Replacing the existing hard disk, however was simple and straightforward. Had to
   </p>
 </div>
 
-Trying to fit in the Seagate internal HDD into the case, however, took a little bit more effort &#8211; nothing substantial though. I had to unscrew the mounting brackets & the metal guard so that the drive could slide in.
+Trying to fit in the Seagate internal HDD into the case, however, took a little bit more effort - nothing substantial though. I had to unscrew the mounting brackets & the metal guard so that the drive could slide in.
 
 Some more pics:
 
@@ -146,7 +146,7 @@ Some more shots of the Transcend external drive case:
   </p>
 </div>
 
-I&#8217;ll have the SSD review up in a day or two. For now, I&#8217;m enjoying the zippy response and near instant resume from sleep à la my [Cr-48][5].
+I'll have the SSD review up in a day or two. For now, I'm enjoying the zippy response and near instant resume from sleep à la my [Cr-48][5].
 
  [1]: https://sathyabh.at/2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
  [2]: https://sathyabh.at/tag/mangalore/

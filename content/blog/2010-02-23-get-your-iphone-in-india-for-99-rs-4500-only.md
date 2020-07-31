@@ -20,7 +20,7 @@ That got your attention ? Well, brace up, this is a rant.
 
 <!--more-->
 
-_Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, _long, long ago. I decided to post this because people keep saying the same old shit &#8211; &#8216;its only 4k in US blah blah. This post was triggered by that guy <a href="https://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav &#8211; if you&#8217;re trying to reject this &#8211;_ 
+_Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, _long, long ago. I decided to post this because people keep saying the same old shit - 'its only 4k in US blah blah. This post was triggered by that guy <a href="https://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav - if you're trying to reject this -_ 
 
 > <div>
 >   <div>
@@ -86,27 +86,27 @@ _Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, 
   </p>
   
   <p>
-    Unlike India, you don&#8217;t (rephrase: 99% of people don&#8217;t) purchase the phone outright. The $99 = downpayment.<br /> The rest of the cost is covered in monthly phone bill. The average per month bill is around (lets assume load it with everything), $120. Again, its an average. It might be more, it might be less. Do some math.
+    Unlike India, you don't (rephrase: 99% of people don't) purchase the phone outright. The $99 = downpayment.<br /> The rest of the cost is covered in monthly phone bill. The average per month bill is around (lets assume load it with everything), $120. Again, its an average. It might be more, it might be less. Do some math.
   </p>
   
   <p>
-    $99 + 120*24 = ???<br /> NOT FREAKING $99!<br /> Yes, it&#8217;s $2979. That&#8217;s the cost you&#8217;ll have to bear.
+    $99 + 120*24 = ???<br /> NOT FREAKING $99!<br /> Yes, it's $2979. That's the cost you'll have to bear.
   </p>
   
   <p>
-    Oooo, I&#8217;ll break the contract. Erm. Nada.<br /> Break the contract within a month = you <strong>have</strong> to return the phone.<br /> OK, I&#8217;ll wait. There&#8217;s something called early termination fee: it goes upto $175.
+    Oooo, I'll break the contract. Erm. Nada.<br /> Break the contract within a month = you <strong>have</strong> to return the phone.<br /> OK, I'll wait. There's something called early termination fee: it goes upto $175.
   </p>
   
   <p>
-    Ok, $99 + 175 = $275 = YAAY! WIN!!!!!<br /> Erm, down boy. You <strong>can&#8217;t</strong> break the contract <strong>that</strong> easily, not unless you have a <strong>valid</strong> reason.
+    Ok, $99 + 175 = $275 = YAAY! WIN!!!!!<br /> Erm, down boy. You <strong>can't</strong> break the contract <strong>that</strong> easily, not unless you have a <strong>valid</strong> reason.
   </p>
   
   <p>
-    OOoh, I&#8217;ll report stolen and get it.<br /> Wake up, this ain&#8217;t India where you can get an FIR done in 5 bucks.
+    OOoh, I'll report stolen and get it.<br /> Wake up, this ain't India where you can get an FIR done in 5 bucks.
   </p>
   
   <p>
-    Oooh, I&#8217;ll purchase and leave the country.<br /> Um, Let me bring up the terms again.<br /> <strong>credit check</strong> required.
+    Oooh, I'll purchase and leave the country.<br /> Um, Let me bring up the terms again.<br /> <strong>credit check</strong> required.
   </p>
   
   <p>

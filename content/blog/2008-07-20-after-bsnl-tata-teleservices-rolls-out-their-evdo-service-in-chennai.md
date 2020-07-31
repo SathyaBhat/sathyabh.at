@@ -17,15 +17,15 @@ tags:
   - ttsl
 
 ---
-Nearly 3 months after BSNL had [introduced][1] their EVDO(aka mobile/wireless broadband) Tata Teleservices has launched the Photon &#8211; their version of the EVDO service.
+Nearly 3 months after BSNL had [introduced][1] their EVDO(aka mobile/wireless broadband) Tata Teleservices has launched the Photon - their version of the EVDO service.
 
 For the unknown, EVDO is an acronym for Evolution-Data Optimized, which is a [CDMA][2] revision which allows for data transfer rates of upto 2.4 Mbps. Before you run out of your house to get a connection, do note that as of now the service is launched only in SELECT, sub urban areas of Chennai.
 
 <!--more-->
 
-To know exactly which areas its available in, you&#8217;ll have to contact their [Customer Care][3].
+To know exactly which areas its available in, you'll have to contact their [Customer Care][3].
 
-Tariff wise well I don&#8217;t know what the Hell Tata is thinking. The prices are outrageous &#8211; twice that of BSNL EVDO.
+Tariff wise well I don't know what the Hell Tata is thinking. The prices are outrageous - twice that of BSNL EVDO.
 
 For the USB Modem service, they have 3 plans
 

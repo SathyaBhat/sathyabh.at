@@ -17,7 +17,7 @@ tags:
 ---
 [ad]
 
-I get a lot of forwards, I mean a **lot**. Most of them I just delete, since they aren&#8217;t worth keeping. The good ones I forward. This one is the better of the entire lot of forwards that I&#8217;ve gotten. It&#8217;s old, I know but still good.
+I get a lot of forwards, I mean a **lot**. Most of them I just delete, since they aren't worth keeping. The good ones I forward. This one is the better of the entire lot of forwards that I've gotten. It's old, I know but still good.
 
 > Top 10 most stupid questions people usually ask in obvious situations
 > 
@@ -31,7 +31,7 @@ I get a lot of forwards, I mean a **lot**. Most of them I just delete, since the
 > A heavy lady wearing pointed high-heeled shoes steps on your feet&#8230;  
 > Stupid Question:- Sorry, did that hurt?
 > 
-> Answer:- No, not at all, I&#8217;m on local anesthesia.. &#8230;why don&#8217;t you  
+> Answer:- No, not at all, I'm on local anesthesia.. &#8230;why don't you  
 > try again.
 > 
 > 3. At a funeral:  
@@ -42,23 +42,23 @@ I get a lot of forwards, I mean a **lot**. Most of them I just delete, since the
 > 
 > 4. At a restaurant: When you ask the waiter  
 > Stupid Question:-  
-> Is the &#8220;Butter Paneer Masala&#8221; good??
+> Is the "Butter Paneer Masala" good??
 > 
 > Answer:- No, its terrible and made of adulterated cement. We  
 > occassionaly also spit in it.
 > 
 > 5. At a family get-together:  
 > When some distant aunt meets you after years  
-> Stupid Question:-Munna, Chickoo, you&#8217;ve become so big.
+> Stupid Question:-Munna, Chickoo, you've become so big.
 > 
-> Answer:- Well you haven&#8217;t particularly shrunk yourself.
+> Answer:- Well you haven't particularly shrunk yourself.
 > 
 > <!--more-->
 > 
 > 6. When a friend announces her wedding, and you ask&#8230;  
-> Stupid Question:- Is the guy you&#8217;re marrying good?
+> Stupid Question:- Is the guy you're marrying good?
 > 
-> Answer:- No,he&#8217;s a miserable wife-beating ,insensitive lout&#8230;it&#8217;s just  
+> Answer:- No,he's a miserable wife-beating ,insensitive lout&#8230;it's just  
 > the money.
 > 
 > 7. When you get woken up at midnight by a phone call&#8230;  
@@ -71,9 +71,9 @@ I get a lot of forwards, I mean a **lot**. Most of them I just delete, since the
 > 8. When you see a friend/colleague with evidently shorter hair&#8230;  
 > Stupid Question:- Hey have you had a haircut?
 > 
-> Answer:- No, its autumn and I&#8217;m shedding&#8230;. ..
+> Answer:- No, its autumn and I'm shedding&#8230;. ..
 > 
-> 9. At the dentist when he&#8217;s sticking pointed objects in your mouth&#8230;  
+> 9. At the dentist when he's sticking pointed objects in your mouth&#8230;  
 > Stupid Question:- Tell me if it hurts?
 > 
 > Answer:- No it wont. It will just bleed.
@@ -82,8 +82,8 @@ I get a lot of forwards, I mean a **lot**. Most of them I just delete, since the
 > asks&#8230;  
 > Stupid Question:- Oh, so you smoke.
 > 
-> Answer:- Gosh, it&#8217;s a miracle &#8230;&#8230;&#8230;..it was a piece of chalk and  
-> now it&#8217;s in flames!!!
+> Answer:- Gosh, it's a miracle &#8230;&#8230;&#8230;..it was a piece of chalk and  
+> now it's in flames!!!
 
 Bonus: [Manan][1] added another gem of stupid question
 

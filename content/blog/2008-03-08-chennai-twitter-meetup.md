@@ -18,7 +18,7 @@ tags:
 ---
 Well, [Kiruba][1] decided to organise a Chennai Twitter Meetup. As the Wiki states,
 
-> It&#8217;s really an excuse to have an informal get-together and some fun. A reason for us to get away from keyboards and make new friends in meatspace.
+> It's really an excuse to have an informal get-together and some fun. A reason for us to get away from keyboards and make new friends in meatspace.
 > 
 > We go dutch. Get your wallet along!
 > 
@@ -26,7 +26,7 @@ Well, [Kiruba][1] decided to organise a Chennai Twitter Meetup. As the Wiki stat
 > 
 > Help tweet the news or slap the badge on your blog.
 
-If you&#8217;re a twitterer in Chennai and would like to be part of the meetup then head over to the [Tweetup Wiki][2] and fill in the details. As much as I&#8217;d like to attend the tweetup(my first ever, I might add)  I will be at home in Mangalore and hence won&#8217;t be ableto attend tweetup. Hope the guys would tweet about it.
+If you're a twitterer in Chennai and would like to be part of the meetup then head over to the [Tweetup Wiki][2] and fill in the details. As much as I'd like to attend the tweetup(my first ever, I might add)  I will be at home in Mangalore and hence won't be ableto attend tweetup. Hope the guys would tweet about it.
 
 Cheers guys and have a good time
 

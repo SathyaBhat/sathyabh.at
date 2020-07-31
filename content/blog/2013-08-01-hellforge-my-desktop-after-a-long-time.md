@@ -12,11 +12,11 @@ tags:
   - Hellforge
 
 ---
-I&#8217;ve been tinkering with computers for well over 15 years now &#8211; and since 2007 I&#8217;ve been using laptops almost exclusively &#8211; prime reason being space(or the lack of it) since I moved away from my home, to a new city. Staying in a PG meant there was no space.
+I've been tinkering with computers for well over 15 years now - and since 2007 I've been using laptops almost exclusively - prime reason being space(or the lack of it) since I moved away from my home, to a new city. Staying in a PG meant there was no space.
 
-Since the past year and half I&#8217;ve been in Bangalore, staying in a rented house and though wanted to own a desktop, there wasn&#8217;t a decent justification to get it, especially since my laptop, HP Envy 14 was coping well. Till November, my Envy&#8217;s main system fan died and my laptop was running on GPU fan &#8211; which meant running any application would result in temperatures shooting to 80-90 &#8211; could barely run a game for 10-15 minutes.
+Since the past year and half I've been in Bangalore, staying in a rented house and though wanted to own a desktop, there wasn't a decent justification to get it, especially since my laptop, HP Envy 14 was coping well. Till November, my Envy's main system fan died and my laptop was running on GPU fan - which meant running any application would result in temperatures shooting to 80-90 - could barely run a game for 10-15 minutes.
 
-In mid Jan I finally decided to get a new desktop than fix my laptop. Anyway, after doing some research and settling on a budget(which was stretched by over 6k) here&#8217;s what I got: (disclaimer: Flipkart affiliate links follow)
+In mid Jan I finally decided to get a new desktop than fix my laptop. Anyway, after doing some research and settling on a budget(which was stretched by over 6k) here's what I got: (disclaimer: Flipkart affiliate links follow)
 
 <!--more-->
 
@@ -27,11 +27,11 @@ In mid Jan I finally decided to get a new desktop than fix my laptop. Anyway, af
   * <a href="https://www.flipkart.com/seasonic-s12ii-620-watts-psu/p/itmd5xz46hjzzrax?pid=PSUD5XZ4GCGRASAY&affid=sathyasath" target="_blank" rel="noopener noreferrer">Seasonic S12II 620 Watts PSU</a>
   * Cabinet is a CM690 handed down to me, thanks to Kshitij aka Zoombas
   * <a href="https://www.amazon.in/s/ref=sr_nr_n_12?fst=as%3Aoff&rh=n%3A1375379031%2Ck%3ASamsung+Evo&keywords=Samsung+Evo&ie=UTF8&tag=mewoof-21&qid=1461004321&rnid=3576079031" target="_blank" rel="noopener noreferrer">Samsung Evo 840 256GB</a> <del><a href="https://www.flipkart.com/seagate-barracuda-500-gb-desktop-internal-hard-drive-st500dm002/p/itmd4kwhyxz3mqwh?pid=IHDD4KWHWQGNZSBM&affid=sathyasath" target="_blank" rel="noopener noreferrer">Seagate 7200RPM ST500DM002</a></del>
-  * Display&#8217;s my existing Dell UltraSharp U2312HM
+  * Display's my existing Dell UltraSharp U2312HM
 
 So the first thing that happened was that Flipkart logistics completely messed up the delivery. Despite my explicit request & their acknowledgement to deliver it after 5pm, it was delivered at 1pm, with me not at my house.
 
-I open the box, onto to find shoddy handling and packaging. **The motherboard was kept at the absolute bottom of the box, on top of that was the GPU & on top of that they have placed the PSU**. I have no no words to explain how stupid this arrangement is. It gets worse &#8211; the processor box was half torn. The chip was nearly out. One of the heatsink/fan pillars, which is supposed to be freely movable, is stuck in a spot and can&#8217;t be moved.
+I open the box, onto to find shoddy handling and packaging. **The motherboard was kept at the absolute bottom of the box, on top of that was the GPU & on top of that they have placed the PSU**. I have no no words to explain how stupid this arrangement is. It gets worse - the processor box was half torn. The chip was nearly out. One of the heatsink/fan pillars, which is supposed to be freely movable, is stuck in a spot and can't be moved.
 
 Processor: i5 3470
 
@@ -39,13 +39,13 @@ Processor: i5 3470
 
 ![IMG_20130204_211956.jpg][2] 
 
-yes, that&#8217;s the condition of the box when I opened the package. One HSF pillar is stuck, can&#8217;t be moved up/down.
+yes, that's the condition of the box when I opened the package. One HSF pillar is stuck, can't be moved up/down.
 
 ![IMG_20130204_201205.jpg][3] 
 
 ![IMG_20130204_195338.jpg][4] 
 
-You can see how the pillar is &#8220;jammed&#8221; in.
+You can see how the pillar is "jammed" in.
 
 ![IMG_20130204_201021.jpg][5] 
 
@@ -63,9 +63,9 @@ Memory:
 
 ![IMG_20130204_211923.jpg][8] 
 
-Flipkart took a good 3-4 days to get the replacement. Again, despite my request to have it delivered after 6pm, the Flipkart delivery guy was at my house at 3pm on a freaking weekday, despite their explicit assurance that it&#8217;ll be delivered after 6pm. You can imagine my frustration. I asked the delivery guy to come that weekend.
+Flipkart took a good 3-4 days to get the replacement. Again, despite my request to have it delivered after 6pm, the Flipkart delivery guy was at my house at 3pm on a freaking weekday, despite their explicit assurance that it'll be delivered after 6pm. You can imagine my frustration. I asked the delivery guy to come that weekend.
 
-Thankfully, the replacement replacement processor didn&#8217;t look like it was eaten.
+Thankfully, the replacement replacement processor didn't look like it was eaten.
 
 ![IMG_20130209_163152.jpg][9] 
 
@@ -81,7 +81,7 @@ This is how I started the build
 
 ![IMG_20130210_105512.jpg][13] 
 
-Motherboard taken out. As I laid the motherboard on the cabinet, I realized the MSI motherboard package didn&#8217;t have any mounting screws. Had to do some jugaad (read: use screws provided with the Seasonic PSu, which were M3 & matching with the cabinet mounting screws for motherboard) and laid it.
+Motherboard taken out. As I laid the motherboard on the cabinet, I realized the MSI motherboard package didn't have any mounting screws. Had to do some jugaad (read: use screws provided with the Seasonic PSu, which were M3 & matching with the cabinet mounting screws for motherboard) and laid it.
 
 ![IMG_20130210_105604.jpg][14] 
 
@@ -119,24 +119,24 @@ Temps after one round of 3D Mark 06 & 3D Mark Vantage
 
 ![KrC4JcB.png][23] 
 
-Over the past few months, I&#8217;ve been playing most of the games at 1080p at high, if not max details. Then again, I don&#8217;t play too demanding games (read: no to most FPS), so it&#8217;s all good. You can catch some of my <a href="https://www.youtube.com/user/SathyaSJBhat" target="_blank" rel="noopener noreferrer">gameplay videos on YouTube</a>.
+Over the past few months, I've been playing most of the games at 1080p at high, if not max details. Then again, I don't play too demanding games (read: no to most FPS), so it's all good. You can catch some of my <a href="https://www.youtube.com/user/SathyaSJBhat" target="_blank" rel="noopener noreferrer">gameplay videos on YouTube</a>.
 
 Some more notes:
 
-  * <span style="line-height: 13px;">I&#8217;m running Windows 8 on this build, and it&#8217;s been pretty good with no hassles or other problems</span>
+  * <span style="line-height: 13px;">I'm running Windows 8 on this build, and it's been pretty good with no hassles or other problems</span>
   * Some existing components were re-used: 
       * The monitor, Dell UltraSharp U2312HM
       * The mouse, Logitech G400
       * I thought I could reuse my laptop hard drive, but that was not possible.
-      * I don&#8217;t have any optical drives &#8211; haven&#8217;t used any optical media for a while. Want game, grab from Steam. The last 2 games that I bought from Flipkart( Borderlands 2, Grid 2) were SteamWorks titles. Most EA stuff can be grabbed from Origin
-      * I don&#8217;t have a proper speaker system as such, but I use Sharkoon Xtatic 5.1 headset that I won
+      * I don't have any optical drives - haven't used any optical media for a while. Want game, grab from Steam. The last 2 games that I bought from Flipkart( Borderlands 2, Grid 2) were SteamWorks titles. Most EA stuff can be grabbed from Origin
+      * I don't have a proper speaker system as such, but I use Sharkoon Xtatic 5.1 headset that I won
   * Synergy is great for controlling both the laptop & desktop without going insane in switching between 2 sets of input devices.
-  * I&#8217;ll probably post the software that I use at a later stage
-  * Despite the 3(!) case fans, the GPU fan, the CPU fan & the PSU fan, system is quite silent and you&#8217;ll hardly hear any fan noise.
+  * I'll probably post the software that I use at a later stage
+  * Despite the 3(!) case fans, the GPU fan, the CPU fan & the PSU fan, system is quite silent and you'll hardly hear any fan noise.
 
 Questions/comments? let me know! The full picture set is <a href="https://plus.google.com/photos/102438636933093151901/albums/5841334607223534849" target="_blank" rel="noopener noreferrer">available on G+, btw</a>.
 
-(PS: In case you&#8217;re wondering why &#8220;Hellforge&#8221; &#8211; most of my device hostnames are sourced from <a href="https://diablo.gamepedia.com/Lore_Summary" target="_blank" rel="noopener noreferrer">Diablo lore</a>, Hellforge is <a href="https://diablo.gamepedia.com/Hellforge" target="_blank" rel="noopener noreferrer">no exception</a>.)
+(PS: In case you're wondering why "Hellforge" - most of my device hostnames are sourced from <a href="https://diablo.gamepedia.com/Lore_Summary" target="_blank" rel="noopener noreferrer">Diablo lore</a>, Hellforge is <a href="https://diablo.gamepedia.com/Hellforge" target="_blank" rel="noopener noreferrer">no exception</a>.)
 
  [1]: https://lh4.googleusercontent.com/-haKdxYf3H_0/URCW4IwI-nI/AAAAAAAACEs/Wq8C66Zh6RU/s681/IMG_20130204_191325.jpg
  [2]: https://lh6.googleusercontent.com/-6NKmQtCYE48/URCW4GOqOKI/AAAAAAAACEs/yH8VYoWAMOs/s908/IMG_20130204_211956.jpg

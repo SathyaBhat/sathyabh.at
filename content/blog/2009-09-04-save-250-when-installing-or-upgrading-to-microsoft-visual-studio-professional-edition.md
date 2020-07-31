@@ -19,7 +19,7 @@ tags:
   - VS2008
 
 ---
-Welcome to Sathya&#8217;s first ever giveaway! So you want to get your hands on Visual Studio Professional edition, but find the pricing a little steep ? Here&#8217;s a nice way to save $250!
+Welcome to Sathya's first ever giveaway! So you want to get your hands on Visual Studio Professional edition, but find the pricing a little steep ? Here's a nice way to save $250!
 
 First the basics:
 
@@ -29,17 +29,17 @@ First the basics:
   2. Microsoft Visual Studio 2008 Professional Edition (upgrade) price: $549
   3. Microsoft Visual Studio 2008: Express Edition price: **FREE**
 
-Here&#8217;s the kicker:
+Here's the kicker:
 
 > To **qualify for upgrade pricing, you must be a licensed user** of an earlier version of Microsoft Visual Studio or any other developer tool (**including** **free** **developer tools, such as Visual Studio Express Editions or Eclipse**).
 
-So &#8211; here&#8217;s your $250 off! Install Visual Studio Express Edition and then upgrade it to Visual Studio Professional Edition, **saving $250 off  instantly**! Now wasn&#8217;t that easy?
+So - here's your $250 off! Install Visual Studio Express Edition and then upgrade it to Visual Studio Professional Edition, **saving $250 off  instantly**! Now wasn't that easy?
 
-As on [Microsoft&#8217;s page][1] and [MSDN forums][2].
+As on [Microsoft's page][1] and [MSDN forums][2].
 
-PS: Yes, I&#8217;m back in India. Will update soon 😐
+PS: Yes, I'm back in India. Will update soon 😐
 
-PPS: You can use Express Edition and save $800 &#8211;  but thats according to your requirements
+PPS: You can use Express Edition and save $800 -  but thats according to your requirements
 
  [1]: https://store.microsoft.com/microsoft/Visual-Studio-2008-Professional-Edition-Upgrade/product/7157765E
  [2]: https://social.msdn.microsoft.com/Forums/en-US/Vsexpressvcs/thread/b1c06113-db07-4e8b-b71e-a51a4937e9dc

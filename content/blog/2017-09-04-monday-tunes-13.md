@@ -18,23 +18,23 @@ Monday tunes is here again. Let me know how you like the songs! &#x1f3b6;&#x1f3b
 
 <!--more-->
 
-&#8220;Troublemaker&#8221; by Grizfolk
+"Troublemaker" by Grizfolk
 
 
 
-&#8220;Happy Family&#8221; by Sundara Karma
+"Happy Family" by Sundara Karma
 
 
 
-&#8220;Here with Me&#8221; by Susie Suh x Robot Koch
+"Here with Me" by Susie Suh x Robot Koch
 
 
 
-&#8220;Shadow of the Day&#8221; by Echos
+"Shadow of the Day" by Echos
 
 
 
-To wrap up for this week, &#8220;Only&#8221; by Patrick Baker
+To wrap up for this week, "Only" by Patrick Baker
 
 
 
@@ -53,4 +53,4 @@ You can now subscribe to the Monday Tunes newsletter to receive an email when a 
   <span class="es_subscription_message" id="es_subscription_message_1571559192"></span>
 </div>
 
-Till next week &#8211; Enjoy the music!
+Till next week - Enjoy the music!

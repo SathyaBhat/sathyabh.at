@@ -16,7 +16,7 @@ tags:
   - Web
 
 ---
-Happy New Year! While I&#8217;m working on year-2011-in-review post, here&#8217;s a spam that I have being receiving quite a lot.
+Happy New Year! While I'm working on year-2011-in-review post, here's a spam that I have being receiving quite a lot.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Happy New Year! While I&#8217;m working on year-2011-in-review post, here&#8217;
 > 
 > OFFICE NUMBER : +917838133834
 > 
-> &#8220;MARUTI SUZUKI&#8221; DIRECT RECRUITMENTS OFFER.  
+> "MARUTI SUZUKI" DIRECT RECRUITMENTS OFFER.  
 > This Company selected 62 candidates list for Senior Engineer, IT,  
 > Administration, Production, marketing and general service Departments, It  
 > your Resume was selected as one of the 62 candidates shortlisted for the interview. MARUTI SUZUKI  
@@ -81,7 +81,7 @@ Happy New Year! While I&#8217;m working on year-2011-in-review post, here&#8217;
 > and if you are been selected or not, still the amount will be refunded to  
 > you, as the amount is just to prove that you will be coming for the  
 > interview in order for us not to run at lost after sending you the air  
-> ticket and you don&#8217;t show up on the day of interview. Wishing you the  
+> ticket and you don't show up on the day of interview. Wishing you the  
 > best of lucks  
 > Regards,  
 > Shinzo Nakanishi  
@@ -90,20 +90,20 @@ Happy New Year! While I&#8217;m working on year-2011-in-review post, here&#8217;
 > Email : **maruritisuzuki.job2011**@live.com  
 > OFFICE NUMBER : 0783813834
 
-Unlike other spams, this one targets the job seekers( and I can assure you, there are a \*lot\* of them). First glance a &#8220;direct job&#8221; offer looks tempting, along with the &#8220;feeling&#8221; that you are part of the &#8220;elite&#8221; few. And hey, you&#8217;re getting an all-expenses paid(!) ticket for the interview.
+Unlike other spams, this one targets the job seekers( and I can assure you, there are a \*lot\* of them). First glance a "direct job" offer looks tempting, along with the "feeling" that you are part of the "elite" few. And hey, you're getting an all-expenses paid(!) ticket for the interview.
 
-Now if you&#8217;re jumping up & down and respond immediately, you&#8217;re just getting sucked deeper into the scam and in the end, you&#8217;ll lose a lot and make headlines as &#8220;n candidates scammed Rs y of their cash&#8221;.
+Now if you're jumping up & down and respond immediately, you're just getting sucked deeper into the scam and in the end, you'll lose a lot and make headlines as "n candidates scammed Rs y of their cash".
 
 If you take a second look at the email, there are signs of obvious spam.
 
-  * &#8220;Direct offer&#8221; without being &#8220;shortlisted&#8221; (of course, if you had applied for MSIL, you might think this is real!)
+  * "Direct offer" without being "shortlisted" (of course, if you had applied for MSIL, you might think this is real!)
   * Interview security deposit? Uh-oh
   * Account number of the **accountant** to be sent to you? Why accountant?
   * Offer letter till be sent without the job interview being completed? Why hold the interview then?
   * Offer letter will contain date of interview? Okaay..
-  * The horrible language, grammar, lack of punctuation(although, I&#8217;ll admit &#8211; I&#8217;ve seen call for interview letters with bad grammar too)
-  * Ah yes, the live.com email address(why not MSIL&#8217;s domain?) and yes the blatantly incorrect spelling for Maruti in the email address.
+  * The horrible language, grammar, lack of punctuation(although, I'll admit - I've seen call for interview letters with bad grammar too)
+  * Ah yes, the live.com email address(why not MSIL's domain?) and yes the blatantly incorrect spelling for Maruti in the email address.
 
-Goes without saying, if you get this email &#8211; don&#8217;t respond, don&#8217;t reply cursing(F&#^ YOU! YOU&#8217;RE SCAMMING!) &#8211; hit the report spam option.
+Goes without saying, if you get this email - don't respond, don't reply cursing(F&#^ YOU! YOU'RE SCAMMING!) - hit the report spam option.
 
-Meanwhile, I&#8217;ll have to check if there&#8217;s a way to report an email as spam from outside the webmail client&#8230;
+Meanwhile, I'll have to check if there's a way to report an email as spam from outside the webmail client&#8230;

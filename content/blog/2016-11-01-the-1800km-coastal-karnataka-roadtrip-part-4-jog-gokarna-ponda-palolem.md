@@ -56,11 +56,11 @@ Soon we crossed the village of Gersoppa and passed through Sharavathi Hydroelect
 
 
 
-Despite this, we were happy with our little discovery and then moved towards Gokarna. While most would stop at Om Beach, we had a different plan &#8211; temple visits 😛
+Despite this, we were happy with our little discovery and then moved towards Gokarna. While most would stop at Om Beach, we had a different plan - temple visits 😛
 
-Seriously though, we stopped by couple of temples &#8211; <a href="https://goo.gl/maps/ojx1pjfbQep" target="_blank">Shri Mahalasa Siddhivinayak Temple near Madengeri</a>, just about 5 kms before Gokarna (we visit temple often with my folks, decided to stop here for a bit) and then onwards to <a href="https://goo.gl/maps/tXKUVqJCcqr" target="_blank">Mahabaleshvar Temple</a>. Post this, we stopped for lunch and then headed towards Goa. Couple of hours later, we had just crossed the Goa border. After paying ₹250 as the entrance fee, we stopped by our &#8216;usual&#8217; IOCL petrol bunk for filling up(and hey with fuel being about ₹10 cheaper, why not make use of this?)
+Seriously though, we stopped by couple of temples - <a href="https://goo.gl/maps/ojx1pjfbQep" target="_blank">Shri Mahalasa Siddhivinayak Temple near Madengeri</a>, just about 5 kms before Gokarna (we visit temple often with my folks, decided to stop here for a bit) and then onwards to <a href="https://goo.gl/maps/tXKUVqJCcqr" target="_blank">Mahabaleshvar Temple</a>. Post this, we stopped for lunch and then headed towards Goa. Couple of hours later, we had just crossed the Goa border. After paying ₹250 as the entrance fee, we stopped by our 'usual' IOCL petrol bunk for filling up(and hey with fuel being about ₹10 cheaper, why not make use of this?)
 
-While Goa is known to many as the beach state, for us Konkanas, it&#8217;s the temple state. There are a lot of temples especially around Ponda area which are Kuldevta for us Konkanas and as such, most Goa visits are predominantly temple visits. So when we mention that we go to Goa for temple visits.. the reactions we see from people are amusing. So when we were close to Goa border, we were wondering whether to check-in to our hotel first or head over to the temples and then come back. When we saw that the temples were about 50km further from our hotel in Palolem, we decided to pay a visit to the temples and then head back and chill in Palolem area.
+While Goa is known to many as the beach state, for us Konkanas, it's the temple state. There are a lot of temples especially around Ponda area which are Kuldevta for us Konkanas and as such, most Goa visits are predominantly temple visits. So when we mention that we go to Goa for temple visits.. the reactions we see from people are amusing. So when we were close to Goa border, we were wondering whether to check-in to our hotel first or head over to the temples and then come back. When we saw that the temples were about 50km further from our hotel in Palolem, we decided to pay a visit to the temples and then head back and chill in Palolem area.
 
 First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
 
@@ -159,7 +159,7 @@ First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
   </div>
 </div>
 
-After a short time here, we headed for Shri Ramnath temple which is Jo&#8217;s family&#8217;s Kuldevtha.
+After a short time here, we headed for Shri Ramnath temple which is Jo's family's Kuldevtha.
 
 <div id='gallery-10' class='gallery galleryid-1082 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
@@ -207,7 +207,7 @@ After a short time here, we headed for Shri Ramnath temple which is Jo&#8217;s f
   <br style="clear: both" />
 </div>
 
-By the time we were done with the temple visits, it was close to 6:00pm and it&#8217;d take us another hour and half to get back, so we decided to head back to Palolem. Finding out where Castle House, our hotel was a bit tricky as the road was not lit and it was off the main road but with a bit of glancing into (slight) darkness and around, we finally reached our destination
+By the time we were done with the temple visits, it was close to 6:00pm and it'd take us another hour and half to get back, so we decided to head back to Palolem. Finding out where Castle House, our hotel was a bit tricky as the road was not lit and it was off the main road but with a bit of glancing into (slight) darkness and around, we finally reached our destination
 
 <div class="mythemes-gallery colls-1">
   <figure class="mythemes-item effect-bubba">
@@ -240,16 +240,16 @@ By the time we were done with the temple visits, it was close to 6:00pm and it&#
 
 ### Facts of the day
 
-  * Distance travelled ~320km (I didn&#8217;t record the day&#8217;s ending odometer)
-  * There&#8217;s a nice Cafe Coffee Day and Kamat Upachar near Baleguli, just next to an Indian Oil Petrol Pump. If you&#8217;re feeling sleepy(as I was) this should give you a nice boost 🙂
-  * The road from Honnavar to Kumta is quite bumpy due to the 4-lane construction. Don&#8217;t speed too much, else you&#8217;ll be feeling those bumps
+  * Distance travelled ~320km (I didn't record the day's ending odometer)
+  * There's a nice Cafe Coffee Day and Kamat Upachar near Baleguli, just next to an Indian Oil Petrol Pump. If you're feeling sleepy(as I was) this should give you a nice boost 🙂
+  * The road from Honnavar to Kumta is quite bumpy due to the 4-lane construction. Don't speed too much, else you'll be feeling those bumps
 
-Map of the day&#8217;s journey
+Map of the day's journey
 
 
 
 ### Previously
 
   * <a href="https://sathyabh.at/2016/08/02/the-1800km-coastal-karnataka-roadtrip-part-1-bangalore-mangalore/" target="_blank">The 1800km Roadtrip, Part 1</a>
-  * <a href="https://sathyabh.at/2016/08/12/the-1800km-coastal-karnataka-roadtrip-part-2-mangalore-kaup-udupi-malpe/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 2 – Mangalore – Kaup &#8211; Udupi &#8211; Malpe</a>
-  * <a href="https://sathyabh.at/2016/08/25/the-1800km-coastal-karnataka-roadtrip-part-3-malpe-kavimane-jog/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 3 &#8211; Malpe &#8211; Kavimane &#8211; Jog</a>
+  * <a href="https://sathyabh.at/2016/08/12/the-1800km-coastal-karnataka-roadtrip-part-2-mangalore-kaup-udupi-malpe/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 2 – Mangalore – Kaup - Udupi - Malpe</a>
+  * <a href="https://sathyabh.at/2016/08/25/the-1800km-coastal-karnataka-roadtrip-part-3-malpe-kavimane-jog/" target="_blank">The 1800km Coastal Karnataka Roadtrip – Part 3 - Malpe - Kavimane - Jog</a>

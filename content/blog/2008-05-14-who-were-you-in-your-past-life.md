@@ -20,15 +20,15 @@ tags:
 
 While surfing through the web, I found this link: [Who were you in your past Life][1]?
 
-Here&#8217;s what it had to say about me
+Here's what it had to say about me
 
 > #### Your past life diagnosis:
 > 
-> I don&#8217;t know how you feel about it, but you were male in your last earthly incarnation.You were born somewhere in the territory of modern North China around the year 1000. Your profession was that of a builder of roads, bridges and docks.
+> I don't know how you feel about it, but you were male in your last earthly incarnation.You were born somewhere in the territory of modern North China around the year 1000. Your profession was that of a builder of roads, bridges and docks.
 
 > #### Your brief psychological profile in your past life:
 > 
-> Revolutionary type. You inspired changes in any sphere &#8211; politics, business, religion, housekeeping. You could have been a leader.
+> Revolutionary type. You inspired changes in any sphere - politics, business, religion, housekeeping. You could have been a leader.
 
 > #### The lesson that your last past life brought to your present incarnation:
 

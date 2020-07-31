@@ -18,23 +18,23 @@ Monday tunes is here again. Let me know how you like the songs! &#x1f3b6;&#x1f3b
 
 <!--more-->
 
-&#8220;Cardiac Arrest&#8221; by Bad Suns
+"Cardiac Arrest" by Bad Suns
 
 
 
-&#8220;Gooey&#8221; by Glass Animals
+"Gooey" by Glass Animals
 
 
 
-&#8220;Where Are You (Original Mix)&#8221; by Sako Isoyan feat. Victoria Ray
+"Where Are You (Original Mix)" by Sako Isoyan feat. Victoria Ray
 
 https://www.youtube.com/watch?v=0r2nMTlg57M
 
-&#8220;Something In The Air [Bonobo Remix]&#8221; by Maya Jane Coles
+"Something In The Air [Bonobo Remix]" by Maya Jane Coles
 
 
 
-To wrap up for this week, &#8220;Walk on Water&#8221; by The Verigolds
+To wrap up for this week, "Walk on Water" by The Verigolds
 
 
 
@@ -53,4 +53,4 @@ You can now subscribe to the Monday Tunes newsletter to receive an email when a 
   <span class="es_subscription_message" id="es_subscription_message_1571559193"></span>
 </div>
 
-Till next week &#8211; Enjoy the music!
+Till next week - Enjoy the music!

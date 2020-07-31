@@ -26,11 +26,11 @@ If you’ve been following Blizzard’s mysterious splash screens for the past s
 
 [ad]
 
-YEAH BABY!!! I&#8217;m SUUUUUPER excited, I&#8217;ve been a huge fan of Diablo, Diablo II in particular since I&#8217;ve only played the demo of Diablo. Diablo II had me addicted to it for like 3 years &#8211; my friend picked up the original, he didn&#8217;t like it.I gave it a try and was INSTANTLY addicted to it.
+YEAH BABY!!! I'm SUUUUUPER excited, I've been a huge fan of Diablo, Diablo II in particular since I've only played the demo of Diablo. Diablo II had me addicted to it for like 3 years - my friend picked up the original, he didn't like it.I gave it a try and was INSTANTLY addicted to it.
 
 So what will Diablo 3 be like? What will be the camera? Same isometric perspective as that of Diablo II or something different? Multiplayer: Will it be based on Battle.Net, Free or like WoW? When will it be out? What will the system requirements? Oooh so many questions!
 
-Check out Blizzard&#8217;s [Diablo 3][2] page for some gameplay videos and here&#8217;s a [Cinematic Trailer][3] of it.
+Check out Blizzard's [Diablo 3][2] page for some gameplay videos and here's a [Cinematic Trailer][3] of it.
 
 Update: Kotaku has a _19-minute_ gameplay video, the trailer and artwork clip.  
 Check it out [here][4]

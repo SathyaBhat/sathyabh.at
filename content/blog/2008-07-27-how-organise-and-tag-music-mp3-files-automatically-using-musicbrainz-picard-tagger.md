@@ -30,7 +30,7 @@ So what is MusicBrainz? The wiki states
 
 Picard tagger is a software which makes use of MusicBrainz database.
 
-> **Picard** is the next generation MusicBrainz tagging application. This new tagging concept is album oriented, as opposed to track/file oriented like the ClassicTagger was. Picard is written in Python, which is a cross-platform language, and makes use of cross-platform libraries &#8211; this allows the same code to run both on Windows, Linux and Mac OS X.
+> **Picard** is the next generation MusicBrainz tagging application. This new tagging concept is album oriented, as opposed to track/file oriented like the ClassicTagger was. Picard is written in Python, which is a cross-platform language, and makes use of cross-platform libraries - this allows the same code to run both on Windows, Linux and Mac OS X.
 
 Picard Tagger is a powerful, but the interface is a bit confusing for first time usage, and hence I thought I’ll write this small how-to.
 

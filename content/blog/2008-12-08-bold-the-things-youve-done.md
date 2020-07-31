@@ -11,7 +11,7 @@ categories:
   - Life
 
 ---
-Was going through tumblr posts of people I follow, so thought I&#8217;ll post this here.
+Was going through tumblr posts of people I follow, so thought I'll post this here.
 
  **1. Started your own blog**  
 2. Slept under the stars  
@@ -118,7 +118,7 @@ Via [Camera Crazy][1].
 
 reblogged from [krishanu][2]:
 
-So what&#8217;ve you done from the list?
+So what've you done from the list?
 
  [1]: https://cameracrazy-misty.blogspot.com/2008/12/bold-things-youve-done.html
  [2]: https://krishanu.de/post/63535824/bold-the-things-youve-done

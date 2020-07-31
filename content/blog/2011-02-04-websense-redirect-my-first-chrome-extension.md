@@ -20,19 +20,19 @@ tags:
   - webnonsense
 
 ---
-At my (current) workplace we have a webfiltering mechanism powered by [WebSense][1]. I&#8217;ve [ranted][2] enough number of times on twitter about websense&#8217;s [stupid][3] filtering mechanisms & the [bizarre][4] [classification][5] that it uses to [classify websites][6].  
+At my (current) workplace we have a webfiltering mechanism powered by [WebSense][1]. I've [ranted][2] enough number of times on twitter about websense's [stupid][3] filtering mechanisms & the [bizarre][4] [classification][5] that it uses to [classify websites][6].  
 <!--more-->
 
   
-Recently, I found that fetching the mobile(aka text-only) versions of webpages using instapaper/google web transcoder would result in me being able to read the content &#8211; which was a very nice alternative because majority of the time, I&#8217;d be reading up on posts which are text heavy in nature. It was getting irritating to open to a webpage, encounter a blocked page, open another tab & copy-paste the URL to instapaper to grab the text version. I [asked my peers][7] are [Super User][8]:
+Recently, I found that fetching the mobile(aka text-only) versions of webpages using instapaper/google web transcoder would result in me being able to read the content - which was a very nice alternative because majority of the time, I'd be reading up on posts which are text heavy in nature. It was getting irritating to open to a webpage, encounter a blocked page, open another tab & copy-paste the URL to instapaper to grab the text version. I [asked my peers][7] are [Super User][8]:
 
 > is there a ModRewrite-like extension for chrome ? :-s
 
-[TomWij][9] pointed me towards Privoxy but that was not what I needed. So I decided to build a Chrome Extension. The first version of the extension I built fairly quickly, but required manual intervention by way of clicking on the Extension icon to trigger the redirect &#8211; clearly not an ideal solution. Taking a deeper look at Chrome Extension API docs, I realized that I needed to build a [content script][10].
+[TomWij][9] pointed me towards Privoxy but that was not what I needed. So I decided to build a Chrome Extension. The first version of the extension I built fairly quickly, but required manual intervention by way of clicking on the Extension icon to trigger the redirect - clearly not an ideal solution. Taking a deeper look at Chrome Extension API docs, I realized that I needed to build a [content script][10].
 
-Building up on this &#8211; I created a simple extension which checks for websense blocking pattern and if so &#8211; redirects it to instapaper which then fetches the text-only version. While this extension is not really the best-thing-since-sliced-bread, it&#8217;s of immense use to me. (And of course, I learnt to build a Chrome Extension, which I always wanted to do).
+Building up on this - I created a simple extension which checks for websense blocking pattern and if so - redirects it to instapaper which then fetches the text-only version. While this extension is not really the best-thing-since-sliced-bread, it's of immense use to me. (And of course, I learnt to build a Chrome Extension, which I always wanted to do).
 
-There are certain bugs, but I can live with those for the moment. If you need a similar thing &#8211; do try out my extension &#8212; it&#8217;s hosted on my servers & can be downloaded from over [here][11]. Let me know if you run into problems.
+There are certain bugs, but I can live with those for the moment. If you need a similar thing - do try out my extension &#8212; it's hosted on my servers & can be downloaded from over [here][11]. Let me know if you run into problems.
 
  [1]: https://www.websense.com/content/home.aspx
  [2]: https://twitoaster.com/country-in/sathyabhat/congrats-reddit-you-have-now-been-promoted-to-the-rank-of-a-social-network-by-webnonsense/

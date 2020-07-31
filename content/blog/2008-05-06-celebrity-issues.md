@@ -17,12 +17,12 @@ tags:
 ---
 [ad]
 
-Being a mini &#8220;celebrity&#8221;  can be a problem. Now I&#8217;m no &#8220;celebrity&#8221;, but being a moderator of India&#8217;s biggest tech website forums, [Tech2.o][1] has its advantages&#8230;and drawbacks too. Some of the people who contact me on IM, just make me go =)) =)) =))
+Being a mini "celebrity"  can be a problem. Now I'm no "celebrity", but being a moderator of India's biggest tech website forums, [Tech2.o][1] has its advantages&#8230;and drawbacks too. Some of the people who contact me on IM, just make me go =)) =)) =))
 
-Case in point was the other day, while I was working, I get buzzed on IM. A guy asks me, &#8220;are you the moderator at tech2?&#8221;. I say &#8220;yes&#8221;. He tells me: &#8220;&#8221;prove it!!&#8221; I was like WTF?, and I go &#8220;Why should I?&#8221;. He then goes :&#8221;I KNOW YOU ARE LYING&#8221;. I then go &#8220;Ughhh, Ok, fine. I see no reason as to why I should &#8220;prove&#8221; you anything&#8221; . I&#8217;m like jeez what losers. Unfortunately I didnt have teh ENTIRE log of that conversation to share with you guys.  
+Case in point was the other day, while I was working, I get buzzed on IM. A guy asks me, "are you the moderator at tech2?". I say "yes". He tells me: ""prove it!!" I was like WTF?, and I go "Why should I?". He then goes :"I KNOW YOU ARE LYING". I then go "Ughhh, Ok, fine. I see no reason as to why I should "prove" you anything" . I'm like jeez what losers. Unfortunately I didnt have teh ENTIRE log of that conversation to share with you guys.  
 <!--more-->
 
-Today, i had another such incident. with Log. For sake of not embarrassing the guy,I&#8217;ve changed it to xxxx
+Today, i had another such incident. with Log. For sake of not embarrassing the guy,I've changed it to xxxx
 
 > xxxx:  dude this is xxxx  
 > 16:23:34: coolpcguy:  yea  
@@ -33,7 +33,7 @@ Today, i had another such incident. with Log. For sake of not embarrassing the g
 > 16:24:19: xxxx:  whats that  
 > 16:24:24: coolpcguy:  Koolim  
 > 16:24:28: xxxx:  yup  
-> 16:24:29: coolpcguy:  I&#8217;m working in office,  
+> 16:24:29: coolpcguy:  I'm working in office,  
 > 16:24:37: xxxx:  oh  
 > 16:24:38: xxxx:  ok  
 > 16:24:45: coolpcguy:  meesenger is blocked, so use a web based messenger  
@@ -42,7 +42,7 @@ Today, i had another such incident. with Log. For sake of not embarrassing the g
 > 16:25:04: xxxx:  hmm  
 > 16:25:33: xxxx:  so why ur site dont have pm option  
 > 16:25:41: coolpcguy:  just make use of available resources  
-> 16:25:57: coolpcguy:  a. its not &#8220;my&#8221; site. its site by Web18.  
+> 16:25:57: coolpcguy:  a. its not "my" site. its site by Web18.  
 > 16:26:08: xxxx:  ok  
 > 16:26:24: coolpcguy:  b. forums are undergoing an upgrade and the features will be available soon  
 > 16:26:24: xxxx:  where are u from  
@@ -63,9 +63,9 @@ Today, i had another such incident. with Log. For sake of not embarrassing the g
 > 16:34:28: xxxx:  do u have thier IM  
 > 16:35:34: coolpcguy:  yes  
 > 16:35:55: xxxx:  CAN U GIVE ME THEIR IM  
-> 16:36:01: coolpcguy:  that I can&#8217;t do.  
+> 16:36:01: coolpcguy:  that I can't do.  
 > 16:36:13: xxxx:  WHY  
-> 16:36:26: coolpcguy:  because I&#8217;ve been forbidden  
+> 16:36:26: coolpcguy:  because I've been forbidden  
 > 16:37:16: xxxx:  OK . I KNOW U ARE NOT SPEAKING THE TRUTH. OK ITS FINE DONT TELL ME.  
 > 16:37:24: coolpcguy:  fine.
 

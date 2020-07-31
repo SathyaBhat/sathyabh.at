@@ -18,7 +18,7 @@ tags:
   - Samsung Nexus S
 
 ---
-Since I&#8217;m taking my sweet time in composing a blog post on my Nexus S, here&#8217;s some screencaps of my Nexus S homescreens
+Since I'm taking my sweet time in composing a blog post on my Nexus S, here's some screencaps of my Nexus S homescreens
 
 Nexus S on stock firmware + circle launcher
 
@@ -30,9 +30,9 @@ Nexus S on stock firmware + circle launcher
 
 ![qHI7c.png][3] 
 
-From left to right &#8211; Gmail, Gallery, Foursquare, facebook, email, Camera, Calendar, Tweetcaster, TuneIn, Settings, Maps/Latitude, Handcent
+From left to right - Gmail, Gallery, Foursquare, facebook, email, Camera, Calendar, Tweetcaster, TuneIn, Settings, Maps/Latitude, Handcent
 
-On statusbar &#8211; tweetcaster, Google Talk, Foursquare, Titanium Backup, USB debugging/dev, Bluetooth, WiFi, network, battery
+On statusbar - tweetcaster, Google Talk, Foursquare, Titanium Backup, USB debugging/dev, Bluetooth, WiFi, network, battery
 
 ![3u1DP.png][4]
 

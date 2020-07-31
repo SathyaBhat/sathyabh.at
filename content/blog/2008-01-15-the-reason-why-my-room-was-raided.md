@@ -15,10 +15,10 @@ tags:
   - Modi
 
 ---
-Well in my previous post I&#8217;d posted that my room was &#8220;visited&#8221; by cops. [Few][1] [people][2] had even suggested reasons: Drugs, porn, while my assumption was that it was because of hookers. Well I got the update from the Guest House manager, and nope. It wasn&#8217;t for drugs. Not for porn. Not for hookers. Not for piracy either.  
+Well in my previous post I'd posted that my room was "visited" by cops. [Few][1] [people][2] had even suggested reasons: Drugs, porn, while my assumption was that it was because of hookers. Well I got the update from the Guest House manager, and nope. It wasn't for drugs. Not for porn. Not for hookers. Not for piracy either.  
 The reason? [THIS][3]. 😐  
-Apparently there was a tipoff that Mr. Modi would be killed and that his assassins were already in Chennai. Hence the &#8220;tight&#8221; security. _So by launching raids at 2:00 AM at all possible guest houses, just few hours before Mr. Modi would land in Chennai, they could detect and find the assassins?_  
-As [Preshit][4] would so, here&#8217;s 50 paise to the extremely &#8220;tight&#8221; and efficient security system of cops.
+Apparently there was a tipoff that Mr. Modi would be killed and that his assassins were already in Chennai. Hence the "tight" security. _So by launching raids at 2:00 AM at all possible guest houses, just few hours before Mr. Modi would land in Chennai, they could detect and find the assassins?_  
+As [Preshit][4] would so, here's 50 paise to the extremely "tight" and efficient security system of cops.
 
  [1]: https://www.acchablog.com
  [2]: https://biotech-geek.com/

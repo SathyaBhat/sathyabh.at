@@ -20,13 +20,13 @@ tags:
 ---
 [ad]
 
-Yeah that&#8217;s right, twenty freakin&#8217; minutes, and this is just a &#8220;teaser&#8221;. The devs claim that FarCry 2 has over 50 square kilometers of open area, over 100 missions, and over 50 hours of gameplay(what&#8217;s with everything being a multiple of 50, I wonder).
+Yeah that's right, twenty freakin' minutes, and this is just a "teaser". The devs claim that FarCry 2 has over 50 square kilometers of open area, over 100 missions, and over 50 hours of gameplay(what's with everything being a multiple of 50, I wonder).
 
-The game looks awesome though, and devs claim that still lot of work needs to be done &#8211; which was apparent from the demo, as it crashed mid-way during the demo, and there was lot of tearing and. lagging.
+The game looks awesome though, and devs claim that still lot of work needs to be done - which was apparent from the demo, as it crashed mid-way during the demo, and there was lot of tearing and. lagging.
 
-Based on the [Dunia][1] engine,  the gameplay demo was pretty awesome &#8211; specially the physics.
+Based on the [Dunia][1] engine,  the gameplay demo was pretty awesome - specially the physics.
 
-So, will this be the new Crysis &#8211; in terms of hogging system resources that is? Will the question shift from &#8220;Will this run Crysis&#8221; to &#8220;Will this run FarCry2&#8221; now ?
+So, will this be the new Crysis - in terms of hogging system resources that is? Will the question shift from "Will this run Crysis" to "Will this run FarCry2" now ?
 
 Your guess is good as mine.
 
