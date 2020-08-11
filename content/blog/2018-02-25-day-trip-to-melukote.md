@@ -100,9 +100,9 @@ We thought of climbing up the stairs to the temple.. but then laziness got bette
 
 Total: 390
 
-Other Videos on the ride:
+Check [Apache Adventures'][2] vlog on this ride.
 
-- By [Apache Adventures][2]
+{{< youtube eQuWv-re_-I >}}
 
 
 
