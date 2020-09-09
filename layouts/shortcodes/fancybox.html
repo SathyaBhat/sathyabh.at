@@ -1,3 +1,4 @@
+  
 <!--
     Inside Double Brackets:
     fancybox path="path" file="file" caption="caption" gallery="gallery"
@@ -47,8 +48,8 @@
   {{ $file := $.Scratch.Get "file" }}
   {{ $caption  := $.Scratch.Get "caption" }}
   {{ $gallery := $.Scratch.Get "gallery" }}
-  <figure>
-    <a data-fancybox="{{ $gallery }}" href="{{ path.Join $path $file | relURL }}" data-caption="{{ $caption }}"><img src="{{ path.Join $path $file | absURL }}"></a>
-    <figcaption>{{ $caption }}</figcaption>
-  </figure>
+  <div class="fancybox">
+    <a data-fancybox="{{ $gallery }}" href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}"><img src="{{ $path }}/{{ $file }}"></a>
+    <div class="caption">{{ $caption }}</div>
+  </div>
 {{ end }}
