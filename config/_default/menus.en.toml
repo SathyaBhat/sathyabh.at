@@ -1,32 +1,29 @@
-[menu]
-  # Sets the menu items in the navigation bar
-  # Identifier prepends a Font Awesome icon to the menu item
-  [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = "/"
-    weight            = 1
+[[main]]
+name              = "Home"
+identifier        = "home"
+url               = "/"
+weight            = 1
 
-  [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "/about/"
-    weight            = 2
+[[main]]
+name              = "About"
+identifier        = "about"
+url               = "/about/"
+weight            = 2
 
-  [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "/blog/"
-    weight            = 3
+[[main]]
+name              = "Blog"
+identifier        = "blog"
+url               = "/blog/"
+weight            = 3
 
-  [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "/categories/"
-    weight            = 5
+[[main]]
+name              = "Categories"
+identifier        = "categories"
+url               = "/categories/"
+weight            = 4
 
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "/contact/"
-    weight            = 6
+[[main]]
+name              = "Contact"
+identifier        = "contact"
+url               = "/contact/"
+weight            = 5
