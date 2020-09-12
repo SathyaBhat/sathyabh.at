@@ -4,7 +4,7 @@ author: sathya
 type: post
 date: 2019-01-04T04:51:13+00:00
 url: /2019/01/04/day-trip-to-mekedatu-sangama/
-summary_image: "https://images.sbhat.me/sb/2019/01/sangama-panaroma.jpg"
+featured_image: "https://images.sbhat.me/sb/2019/01/sangama-panaroma.jpg"
 categories:
   - Travel
 tags:
