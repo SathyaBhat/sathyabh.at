@@ -11,12 +11,6 @@ url               = "/about/"
 weight            = 2
 
 [[main]]
-name              = "Blog"
-identifier        = "blog"
-url               = "/blog/"
-weight            = 3
-
-[[main]]
 name              = "Categories"
 identifier        = "categories"
 url               = "/categories/"

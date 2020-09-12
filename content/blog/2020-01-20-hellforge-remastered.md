@@ -4,6 +4,7 @@ author: sathya
 type: post
 date: 2020-01-19T04:51:13+00:00
 url: /2020/01/19/hellforge-remastered-home-desktop/
+featured_image: 
 categories:
   - Computing
 tags:
@@ -44,9 +45,9 @@ With my [Romania move finalized](https://sathyabh.at/2020/01/08/salut-bucharest/
 - RAM: Corsair Vengeance LPX 16GB DDR4 3200MHz
 - Cabinet: CoolerMaster Masterbox MB511
 - PSU: Corsair RM650
-- Monitor: Acer Nitro VG271UP 27", WQHD(1440p, 144Hz)
+- Monitor: Acer Nitro VG271UP 27", WQHD(1440p, 144Hz) and Dell P2418D 24", 1080p 60Hz (in portrait mode)
 
-I bought from a variety of sources, depending where I got the best price - Processor & Motherboard from [PC Garage](https://www.pcgarage.ro/), Cabinet from [evoMAG](https://www.evomag.ro/), RAM, PSU from [eMag](https://emag.ro) and the monitor from [Altex](https://altex.ro/). The rest of the components I carried over from my old PC:
+I bought from a variety of sources, depending where I got the best price - Processor & Motherboard from [PC Garage](https://www.pcgarage.ro/), Cabinet from [evoMAG](https://www.evomag.ro/), RAM, PSU from [eMag](https://emag.ro) and the monitors from [Altex](https://altex.ro/). The rest of the components I carried over from my old PC:
 
 - GPU: EVGA GeForce GTX 1080 SC GAMING ACX 3.0
 - Keyboard: Corsair K70 Lux
@@ -54,6 +55,7 @@ I bought from a variety of sources, depending where I got the best price - Proce
 - Webcam: Logitech C270 
 
 Since I didn't have a lot of space on the desk, plus the fact that the Acer Nitro monitor has a really, really, [really bad stand](https://www.reddit.com/r/Monitors/comments/aybrqj/review_of_the_acer_nitro_vg271up/), I decided to get a [SBOX LCD 352-2 monitor arm](https://www.pcgarage.ro/suport-tv-monitor/sbox/lcd-352-2-13-27-inch/) from PC Garage.
+
 
 ### Pictures
 
@@ -74,11 +76,29 @@ What's a build post without some pictures?
 {{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "connected-to-ps4.jpg" "Playing Driveclub on the PS4" "Hellforge Remastered" >}}
 {{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "monitor-arm.jpg" "Monitor Arm" "Hellforge Remastered" >}}
 
+#### Linnmon/Adils table assembly
+
+I bought the Linnmon/Adils from Ikea to replace the existing table. The first Linnmon countertop Ikea sent got damaged in transit. 
+
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "cardboard-cover.jpg" "Damaged Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "damaged-linnmon.jpg" "Damaged Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "closer-look-at-linnmon.jpg" "Closer look at the damaged Linnmon countertop" "Hellforge Remastered" >}}
+
+Thankfully Ikea replaced the Linnmon countertop, no questions asked after I filled up a small form with pictures above. Assembling the Linnmon/Adils was quite easy - line up the receptacles at the points, screw them up and then screw in the legs
+
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fitting-first-receptacle.jpg" "Fitting in the first receptacle for Adils leg" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "leg-receptacles.jpg" "Receptacle for Adils legs screwed in" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "linnmon-countertop.jpg" "Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "linnmon-existing-comparison.jpg" "Linnmon countertop length compared to existing table" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fitting-adils-legs.jpg" "Fitting in Adils legs" "Hellforge Remastered" >}}
+
+
+
 #### Road to final assembly
 
 {{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fully-assembled.jpg" "Components built" "Hellforge Remastered" >}}
 {{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "initial-setup.jpg" "Initial setup without the monitor arm" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "final-setup.jpg" "Final setup" "Hellforge Remastered" >}}
+{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "complete-setup.jpg" "Complete setup" "Hellforge Remastered" >}}
 
 ### Temps and stuff
 
@@ -99,14 +119,14 @@ Besides the standard Windows install, I have these software installed
 - The usual messaging tools - Slack, Discord, Telegram
 - [WMI Exporter](https://github.com/martinlindhe/wmi_exporter) - Yes, that _is_ a Prometheus exporter. I'm experimenting with Prometheus.
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Temperature measurement. WMI Exporter unfortunately doesn't seem to export temperatures as richly as HWMonitor does
-- [Wox](http://www.wox.one/) - Somewhat like Alfred for Windows. Not as feature packed but sufficient for now.
 - [Visual Studio Code](https://code.visualstudio.com/) - My current preferred editor. This blog post was written in VS Code too ;) 
-- [Project Aurora](https://www.project-aurora.com/) - Unified RBG lighting for many keyboards. Still in nascent stage but very promising
-- [cmder](https://cmder.net/) - Because current Windows terminal sucks and the one in preview is still very rough
-- [MobaXterm](https://mobaxterm.mobatek.net/) - My choice of ssh client. Supports tabs, many network tools, X server and many more. Highly recommended.
+- [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal is actually pretty nice. I'm using this together with [PowerShell 7](https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/) and [Starship Prompt](https://starship.rs/)
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Supports tabs, many network tools, X server and many more. Highly recommended, though I have started using Windows Terminal more than this. MobaXterm has started clamping down on how many bookmarks you can save, without warning which is pretty bad,
 - [ShareX](https://getsharex.com/) - Screencapture utility. Windows snipping manager is decent, this is miles better
 - [1Password](https://1password.com/) - Current password manager of choice. I have a 1Password Families plan.
 - [Cyberduck](https://cyberduck.io/) - Cyberduck lets me download my files from various cloud storage providers and use it to archive all docs to S3. 
 - [Spotify](https://www.spotify.com/) - For all my musical needs. 
+- Backups - All important files are backed up to Google Drive, OneDrive along with S3. The archival to S3 is manual at the moment, I'm looking at options for backup software, including [Duplicacy](https://duplicacy.com/) and [Restic](https://restic.net/)
+- [VirtualBox](https://www.virtualbox.org/) - I use a Linux-based VM for all my office work - this lets me maintain a clean separation between work & personal stuff while not having to use my office Macbook Pro, which has been relegated to an email/oncall device.
 
 That's about it. Feel free to drop a comment or a question if you'd like to know more!
