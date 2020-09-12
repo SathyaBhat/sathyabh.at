@@ -3,7 +3,7 @@ title: You owned and used a Dell laptop until now. Recently you purchased an HP 
 author: sathya
 type: post
 date: 2010-10-05T04:39:40+00:00
-url: /2010/10/05/you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced-you-in-choosing-hp-over-dell-or-even-acer-asus-for-that-matter-no-beer-for-short-answer/
+url: /2010/10/05/2010-10-05-you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced/
 
 
 arkayne-time-post:
