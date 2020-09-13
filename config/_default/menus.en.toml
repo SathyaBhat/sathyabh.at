@@ -1,0 +1,23 @@
+[[main]]
+name              = "Home"
+identifier        = "home"
+url               = "/"
+weight            = 1
+
+[[main]]
+name              = "About"
+identifier        = "about"
+url               = "/about/"
+weight            = 2
+
+[[main]]
+name              = "Categories"
+identifier        = "categories"
+url               = "/categories/"
+weight            = 4
+
+[[main]]
+name              = "Contact"
+identifier        = "contact"
+url               = "/contact/"
+weight            = 5
