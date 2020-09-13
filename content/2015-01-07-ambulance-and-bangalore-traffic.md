@@ -6,7 +6,7 @@ date: 2015-01-07T10:56:42+00:00
 url: /2015/01/07/ambulance-and-bangalore-traffic/
 categories:
   - Life
-  - Views
+  - Opinion
 tags:
   - ambulance
   - Bangalore

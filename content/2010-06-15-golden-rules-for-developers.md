@@ -9,7 +9,7 @@ url: /2010/06/15/golden-rules-for-developers/
 arkayne-time-post:
   - "1325634415"
 categories:
-  - 'Oracle &amp; PL/SQL Stuff'
+  - 'Oracle & PL/SQL Stuff'
   - Programming
 tags:
   - Development

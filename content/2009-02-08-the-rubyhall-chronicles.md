@@ -9,7 +9,7 @@ arkayne-time-post:
   - "1325751853"
 categories:
   - Life
-  - Views
+  - Opinion
 tags:
   - 3i
   - Chennai
@@ -52,7 +52,7 @@ This piece of work was written(and is continuing to be written, as of now) by my
 > Date:- 29th June, 2020.
 > 
 > Office scene. m looking down upon the half lit city of New York from my window which is at d 47th floor, thinking about the meeting which m supposed to address with one of our prospective clients.. one week later.. Just adjusting my gold rim specs with one hand and sipping a coffee with the other.. the way i like it these days.. without sugar..without milk.. my thoughts were focussed on the clients response to our presentation ..how the deal will go.. just then my blackberry vibrates.. 'You've got mail' it says.. From: Jay Krishnan&#8230;!!!! Did I read 'Jay'..?? Well I read it once again&#8230;Pulling myself to senses&#8230; I read it yet again..yes.. It was from 'Jay Krishnan' &#8230; 'Dude, long time no c.. remember July 9th is coming up&#8230;!! Lets see who has lost more hair amongst us&#8230;!!' thats all the mail said.. I think now the coffee didnt taste that bitter&#8230; 'Dude, long time no c..' that brought the long lost smile to my face&#8230; ok.. !! time to leave now&#8230; Get into my E-Class parked in the basement parking. Switch on the station.. and guess what..it is KK.. Dosti&#8230; drive for home. Reach home. Park my car in the parking. A towering residential apartment in the Madison Avenue. Take a shower. Whole city view from my balcony&#8230; on the 15th floor. cup of coffee. Still moving my left hand fingers to strum Dosti and murmuring the lyrics. Just try to unwind. 15mins later&#8230;Mentally m now relaxed and enjoying the pleasant wind blowing through me. Think about the meaningful lyrics ..about dosti&#8230; Remember friends. Remember RUBY&#8230; 'the' RUBY HALL.. !! SHWAAASHHH&#8230; !!!!  
-> [ad#in-post]  
+>   
 > July 6th, 2007.  
 > Venue:- Chennai Central Railway Station  
 > Time:- 4:15 pm.

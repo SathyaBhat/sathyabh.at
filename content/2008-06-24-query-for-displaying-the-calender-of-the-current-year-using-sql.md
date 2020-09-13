@@ -39,6 +39,6 @@ ORDER BY TO_DATE( MONTH, 'Month YYYY' ), TO_NUMBER(week);`
 
 A screenshot of part of the result returned  
 ![Calender][1]  
-[ad]
+
 
  [1]: https://img46.imageshack.us/img46/3879/calenderpngeo2.png

@@ -9,15 +9,9 @@ arkayne-time-post:
   - "1325782065"
 categories:
   - Mobiles
-  - Views
 tags:
-  - Mobiles
-  - SE
-  - smartphones
+
   - Sony Ericsson
-  - X1
-  - Xperia
-  - Xperia X1
 
 ---
 Ever since I'd seen a preview Sony Ericsson Xperia X1 at GSMArena, I've been floored by that awesome device. The good folks at <a rel="nofollow" href="https://www.wmexperts.com" target="_blank">WMExperts</a> have managed to get a unit of Xperia X1, and take it for a spin. Lets see what they have to say about the X1. WMExperts also had a chat with Martin Winlet, the Director of Global Marketing for Sony Ericsson and he also <a rel="nofollow" href="https://www.wmexperts.com/what_do_you_want_to_know_about.html" target="_blank">answered some questions people had put to him</a>. Here are some excerpts from their article
@@ -30,7 +24,7 @@ Ever since I'd seen a preview Sony Ericsson Xperia X1 at GSMArena, I've been flo
 
 WMExperts say that the X1 has a “curved slide” that angles the screen up, banana-style, when you slide out the keyboard. The hinge feels very sturdy without being difficult to use (go hinge nerds!), and overall the brushed metal to be found throughout the device is just beautiful. There are also no floppy rubber doors over ports or the MicroSD card slot to ruin the feel of the device. That feel, in case I haven't made it clear yet, is great.
 
-[ad#in-post]
+
 
 The physical keyboard is pretty good, though perhaps not quite up to HTC's standard on the Mogul or the Tilt. There is more horizontal separation between keys, which helps reduce incorrect key presses. That's great if you're a fan of two-handed use, but it basically guarantees that if you want to use this one-handed, you'll use it with the slider closed.
 
@@ -60,7 +54,7 @@ They are, in short, nothing less than top of the line.
 According to the folks at Sony Ericsson, the battery life is supposed to be stupendous (think over 6 hours of talk time or browsing time), though of course that's not finalized yet. As far as Windows Mobile's performance goes, it's as snappy as I've seen. Screen switching isn't instantaneous, but it is a sight faster than on the Tilt. That's likely because the X1 _does_ utilize quite a bit of hardware acceleration, according to Winkler they are taking full advantage of the necessary drivers to do hardware acceleration.
 
 Excepting the new panels interface (seriously, more on that below), the built-in software looks pretty standard. Of course, it's not finalized, but I don't expect that Sony has any plans to include Opera as the default browser.  
-[ad#in-post]
+
 
 #### The Panels
 

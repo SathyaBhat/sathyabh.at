@@ -15,7 +15,7 @@ tags:
   - jokes
 
 ---
-[ad]
+
 
 I get a lot of forwards, I mean a **lot**. Most of them I just delete, since they aren't worth keeping. The good ones I forward. This one is the better of the entire lot of forwards that I've gotten. It's old, I know but still good.
 

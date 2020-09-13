@@ -18,7 +18,7 @@ tags:
   - review
 
 ---
-After a long (happy) time with my [Dell Inspiron 1520][1]{#aptureLink_RticubPETk}, my previous laptop's age was catching up - the processor was a bottleneck, the 8600m GT was akin to an oven stove. Figured this would be the best time to get a new laptop. I've mentioned previously as to why I chose the HP Envy 14 - you [might want to read up that][2]{#aptureLink_b6XR9Pnmok}. Like most of the items that I've purchased in the past year or so, the Envy 14 was also bought from HP store with certain _changes_ as compared to the base model. Some of them include:
+After a long (happy) time with my [Dell Inspiron 1520][1], my previous laptop's age was catching up - the processor was a bottleneck, the 8600m GT was akin to an oven stove. Figured this would be the best time to get a new laptop. I've mentioned previously as to why I chose the HP Envy 14 - you [might want to read up that][2]. Like most of the items that I've purchased in the past year or so, the Envy 14 was also bought from HP store with certain _changes_ as compared to the base model. Some of them include:
 
   * Opted for an Intel Core i5 520M instead of the base Intel Core i3 370M.
 
@@ -30,17 +30,17 @@ You can never have enough of available space.
 
   * Lower resolution screen
 
-Opted for a 1366&#215;768 resolution screen, instead of a 1600&#215;900. I [really do believe][2]{#aptureLink_d7Z6G3ajei} that 1280&#215;800 / 1366&#215;768 resolution hits the sweet spot for 14/15&#8243; screens. Here's a glance at the laptop specifications.
+Opted for a 1366&#215;768 resolution screen, instead of a 1600&#215;900. I [really do believe][2] that 1280&#215;800 / 1366&#215;768 resolution hits the sweet spot for 14/15&#8243; screens. Here's a glance at the laptop specifications.
 
 **Laptop Specifications:**  
 <!--more-->
 
-  * Processor: Intel Core i5 520M @ 2.4 GHz, Turbo boost upto 2.93 GHz, 3 MB L2 Cache w/ [HT][3]{#aptureLink_iWCXVHcPii}, [EM64T][4]{#aptureLink_VvcOV5KReH}, [VT-x][5]{#aptureLink_XsP85VBwz4} & [VT-d][5]{#aptureLink_xiP8JuyPe1} & AES new instructions ( [CPU-z validation][6]{#aptureLink_AkymiEZmei})
+  * Processor: Intel Core i5 520M @ 2.4 GHz, Turbo boost upto 2.93 GHz, 3 MB L2 Cache w/ [HT][3], [EM64T][4], [VT-x][5] & [VT-d][5] & AES new instructions ( [CPU-z validation][6])
   * Main memory: 2x2GB DDR3 1066 MHz Dual Channel mode
   * HDD: Seagate Momentus ST9500420AS 500 GB 7200RPM SATA 3Gbps ( <a href="https://i.imgur.com/tqDtx.png" target="_blank">HDTach result</a> )
   * DVD-RW: hp DVD RAM UJ897 Slot loading drive
   * Sound Card: IDT High Definition/ ATi High Definition ( if you're going to use HDMI )
-  * Graphics Card: ATi Mobility Radeon 5650 1GB / Intel HD ( switchable graphics) ([GPU-z validation][7]{#aptureLink_Es3zC791xc})
+  * Graphics Card: ATi Mobility Radeon 5650 1GB / Intel HD ( switchable graphics) ([GPU-z validation][7])
   * WiFi: Intel Centrino 6200 802.11 A/G/N
   * System Chipset: Intel HM55
   * Expansion & Misc ports: 2xUSB, 1x Shared USB/eSATA,  1xRJ-45, 1xHDMI, 1xHeadphone out, 1xMicrophone In, 1xMedia Card reader(SD/MMC), 1xMini DisplayPort
@@ -129,7 +129,7 @@ The Envy 14 comes with a 14.5&#8243; 1366&#215;768 resolution LED backlit screen
 
 ## <span style="font-weight: normal; font-size: 13px;">Performance-wise, the Envy just screams. With an Core i5, ample 4GB of RAM & the 5650, Envy can chew whatever you can throw at it. Mulit-tasking with bazzilion programs, virtualization with multiple, simultaneous virtual machines - doesn't matter the Envy just glides over them. Games aren't problem either - you can run most of them at native resolution details at maximum details.</span>
 
-Some [benchmarking results][8]{#aptureLink_75Hfudy2AK}:
+Some [benchmarking results][8]:
 
   * Super pi (1M) - 17.43 seconds
   * Wprime 32M - 19.278 seconds

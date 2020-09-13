@@ -8,11 +8,8 @@ url: /2009/01/01/i-never-thought/
 arkayne-time-post:
   - "1325676451"
 categories:
-  - Life
-  - Views
+  - Opinion
 tags:
-  - "2008"
-  - "2009"
   - new year
 
 ---

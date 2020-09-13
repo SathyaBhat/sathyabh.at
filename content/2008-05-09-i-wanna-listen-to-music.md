@@ -19,7 +19,7 @@ tags:
 ---
 Statuatory Warning: LOT of curse words ahead. If you cant stand curse words, well then fuck you.
 
-[ad]
+
 
 My stay in Chennai is turning out to be one big lesson as to what kinda pricks and dumb fucks exist in this planet.
 
@@ -27,7 +27,7 @@ First it was the [Chennai][1] [Cops][2]. Then it was the [stupid mansion owner][
 
 <!--more-->
 
-[ad]
+
 
 it. But noooo, he HAD to continue. I was controlling myself, counting to ten, trying not to get angry. But when that prick continued playing, I jsut lost my cool, and yelled at the top of my voice, "Abbe Idiot music player bandh kar!", TWICE. Immediately, he shuts down the player. And then, 5 mins of silence. And then, he starts ranting like a madman. "Come to my room. Show your face. I'll screw your ass! I'll screw your happiness" <curses more in Tamil>. Starts playing the music again, at a Low volume for 30 seconds, stops it, and then starts barking "Show your face! Come to my Room, #308. Complain to the manager. This isnt your apartment". He's barking all this, I'm still going WTF, how retarded is this asshole.
 

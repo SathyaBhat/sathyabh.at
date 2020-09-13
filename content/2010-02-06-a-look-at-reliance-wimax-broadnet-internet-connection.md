@@ -20,7 +20,7 @@ tags:
 ---
 Been a while since last wrote a review so I'm a bit rusty 🙂
 
-Previously, I depended a lot on the [crappy Airtel data card][1]{#aptureLink_MmRVCJdxRv}. In course of time [things happened][2]{#aptureLink_9XvKYm81rK}, ( which is not relevant to the review 😉 ) and I shifted to a new place. This place had a pre-existing Reliance WiMax connection, so I really cannot comment on the installation charges and support.
+Previously, I depended a lot on the [crappy Airtel data card][1]. In course of time [things happened][2], ( which is not relevant to the review 😉 ) and I shifted to a new place. This place had a pre-existing Reliance WiMax connection, so I really cannot comment on the installation charges and support.
 
 <!--more-->
 
@@ -33,8 +33,8 @@ The service and support isn't too good - whenever I faced downtimes I'd dial the
 **Cons:** Frequent downtimes, quirky session management which times out at random.  
 To conclude - I didn't expect the 'net to be as good - I've always been skeptical of wireless connections in general and Reliance  in specific but I've had good experience with this one.
 
-As posted on [MouthShut][3]{#aptureLink_Tl8gB34hE5}.
+As posted on [MouthShut][3].
 
  [1]: https://www.mouthshut.com/review/Airtel_Data_Card-137337-1.html
- [2]: ../2008/09/21/onsite-opportunity-beckons/
+ [2]: https://sathyabh.at/2008/09/21/onsite-opportunity-beckons/
  [3]: https://www.mouthshut.com/review/Reliance_Wi-Max-185804-1.html

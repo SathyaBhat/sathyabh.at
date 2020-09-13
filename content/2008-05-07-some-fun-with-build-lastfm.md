@@ -5,17 +5,14 @@ type: post
 date: 2008-05-07T09:59:31+00:00
 url: /2008/05/07/some-fun-with-build-lastfm/
 
-arkayne-time-post:
-  - "1325742898"
 categories:
   - Web
 tags:
-  - build last.fm
   - last.fm
   - timepass
 
 ---
-[ad]
+
 
 Ever since I've known [last.fm][1] via Amarok, I've been a huge fan of that site. Today I was going through Build last.fm, which consist of community generated Scripts, stats, plugins and some extras - and was just playing around with some of the apps.
 
@@ -27,7 +24,7 @@ Badges: Some badges to show my play count
 ![badge][2]![Future Army Badges][3]![Game Badges][4] 
 
 You can get the first badge from [Badges Forever][5] and the next 2 badges from [Last.fm badges][6]  
-[ad]  
+  
 Certificates & Diplomas:  
 ![Diploma][7] 
 

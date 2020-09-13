@@ -8,7 +8,7 @@ url: /2008/03/30/evdo-service-to-start-in-chennai-soon/
 arkayne-time-post:
   - "1325708050"
 categories:
-  - Views
+  - Opinion
 tags:
   - BSNL
   - Chennai

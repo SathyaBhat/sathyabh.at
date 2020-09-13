@@ -8,7 +8,7 @@ url: /2008/03/30/sony-ericsson-p1i-review/
 arkayne-time-post:
   - "1325789836"
 categories:
-  - Views
+  - Opinion
 tags:
   - P1i
   - review

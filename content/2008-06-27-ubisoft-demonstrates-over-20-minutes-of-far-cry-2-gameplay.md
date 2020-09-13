@@ -10,15 +10,10 @@ arkayne-time-post:
 categories:
   - gaming
 tags:
-  - dunia
-  - farcry2
-  - gameplay
-  - gaming
-  - Ubisoft
-  - video
+  - farcry
 
 ---
-[ad]
+
 
 Yeah that's right, twenty freakin' minutes, and this is just a "teaser". The devs claim that FarCry 2 has over 50 square kilometers of open area, over 100 missions, and over 50 hours of gameplay(what's with everything being a multiple of 50, I wonder).
 

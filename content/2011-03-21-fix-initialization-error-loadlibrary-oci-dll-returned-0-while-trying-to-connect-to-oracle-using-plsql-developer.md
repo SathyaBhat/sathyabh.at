@@ -9,7 +9,7 @@ url: /2011/03/21/fix-initialization-error-loadlibrary-oci-dll-returned-0-while-t
 arkayne-time-post:
   - "1325789975"
 categories:
-  - 'Oracle &amp; PL/SQL Stuff'
+  - 'Oracle & PL/SQL Stuff'
 tags:
   - database
   - instant client

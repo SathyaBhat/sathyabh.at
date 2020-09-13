@@ -8,15 +8,12 @@ url: /2008/06/23/and-the-lamest-mouse-award-goes-to/
 arkayne-time-post:
   - "1325773048"
 categories:
-  - Views
+  - Opinion
 tags:
   - gadgets
-  - lame
-  - mouse
-  - timepass
 
 ---
-[ad]  
+  
 Preshit’s [tweet][1] about him having the lamest mouse triggered a series of “my-mouse-is-lamer-than-yours" tweets, and in midst of that we decided to have a contest - Who's mouse is the Lamest? So who gets the award? Lets have a look at the contenders  
 <!--more-->
 
@@ -28,7 +25,7 @@ Preshit’s [tweet][1] about him having the lamest mouse triggered a series of �
 
   3. [Karthik][9]
 ![Karthik's Lame Mouse][10]  
-[ad]
+
 
   4. [Omkarnath][11]
 ![Omi's Lame Mouse][12]![Omi's Lame Mouse 2][13] 

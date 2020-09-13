@@ -15,7 +15,7 @@ tags:
   - stupidity
 
 ---
-[ad]
+
 
 Being a mini "celebrity"  can be a problem. Now I'm no "celebrity", but being a moderator of India's biggest tech website forums, [Tech2.o][1] has its advantages&#8230;and drawbacks too. Some of the people who contact me on IM, just make me go =)) =)) =))
 

@@ -5,7 +5,7 @@ type: post
 date: 2014-12-04T13:42:47+00:00
 url: /2014/12/04/short-review-of-the-vu-40-40k16-led-tv/
 categories:
-  - Views
+  - Opinion
 tags:
   - review
   - snapdeal

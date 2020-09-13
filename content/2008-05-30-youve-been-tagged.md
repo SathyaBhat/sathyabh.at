@@ -5,17 +5,14 @@ type: post
 date: 2008-05-29T18:35:44+00:00
 url: /2008/05/30/youve-been-tagged/
 
-arkayne-time-post:
-  - "1325784899"
 categories:
-  - Views
+  - Opinion
 tags:
   - meme
   - timepass
-  - tp
 
 ---
-[ad]
+
 
 [Devesh][1] was kind enough to [tag][2] me in this 4-things meme, so let me answer most of them(can't answer two them, not yet experienced 😉 ) and tag the rest!
 
@@ -39,9 +36,9 @@ tags:
 **4 TV Shows I Like**
 
   * [Top Gear][8]
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/friends/show/71/summary.html?q=friends&tag=search_results;title;1');" href="https://www.tv.com/friends/show/71/summary.html?q=friends&tag=search_results;title;1">Friends</a>
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/my-name-is-earl/show/31988/summary.html?q=my%20name%20is%20earl&tag=search_results;title;1');" href="https://www.tv.com/amazing-race/show/6686/summary.html">The Amazing Race<br /> </a>
-  * <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.tv.com/brothers-and-sisters/show/58012/summary.html?q=brothers%20and%20sisters&tag=search_results;title;1');" href="https://www.tv.com/Numb3rs/show/25043/summary.html">Numb3rs</a>
+  * Friends
+  * The Amazing Race
+  * Numb3rs
 
 **4 Favorite Food**s
 

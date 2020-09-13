@@ -5,8 +5,6 @@ type: post
 date: 2008-05-08T15:55:35+00:00
 url: /2008/05/08/mr-tony-chan-chun-chuen-dear-friend/
 
-arkayne-time-post:
-  - "1325738473"
 categories:
   - Web
 tags:
@@ -21,7 +19,7 @@ tags:
 > that erupted between her and her late husband Relatives concerning the  
 > huge estate he left behind.
 > 
-> <!--more-->[ad]
+> <!--more-->
 > 
 > To save my time and yours I ask that you go to this link,
 > 

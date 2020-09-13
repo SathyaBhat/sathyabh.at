@@ -4,24 +4,15 @@ author: sathya
 type: post
 date: 2008-05-27T13:03:01+00:00
 url: /2008/05/27/dress-up-gmail-with-skins-and-improve-the-functionality/
-
-arkayne-time-post:
-  - "1325747375"
 categories:
   - Web
 tags:
-  - addons
-  - better gmail
   - extensions
   - firefox
   - gmail
-  - greasemonkey
-  - scripts
-  - themes
-  - Web
-
+  
 ---
-[ad]
+
 
 Well, I'm pretty sure most of you are heavy GMail users. For me **[GMail][1]** is my primary mail service now, with my domain-based mail running on Google Apps. As good as a service GMail is I find certain things annoying - such as the the way it defaults to top posting instead of bottom posting! And of course the default interface is a bit bland. That's where Better GMail comes in. Better GMail is a collection of **[Greasemonkey][2]** userscripts all rolled into 1 neat Firefox addon!
 
@@ -37,7 +28,7 @@ Some of the features Better GMail has include
 
 <!--more-->
 
-[ad]
+
 
 Better Gmail comes in 2 versions, Better GMail and Better Gmail 2. Better Gmail is for those using the older version of Gmail, and Better GMail2 is for - you guessed it the newer version(you can distinguish between the 2 versions, the newer version will have a link for Older Version in the top right corner).
 

@@ -13,11 +13,10 @@ tags:
   - BSNL
   - Chennai
   - EVDO
-  - Life
   - wireless
 
 ---
-[ad]
+
 
 I'd **<a href="https://sathyabh.at/2008/04/19/bsnl-evdo-to-be-available-in-chennai-only-in-outer-peripheral-areas/" target="_blank">posted previously</a>** that as of now BSNL EVDO is available only in the outer peripheral areas of Chennai. This is now verified by BSNL's Chennai Coverage page, which shows the areas in which BSNL EVDO service is available and what can be the expected speeds.
 

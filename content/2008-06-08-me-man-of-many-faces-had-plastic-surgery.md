@@ -4,16 +4,12 @@ author: sathya
 type: post
 date: 2008-06-08T04:30:11+00:00
 url: /2008/06/08/me-man-of-many-faces-had-plastic-surgery/
-
-arkayne-time-post:
-  - "1325787176"
 categories:
-  - Views
+  - Opinion
 tags:
   - Life
 
 ---
-[ad]
 
 So I was having a nice talk with [Harshad][1] a while ago on IM, and he asked me a question no one had EVAR asked.
 

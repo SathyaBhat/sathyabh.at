@@ -8,10 +8,8 @@ url: /2012/04/20/on-contact-lenses-and-bausch-lombs-pure-view-hd-lenses/
 categories:
   - Life
 tags:
-  - 'B&amp;L'
-  - 'Bausch &amp; Lomb'
+  - 'Bausch & Lomb'
   - contact lenses
-  - contacts
 
 ---
 I've been wearing contact lenses for more than 10 years now. Switched to contacts from my clunky spectacles when I started my PU(aka 11th).

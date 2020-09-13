@@ -4,25 +4,16 @@ author: sathya
 type: post
 date: 2009-07-13T02:55:31+00:00
 url: /2009/07/13/celebrating-2-years/
-aktt_notify_twitter:
-  - 'no'
-
-arkayne-time-post:
-  - "1325713097"
 categories:
   - Life
-  - Views
+  - Opinion
 tags:
   - 3i
   - Chennai
-  - Hassles
-  - Life
   - office
-  - Views
-  - work
 
 ---
-Couple of days ago, I tweeted this [little message][1]{#aptureLink_lnXlscR4cW}. July 9, 2007 is a red letter day for me - for that was the day I started my career as a working professional. As I tweeted that, I was greeted over IM by few of my friends and colleagues. It didn't strike me much as soon as I tweeted, but few hours later I was just amazed as to how fast time has gone by - and how far I've come. To think, I applied for this position as an afterthought ("should I really ? Well.."). That got me into nostalgia mode.
+Couple of days ago, I tweeted this [little message][1]. July 9, 2007 is a red letter day for me - for that was the day I started my career as a working professional. As I tweeted that, I was greeted over IM by few of my friends and colleagues. It didn't strike me much as soon as I tweeted, but few hours later I was just amazed as to how fast time has gone by - and how far I've come. To think, I applied for this position as an afterthought ("should I really ? Well.."). That got me into nostalgia mode.
 
 <!--more-->
 
@@ -34,11 +25,11 @@ It was about beginning of 7th sem when I started to pull it together - the subje
 
 This fine day - I saw this notice on our notice board about Aptitude test for another job. I was just about to dismiss it, but this clause of "required marks criteria" NOT being present got me thinking and I was like - probably my last shot - why not give it a try.
 
-I mentioned this to few other folks - notably [Neeths][2]{#aptureLink_T2QLdKFCUq} & [Sid][3]{#aptureLink_9EYaJT19VU}. The three of us, and few others from my college gave the test - and I  cleared the test and the Interview (if you're wondering - no, I didn't "practice" for it) - and finally got a job.
+I mentioned this to few other folks - notably [Neeths][2] & [Sid][3]. The three of us, and few others from my college gave the test - and I  cleared the test and the Interview (if you're wondering - no, I didn't "practice" for it) - and finally got a job.
 
-Over the course of time after I was selected for the job but before joining, I started speaking to few of my would be colleagues, friends and room mates about where to stay and etc. Soon I was done with college - and the D-day had come. I had been posted to [Chennai][4]{#aptureLink_InmMYn8dxP} and hence I left my hometown of Mangalore for Chennai.
+Over the course of time after I was selected for the job but before joining, I started speaking to few of my would be colleagues, friends and room mates about where to stay and etc. Soon I was done with college - and the D-day had come. I had been posted to [Chennai][4] and hence I left my hometown of Mangalore for Chennai.
 
-The memories are still fresh in my mind - I reached Chennai few days in advance as I didn't have a place to stay there, and thought I'll need a day or two to scope out few guest houses and mansions. Met Adi on July 6th, we went about hopping from Mansion to Mansion, speaking a mix of English, Hindi, Kannada, Konkani, Tulu to bring out pseudo Tamil - 't was a though time trying to communicate with the guest house owners. The next day [Ankit][5]{#aptureLink_iOVuT7HLIe} reached Chennai, Shankar the day after.
+The memories are still fresh in my mind - I reached Chennai few days in advance as I didn't have a place to stay there, and thought I'll need a day or two to scope out few guest houses and mansions. Met Adi on July 6th, we went about hopping from Mansion to Mansion, speaking a mix of English, Hindi, Kannada, Konkani, Tulu to bring out pseudo Tamil - 't was a though time trying to communicate with the guest house owners. The next day [Ankit][5] reached Chennai, Shankar the day after.
 
 2 years have passed by since then. We've had our fair share of ups and downs. The first 3 months of training - which was an absolute bliss. The pondy trip brought the Ruby gang<sup><a href="#footnote_0_273" id="identifier_0_273" class="footnote-link footnote-identifier-link" title="Ruby gang &ndash; because Ruby was the name of our training room">1</a></sup>  closer than ever. Once we were assigned projects and teams it was different altogether. But we never missed our daily lunch and evening snack times - when all (well, most anyways) would join in, discuss on what's happening around the organization and world.  A practice, which is still continued today - I believe. Though about half of Ruby gang has moved on - some got married, some left for higher studies - but the memories still remain.
 

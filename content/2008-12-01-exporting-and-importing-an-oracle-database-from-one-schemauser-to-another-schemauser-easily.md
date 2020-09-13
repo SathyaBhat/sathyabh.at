@@ -8,7 +8,7 @@ url: /2008/12/01/exporting-and-importing-an-oracle-database-from-one-schemauser-
 arkayne-time-post:
   - "1325790515"
 categories:
-  - 'Oracle &amp; PL/SQL Stuff'
+  - 'Oracle & PL/SQL Stuff'
   - Programming
 tags:
   - data files

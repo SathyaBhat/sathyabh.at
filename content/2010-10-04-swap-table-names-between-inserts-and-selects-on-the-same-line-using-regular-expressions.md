@@ -9,7 +9,7 @@ url: /2010/10/04/swap-table-names-between-inserts-and-selects-on-the-same-line-u
 arkayne-time-post:
   - "1325728123"
 categories:
-  - 'Oracle &amp; PL/SQL Stuff'
+  - 'Oracle & PL/SQL Stuff'
   - Programming
 tags:
   - insert
@@ -51,9 +51,9 @@ So first thing to do was to get rid of the DROP statements. I figured regular ex
 
 and replaced it with a space. So that solved my one problem.
 
-Now when it came to part of swapping, I was absolutely clueless as to how to go about doing this. So dropped by [The Roach Motel][1]{#aptureLink_obPD5AwJlF}.
+Now when it came to part of swapping, I was absolutely clueless as to how to go about doing this. So dropped by [The Roach Motel][1].
 
-In case you're wondering what "The Roach Motel" is - it's a room setup within the insanely awesome [Stack Overflow Chat][2]{#aptureLink_rJQCbOcOpE} for the purpose of Code Review and help with bug fixing. Got in touch with Josh, and he was able to whip out a [quick solution][3]{#aptureLink_lmcgQphmfo} using jsfiddle. This saved me atleast 6 hours of tedious work.  I'm immensely grateful to [Josh][4]{#aptureLink_S6fjAouQRp} for all the help provided by him.
+In case you're wondering what "The Roach Motel" is - it's a room setup within the insanely awesome [Stack Overflow Chat][2] for the purpose of Code Review and help with bug fixing. Got in touch with Josh, and he was able to whip out a [quick solution][3] using jsfiddle. This saved me atleast 6 hours of tedious work.  I'm immensely grateful to [Josh][4] for all the help provided by him.
 
 Here's the solution:
 
@@ -70,10 +70,10 @@ JS code for regexp find & replace
               var sql = $F('sathyasql');
                sql = sql.replace(/INSERT INTO ([^ ]+) AS SELECT \* FROM ([^ ]+)/g,'INSERT INTO $2 AS SELECT * FROM $1');
               $('sathyasql').update(sql).value = sql;
-           });
+            });
 </pre>
 
-For those interested, full [transcript][5]{#aptureLink_8lQS41Ofmn} of my discussions with Josh
+For those interested, full [transcript][5] of my discussions with Josh
 
  [1]: https://chat.meta.stackoverflow.com/rooms/224/the-roach-motel
  [2]: https://chat.meta.stackoverflow.com/

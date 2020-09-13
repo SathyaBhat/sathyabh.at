@@ -26,7 +26,7 @@ The features include
 
 <!--more-->
 
-[ad]
+
 
   * Quick Links - Adds a box to the left column that gives you 1-click access to any bookmarkable URL in Gmail. Very useful feature, have enabled it. Can create a search with some criteria, and then quick link it to give a sort of  "saved-search" feature. Very useful, say If I want to find out my registered user ids in all the webservices that I've signed up for, just create a search criteria and put a quick link to it. Neat.
   * Superstars -  Adds additional star icons. After enabling this feature, you can choose which icons you wish to use in the "General" Settings page. Not using these, maybe mark those "special people" with these extra icons

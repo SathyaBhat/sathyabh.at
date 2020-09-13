@@ -10,34 +10,27 @@ arkayne-time-post:
   - "1325760922"
 categories:
   - Life
-  - Views
+  - Opinion
 tags:
-  - 3i
-  - 9 feet High
-  - "blogger's meet"
-  - Chennai
-  - GRT
-  - Indiblogger
-  - Life
-  - meetup
-  - timepass
+  
+  - meetup  
   - tweetup
-  - work
+  
 
 ---
-March 19 1985, 05:28. Date and time a certain SJ (no, not Steve Jobs, [me][1]{#aptureLink_cm5348bQ3b}!) came into this world. Fast forward to March 19, 2010. <span style="text-decoration: line-through;">Today.</span> <span style="text-decoration: line-through;">Yesterday</span>. couple of days ago. 25. I've "officially" completed 25 years of which 22 years were spent in [Mangalore][2]{#aptureLink_nUtmkwPZQR}, 9 months in [Austin][3]{#aptureLink_7txdYQLi6P}, and the remaining time in [Chennai][4]{#aptureLink_qHryz2Xwgy}.
+March 19 1985, 05:28. Date and time a certain SJ (no, not Steve Jobs, [me][1]!) came into this world. Fast forward to March 19, 2010. <span style="text-decoration: line-through;">Today.</span> <span style="text-decoration: line-through;">Yesterday</span>. couple of days ago. 25. I've "officially" completed 25 years of which 22 years were spent in [Mangalore][2], 9 months in [Austin][3], and the remaining time in [Chennai][4].
 
 <!--more-->
 
-The day was pretty uneventful, however. My colleague Sweety was the first to call at 12:00, and Zakir, the silent assassin sitting besides me jumped and pounced on me, hammering away - all in the name of "bumps". Few more calls, \*loads\* and \*loads\* of tweets and facebook messages wishing me a Happy B'day. I actually hit twitter rate limit, on xtw.in and dabr, twice. Dang. Finished off my work ( I'm a zombie, work at nights thanks to my [previous stint][5]{#aptureLink_TkHKk8Na1e} \*grumble\*grumble\* ) left for home. Dad & Mum called, as did few relatives 🙂 Returned to work on Friday evening(\*grumble\*grumble\*), got wishes from Colleagues, and cake facials ( thankfully, no tomatoes or rotten eggs !). Finished off work and got back home Saturday morning. (FYI: Reach office at 5:30pm, leave at 5:30am).
+The day was pretty uneventful, however. My colleague Sweety was the first to call at 12:00, and Zakir, the silent assassin sitting besides me jumped and pounced on me, hammering away - all in the name of "bumps". Few more calls, \*loads\* and \*loads\* of tweets and facebook messages wishing me a Happy B'day. I actually hit twitter rate limit, on xtw.in and dabr, twice. Dang. Finished off my work ( I'm a zombie, work at nights thanks to my [previous stint][5] \*grumble\*grumble\* ) left for home. Dad & Mum called, as did few relatives 🙂 Returned to work on Friday evening(\*grumble\*grumble\*), got wishes from Colleagues, and cake facials ( thankfully, no tomatoes or rotten eggs !). Finished off work and got back home Saturday morning. (FYI: Reach office at 5:30pm, leave at 5:30am).
 
 <a id="aptureLink_WIppAerXdc" style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="https://posterous.com/getfile/files.posterous.com/sathyabhat/wN7MCuPwvBojkuKbORCsydcFW5m0sZGGpQaHYMd1JGX3cCzNS5Q61ij7tiFp/photo_2.jpg"><img style="border: 0px none;" src="https://posterous.com/getfile/files.posterous.com/sathyabhat/wN7MCuPwvBojkuKbORCsydcFW5m0sZGGpQaHYMd1JGX3cCzNS5Q61ij7tiFp/photo_2.jpg" alt="" width="425.53333333333336px" height="319.15000000000003px" /></a>
 
 <a id="aptureLink_ppFLRH0SHk" style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="https://posterous.com/getfile/files.posterous.com/sathyabhat/tSyJaxl8boSkfGyJzbPOA1l6BEN6tcKtQMUK68w5s7Qb0U18fZGJbz1fbmiI/photo.jpg"><img style="border: 0px none;" src="https://posterous.com/getfile/files.posterous.com/sathyabhat/tSyJaxl8boSkfGyJzbPOA1l6BEN6tcKtQMUK68w5s7Qb0U18fZGJbz1fbmiI/photo.jpg" alt="" width="239.36250000000004px" height="319.15000000000003px" /></a>
 
-Saturday afternoon I was supposed to be at the [Indibloggers' meet in Chennai][6]{#aptureLink_YF0RO3tNEl} but thanks to my working works, I woke up late and couldn't make it (almost). Ankit sent me a message about trying to make it to the Indiblogger meet, and after a li'l coaxing by [Narayanan][7]{#aptureLink_sMuPRGu1nv} I [moved my lazy butt][8]{#aptureLink_Oow44GQeKQ} over to GRT convention centre, at the best time possible (read: Just in time to eat and to grab the T-shirt). Met [Ankit Agarwal][9]{#aptureLink_R7qGBhsXWM} for the first time, after lots of "yeah we'll meet this weekend for sure" tweets.  I will definitely catch up with him. For sure.
+Saturday afternoon I was supposed to be at the [Indibloggers' meet in Chennai][6] but thanks to my working works, I woke up late and couldn't make it (almost). Ankit sent me a message about trying to make it to the Indiblogger meet, and after a li'l coaxing by [Narayanan][7] I [moved my lazy butt][8] over to GRT convention centre, at the best time possible (read: Just in time to eat and to grab the T-shirt). Met [Ankit Agarwal][9] for the first time, after lots of "yeah we'll meet this weekend for sure" tweets.  I will definitely catch up with him. For sure.
 
-From there, [Narayanan][10]{#aptureLink_BwvqI69Wmr}, [Preethika][11]{#aptureLink_yZDh43vk1W}, [Ankit][12]{#aptureLink_JUlxe8gn3w} and me were wondering what to do, thought of heading off to 10 D but it was only 6pm and 10 D wouldn't open for another hour or so. Narayanan suggested we try out this new place called [9 feet High][13]{#aptureLink_cpWNhM3ojB} . 9 feet high [was pretty nice][14]{#aptureLink_ZFsC6xXXz2}, beachside view, great ambience, good music and okay-ish food. Tried out "[Nanu mix][15]{#aptureLink_StWNvLfyCH}" :p  ( for the curious, its a cocktail mix prepared by Narayanan - Vodka, green chilles, lime, Sprite - a very unique combination). Our discussion was interrupted by a, er, <span style="text-decoration: line-through;">loafer</span> [very interesting person][16]{#aptureLink_orFefSSvD0}. Needless to say he wasn't clearly thinking straight and the poor lady accompanying him was rather embarrassed. (Side note: Narayanan mentioned about him sending an SMS [apologizing his behaviour][17]{#aptureLink_KuclfOrT35}). Moving on, we headed back to IIT-Madras, where we had our fill of food and to end the day, Narayanan dropped us back to our PG. Quite an interesting day it was indeed.
+From there, [Narayanan][10], [Preethika][11], [Ankit][12] and me were wondering what to do, thought of heading off to 10 D but it was only 6pm and 10 D wouldn't open for another hour or so. Narayanan suggested we try out this new place called [9 feet High][13] . 9 feet high [was pretty nice][14], beachside view, great ambience, good music and okay-ish food. Tried out "[Nanu mix][15]" :p  ( for the curious, its a cocktail mix prepared by Narayanan - Vodka, green chilles, lime, Sprite - a very unique combination). Our discussion was interrupted by a, er, <span style="text-decoration: line-through;">loafer</span> [very interesting person][16]. Needless to say he wasn't clearly thinking straight and the poor lady accompanying him was rather embarrassed. (Side note: Narayanan mentioned about him sending an SMS [apologizing his behaviour][17]). Moving on, we headed back to IIT-Madras, where we had our fill of food and to end the day, Narayanan dropped us back to our PG. Quite an interesting day it was indeed.
 
  [1]: ../2008/12/13/hi-im-sj/
  [2]: ../tag/mangalore/

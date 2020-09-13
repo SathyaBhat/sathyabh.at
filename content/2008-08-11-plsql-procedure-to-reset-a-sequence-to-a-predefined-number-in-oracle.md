@@ -8,7 +8,7 @@ url: /2008/08/11/plsql-procedure-to-reset-a-sequence-to-a-predefined-number-in-o
 arkayne-time-post:
   - "1325778482"
 categories:
-  - 'Oracle &amp; PL/SQL Stuff'
+  - 'Oracle & PL/SQL Stuff'
   - Programming
 tags:
   - oracle
@@ -59,6 +59,3 @@ END;
 
 p\_Name is the name of the sequence, and p\_val is the number you want to set it to. I’d say the best number to pass to p_val is to take the Max val of your primary key column. Hope this might help you out.
 
-<div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:38d978ff-52f9-4c1b-8bcf-16465f885f88" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/Oracle">Oracle</a>,<a rel="tag" href="https://technorati.com/tags/PL%2fSQL">PL/SQL</a>,<a rel="tag" href="https://technorati.com/tags/PLSQL">PLSQL</a>,<a rel="tag" href="https://technorati.com/tags/SQL">SQL</a>,<a rel="tag" href="https://technorati.com/tags/sequence">sequence</a>,<a rel="tag" href="https://technorati.com/tags/Primary+key">Primary key</a>,<a rel="tag" href="https://technorati.com/tags/reset">reset</a>,<a rel="tag" href="https://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="https://technorati.com/tags/My+World">My World</a>,<a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>
-</div>

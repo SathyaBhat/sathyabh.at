@@ -4,22 +4,13 @@ author: sathya
 type: post
 date: 2008-12-21T07:55:06+00:00
 url: /2008/12/21/a-visit-to-north-by-northwest/
-
-arkayne-time-post:
-  - "1325730310"
 categories:
   - Life
-  - Views
 tags:
   - Austin
-  - bar
   - beer
   - brewery
-  - North by Northwest
-  - NXNW
-  - restaurant
   - review
-  - Texas
 
 ---
 The day I landed in Austin, when I was being driven back, I'd seen this seemingly nice place - North by North West and my colleague told me its a beer brewery and restaurant, and I made a mental note to check it out. Somehow I never checked it out - till today. Yesterday while heading out to Bank of America to encash my Travellers' Cheque I noticed that North by NorthWest is pretty close and walking distance from where I stay, so I decided to check this place out.

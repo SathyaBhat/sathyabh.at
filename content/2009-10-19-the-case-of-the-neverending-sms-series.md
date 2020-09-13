@@ -26,7 +26,7 @@ tags:
   - work
 
 ---
-Most of the [Ruby gang][1]{#aptureLink_MgTFsoEnqR} are very well aware of the "Stupid SMS series". For the uninitiated, it was Nitin's way of&#8230;. umm&#8230; timepass ? by sending SMS to all of the [Ruby gang][1]{#aptureLink_ycd65g2C6k} which made absolutely no sense whatsoever ( I hate to admit it, but it's true, Nitin is a version of "[The Amit][2]{#aptureLink_d77PbHimNT}").
+Most of the [Ruby gang][1] are very well aware of the "Stupid SMS series". For the uninitiated, it was Nitin's way of&#8230;. umm&#8230; timepass ? by sending SMS to all of the [Ruby gang][1] which made absolutely no sense whatsoever ( I hate to admit it, but it's true, Nitin is a version of "[The Amit][2]").
 
 Anyways back to the post,  couple of days ago, as I was spending time in morning, my iPhone started to buzz away. It wasn't very surprising, since getting a message in morning isn't something out of the ordinary. Opened the message only to see it was a blank SMS from an unknown number. Ignored it at first, but then the buzzing went on continuously. In a matter of few minutes my inbox looked like this:
 

@@ -16,7 +16,7 @@ tags:
   - Web
 
 ---
-[ad]
+
 
 While surfing through the web, I found this link: [Who were you in your past Life][1]?
 

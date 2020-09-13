@@ -20,7 +20,7 @@ tags:
 <!--more-->
 
   
-[ad#in-post]  
+  
 On asking whether any CDMA towers will be setup anytime soon, I was met with blank faces. Have to say, this isn't the best of moves BSNL is making. There is immense response and demand to BSNL's  EVDO service and BSNL isn't doing justice to their Chennai customers. As usual, We at BSNL EVDO Club will keep you guys updated with the latest information as and when it happens.
 
 Also posted in [BSNL EVDO club][1] - get the latest information, news, reviews on BSNL EVDO from [BSNL EVDO club][2], and support from [BSNL EVDO Club Forums][3]

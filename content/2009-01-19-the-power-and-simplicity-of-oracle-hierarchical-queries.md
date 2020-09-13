@@ -7,7 +7,7 @@ url: /2009/01/19/the-power-and-simplicity-of-oracle-hierarchical-queries/
 arkayne-time-post:
   - "1325754448"
 categories:
-  - 'Oracle &amp; PL/SQL Stuff'
+  - 'Oracle & PL/SQL Stuff'
 tags:
   - hierarchical queries
   - oracle

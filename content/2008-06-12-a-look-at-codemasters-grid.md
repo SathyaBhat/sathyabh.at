@@ -43,7 +43,7 @@ Download the demo version of Grid from [here][8]
 
 [Here][9] are some of the screenshots I'd taken of Grid.
 
-[ad]
+
 
  [1]: https://flickr.com/photos/sathyabhat/2572363924/
  [2]: https://flickr.com/photos/sathyabhat/2572364366/

@@ -5,8 +5,6 @@ type: post
 date: 2008-06-09T06:34:45+00:00
 url: /2008/06/09/digia-web-finger-touch-web-browser-for-uiq-phones/
 
-arkayne-time-post:
-  - "1325791522"
 categories:
   - Mobiles
 tags:
@@ -50,7 +48,6 @@ Some of the features include
 
 As for device compatibility, all touch enabled UIQ 3 devices such as the Sony Ericsson M600, P990, P1i, G700, G900, W950, W960i,  are supported.
 
-[ad]
 
  [1]: https://www.digia.com/
  [2]: https://www.digia.com/C2256FEF0043E9C1/0/405001847

@@ -8,12 +8,10 @@ url: /2008/03/21/1-year-at-chip-forums/
 arkayne-time-post:
   - "1325789845"
 categories:
-  - Views
+  - Opinion
 tags:
-  - chip
-  - experiences
   - forums
-  - Views
+
 
 ---
 Today I completed an anniversary of sorts - [1 year][1] of registering at [Chip India forums][2]. Chip was the first site I visited soon as I got my BSNL broadband connection(yeah, a year ago), and was instantly hooked on, esp with "friendliness quotient" factor of the forums. I was on "lurk" state for a few days, and was overwhelmed - by the amount of knowledge these guys at forums had. Initially I couldn't post a reply to many topics - since I didn't know much about them, at all, although exception was anything regarding Linux, since I've been a Linux user for a bit, but then posts on Linux were few and far between. Nevertheless, it's been a very fruitful, daunting, learning experience.

@@ -14,13 +14,10 @@ tags:
   - 3i
   - Austin
   - Chennai
-  - Hassles
-  - Life
-  - Views
   - work
 
 ---
-Hard to believe, but it's been two months since [I've been in Austin][1]{#aptureLink_i24lvCH4aM}.  Let's rewind back to my flight details.
+Hard to believe, but it's been two months since [I've been in Austin][1].  Let's rewind back to my flight details.
 
 As mentioned in my previous post my flight was due to depart at 04:45, and I would have to reach at the Airport by atleast 2AM. Since I didn't have a vehicle, I called up a call-taxi and arranged for it to come at 01:30. The airport was about 45 minutes from where I stay, and wasn't sure about the traffic (if any - plus it was kinda stormy that night/early morning) so revised the taxi timings and asked him to come over at 01:15.
 
@@ -34,13 +31,13 @@ I gave them an ultimatum stating that either they charge me at a price not excee
 
 Anyhow went back to my place, did some more timepass till the time arrived to board the train. There was a stopover for couple of hours at Doha, Qatar. Purchased a carton of cigarettes for a colleague of mine. Moved on to my Qatar airways flight from Doha to Washington.
 
-The flight was uneventful, no surprises or chirpy [old ladies][2]{#aptureLink_6LTYNd0aqP} to bother me. I must confess though, more than anything I was rather worried about what about would await me at immigration especially with my Visa statuts. Thankfully, immigration was done rather quickly ( and without a hitch) and headed to the gate at which my flight was due to depart in another couple of hours. I gave my colleague [Anup][3]{#aptureLink_mpYq7azOli} a call & informed him about my arrival.
+The flight was uneventful, no surprises or chirpy [old ladies][2] to bother me. I must confess though, more than anything I was rather worried about what about would await me at immigration especially with my Visa statuts. Thankfully, immigration was done rather quickly ( and without a hitch) and headed to the gate at which my flight was due to depart in another couple of hours. I gave my colleague [Anup][3] a call & informed him about my arrival.
 
 When the boarding call arrived and I handed over my boarding pass for the final flight from Washington to Austin, I got another shock when the ground staff told me that my seat had already been checked in by someone else(!). With only few minutes for the boarding gates to close, I got a bit jittery about this  situation and on having to miss the flight again. Thankfully the flight attendant got this cleared and I was able to to board the flight \*just in time\*.
 
-So finally made it to Austin. It's good to be back here. Temperatures were in the high 90's/low 100's when I arrived, but now it's gotten cooler as is around 70-80. I haven't been to too many places outside Austin -in Austin - I drop by almost every week to [North by Northwest][4]{#aptureLink_ie3MHe5MCj} . Also paid a visit to the Alamo Drafthouse - s pretty sweet movie theater which serves food and drinks as you watch the movie.
+So finally made it to Austin. It's good to be back here. Temperatures were in the high 90's/low 100's when I arrived, but now it's gotten cooler as is around 70-80. I haven't been to too many places outside Austin -in Austin - I drop by almost every week to [North by Northwest][4] . Also paid a visit to the Alamo Drafthouse - s pretty sweet movie theater which serves food and drinks as you watch the movie.
 
-In other gadget news, I've purchased some new goodies - the [Denon AH-C360][5]{#aptureLink_Qz7LvMTqD3} in-earphones ( no thanks to those security folks @ Chennai airport who destroyed my SoundMagic PL-11), and ofcourse my new baby, the [Envy 14][6]{#aptureLink_A0oXDGtZSY}. I'll post a review on each of these soon. Also, [Jeff Atwood][7]{#aptureLink_meRwU158Sx} sent me over a [D-Link DGL-4500][8]{#aptureLink_3CyHvsvdga} for helping him out with a new recommendation and my contribution to [Super User][9]{#aptureLink_cOHvF6ldYn}.
+In other gadget news, I've purchased some new goodies - the [Denon AH-C360][5] in-earphones ( no thanks to those security folks @ Chennai airport who destroyed my SoundMagic PL-11), and ofcourse my new baby, the [Envy 14][6]. I'll post a review on each of these soon. Also, [Jeff Atwood][7] sent me over a [D-Link DGL-4500][8] for helping him out with a new recommendation and my contribution to [Super User][9].
 
 Also found couple of Mangaloreans near Arlington, hoping to meet them soon. So let's see how it goes. Will post an update soon.
 

@@ -5,10 +5,9 @@ type: post
 date: 2008-05-24T06:27:57+00:00
 url: /2008/05/24/think-twice-before-you-use-a-cheap-psu/
 
-arkayne-time-post:
-  - "1325731949"
+
 categories:
-  - Views
+  - Opinion
 tags:
   - hardware
   - PSU
@@ -16,11 +15,7 @@ tags:
   - tips
 
 ---
-<div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:45da25f1-278b-4936-919e-20ff449d233a" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="https://technorati.com/tags/harware">hardware</a>,<a rel="tag" href="https://technorati.com/tags/PSU">PSU</a>,<a rel="tag" href="https://technorati.com/tags/smps">smps</a>,<a rel="tag" href="https://technorati.com/tags/tips">tips</a>
-</div>
 
-[ad]
 
 I hang out couple of tech forums while I'm free - gives me a general idea of what hardware configuration is more or less "standard", and one of the worst mistakes I've been people doing is that they COMPLETELY ignore the PSU(or SMPS, as it's often known). I mean we're talking about Quad Core processors, 8800GT graphics cards, hard drives in RAID and what not, only to get a cheap local, generic 500W/600W PSU, thinking the higher the wattage, the better it is for them. The problem is that these can't deliver the current required for these high-end components, neither are they reliable or efficient - the components inside are of the worst quality.
 

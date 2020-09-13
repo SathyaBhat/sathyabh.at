@@ -14,7 +14,7 @@ tags:
   - Web
 
 ---
-[ad]  
+  
 Yesterday Devesh had [tweeted][1] telling me "You have to listen to this!". I was at home, and my connection being slow, decided to check it out in office. And man! It's HILARIOUS! I was struggling to contain my laughter!
 
 Head over to [Devesh's blog][2] and listen to it!

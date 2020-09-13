@@ -4,21 +4,14 @@ author: sathya
 type: post
 date: 2008-05-04T17:00:15+00:00
 url: /2008/05/04/enabledisable-autoplay-for-individual-drives/
-
-arkayne-time-post:
-  - "1325732218"
 categories:
   - Tutorials
 tags:
-  - autoplay
-  - autorun
   - pendrive
-  - virus
-  - windows
-  - XP
+  - antivirus
 
 ---
-[ad]
+
 
 Windows' Autoplay is a neat feature - the moment you pop in a CD/Drive or a Removable drive, autorun.inf file is read, and any executable file mentioned in there is executed. While this seems as a good idea, say, for automated setup installers, Autoplay has gathered some infamy as a virus distribution centre.
 
@@ -29,7 +22,7 @@ For that you'll need Tweak UI, grab it from <a rel="nofollow" href="https://www.
 
 [<img src="https://static.flickr.com/2018/2463874091_ff048ca52e.jpg" border="0" alt="autoplay" />][1]
 
-[ad]
+
 
 Click on the "+" mark next to My Computer, head over to AutoPlay, drives, and ensure that a Check mark is placed against only the drives you want AutoPlay to be enabled. Restart your PC. As simple as that.
 

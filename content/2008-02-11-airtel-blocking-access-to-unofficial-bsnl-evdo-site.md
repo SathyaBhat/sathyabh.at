@@ -4,16 +4,13 @@ author: sathya
 type: post
 date: 2008-02-11T17:49:36+00:00
 url: /2008/02/11/airtel-blocking-access-to-unofficial-bsnl-evdo-site/
-
-arkayne-time-post:
-  - "1325787159"
 categories:
-  - Views
+  - Opinion
 tags:
   - Airtel
   - BSNL
   - EVDO
-  - wireless
+
 
 ---
 Ever since Santosh aka Gigacore started an unofficial site on [BSNL EVDO device][1] I've been following it closely, seeking for more information and reviews on the device. So it was no surprise that when he launched the [BSNL EVDO forums][2] I was the first to register at the forums. Now the userbase has increased and the site has definitely picked up popularity. Has it become so popular as to warrant Airtel from Blocking access to the site?  

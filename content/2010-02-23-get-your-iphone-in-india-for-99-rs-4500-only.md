@@ -4,14 +4,9 @@ author: sathya
 type: post
 date: 2010-02-23T11:57:41+00:00
 url: /2010/02/23/get-your-iphone-in-india-for-99-rs-4500-only/
-
-
-arkayne-time-post:
-  - "1325788101"
 categories:
   - Mobiles
 tags:
-  - 'AT&amp;T'
   - iPhone
   - rant
 
@@ -20,7 +15,7 @@ That got your attention ? Well, brace up, this is a rant.
 
 <!--more-->
 
-_Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, _long, long ago. I decided to post this because people keep saying the same old shit - 'its only 4k in US blah blah. This post was triggered by that guy <a href="https://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav - if you're trying to reject this -_ 
+_Note: This is something I had stored on txtb.in long, long ago. I decided to post this because people keep saying the same old shit - 'its only 4k in US blah blah. This post was triggered by that guy <a href="https://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav - if you're trying to reject this -_ 
 
 > <div>
 >   <div>
@@ -121,5 +116,3 @@ _Note: This is something I had stored on_ [txtb.in][1]{#aptureLink_oJ6QnmJrj2}, 
 <div>
   /rant
 </div>
-
- [1]: https://txtb.in/6LV

@@ -10,7 +10,7 @@ categories:
 tags:
   - holiday
   - travel
-  - Views
+  - Opinion
 
 ---
 I've been a huge fan of [redbus.in][1] ever since I first used their site back in 2007. For someone as lazy as me, the idea that I could sit on my ass, check for all available tickets & book them at the comfort of my air-conditioned room was pretty awesome.

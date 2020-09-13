@@ -4,22 +4,13 @@ author: sathya
 type: post
 date: 2008-04-29T08:51:58+00:00
 url: /2008/04/29/indian-work-culture/
-
-arkayne-time-post:
-  - "1325778182"
 categories:
-  - Life
-  - Views
+  - Opinion
 tags:
   - email forwards
-  - Life
-  - office
-  - rants
-  - Views
-  - work culture
 
 ---
-[ad]  
+  
 I keep getting this mail as a forward, and it's contents reflect my views too. Have a look at the mail.
 
 > <span style="font-family: Arial; font-size: x-small;"><strong>Mail sent by Narayan Murthy to all Infosys staff:</strong></span>
@@ -41,7 +32,7 @@ I keep getting this mail as a forward, and it's contents reflect my views too. H
 > <!--more-->
 > 
 >  
-> [ad#in-post]  
+>   
 > This is the scene in most research centers and software companies and other off-shore offices.
 > 
 > Bachelors "Time-passing" during late hours in the office just bcoz they say they've nothing else to do&#8230;  
