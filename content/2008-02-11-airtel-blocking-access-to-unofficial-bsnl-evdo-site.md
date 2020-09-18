@@ -8,8 +8,7 @@ categories:
   - Opinion
 tags:
   - Airtel
-  - BSNL
-  - EVDO
+  - BSNL EVDO
 
 
 ---

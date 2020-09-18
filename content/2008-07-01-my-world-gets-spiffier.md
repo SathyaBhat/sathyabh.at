@@ -5,8 +5,8 @@ type: post
 date: 2008-07-01T10:32:12+00:00
 url: /2008/07/01/my-world-gets-spiffier/
 
-arkayne-time-post:
-  - "1325786191"
+
+
 categories:
   - Web
 tags:

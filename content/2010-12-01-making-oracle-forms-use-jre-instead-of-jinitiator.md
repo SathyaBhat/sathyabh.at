@@ -6,8 +6,8 @@ date: 2010-11-30T20:50:47+00:00
 url: /2010/12/01/making-oracle-forms-use-jre-instead-of-jinitiator/
 
 
-arkayne-time-post:
-  - "1325783414"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
 tags:

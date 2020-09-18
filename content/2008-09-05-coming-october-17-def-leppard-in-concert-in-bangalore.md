@@ -5,8 +5,8 @@ type: post
 date: 2008-09-05T18:28:11+00:00
 url: /2008/09/05/coming-october-17-def-leppard-in-concert-in-bangalore/
 
-arkayne-time-post:
-  - "1325215174"
+
+
 categories:
   - Events
   - Life

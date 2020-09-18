@@ -6,15 +6,13 @@ date: 2011-07-14T06:18:16+00:00
 url: /2011/07/14/mugen-extended-battery-for-the-nexus-s-review/
 
 
-arkayne-time-post:
-  - "1325790388"
+
+
 categories:
   - Mobiles
 tags:
   - Google Nexus S
-  - Mugen
   - Mugen Extended Battery
-  - Nexus S
   - review
 
 ---

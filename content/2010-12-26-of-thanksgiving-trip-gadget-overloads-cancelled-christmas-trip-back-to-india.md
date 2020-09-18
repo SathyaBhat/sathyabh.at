@@ -6,23 +6,17 @@ date: 2010-12-26T04:54:17+00:00
 url: /2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
 
 
-arkayne-time-post:
-  - "1325777955"
+
+
 categories:
   - Life
 tags:
   - 3i
   - Austin
   - Chennai
-  - cr-48
-  - Envy
   - Envy 14
   - gadgets
-  - Life
-  - Nexus S
-  - travel
-  - trip
-  - work
+  - Google Nexus S
 
 ---
 I've been absent in posting here - more because there's hardly anything interesting going on. Well, there's laziness as well. So here's a recap.

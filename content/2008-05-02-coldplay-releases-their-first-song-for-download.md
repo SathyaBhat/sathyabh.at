@@ -5,8 +5,8 @@ type: post
 date: 2008-05-02T06:25:50+00:00
 url: /2008/05/02/coldplay-releases-their-first-song-for-download/
 
-arkayne-time-post:
-  - "1325754532"
+
+
 categories:
   - Web
 tags:

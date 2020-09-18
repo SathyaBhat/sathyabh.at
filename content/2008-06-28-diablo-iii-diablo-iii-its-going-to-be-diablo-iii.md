@@ -5,8 +5,8 @@ type: post
 date: 2008-06-28T11:57:52+00:00
 url: /2008/06/28/diablo-iii-diablo-iii-its-going-to-be-diablo-iii/
 
-arkayne-time-post:
-  - "1325770311"
+
+
 categories:
   - gaming
 tags:

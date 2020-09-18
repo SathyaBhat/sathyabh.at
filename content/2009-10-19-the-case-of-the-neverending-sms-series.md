@@ -5,8 +5,8 @@ type: post
 date: 2009-10-19T17:33:57+00:00
 url: /2009/10/19/the-case-of-the-neverending-sms-series/
 
-arkayne-time-post:
-  - "1325723886"
+
+
 categories:
   - Life
   - Mobiles

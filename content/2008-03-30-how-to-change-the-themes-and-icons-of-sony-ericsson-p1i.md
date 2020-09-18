@@ -5,8 +5,8 @@ type: post
 date: 2008-03-30T16:12:34+00:00
 url: /2008/03/30/how-to-change-the-themes-and-icons-of-sony-ericsson-p1i/
 
-arkayne-time-post:
-  - "1325790989"
+
+
 categories:
   - Tutorials
 tags:

@@ -7,8 +7,8 @@ url: /2009/04/19/so-whats-been-up-with-me/
 aktt_notify_twitter:
   - 'no'
 
-arkayne-time-post:
-  - "1325772779"
+
+
 categories:
   - Life
 tags:

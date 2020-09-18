@@ -5,8 +5,8 @@ type: post
 date: 2008-12-01T03:40:25+00:00
 url: /2008/12/01/exporting-and-importing-an-oracle-database-from-one-schemauser-to-another-schemauser-easily/
 
-arkayne-time-post:
-  - "1325790515"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
   - Programming

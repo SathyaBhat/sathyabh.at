@@ -5,8 +5,8 @@ type: post
 date: 2008-10-08T07:27:34+00:00
 url: /2008/10/08/win-free-passes-for-the-def-leppard-concert-in-bangalore-and-mumbai/
 
-arkayne-time-post:
-  - "1325789808"
+
+
 categories:
   - Events
   - Life

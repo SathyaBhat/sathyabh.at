@@ -6,8 +6,8 @@ date: 2010-02-25T01:28:04+00:00
 url: /2010/02/25/take-a-screenshot-of-your-desktop-and-upload-to-imageshack-easily/
 
 
-arkayne-time-post:
-  - "1325778409"
+
+
 categories:
   - Programming
 tags:

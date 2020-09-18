@@ -6,8 +6,8 @@ date: 2010-01-08T00:55:59+00:00
 url: /2010/01/08/a-much-deserved-break-the-bangalore-trip/
 
 
-arkayne-time-post:
-  - "1325761795"
+
+
 categories:
   - Travel
 tags:

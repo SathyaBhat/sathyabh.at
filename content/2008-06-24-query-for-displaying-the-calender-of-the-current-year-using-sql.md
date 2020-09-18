@@ -5,8 +5,8 @@ type: post
 date: 2008-06-24T08:45:56+00:00
 url: /2008/06/24/query-for-displaying-the-calender-of-the-current-year-using-sql/
 
-arkayne-time-post:
-  - "1325769397"
+
+
 categories:
   - Computing
 tags:

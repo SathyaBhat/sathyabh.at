@@ -5,16 +5,10 @@ type: post
 date: 2008-07-20T17:54:40+00:00
 url: /2008/07/20/after-bsnl-tata-teleservices-rolls-out-their-evdo-service-in-chennai/
 
-arkayne-time-post:
-  - "1325765996"
 categories:
   - Computing
 tags:
-  - EVDO
-  - indicom
-  - photon
-  - tata
-  - ttsl
+  - BSNL EVDO
 
 ---
 Nearly 3 months after BSNL had [introduced][1] their EVDO(aka mobile/wireless broadband) Tata Teleservices has launched the Photon - their version of the EVDO service.

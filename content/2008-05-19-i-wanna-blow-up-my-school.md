@@ -5,8 +5,8 @@ type: post
 date: 2008-05-19T05:52:15+00:00
 url: /2008/05/19/i-wanna-blow-up-my-school/
 
-arkayne-time-post:
-  - "1325726220"
+
+
 categories:
   - Web
 tags:

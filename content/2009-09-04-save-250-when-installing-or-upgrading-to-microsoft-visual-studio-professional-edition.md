@@ -5,8 +5,8 @@ type: post
 date: 2009-09-03T18:57:24+00:00
 url: /2009/09/04/save-250-when-installing-or-upgrading-to-microsoft-visual-studio-professional-edition/
 
-arkayne-time-post:
-  - "1325660956"
+
+
 categories:
   - Computing
 tags:

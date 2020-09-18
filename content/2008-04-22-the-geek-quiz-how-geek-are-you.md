@@ -5,8 +5,8 @@ type: post
 date: 2008-04-21T18:55:31+00:00
 url: /2008/04/22/the-geek-quiz-how-geek-are-you/
 
-arkayne-time-post:
-  - "1325693560"
+
+
 categories:
   - Web
 tags:

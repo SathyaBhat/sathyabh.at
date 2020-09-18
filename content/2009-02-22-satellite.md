@@ -5,8 +5,6 @@ type: post
 date: 2009-02-21T20:25:15+00:00
 url: /2009/02/22/satellite/
 
-arkayne-time-post:
-  - "1325698870"
 categories:
   - Life
 tags:
@@ -41,3 +39,5 @@ tags:
 > That they could have a guiding satellite 
 
 Beautiful song.
+
+{{< youtube 8eNvevZTzNg >}}

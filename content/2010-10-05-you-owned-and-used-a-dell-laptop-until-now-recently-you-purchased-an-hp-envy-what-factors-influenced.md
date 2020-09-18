@@ -6,8 +6,8 @@ date: 2010-10-05T04:39:40+00:00
 url: /2010/10/05/2010-10-05-you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced/
 
 
-arkayne-time-post:
-  - "1325768380"
+
+
 categories:
   - Life
 

@@ -4,8 +4,8 @@ author: sathya
 type: post
 date: 2009-01-19T04:12:55+00:00
 url: /2009/01/19/the-power-and-simplicity-of-oracle-hierarchical-queries/
-arkayne-time-post:
-  - "1325754448"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
 tags:

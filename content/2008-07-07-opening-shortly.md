@@ -5,8 +5,8 @@ type: post
 date: 2008-07-07T08:38:09+00:00
 url: /2008/07/07/opening-shortly/
 
-arkayne-time-post:
-  - "1325764224"
+
+
 categories:
   - Web
 tags:

@@ -6,8 +6,8 @@ date: 2010-03-30T02:33:28+00:00
 url: /2010/03/30/upgrading-to-iphone-3g-to-iphone-os-3-1-2-with-keeping-the-baseband-at-04-26/
 
 
-arkayne-time-post:
-  - "1325721352"
+
+
 categories:
   - Mobiles
 tags:

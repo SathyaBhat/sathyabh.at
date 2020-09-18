@@ -5,17 +5,15 @@ type: post
 date: 2008-04-06T17:01:48+00:00
 url: /2008/04/06/the-idiotic-hotel-cashier/
 
-arkayne-time-post:
-  - "1325621498"
+
+
 categories:
   - Life
 tags:
   - Balaji Woodlands
   - Chennai
-  - dinner
-  - hotel
-  - idiots
-  - Life
+  - Hassles
+
 
 ---
 Generally I always carry a fair amount of cash with me, coz I'm a bit paranoid as to what might happen if I'm stranded without cash. The set of incidents which happened just now will now ensure that I will always carry cash with me.
@@ -49,7 +47,3 @@ Me: (Me with voice raised, and bit of temper) What kinda stupid Hotel do you run
 Finally, he gives my ATM card and asks me to pay for the dinner tomorrow. I say fine
 
 _So here's 50 paise to the hotel guy. I hope that amount is "big enough" to be charged to a debit card._
-
-Also posted on [Fifty Paise][1]
-
- [1]: https://www.fiftypaise.com/the-idiotic-cashier-at-the-restaurant/
