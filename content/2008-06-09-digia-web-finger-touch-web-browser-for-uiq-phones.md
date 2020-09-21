@@ -8,17 +8,8 @@ url: /2008/06/09/digia-web-finger-touch-web-browser-for-uiq-phones/
 categories:
   - Mobiles
 tags:
-  - digia
-  - m600
   - P1i
-  - p990
-  - touch
-  - UIQ
-  - w950
-  - w960i
-  - Web
-  - web browser
-
+  
 ---
 [Digia][1] have announced, Digia @Web, which is a new, fully finger touch controllable, web browser for UIQ phones. Designed for UIQ 3 and Symbian OS the @Web,  claims to provide the best mobile browsing experience, for Symbian UIQ based devices.  @Web is based on the open-source webkit browsing engine ported to UIQ by Digia.
 

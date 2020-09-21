@@ -8,7 +8,7 @@ url: /2013/03/03/slides-from-my-talk-on-password-management-you-at-bcb13/
 categories:
   - Computing
 tags:
-  - bcb13
+  - barcamp
   - Passwords
   - security
 

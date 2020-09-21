@@ -16,7 +16,7 @@ tags:
   - mangalore
   - office
   - passport
-  - work
+  - idiots
 
 ---
 After running about the Mangalore passport offices, running behind the cops to get verification done, and running to Bangalore passport office and converting the passport application to Tatkal, I finally received my passport in Chennai yesterday.

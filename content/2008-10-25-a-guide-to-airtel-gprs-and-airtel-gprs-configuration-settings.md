@@ -12,15 +12,7 @@ categories:
   - Mobiles
 tags:
   - Airtel
-  - Airtel Live
-  - free
-  - free GPRS
-  - GPRS
-  - Live
-  - MO
-  - Mobile Office
-  - Net on Phone
-  - NOP
+
 
 ---
 I get quite a lot of mails asking about Airtel's GPRS services and their settings, so I thought I'll post this here.

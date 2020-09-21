@@ -10,9 +10,7 @@ url: /2008/05/14/who-were-you-in-your-past-life/
 categories:
   - Web
 tags:
-  - past life
-  - time pass
-  - tp
+  - timepass
   - Web
 
 ---

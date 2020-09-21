@@ -11,10 +11,6 @@ url: /2011/02/04/websense-redirect-my-first-chrome-extension/
 categories:
   - Programming
 tags:
-  - Chrome
-  - Extension
-  - extensions
-  - Google Chrome
   - Google Chrome Extension
   - javascript
   - webnonsense

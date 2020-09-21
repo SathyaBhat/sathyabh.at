@@ -10,11 +10,8 @@ url: /2010/06/15/golden-rules-for-developers/
 
 categories:
   - 'Oracle & PL/SQL Stuff'
-  - Programming
 tags:
-  - Development
   - PL/SQL
-  - Programming
 
 ---
 Steven Feuerstein has a nice little presentation on some golden rules for developers. They aren't anything new, yet not many people read/follow them 🙂

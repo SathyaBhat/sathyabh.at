@@ -11,11 +11,7 @@ url: /2010/02/25/take-a-screenshot-of-your-desktop-and-upload-to-imageshack-easi
 categories:
   - Programming
 tags:
-  - .net
   - imageshack
-  - imageshack uploader
-  - Programming
-  - uploader
 
 ---
 I wanted a simple tool to upload to Imageshack with minimum fuss and absolutely no config settings, couldn't find any such so I built one myself.  Just extract all the files to a folder, run the executable, and if you want to upload something to  Imageshack, hit PrintScreen and double click the icon on the system tray, it'll automatically upload to <s>ImageShack</s> imgur, and once upload is done, will give you a notification and copy the <s>ImageShack</s> imgur URL to the clipboard.

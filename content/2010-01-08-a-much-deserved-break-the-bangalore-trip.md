@@ -12,9 +12,7 @@ categories:
   - Travel
 tags:
   - Bangalore
-  - break
   - Chennai
-  - Life
   - timepass
 
 ---

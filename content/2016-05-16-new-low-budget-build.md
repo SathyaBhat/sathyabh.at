@@ -9,11 +9,8 @@ categories:
 tags:
   - assembly
   - computer
-  - DD4
   - desktop
-  - Jo
-  - new desktop
-  - Skylake
+
 
 ---
 Jo's been inquiring about a new system since quite some time - her current laptop is in a state of broken mess(half the keys don't work/battery ded etc) and she'd require me to give up my desktop if she needed to work on something for a bit. She does read quite a bit, but that's something she's sorted using the Kindle PaperWhite and her Nexus 5X.

@@ -10,11 +10,6 @@ url: /2008/06/12/a-look-at-codemasters-grid/
 categories:
   - gaming
 tags:
-  - codemasters
-  - games
-  - gaming
-  - grid
-  - racing
   - timepass
 
 ---

@@ -10,13 +10,7 @@ url: /2008/06/22/digia-web-finger-touch-mobile-web-browser-beta-now-available-fo
 categories:
   - Mobiles
 tags:
-  - browser
   - digia
-  - mobile
-  - smart phone
-  - touch
-  - UIQ
-  - Web
 
 ---
 Previously I’d <a href="https://sathyabh.at/2008/06/09/digia-web-finger-touch-web-browser-for-uiq-phones/" target="_blank">posted</a> about Digia @web – a fully, finger touch operated WebKit-based browser for UIQ3 phones like the Sony Ericsson P1i would be available for download soon in this month. <a href="https://www.allaboutsymbian.com/news/item/7509_Digia_Web_first_beta_available.php" target="_blank">All About Symbian</a> has confirmed that the beta version is now available for download.

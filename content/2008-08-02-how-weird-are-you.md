@@ -11,10 +11,6 @@ categories:
   - Web
 tags:
   - timepass
-  - tp
-  - weird
-  - weirdness quotent
-  - weirdness test
 
 ---
 Ever think you’re a weird person? Want to know how weird you are? I found this site while surfing, and according to it,

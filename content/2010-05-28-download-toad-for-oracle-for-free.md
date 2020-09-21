@@ -5,20 +5,10 @@ type: post
 date: 2010-05-28T01:47:56+00:00
 url: /2010/05/28/download-toad-for-oracle-for-free/
 
-
-
-
 categories:
   - 'Oracle & PL/SQL Stuff'
-  - Programming
 tags:
-  - download
-  - free
-  - oracle
-  - PL/SQL
-  - PL/SQL Developer
-  - SQL Developer
-  - TOADL
+  - TOAD
 
 ---
 Toad (acronym for Tool for Oracle Application Developers) is arguably one of the most popular and best known tools used by most people dabbling in Oracle databases ( or for that matter, most relational databases anyway). Toad's reputation is so good, I've known few people swear by it and don't even bother looking at other software, no matter how good.

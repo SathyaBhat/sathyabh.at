@@ -6,11 +6,10 @@ date: 2009-02-21T20:25:15+00:00
 url: /2009/02/22/satellite/
 
 categories:
-  - Life
+  - music
 tags:
   - Collective Soul
-  - music
-  - Satellite
+
 
 ---
 > Satellite

@@ -9,12 +9,8 @@ url: /2008/08/11/plsql-procedure-to-reset-a-sequence-to-a-predefined-number-in-o
 
 categories:
   - 'Oracle & PL/SQL Stuff'
-  - Programming
-tags:
-  - oracle
-  - PL/SQL
-  - Primary key
-  - reset
+tags:  
+  - PL/SQL  
   - sequence
   - SQL
 

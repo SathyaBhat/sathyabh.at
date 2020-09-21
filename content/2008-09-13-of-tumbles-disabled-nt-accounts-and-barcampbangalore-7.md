@@ -9,15 +9,11 @@ url: /2008/09/13/of-tumbles-disabled-nt-accounts-and-barcampbangalore-7/
 
 categories:
   - Life
-  - Web
 tags:
   - 3i
-  - barcampbangalore
-  - barcampbangalore7
-  - bcb7
+  - barcamp
   - Chennai
-  - Life
-  - tumblr
+
 
 ---
 I've finally done it. Been contemplating it for a while, but past couple of days' turn of events have made me do what I've been contemplating about. What am I writing about? My tumblelog of course!
