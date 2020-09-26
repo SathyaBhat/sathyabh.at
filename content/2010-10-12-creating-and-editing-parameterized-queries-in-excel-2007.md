@@ -11,11 +11,7 @@ url: /2010/10/12/creating-and-editing-parameterized-queries-in-excel-2007/
 categories:
   - Computing
 tags:
-  - Excel
-  - Excel 2007
   - Microsoft Excel
-  - parameterized query
-  - query
   - SQL
 
 ---

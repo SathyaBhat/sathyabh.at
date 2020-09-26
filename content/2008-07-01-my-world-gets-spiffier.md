@@ -10,9 +10,6 @@ url: /2008/07/01/my-world-gets-spiffier/
 categories:
   - Web
 tags:
-  - blog
-  - My World
-  - sodelicious2
   - theme
 
 ---

@@ -5,12 +5,10 @@ type: post
 date: 2015-01-07T10:56:42+00:00
 url: /2015/01/07/ambulance-and-bangalore-traffic/
 categories:
-  - Life
   - Opinion
 tags:
-  - ambulance
   - Bangalore
-  - traffic
+
 
 ---
 Part of this was originally posted as a comment to <a href="https://twitter.com/Nithin" target="_blank">Nithin</a>'s <a href="https://www.facebook.com/nithin/posts/10152598812326186" target="_blank">facebook post</a> about today's news article stating that <a href="https://timesofindia.indiatimes.com/city/delhi/Cops-will-send-legal-notice-if-you-block-an-ambulance/articleshow/45786795.cms" target="_blank">Cops will send you legal notice if you block an Ambulance</a>.

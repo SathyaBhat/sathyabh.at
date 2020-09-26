@@ -11,13 +11,9 @@ url: /2010/03/30/upgrading-to-iphone-3g-to-iphone-os-3-1-2-with-keeping-the-base
 categories:
   - Mobiles
 tags:
-  - cydia
-  - dev-team
   - iPhone
   - jailbreak
-  - redsn0w
-  - ultrasn0w
-  - unlock
+
 
 ---
 I think this is my first post on iPhone ( barring the [rant][1]). o_O. Surprising, since I purchased the iPhone from eBay close to a year ago. Anyhow, being the computer <span style="text-decoration: line-through;">freak</span> enthusiast that I am,  I keep a track of most of the latest software that appears on the tech scene.  I generally have a zero-day update policy - any new version/update that arrives for a software I generally update it. I'm probably amongst the few folks who also read the release notes and change logs prior to upgrading, to find out if there's some new functionality or enhancement that has been added to the software which isn't so obvious. (Of course, some say if the new feature [isn't obvious in the UI][2], it is unlikely to get noticed, to which I agree. That said, do read the release notes. It will contain some good information). With the iPhone purchased, however I had to break this habit.

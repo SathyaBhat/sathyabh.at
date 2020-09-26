@@ -7,8 +7,6 @@ url: /2016/05/16/new-low-budget-build/
 categories:
   - Computing
 tags:
-  - assembly
-  - computer
   - desktop
 
 

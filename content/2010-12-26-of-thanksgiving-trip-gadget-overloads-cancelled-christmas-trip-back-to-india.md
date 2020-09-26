@@ -14,7 +14,7 @@ tags:
   - 3i
   - Austin
   - Chennai
-  - Envy 14
+  - HP Envy
   - gadgets
   - Google Nexus S
 

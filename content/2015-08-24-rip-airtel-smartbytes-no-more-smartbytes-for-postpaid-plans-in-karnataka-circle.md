@@ -9,10 +9,7 @@ categories:
 tags:
   - 3g
   - Airtel
-  - data cap
-  - FUP
-  - postpaid
-  - smartbytes
+
 
 ---
 Few months back, <a href="https://twitter.com/anupamsaxena" target="_blank">Anupam Saxena</a> had reported that <a href="https://timesofindia.indiatimes.com/tech/tech-news/Is-Airtel-killing-Smartbytes-for-mobile-users/articleshow/47802682.cms" target="_blank">Airtel is killing off SmartBytes</a> for mobile customers in Delhi. My first reaction to the story was hoping that they wouldn't do this for Karnataka circle. SmartBytes was great for the rare occasion that you'd require burst data(for example: when travelling or when your home Internet is down) - if you run out of data cap(I detest the pittance of data cap we get, that's another different story) head over to their SmartBytes website or use the Airtel app & do a top up for SmartBytes - and you get instant data cap upgrade for the billing cycle.

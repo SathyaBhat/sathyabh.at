@@ -12,10 +12,7 @@ categories:
   - Life
 tags:
   - 3i
-  - blogs
-  - break
   - Chennai
-  - communities
   - mangalore
   - vacations
 

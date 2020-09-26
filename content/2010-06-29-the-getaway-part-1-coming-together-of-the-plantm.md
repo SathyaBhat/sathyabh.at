@@ -11,7 +11,6 @@ url: /2010/06/29/the-getaway-part-1-coming-together-of-the-plantm/
 categories:
   - Travel
 tags:
-  - break
   - holiday
   - Kerala
   - mangalore

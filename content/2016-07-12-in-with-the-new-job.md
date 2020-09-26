@@ -7,13 +7,8 @@ url: /2016/07/12/in-with-the-new-job/
 categories:
   - Life
 tags:
-  - 3i
   - career
-  - CGI
-  - job
-  - Logica
-  - styletag
-  - styletag.com
+
 
 ---
 July has been a month of great changes.. I started my first job in July in Chennai -  new city, staying on my own, earning my own money.. but that was about 9 years back.
