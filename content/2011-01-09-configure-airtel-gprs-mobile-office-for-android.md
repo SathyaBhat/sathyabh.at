@@ -12,10 +12,7 @@ categories:
   - Mobiles
 tags:
   - Airtel
-  - Airtel GPRS
   - Android
-  - GPRS
-  - Mobile Office
 
 ---
 Short, quick post: I'd [purchased][1] a [Nexus S recently][2], and once I got back to India, I had to re-activate my connection again.

@@ -10,7 +10,7 @@ url: /2008/03/21/1-year-at-chip-forums/
 categories:
   - Opinion
 tags:
-  - forums
+  - Web
 
 
 ---

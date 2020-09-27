@@ -11,7 +11,7 @@ tags:
   - Bangalore
   - mangalore
   - roadtrip
-  - travel
+  - travelogue
   - udupi
 
 ---

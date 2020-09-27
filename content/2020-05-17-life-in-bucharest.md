@@ -4,6 +4,7 @@ author: sathya
 type: post
 date: 2020-05-17T05:00:00+00:00
 url: /2020/05/17/life-in-bucharest
+featured_image: https://images.sbhat.me/sb/bucharest.jpg
 categories:
   - Life
 tags:
