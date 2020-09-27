@@ -5,8 +5,8 @@ type: post
 date: 2008-02-08T21:39:01+00:00
 url: /2008/02/09/overclocking-a-nvidia-8600m-gt/
 
-arkayne-time-post:
-  - "1325774161"
+
+
 categories:
   - Tutorials
 tags:

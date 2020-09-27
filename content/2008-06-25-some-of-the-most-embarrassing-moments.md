@@ -5,8 +5,8 @@ type: post
 date: 2008-06-25T11:02:47+00:00
 url: /2008/06/25/some-of-the-most-embarrassing-moments/
 
-arkayne-time-post:
-  - "1325766501"
+
+
 categories:
   - Web
 tags:

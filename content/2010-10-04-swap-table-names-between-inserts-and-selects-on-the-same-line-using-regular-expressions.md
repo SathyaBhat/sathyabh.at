@@ -6,8 +6,8 @@ date: 2010-10-04T00:14:28+00:00
 url: /2010/10/04/swap-table-names-between-inserts-and-selects-on-the-same-line-using-regular-expressions/
 
 
-arkayne-time-post:
-  - "1325728123"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
   - Programming

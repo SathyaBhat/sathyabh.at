@@ -6,16 +6,12 @@ date: 2010-10-11T22:06:02+00:00
 url: /2010/10/12/creating-and-editing-parameterized-queries-in-excel-2007/
 
 
-arkayne-time-post:
-  - "1325787726"
+
+
 categories:
   - Computing
 tags:
-  - Excel
-  - Excel 2007
   - Microsoft Excel
-  - parameterized query
-  - query
   - SQL
 
 ---

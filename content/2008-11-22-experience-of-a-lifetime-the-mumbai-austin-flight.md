@@ -5,21 +5,14 @@ type: post
 date: 2008-11-22T04:25:14+00:00
 url: /2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/
 
-arkayne-time-post:
-  - "1325786716"
+
+
 categories:
-  - Life
   - Travel
 tags:
   - Austin
-  - Continental
-  - crap
   - Hassles
   - Houston
-  - new jersey
-  - Newark
-  - NJ
-  - Texas
 
 ---
 I've been in couple of flights before but this would be my first International, Intercontinental flight. As in my previous post, the flight was scheduled to depart at 23:40 from Mumbai on Nov 20 and arrive in Newark, New Jersey at 05:25 AM. And then the connecting flight from Newark, NJ to Austin, Texas was scheduled to leave at 07:15 and arrive in  Austin, Texas at 10:25. Like most other things, (surprise, surprise) this too didn't as per plan.

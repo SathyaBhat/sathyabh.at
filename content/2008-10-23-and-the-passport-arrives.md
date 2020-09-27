@@ -5,8 +5,8 @@ type: post
 date: 2008-10-23T16:32:30+00:00
 url: /2008/10/23/and-the-passport-arrives/
 
-arkayne-time-post:
-  - "1325735639"
+
+
 categories:
   - Life
 tags:
@@ -16,7 +16,7 @@ tags:
   - mangalore
   - office
   - passport
-  - work
+  - idiots
 
 ---
 After running about the Mangalore passport offices, running behind the cops to get verification done, and running to Bangalore passport office and converting the passport application to Tatkal, I finally received my passport in Chennai yesterday.

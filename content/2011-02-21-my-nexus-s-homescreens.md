@@ -6,16 +6,14 @@ date: 2011-02-21T17:20:38+00:00
 url: /2011/02/21/my-nexus-s-homescreens/
 
 
-arkayne-time-post:
-  - "1325779293"
+
+
 categories:
   - Mobiles
 tags:
   - Android
   - Google Nexus S
-  - mobile
-  - Nexus S
-  - Samsung Nexus S
+
 
 ---
 Since I'm taking my sweet time in composing a blog post on my Nexus S, here's some screencaps of my Nexus S homescreens

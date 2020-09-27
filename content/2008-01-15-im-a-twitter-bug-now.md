@@ -5,8 +5,8 @@ type: post
 date: 2008-01-15T18:25:19+00:00
 url: /2008/01/15/im-a-twitter-bug-now/
 
-arkayne-time-post:
-  - "1325763554"
+
+
 categories:
   - Life
 tags:

@@ -5,16 +5,14 @@ type: post
 date: 2008-04-23T06:39:49+00:00
 url: /2008/04/23/dilli-chale/
 
-arkayne-time-post:
-  - "1325789797"
+
+
 categories:
-  - Life
-  - Web
+  - Travel
 tags:
   - delhi
   - outing
   - trip
-  - woohoo
 
 ---
 Yup, that's right! I will leaving for Delhi tomorrow night <span style="text-decoration: line-through;">who's </span><span style="text-decoration: line-through;">going to get married</span> to attend my teammate's wedding on Sunday. So why am I leaving so early? Sight seeing 😀 \:D/ ! Will be reaching Delhi tomorrow night(taking a flight, scheduled for departure at 20:30), we have an elaborate "schedule" all planned out. Lets see how it goes!

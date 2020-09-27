@@ -6,16 +6,13 @@ date: 2010-06-19T14:00:48+00:00
 url: /2010/06/19/of-comatose-blogs-vacations/
 
 
-arkayne-time-post:
-  - "1325732603"
+
+
 categories:
   - Life
 tags:
   - 3i
-  - blogs
-  - break
   - Chennai
-  - communities
   - mangalore
   - vacations
 

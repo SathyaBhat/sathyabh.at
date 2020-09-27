@@ -5,8 +5,8 @@ type: post
 date: 2008-12-08T01:01:52+00:00
 url: /2008/12/08/bold-the-things-youve-done/
 
-arkayne-time-post:
-  - "1325778783"
+
+
 categories:
   - Life
 

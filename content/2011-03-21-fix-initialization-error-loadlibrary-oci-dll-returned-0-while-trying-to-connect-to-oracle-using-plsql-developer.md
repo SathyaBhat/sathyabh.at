@@ -6,16 +6,14 @@ date: 2011-03-21T08:38:24+00:00
 url: /2011/03/21/fix-initialization-error-loadlibrary-oci-dll-returned-0-while-trying-to-connect-to-oracle-using-plsql-developer/
 
 
-arkayne-time-post:
-  - "1325789975"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
 tags:
-  - database
-  - instant client
   - oracle
   - PL/SQL
-  - PL/SQL Developer
+
 
 ---
 Quick post: I was trying to connect to a 64-bit Oracle database using PL/SQL Developer. Despite ORACLE_HOME being set the right values and oci.dll available, PL/SQL Developer could not connect to the database.

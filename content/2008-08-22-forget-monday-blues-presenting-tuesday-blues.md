@@ -5,8 +5,8 @@ type: post
 date: 2008-08-21T18:40:50+00:00
 url: /2008/08/22/forget-monday-blues-presenting-tuesday-blues/
 
-arkayne-time-post:
-  - "1325687390"
+
+
 categories:
   - Life
 tags:

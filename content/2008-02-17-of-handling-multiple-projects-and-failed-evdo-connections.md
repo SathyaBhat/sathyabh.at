@@ -5,15 +5,11 @@ type: post
 date: 2008-02-17T17:56:45+00:00
 url: /2008/02/17/of-handling-multiple-projects-and-failed-evdo-connections/
 
-arkayne-time-post:
-  - "1325640490"
 categories:
   - Life
 tags:
   - 3i
-  - BSNL
   - Chennai
-  - EVDO
   - Hassles
   - Life
 

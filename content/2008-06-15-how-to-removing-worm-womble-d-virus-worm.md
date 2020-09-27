@@ -5,8 +5,8 @@ type: post
 date: 2008-06-15T09:55:04+00:00
 url: /2008/06/15/how-to-removing-worm-womble-d-virus-worm/
 
-arkayne-time-post:
-  - "1325765003"
+
+
 categories:
   - Computing
 tags:

@@ -5,17 +5,13 @@ type: post
 date: 2008-05-02T06:25:50+00:00
 url: /2008/05/02/coldplay-releases-their-first-song-for-download/
 
-arkayne-time-post:
-  - "1325754532"
+
+
 categories:
-  - Web
+  - Music
 tags:
   - coldpay
-  - download
-  - free
-  - mp3
-  - NiN
-  - nine inch nails
+
 
 ---
 Well first it was [Nine Inch Nails][1] offering their single Discipline for free [download][2] and now [Coldplay][3]  

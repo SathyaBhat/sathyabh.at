@@ -5,19 +5,13 @@ type: post
 date: 2008-10-16T19:24:03+00:00
 url: /2008/10/17/layoffs-galore/
 
-arkayne-time-post:
-  - "1325755869"
+
+
 categories:
   - Life
 tags:
   - 3i
   - Chennai
-  - fired
-  - firing
-  - job
-  - layoff
-  - Life
-  - sacked
   - work
 
 ---

@@ -8,11 +8,8 @@ url: /2008/06/09/animator-vs-animation-the-chosen-one-flash-animation/
 categories:
   - Web
 tags:
-  - animation
   - flash
   - timepass
-  - tp
-  - Web
 
 ---
 

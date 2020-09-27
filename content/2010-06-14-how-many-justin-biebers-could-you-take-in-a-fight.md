@@ -6,8 +6,8 @@ date: 2010-06-14T03:33:10+00:00
 url: /2010/06/14/how-many-justin-biebers-could-you-take-in-a-fight/
 
 
-arkayne-time-post:
-  - "1325779211"
+
+
 categories:
   - Web
 tags:

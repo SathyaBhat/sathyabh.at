@@ -5,8 +5,8 @@ type: post
 date: 2008-06-27T09:37:54+00:00
 url: /2008/06/27/ubisoft-demonstrates-over-20-minutes-of-far-cry-2-gameplay/
 
-arkayne-time-post:
-  - "1325694331"
+
+
 categories:
   - gaming
 tags:

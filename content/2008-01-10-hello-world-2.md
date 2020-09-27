@@ -5,13 +5,12 @@ type: post
 date: 2008-01-10T17:27:36+00:00
 url: /2008/01/10/hello-world-2/
 
-arkayne-time-post:
-  - "1325630196"
+
+
 categories:
   - Life
 tags:
   - beginning
-  - Life
 
 ---
 No, this post has got nothing to do with the song ["Here I Go Again" by Whitesnake][1](great track by the way!). This post deals with my third(!!) attempt at blogging(yup, that's right right third!). My first attempt was through BlogSpot-I just signed up, that was it I guess(I think I made a post-hell I don't even remember the site URL. That died out real soon! With my second attempt, I was lot more determined. Launched my blog hosted on [WordPress][2] - [Sathya Says][3]. And surprisingly, it went pretty well, I was soon posting on my life, and certain tips and tricks I'd discovered or learnt with my experiences on Linux. My good friend, [Preshit][4] advised me to shift to my own domain. But then I didn't have enough cash to register a domain and for hosting!

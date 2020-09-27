@@ -5,18 +5,15 @@ type: post
 date: 2008-12-04T05:11:18+00:00
 url: /2008/12/04/my-black-friday-purchases/
 
-arkayne-time-post:
-  - "1325728291"
+
+
 categories:
   - Life
 tags:
   - Austin
   - Black Friday
   - gadgets
-  - Life
-  - Thanksgiving
-  - US
-  - woohoo
+
 
 ---
 "Black Friday" in US is the day after Thanksgiving day. On this single day you get the best deals - flat discounts, and unbelievable prices. There's a catch though, the best deals are available real early - I mean as early 5 AM - people are known to camp the night out just to grab them. While my colleague and me went to the mall relatively late at 7:30 I still got some nice deals.

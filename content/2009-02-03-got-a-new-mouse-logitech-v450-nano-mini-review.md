@@ -5,16 +5,14 @@ type: post
 date: 2009-02-03T03:56:47+00:00
 url: /2009/02/03/got-a-new-mouse-logitech-v450-nano-mini-review/
 
-arkayne-time-post:
-  - "1325775473"
+
+
 categories:
   - Computing
 tags:
-  - cordless
-  - laser
-  - Logitech
+  - gadgets
   - mouse
-  - v450
+
 
 ---
 Well not a "rodent" mouse, but a mouse, mouse. You know the computer peripheral 😛 Well my previous mouse (which, by the way was a contender for [The Lamest Mouse award][1]™ had almost died - the left clicks weren't registering, the cord was getting all tangled up - and decided to go for a new mouse. Thought I'll get a wireless one, and what the heck a Laser wireless one. After a bit of searching - this is what I got

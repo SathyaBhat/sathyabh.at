@@ -5,19 +5,14 @@ type: post
 date: 2008-12-01T03:40:25+00:00
 url: /2008/12/01/exporting-and-importing-an-oracle-database-from-one-schemauser-to-another-schemauser-easily/
 
-arkayne-time-post:
-  - "1325790515"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
-  - Programming
+
 tags:
-  - data files
-  - exp
-  - export
-  - imp
-  - import
   - oracle
-  - tablespace
+
 
 ---
 Couple of days ago at work I was asked to create a new environment(schema, user) for specific application testing conditions. While that was no big deal, I was also asked to import all the data from existing production environment into a new environment - and I was in a bit of bother here - generally the whole importing/exporting is done by DBA's not developers. While I knew the usage of exp and imp commands, creating schema would require stuff like tablespace creating, adding data files and more importantly - grants which I had NO clue on. So after a bit of experimenting and consulting with my fellow colleague Rupam, I finally managed to export and import the data. This post is on how-to go about doing it.

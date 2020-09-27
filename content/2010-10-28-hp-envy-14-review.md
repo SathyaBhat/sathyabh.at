@@ -5,17 +5,11 @@ type: post
 date: 2010-10-28T03:01:40+00:00
 url: /2010/10/28/hp-envy-14-review/
 
-
-arkayne-time-post:
-  - "1325783411"
 categories:
   - Computing
 tags:
-  - Envy
-  - Envy 14
-  - HP
-  - HP Envy 14
-  - review
+  - HP Envy
+  - reviews
 
 ---
 After a long (happy) time with my [Dell Inspiron 1520][1], my previous laptop's age was catching up - the processor was a bottleneck, the 8600m GT was akin to an oven stove. Figured this would be the best time to get a new laptop. I've mentioned previously as to why I chose the HP Envy 14 - you [might want to read up that][2]. Like most of the items that I've purchased in the past year or so, the Envy 14 was also bought from HP store with certain _changes_ as compared to the base model. Some of them include:

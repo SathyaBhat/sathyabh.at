@@ -6,21 +6,13 @@ date: 2008-10-25T10:03:54+00:00
 url: /2008/10/25/a-guide-to-airtel-gprs-and-airtel-gprs-configuration-settings/
 
 
-arkayne-time-post:
-  - "1325789070"
+
+
 categories:
   - Mobiles
 tags:
   - Airtel
-  - Airtel Live
-  - free
-  - free GPRS
-  - GPRS
-  - Live
-  - MO
-  - Mobile Office
-  - Net on Phone
-  - NOP
+
 
 ---
 I get quite a lot of mails asking about Airtel's GPRS services and their settings, so I thought I'll post this here.

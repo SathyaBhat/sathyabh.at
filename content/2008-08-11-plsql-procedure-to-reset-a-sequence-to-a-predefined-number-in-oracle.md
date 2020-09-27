@@ -5,16 +5,12 @@ type: post
 date: 2008-08-11T18:06:27+00:00
 url: /2008/08/11/plsql-procedure-to-reset-a-sequence-to-a-predefined-number-in-oracle/
 
-arkayne-time-post:
-  - "1325778482"
+
+
 categories:
   - 'Oracle & PL/SQL Stuff'
-  - Programming
-tags:
-  - oracle
-  - PL/SQL
-  - Primary key
-  - reset
+tags:  
+  - PL/SQL  
   - sequence
   - SQL
 

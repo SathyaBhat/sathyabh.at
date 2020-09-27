@@ -6,15 +6,11 @@ date: 2011-03-29T04:42:39+00:00
 url: /2011/03/29/installing-the-kingston-v100-ssdnow-128gb-ssd-on-a-hp-envy-14/
 
 
-arkayne-time-post:
-  - "1325777632"
+
+
 categories:
   - Computing
 tags:
-  - Envy
-  - Envy 14
-  - free
-  - gadgets
   - HP Envy 14
   - Kingston
   - laptop

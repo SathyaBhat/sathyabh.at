@@ -4,11 +4,11 @@ author: sathya
 type: post
 date: 2008-11-25T05:32:05+00:00
 url: /2008/11/25/initial-impressions/
-
-arkayne-time-post:
-  - "1325789691"
 categories:
   - Life
+
+tags:
+  - Austin
 
 ---
 After the rollercoaster ride that is my Mumbai - Austin flight, I've finally settled down here, Here's been my initial impressions.
@@ -28,4 +28,4 @@ After the rollercoaster ride that is my Mumbai - Austin flight, I've finally set
   * Have seen couple of SIGN FAILs. My phone battery was dead, so couldn't take pic. Will take this weekend.
   * And oh yea this place is a dream come true for car enthusiaists. Have seen couple of Mustangs, Chevrolet Corvette C6, Pontiacs, Mercedes CL 55 AMG, BMW M3 and Z3, and not to forget Harley Davidson. The engine roar is something AWESOME!!
 
-Thats about it for now.WIll update more as I experience.
+Thats about it for now. Will update more as I experience.

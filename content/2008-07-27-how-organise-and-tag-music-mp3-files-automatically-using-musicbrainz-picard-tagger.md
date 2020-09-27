@@ -6,19 +6,15 @@ date: 2008-07-27T10:21:00+00:00
 url: /2008/07/27/how-organise-and-tag-music-mp3-files-automatically-using-musicbrainz-picard-tagger/
 
 
-arkayne-time-post:
-  - "1325793057"
+
+
 categories:
   - Computing
 tags:
-  - CoverArt
   - ID3
   - music
   - MusicBrainz
-  - MusicBrainz Picard
-  - organizing
-  - Picard
-  - tags
+
 
 ---
 I’m a music buff.Music surrounds me all time time, whether its listening to it from my laptop or from my P1i. My music collection though isn’t as large as some other people’s, regardless I’d like to keep it organized. While re-organizing my music files, I realized that a huge chunk of my files were badly tagged, and erroneously named. So I set about searching for a software which can automatically tag and rename my files, and I found MusicBrainz Picard Tagger.  

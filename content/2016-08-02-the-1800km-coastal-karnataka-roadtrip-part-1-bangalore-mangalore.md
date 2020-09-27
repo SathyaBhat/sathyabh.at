@@ -11,7 +11,7 @@ tags:
   - Bangalore
   - mangalore
   - road trip
-  - travel
+  - travelogue
 
 ---
 I've always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip.
@@ -20,528 +20,77 @@ With a date set, we next wondered which route to take? We considered Coastal Ka
 
 <!--more-->
 
-<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
-  <colgroup> <col width="60" /> <col width="125" /> <col width="60" /> <col width="90" /> <col width="69" /> <col width="151" /> <col width="104" /></colgroup> <tr>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Date&quot;}">
-      Date
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Day&quot;}">
-      Day
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Start Time&quot;}">
-      Start Time
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;From&quot;}">
-      From
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;To&quot;}">
-      To
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Via&quot;}">
-      Via
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Appx Drive Time&quot;}">
-      Approx Drive Time
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42553}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      2-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Saturday&quot;}">
-      Saturday
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.20833333333333334}" data-sheets-numberformat="[null,2,&quot;h:mm AM/PM&quot;,1]">
-      6:00 AM
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BLR Residence&quot;}">
-      BLR Residence
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mangalore&quot;}">
-      Mangalore
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hassan&quot;}">
-      Hassan
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 hours&quot;}">
-      8 hours
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42554}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      3-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sunday&quot;}">
-      Sunday
-    </td>
-    
-    <td data-sheets-numberformat="[null,2,&quot;h:mm AM/PM&quot;,1]">
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42555}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      4-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday&quot;}">
-      Monday
-    </td>
-    
-    <td data-sheets-numberformat="[null,6,&quot;h:mm am/pm&quot;,1]">
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42556}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      5-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tuesday&quot;}">
-      Tuesday
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="[null,6,&quot;h:mm am/pm&quot;,1]">
-      9:00 AM
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MLR&quot;}">
-      Mangalore
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Malpe&quot;}">
-      Malpe
-    </td>
-    
-    <td>
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 hours&quot;}">
-      2 hours
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42557}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      6-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday&quot;}">
-      Wednesday
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">
-      9:00 AM
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Malpe&quot;}">
-      Malpe
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kavimane&quot;}">
-      Kavimane
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Agumbe&quot;}">
-      Agumbe
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 hours&quot;}">
-      3 hours
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42557}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      6-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday&quot;}">
-      Wednesday
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5833333333333334}" data-sheets-numberformat="[null,2,&quot;h:mm AM/PM&quot;,1]">
-      2:00 PM
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kavimane&quot;}">
-      Kavimane
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jog&quot;}">
-      Jog
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Anantpur&quot;}">
-      Anantpur
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 hours&quot;}">
-      3 hours
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42558}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      7-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thursday&quot;}">
-      Thursday
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3333333333333333}" data-sheets-numberformat="[null,2,&quot;h:mm AM/PM&quot;,1]">
-      8:00 AM
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jog Falls&quot;}">
-      Jog Falls
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Palolem&quot;}">
-      Palolem
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Honnavar&quot;}">
-      Honnavar
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 hours&quot;}">
-      4 hours
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42559}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      8-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday&quot;}">
-      Friday
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42560}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      9-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Saturday&quot;}">
-      Saturday
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="[null,2,&quot;h:mm AM/PM&quot;,1]">
-      9:00 AM
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Palolem&quot;}">
-      Palolem
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bangalore&quot;}">
-      Bangalore
-    </td>
-    
-    <td>
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 hours&quot;}">
-      10 hours
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42561}" data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-      10-Jul-16
-    </td>
-    
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sunday&quot;}">
-      Sunday
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-  
-  <tr>
-    <td data-sheets-numberformat="[null,2,&quot;D-MMM-YY&quot;,1]">
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-    
-    <td>
-    </td>
-  </tr>
-</table>
+| Date     | Day       | Start Time | From          | To        | Via      | Appx Drive Time | Comments                                                                                                                                                                                                                                                                                                              | Accommodation                                                                                                                                                                                                |
+| -------- | --------- | ---------- | ------------- | --------- | -------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2-Jul-16 | Saturday  | 5:00 AM    | BLR Residence | Mangalore | Hassan   | 8 hours         |                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                              |
+| 3-Jul-16 | Sunday    |            |               |           |          |                 |                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                              |
+| 4-Jul-16 | Monday    |            |               |           |          |                 |                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                              |
+| 5-Jul-16 | Tuesday   | 9:00 AM    | MLR           | Malpe     |          | 2 hours         | Start in Morning<br>reach Udupi 11:30. temples ~2 hours, stay overnight Malpe                                                                                                                                                                                                                                         | Malpe Sea Front Cottage                                                                                                                                                                                      |
+| 6-Jul-16 | Wednesday | 9:00 AM    | Malpe         | Kavimane  | Agumbe   | 3 hours         | Reach Thirthalli by 12<br>Lunch at Thirthalli<br>Visit Kavimane.<br>Starting early from Malpe might give some fog/sunrise views via Agumbe                                                                                                                                                                            |                                                                                                                                                                                                              |
+| 6-Jul-16 | Wednesday | 2:00 PM    | Kavimane      | Jog       | Anantpur | 3 hours         | Reach Jog by 5:00<br>Overnight at Jog<br>Check with personnel at Kavimane or someone at Thirthahalli regarding which of these two routes are better for Jog:<br>Route 1: Thirthahalli - Kodase - Hosanagara - Sagara (via SH52 & then SH77)<br>OR<br>Route 2: Thithahalli - Ripponpet - Anandapura - Sagara (via SH1) | Mayura Gersoppa                                                                                                                                                                                              |
+| 7-Jul-16 | Thursday  | 8:00 AM    | Jog Falls     | Palolem   | Honnavar | 4 hours         | Jog view for 1 hour<br>Reach palolem by 1pm<br>Just before Honnavar, there is Idagunji Ganesha temple, incase you can visit                                                                                                                                                                                           | Art Resort Goa<br>The Tubki Resort<br>Castle House<br>Zappia Cove<br>Palolem Beach Resort (few complaints on room quality)<br><br>Some comments I read around was Patnem Beach is better than Palolem Beach. |
+| 8-Jul-16 | Friday    |            |               |           |          |                 | Palolem/Goa                                                                                                                                                                                                                                                                                                           | \-                                                                                                                                                                                                           |
+| 9-Jul-16 | Saturday  | 9:00 AM    | Palolem       | Bangalore |          | 10 hours        | Route 1: Karwar - Ankola - Yellapur - Hubli (incase you want to visit your relatives)<br><br>Route 2: Karwar - Ankola - Yellapur - Mundgod (TIBETAN SETTLEMENT) - Bankapur - Haveri                                                                                                                                   |
 
 ### Bangalore - Mangalore
 
 Our travel day was finally here. Trip meters reset, fuel filled, car serviced the week before, spare tyres checked, some snacks, biscuits and chewing gum for the road we started from Bangalore.
 
-<div id="attachment_991" style="width: 1220px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-991" src="https://images.sbhat.me/sb/2016/08/blr2.jpg" alt="Odometer start" width="1210" height="1108" />
-  
-  <p class="wp-caption-text">
-    Odometer start
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "blr2.jpg" "Odometer Start" "Roadtrip" >}}
 
 We usually stop for breakfast at a place right after Nelamangala, soon as we hop on to Bangalore - Mangalore highway, but surprisingly this place had not yet opened. Tummy rumbling, we decided to move on to our other usual place about 10km before Kunigal.
 
-<div id="attachment_966" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="wp-image-966 size-full" src="https://images.sbhat.me/sb/2016/07/blr1.jpg" alt="Stop just after Nelamangala" width="1197" height="1600" />
-  
-  <p class="wp-caption-text">
-    Stop just after Nelamangala
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "blr1.jpg" "Stop just after Nelamangala" "Roadtrip" >}}
 
-20 minutes later, we arrived at our spot, "New Golden Breeze" restaurant only to find that even that had not yet opened. I'm not sure why that was the case, but anyway decided to move on and have food at Kamat near Kunigal. Before reached there, we came across <a href="https://goo.gl/maps/1rD5AoStF7E2" target="_blank">Sri Siddalingeshwara Cafe</a>(lol) which seemed good enough and we stopped. Before we went in, I had a look at the scenery which reinforced how beautiful the roads are during monsoons.
+20 minutes later, we arrived at our spot, "New Golden Breeze" restaurant only to find that even that had not yet opened. I'm not sure why that was the case, but anyway decided to move on and have food at Kamat near Kunigal. Before reached there, we came across [Sri Siddalingeshwara Cafe](https://goo.gl/maps/1rD5AoStF7E2)(lol) which seemed good enough and we stopped. Before we went in, I had a look at the scenery which reinforced how beautiful the roads are during monsoons.
 
-<div id="attachment_969" style="width: 1610px" class="wp-caption aligncenter">
-  <img class="wp-image-969 size-full" src="https://images.sbhat.me/sb/2016/07/kunigal1.jpg" alt="Kunigal" width="1600" height="1197" />
-  
-  <p class="wp-caption-text">
-    Kunigal
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "kunigal1.jpg" "Kunigal" "Roadtrip" >}}
 
 The restuarant was a bit crowded but we ordered Thatte Idly & Vada and some filter coffee
 
-<div id="attachment_970" style="width: 1610px" class="wp-caption aligncenter">
-  <img class="wp-image-970 size-full" src="https://images.sbhat.me/sb/2016/07/thatte-idly-vada.jpg" alt="Thatte Idly Vada" width="1600" height="1197" />
-  
-  <p class="wp-caption-text">
-    Thatte Idly Vada
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "thatte-idly-vada.jpg" "Thatte Idly Vada" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "filter-coffee.jpg" "filter coffee" "Roadtrip" >}}
+11
 
-<div id="attachment_968" style="width: 1220px" class="wp-caption aligncenter">
-  <img class="wp-image-968 size-full" src="https://images.sbhat.me/sb/2016/07/filter-coffee.jpg" alt="filter coffee" width="1210" height="1613" />
-  
-  <p class="wp-caption-text">
-    Filter Coffee
-  </p>
-</div>
+The breakfast was good, the idly soft and fluffy, the vada crispy and the filter coffee hit the right spot. As we finished our breakfast and stepped out, we spotted a kitty roaming from car to car. It was a shame we had to leave the cat back, seemed really friendly. Belly full and kitty pet, we decided to move on. Driving through the monsoons is a sheer bliss, especially if it's not raining. Lush greenery everywhere, the cool breeze blowing, it's really hard to not park your car aside and step out and soak in the breeze and the atmosphere.
 
-The breakfast was good, the idly soft and fluffy, the vada crispy and the filter coffee hit the right spot. As we finished our breakfast and stepped out, we spotted a kitty roaming from car to car
-
-&nbsp;
-
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="7">
-  <div style="padding: 8px;">
-    <div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;">
-    </div>
-    
-    <p style="margin: 8px 0 0 0; padding: 0 4px;">
-      <a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/BHV8zRGA-1j/" target="_blank">#mrmeow #catsofinstagram #roadtrips #iwantacat #traveldiaries</a>
-    </p>
-    
-    <p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">
-      A photo posted by Jyothsna Shenoy (@joshenoy) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2016-07-02T02:51:21+00:00">Jul 1, 2016 at 7:51pm PDT</time>
-    </p>
-  </div>
-</blockquote>
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "ChannaPatna.jpg" "Empty roads en route to Hassan. Pic taken near ChannaPatna" "Roadtrip" >}}
 
 
+We took the Hassan - Sakleshpur - Shiradi ghat route and barring few bullet tankers(aka the LPG tankers), the road was pretty much empty. We had our usual second pit stop at a different place - at [Shri Durga International](https://foursquare.com/v/hotel-durga-international/566d9c9b498edbe089d84cf9) instead of our usual [Surabhi NX](https://foursquare.com/sathyabhat/checkin/57219215498ebf04d9ff1b46)
 
-&nbsp;
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "dosa.jpg" "Plain Dosa stop at Sakleshpur" "Roadtrip" >}}
 
-It was a shame we had to leave the cat back, seemed really friendly. Belly full and kitty pet, we decided to move on. Driving through the monsoons is a sheer bliss, especially if it's not raining. Lush greenery everywhere, the cool breeze blowing, it's really hard to not park your car aside and step out and soak in the breeze and the atmosphere.
-
-<div id="attachment_972" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="wp-image-972 size-full" src="https://images.sbhat.me/sb/2016/07/ChannaPatna.jpg" alt="Empty roads en route to Hassan. Pic taken near ChannaPatna" width="1613" height="1210" />
-  
-  <p class="wp-caption-text">
-    Empty roads en route to Hassan. Pic taken near ChannaPatna
-  </p>
-</div>
-
-We took the Hassan - Sakleshpur - Shiradi ghat route and barring few bullet tankers(aka the LPG tankers), the road was pretty much empty. We had our usual second pit stop at a different place - at <a href="https://foursquare.com/v/hotel-durga-international/566d9c9b498edbe089d84cf9" target="_blank">Shri Durga International</a> instead of our usual <a href="https://foursquare.com/sathyabhat/checkin/57219215498ebf04d9ff1b46" target="_blank">Surabhi NX</a>
-
-<div id="attachment_973" style="width: 1141px" class="wp-caption aligncenter">
-  <img class="wp-image-973 size-full" src="https://images.sbhat.me/sb/2016/07/dosa.jpg" alt="Plain Dosa stop at Sakleshpur" width="1131" height="933" />
-  
-  <p class="wp-caption-text">
-    Plain Dosa stop at Sakleshpur
-  </p>
-</div>
 
 After having a round of dosa and coffee, we resumed our journey with the ghats coming up. Recently, a big chunk of the Shiradi ghats were concreted and thus driving through it was a pleasure and not the usual pothole ridden experience. The caveat however, is that the edges of the road are still not done and padded with mud. With rains, these patches erode away and leave a really steep and dangerous cut. Once the concrete roads were over though, the tarred roads had started giving away and was obvious they weren't going to last long.
 
-<div id="attachment_974" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="wp-image-974 size-full" src="https://images.sbhat.me/sb/2016/07/shiradi-1.jpg" alt="Concrete ghat section at Shiradi" width="1613" height="1210" />
-  
-  <p class="wp-caption-text">
-    Concrete ghat section at Shiradi
-  </p>
-</div>
-
-<div id="attachment_975" style="width: 1623px" class="wp-caption aligncenter">
-  <img class="wp-image-975 size-full" src="https://images.sbhat.me/sb/2016/07/shiradi-2.jpg" alt="Yep, idiot car trying to overtake LPG tanker despite me coming at him" width="1613" height="1210" />
-  
-  <p class="wp-caption-text">
-    Yep, idiot car trying to overtake LPG tanker despite me coming at him
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "shiradi-1.jpg" "Concrete ghat section at Shiradi" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "shiradi-2.jpg" "Yep, idiot car trying to overtake LPG tanker despite me coming at him" "Roadtrip" >}}
 
 As we got closer and closer towards Mangalore, the tanker traffic increased and it ended up delaying our arrival in Mangalore by about 45 minutes. Once home a nice plate of fried fish cooked by Mom welcomed us(despite it being really difficult to get fish during monsoons).
 
-<div id="attachment_976" style="width: 1095px" class="wp-caption aligncenter">
-  <img class="wp-image-976 size-full" src="https://images.sbhat.me/sb/2016/08/mangalore-1.jpg" alt="Reached Mangalore!" width="1085" height="958" />
-  
-  <p class="wp-caption-text">
-    Reached Mangalore!
-  </p>
-</div>
-
-<div id="attachment_978" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="wp-image-978 size-full" src="https://images.sbhat.me/sb/2016/08/mangalore-2.jpg" alt="At home" width="1197" height="1600" />
-  
-  <p class="wp-caption-text">
-    At home
-  </p>
-</div>
-
-<div id="attachment_977" style="width: 1205px" class="wp-caption aligncenter">
-  <img class="wp-image-977 size-full" src="https://images.sbhat.me/sb/2016/08/Pomfret-Fry.jpg" alt="Pomfret Fry" width="1195" height="1119" />
-  
-  <p class="wp-caption-text">
-    Pomfret Fry
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "mangalore-1.jpg" "Reached Mangalore!" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "mangalore-2.jpg" "At home!" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/07" "Pomfret-Fry.jpg" "Pomfret Fry" "Roadtrip" >}}
 
 Later on in the evening, I went over to my sister's place to meet her and Shriya. She took me to a part of Mangalore, just behind her place, which I hadn't visited since a really long time. The view of the Nethravathi river from there was fabulous.
 
-<div id="attachment_986" style="width: 988px" class="wp-caption aligncenter">
-  <img class="wp-image-986 size-full" src="https://images.sbhat.me/sb/2016/08/shriya.jpg" alt="Selfie with my niece Shriya" width="978" height="1307" />
-  
-  <p class="wp-caption-text">
-    Selfie with my niece Shriya
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "shriya.jpg" "Selfie with Shriya" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "Netravathi-1.jpg" "Netravathi river" "Roadtrip" >}}
 
-<div id="attachment_982" style="width: 1610px" class="wp-caption aligncenter">
-  <img class="wp-image-982 size-full" src="https://images.sbhat.me/sb/2016/08/Netravathi-1.jpg" alt="Netravathi river" width="1600" height="1197" />
-  
-  <p class="wp-caption-text">
-    Netravathi river
-  </p>
-</div>
 
-Here's a link to the 360° view <a href="https://goo.gl/photos/wcsnGZuB1yTLTsag8" target="_blank">from here</a>. The remaining couple of days were spent at my folks' place, my in-laws' place and at Jo's cousins. We went over to <a href="https://foursquare.com/v/the-high-wave/4f09bf0be4b09d21f7e15941" target="_blank">The High Wave</a>(though initially it was supposed to be Froth on Top) for some decent food and good times with Jo's cousins.
 
-<div id="attachment_985" style="width: 1610px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-985" src="https://images.sbhat.me/sb/2016/08/highwave.jpg" alt="Nice poster at Highwave" width="1600" height="1197" />
-  
-  <p class="wp-caption-text">
-    Nice poster at Highwave
-  </p>
-</div>
+Here's a link to the 360° view [from here](https://goo.gl/photos/wcsnGZuB1yTLTsag8). The remaining couple of days were spent at my folks' place, my in-laws' place and at Jo's cousins. We went over to [The High Wave](https://foursquare.com/v/the-high-wave/4f09bf0be4b09d21f7e15941)(though initially it was supposed to be Froth on Top) for some decent food and good times with Jo's cousins.
 
-<div id="attachment_984" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-984" src="https://images.sbhat.me/sb/2016/08/highwave-2.jpg" alt="Chillin' at HighWave" width="1197" height="1600" />
-  
-  <p class="wp-caption-text">
-    Chillin' at HighWave
-  </p>
-</div>
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "highwave.jpg" "Nice poster at Highwave" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "highwave-2.jpg" "Chillin' at HighWave" "Roadtrip" >}}
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "cassette-as-mobile-back-cover.jpg" "Cool cassette tape as back cover for mobile" "Roadtrip" >}}
 
-<div id="attachment_987" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-987" src="https://images.sbhat.me/sb/2016/08/cassette-as-mobile-back-cover.jpg" alt="Cool cassette tape as back cover for mobile" width="1197" height="1600" />
-  
-  <p class="wp-caption-text">
-    Cool cassette tape as back cover for mobile
-  </p>
-</div>
+No trip to Mangalore would be complete without an Ice cream from Pabba's.. so went over to [Pabba's](https://foursquare.com/sathyabhat/checkin/57791f43498e059a714f8264), grabbed some ice cream for us as well as for family and headed back home
 
-No trip to Mangalore would be complete without an Ice cream from Pabba's.. so went over to <a href="https://foursquare.com/sathyabhat/checkin/57791f43498e059a714f8264" target="_blank">Pabba's</a>, grabbed some ice cream for us as well as for family and headed back home
+{{< fancybox "https://images.sbhat.me/sb/2016/08" "icecream.jpg" "Ice cream from Pabba's" "Roadtrip" >}}
 
-<div id="attachment_988" style="width: 1207px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-988" src="https://images.sbhat.me/sb/2016/08/icecream.jpg" alt="Ice cream from Pabba's" width="1197" height="1600" />
-  
-  <p class="wp-caption-text">
-    Ice cream from Pabba's
-  </p>
-</div>
 
-Part 2 will continue.. till then enjoy a sample of drive through Shiradi ghats
+Part 2 [continues](/2016/08/12/the-1800km-coastal-karnataka-roadtrip-part-2-mangalore-kaup-udupi-malpe/) .. Also  enjoy a sample of drive through Shiradi ghats
+
+{{< youtube YshLDRPGMZ4 >}}

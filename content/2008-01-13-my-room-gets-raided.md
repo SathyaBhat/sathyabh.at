@@ -5,13 +5,13 @@ type: post
 date: 2008-01-13T07:15:21+00:00
 url: /2008/01/13/my-room-gets-raided/
 
-arkayne-time-post:
-  - "1325767183"
+
+
 categories:
   - Life
 tags:
   - Chennai
-  - Life
+
 
 ---
 Well there are somethings which I thought I'd never see. Now as I've seen it all(ok, almost all!)

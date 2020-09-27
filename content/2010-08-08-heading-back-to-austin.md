@@ -6,8 +6,8 @@ date: 2010-08-08T18:15:43+00:00
 url: /2010/08/08/heading-back-to-austin/
 
 
-arkayne-time-post:
-  - "1325697720"
+
+
 categories:
   - Life
 tags:

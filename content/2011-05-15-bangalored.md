@@ -5,8 +5,8 @@ type: post
 date: 2011-05-15T15:46:51+00:00
 url: /2011/05/15/bangalored/
 
-arkayne-time-post:
-  - "1325675186"
+
+
 categories:
   - Life
 tags:

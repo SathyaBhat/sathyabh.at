@@ -5,16 +5,12 @@ type: post
 date: 2008-08-02T16:35:57+00:00
 url: /2008/08/02/how-weird-are-you/
 
-arkayne-time-post:
-  - "1325673181"
+
+
 categories:
   - Web
 tags:
   - timepass
-  - tp
-  - weird
-  - weirdness quotent
-  - weirdness test
 
 ---
 Ever think you’re a weird person? Want to know how weird you are? I found this site while surfing, and according to it,

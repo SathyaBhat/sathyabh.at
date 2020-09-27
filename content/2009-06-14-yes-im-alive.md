@@ -7,8 +7,8 @@ url: /2009/06/14/yes-im-alive/
 aktt_notify_twitter:
   - 'no'
 
-arkayne-time-post:
-  - "1325772664"
+
+
 categories:
   - Life
 tags:

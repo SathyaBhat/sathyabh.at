@@ -6,15 +6,14 @@ date: 2010-11-10T18:27:21+00:00
 url: /2010/11/10/batch-file-to-delete-files-older-than-x-days/
 
 
-arkayne-time-post:
-  - "1325789912"
+
+
 categories:
   - Computing
 tags:
   - backup
   - batch-file
   - command-line
-  - commands
 
 ---
 At work, I have bunch of batch files which take an export from Oracle database, compress them and move them to their respective folders. In addition to this, the scripts also copy the Oracle forms executibles ("fmx"), reports ("rdf") and other miscellaneous files to the backup locations and these are further compressed. The compressed files are then transferred over to the [SAN][1].
