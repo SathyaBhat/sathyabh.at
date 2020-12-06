@@ -11,7 +11,7 @@ tags:
   - Romania
 ---
 
-It's been 7 months since I've been in Bucharest. The past couple of months I've been under quarantine and staying indoors. That aside, people kept asking me how's it been in Bucharest and how's life been in Bucharest, how different life is compared to Bangalore. 
+It's been [7 months since I've been in Bucharest](https://sathyabh.at/2020/01/08/salut-bucharest/). The past couple of months I've been under quarantine and staying indoors. That aside, people kept asking me how's it been in Bucharest and how's life been in Bucharest, how different life is compared to Bangalore. 
 
 {{< fancybox "https://images.sbhat.me/sb" "bucharest.jpg" "Sunset at Bucharest" "Bucharest" >}}
 
