@@ -20,6 +20,9 @@ The temperatures have been hovering around close to zero to within -5 degrees Ce
 
 Enjoy the photos and the videos.
 
+{{< youtube 4Q5gmB7Xlkw >}}
+{{< youtube D0QOa6ZvoiE >}}
+
 {{< fancybox "https://images.sbhat.me/sb/winter" "winter01.jpg" "Snow!" "Winter Wonderland" >}}
 {{< fancybox "https://images.sbhat.me/sb/winter" "winter02.jpg" "Snow!" "Winter Wonderland" >}}
 {{< fancybox "https://images.sbhat.me/sb/winter" "winter03.jpg" "Snow!" "Winter Wonderland" >}}
@@ -37,5 +40,3 @@ Enjoy the photos and the videos.
 {{< fancybox "https://images.sbhat.me/sb/winter" "winter14.jpg" "Snow!" "Winter Wonderland" >}}
 {{< fancybox "https://images.sbhat.me/sb/winter" "winter15.jpg" "Snow!" "Winter Wonderland" >}}
 
-{{< youtube 4Q5gmB7Xlkw >}}
-{{< youtube D0QOa6ZvoiE >}}
