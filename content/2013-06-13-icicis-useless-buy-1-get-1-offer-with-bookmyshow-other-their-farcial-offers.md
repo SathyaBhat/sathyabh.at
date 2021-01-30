@@ -1,6 +1,6 @@
 ---
 title: 'ICICI’s Useless Buy 1, Get 1 offer with BookMyShow & their other farcial offers'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-06-13T13:12:03+00:00
 url: /2013/06/13/icicis-useless-buy-1-get-1-offer-with-bookmyshow-other-their-farcial-offers/

@@ -1,6 +1,6 @@
 ---
 title: Overclocking a NVIDIA 8600m GT
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-02-08T21:39:01+00:00
 url: /2008/02/09/overclocking-a-nvidia-8600m-gt/

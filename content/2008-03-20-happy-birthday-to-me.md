@@ -1,6 +1,6 @@
 ---
 title: Happy Birthday To Me
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-03-20T14:50:37+00:00
 url: /2008/03/20/happy-birthday-to-me/

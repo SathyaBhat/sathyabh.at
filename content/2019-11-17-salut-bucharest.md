@@ -1,6 +1,6 @@
 ---
 title: Salut Bucharest
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2020-01-08T04:51:13+00:00
 url: /2020/01/08/salut-bucharest/

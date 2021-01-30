@@ -1,6 +1,6 @@
 ---
 title: 'Monday Tunes #9'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-07-24T21:17:21+00:00
 url: /2017/07/25/monday-tunes-9/

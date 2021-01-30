@@ -1,6 +1,6 @@
 ---
 title: "So what's been up with me ?"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-04-19T03:55:33+00:00
 url: /2009/04/19/so-whats-been-up-with-me/

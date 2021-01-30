@@ -1,6 +1,6 @@
 ---
 title: You owned and used a Dell laptop until now. Recently you purchased an HP Envy. What factors influenced you in choosing HP over Dell or even Acer, Asus for that matter? No beer for short answer.
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-10-05T04:39:40+00:00
 url: /2010/10/05/2010-10-05-you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced/

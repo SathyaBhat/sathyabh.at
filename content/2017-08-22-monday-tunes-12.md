@@ -1,6 +1,6 @@
 ---
 title: 'Monday Tunes #12'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-08-22T04:30:31+00:00
 url: /2017/08/22/monday-tunes-12/

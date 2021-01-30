@@ -1,6 +1,6 @@
 ---
 title: Opening Shortly!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-07-07T08:38:09+00:00
 url: /2008/07/07/opening-shortly/

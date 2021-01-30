@@ -1,6 +1,6 @@
 ---
 title: Parc Drumul Taberei Metro station
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2020-09-27T05:00:00+00:00
 url: /2020/09/27/parc-drumul-taberei-metro-m5

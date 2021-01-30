@@ -1,6 +1,6 @@
 ---
 title: Change your Yahoo IM Status to What You Are Currently Listening to
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-04-16T19:19:35+00:00
 url: /2008/04/17/change-your-yahoo-im-status-to-what-you-are-currently-listening-to/

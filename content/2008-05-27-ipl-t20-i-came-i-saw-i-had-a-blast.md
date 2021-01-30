@@ -1,6 +1,6 @@
 ---
 title: IPL T20 – I came, I saw, I had a blast!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-27T16:08:53+00:00
 url: /2008/05/27/ipl-t20-i-came-i-saw-i-had-a-blast/

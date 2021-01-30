@@ -1,6 +1,6 @@
 ---
 title: My Nexus S homescreens
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-02-21T17:20:38+00:00
 url: /2011/02/21/my-nexus-s-homescreens/

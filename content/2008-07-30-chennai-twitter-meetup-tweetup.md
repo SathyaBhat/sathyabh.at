@@ -1,6 +1,6 @@
 ---
 title: 'Chennai Twitter Meetup [Tweetup]'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-07-30T17:22:55+00:00
 url: /2008/07/30/chennai-twitter-meetup-tweetup/

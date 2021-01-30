@@ -1,6 +1,6 @@
 ---
 title: My Top Artists from Last.fm
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-03-05T08:04:03+00:00
 url: /2017/03/05/my-top-artists-from-last-fm-3/

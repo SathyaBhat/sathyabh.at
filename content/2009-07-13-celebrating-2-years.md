@@ -1,6 +1,6 @@
 ---
 title: Celebrating 2 years
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-07-13T02:55:31+00:00
 url: /2009/07/13/celebrating-2-years/

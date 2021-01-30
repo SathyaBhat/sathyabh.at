@@ -1,6 +1,6 @@
 ---
 title: The dates are in
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-11-19T11:20:33+00:00
 url: /2008/11/19/the-dates-are-in/

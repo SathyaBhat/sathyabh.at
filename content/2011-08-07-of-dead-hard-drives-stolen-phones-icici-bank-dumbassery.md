@@ -1,6 +1,6 @@
 ---
 title: 'Of Dead Hard Drives, Stolen Phones & ICICI Bank Dumbassery'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-08-07T07:45:43+00:00
 url: /2011/08/07/of-dead-hard-drives-stolen-phones-icici-bank-dumbassery/

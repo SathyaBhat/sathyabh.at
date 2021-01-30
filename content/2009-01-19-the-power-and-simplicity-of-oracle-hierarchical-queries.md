@@ -1,6 +1,6 @@
 ---
 title: The Power and Simplicity of Oracle Hierarchical Queries
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-01-19T04:12:55+00:00
 url: /2009/01/19/the-power-and-simplicity-of-oracle-hierarchical-queries/

@@ -1,6 +1,6 @@
 ---
 title: I never thought..
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-01-01T04:15:37+00:00
 url: /2009/01/01/i-never-thought/

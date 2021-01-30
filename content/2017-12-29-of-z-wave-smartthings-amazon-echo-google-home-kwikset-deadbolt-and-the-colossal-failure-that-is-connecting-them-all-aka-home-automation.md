@@ -1,6 +1,6 @@
 ---
 title: Of Z-Wave, SmartThings, Amazon Echo, Google Home, Kwikset Deadbolt and the colossal failure that is connecting them all – aka “Home Automation”
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-12-29T11:51:49+00:00
 url: /2017/12/29/of-z-wave-smartthings-amazon-echo-google-home-kwikset-deadbolt-and-the-colossal-failure-that-is-connecting-them-all-aka-home-automation/

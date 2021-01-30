@@ -1,6 +1,6 @@
 ---
 title: Airtel Blocking Access To Unofficial BSNL EVDO site?
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-02-11T17:49:36+00:00
 url: /2008/02/11/airtel-blocking-access-to-unofficial-bsnl-evdo-site/

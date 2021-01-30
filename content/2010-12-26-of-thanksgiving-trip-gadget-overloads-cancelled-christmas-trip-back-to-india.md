@@ -1,6 +1,6 @@
 ---
 title: 'Of Thanksgiving Trip, Gadget Overloads, Cancelled Christmas Trip & Back To India'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-12-26T04:54:17+00:00
 url: /2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/

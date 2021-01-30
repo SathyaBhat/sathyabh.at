@@ -1,6 +1,6 @@
 ---
 title: Celebrity Issues
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-06T12:27:53+00:00
 url: /2008/05/06/celebrity-issues/

@@ -1,6 +1,6 @@
 ---
 title: Batch file to delete files older than x days
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-11-10T18:27:21+00:00
 url: /2010/11/10/batch-file-to-delete-files-older-than-x-days/

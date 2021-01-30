@@ -1,6 +1,6 @@
 ---
 title: I Wanna Blow up My School!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-19T05:52:15+00:00
 url: /2008/05/19/i-wanna-blow-up-my-school/

@@ -1,6 +1,6 @@
 ---
 title: Fixing Internet Explorer Crash on Launching Oracle Forms Application with jInitiator
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-06-26T21:29:20+00:00
 url: /2009/06/27/fixing-internet-explorer-crash-on-launching-oracle-forms-application-with-jinitiator/

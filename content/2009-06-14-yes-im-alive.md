@@ -1,6 +1,6 @@
 ---
 title: "Yes I'm alive!"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-06-14T03:59:12+00:00
 url: /2009/06/14/yes-im-alive/

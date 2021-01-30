@@ -1,6 +1,6 @@
 ---
 title: Enable/Disable AutoPlay For Individual Drives
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-04T17:00:15+00:00
 url: /2008/05/04/enabledisable-autoplay-for-individual-drives/

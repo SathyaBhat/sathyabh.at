@@ -1,6 +1,6 @@
 ---
 title: Been getting a lot of this Maruti Suzuki – Interview Offer spam
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-01-05T04:52:39+00:00
 url: /2012/01/05/maruti-suzuki-interview-offer/

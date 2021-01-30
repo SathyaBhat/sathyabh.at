@@ -1,6 +1,6 @@
 ---
 title: After BSNL, Tata Teleservices Rolls Out Their EVDO Service In Chennai
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-07-20T17:54:40+00:00
 url: /2008/07/20/after-bsnl-tata-teleservices-rolls-out-their-evdo-service-in-chennai/

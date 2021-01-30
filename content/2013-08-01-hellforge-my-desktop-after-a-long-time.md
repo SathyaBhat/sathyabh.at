@@ -1,6 +1,6 @@
 ---
 title: 'Hellforge: my desktop after a long time'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-08-01T07:49:40+00:00
 url: /2013/08/01/hellforge-my-desktop-after-a-long-time/

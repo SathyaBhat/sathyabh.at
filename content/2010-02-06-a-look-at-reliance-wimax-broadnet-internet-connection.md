@@ -1,6 +1,6 @@
 ---
 title: A look at Reliance WiMAX (Broadnet ) Internet Connection
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-02-05T23:14:52+00:00
 url: /2010/02/06/a-look-at-reliance-wimax-broadnet-internet-connection/

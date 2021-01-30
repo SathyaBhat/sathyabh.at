@@ -1,6 +1,6 @@
 ---
 title: Initial Impressions.
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-11-25T05:32:05+00:00
 url: /2008/11/25/initial-impressions/

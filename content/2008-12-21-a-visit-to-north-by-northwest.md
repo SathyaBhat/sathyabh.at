@@ -1,6 +1,6 @@
 ---
 title: A Visit to North By NorthWest
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-21T07:55:06+00:00
 url: /2008/12/21/a-visit-to-north-by-northwest/

@@ -1,6 +1,6 @@
 ---
 title: The Getaway – Part 1 – Coming together of The Plan(tm)
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-06-29T08:07:08+00:00
 url: /2010/06/29/the-getaway-part-1-coming-together-of-the-plantm/

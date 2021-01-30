@@ -1,6 +1,6 @@
 ---
 title: 'Reddit’s secret santa and Guinness World Record for most email addresses in To: List'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-09-06T16:08:32+00:00
 url: /2012/09/06/reddits-secret-santa-and-guinness-world-record-for-most-email-addresses-in-to-list/

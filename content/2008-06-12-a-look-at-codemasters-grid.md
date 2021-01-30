@@ -1,6 +1,6 @@
 ---
 title: "A Look At Codemasters' GRID"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-12T04:57:59+00:00
 url: /2008/06/12/a-look-at-codemasters-grid/

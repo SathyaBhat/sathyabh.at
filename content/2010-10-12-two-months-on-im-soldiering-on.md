@@ -1,6 +1,6 @@
 ---
 title: Two months on, I’m soldiering on…
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-10-12T04:33:31+00:00
 url: /2010/10/12/two-months-on-im-soldiering-on/

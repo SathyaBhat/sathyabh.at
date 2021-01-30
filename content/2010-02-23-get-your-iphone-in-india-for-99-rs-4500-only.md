@@ -1,6 +1,6 @@
 ---
 title: Get your iPhone in India for $99 ( ~ Rs 4500 ) Only!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-02-23T11:57:41+00:00
 url: /2010/02/23/get-your-iphone-in-india-for-99-rs-4500-only/

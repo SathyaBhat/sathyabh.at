@@ -1,6 +1,6 @@
 ---
 title: 'Monday Tunes #3'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-03-04T18:43:52+00:00
 url: /2017/03/05/songs-of-the-week-march-5/

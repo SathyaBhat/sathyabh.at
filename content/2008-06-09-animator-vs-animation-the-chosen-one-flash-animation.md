@@ -1,6 +1,6 @@
 ---
 title: 'Animator vs Animation – "The Chosen One" [Flash Animation]'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-09T09:06:56+00:00
 url: /2008/06/09/animator-vs-animation-the-chosen-one-flash-animation/

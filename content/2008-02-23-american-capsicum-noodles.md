@@ -1,6 +1,6 @@
 ---
 title: American Capsicum Noodles
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-02-22T19:22:24+00:00
 url: /2008/02/23/american-capsicum-noodles/

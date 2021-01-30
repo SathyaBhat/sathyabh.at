@@ -1,6 +1,6 @@
 ---
 title: And The Lamest Mouse Award Goes To….
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-23T17:27:37+00:00
 url: /2008/06/23/and-the-lamest-mouse-award-goes-to/

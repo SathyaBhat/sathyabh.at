@@ -1,6 +1,6 @@
 ---
 title: 'Shriya & Supriya gets featured on DaijiWorld'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-04T02:38:08+00:00
 url: /2008/12/04/shriya-supriya-gets-featured-on-daijiworld/

@@ -1,6 +1,6 @@
 ---
 title: The My World “Comment And Win” Contest!(Well, Sorta)
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-07-15T16:36:29+00:00
 url: /2008/07/15/the-my-world-comment-and-win-contestwell-sorta/

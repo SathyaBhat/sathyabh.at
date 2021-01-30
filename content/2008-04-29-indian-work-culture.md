@@ -1,6 +1,6 @@
 ---
 title: Indian Work Culture ?
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-04-29T08:51:58+00:00
 url: /2008/04/29/indian-work-culture/

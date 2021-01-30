@@ -1,6 +1,6 @@
 ---
 title: 'Monday Tunes #6'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-05-21T13:55:12+00:00
 url: /2017/05/21/songs-of-the-fortnight-may-22/

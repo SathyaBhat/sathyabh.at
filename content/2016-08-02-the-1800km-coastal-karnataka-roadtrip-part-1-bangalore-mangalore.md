@@ -1,6 +1,6 @@
 ---
 title: The 1800km Coastal Karnataka Roadtrip – Part 1 – Bangalore – Mangalore
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-08-02T05:00:07+00:00
 url: /2016/08/02/the-1800km-coastal-karnataka-roadtrip-part-1-bangalore-mangalore/

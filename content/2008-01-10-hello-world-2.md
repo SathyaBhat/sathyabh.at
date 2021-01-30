@@ -1,6 +1,6 @@
 ---
 title: Here I go again
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-01-10T17:27:36+00:00
 url: /2008/01/10/hello-world-2/

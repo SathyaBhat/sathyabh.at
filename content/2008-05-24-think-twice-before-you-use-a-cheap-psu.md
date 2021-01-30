@@ -1,6 +1,6 @@
 ---
 title: Think Twice Before you Use a Cheap PSU!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-24T06:27:57+00:00
 url: /2008/05/24/think-twice-before-you-use-a-cheap-psu/

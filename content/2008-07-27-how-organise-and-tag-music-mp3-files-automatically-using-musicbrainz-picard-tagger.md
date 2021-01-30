@@ -1,6 +1,6 @@
 ---
 title: '[How-To] Organize Your Music Files and Tag Them Automatically'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-07-27T10:21:00+00:00
 url: /2008/07/27/how-organise-and-tag-music-mp3-files-automatically-using-musicbrainz-picard-tagger/

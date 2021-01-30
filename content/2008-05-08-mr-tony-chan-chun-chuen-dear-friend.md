@@ -1,6 +1,6 @@
 ---
 title: 'Mr. Tony Chan Chun-chuen: Dear Friend,'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-08T15:55:35+00:00
 url: /2008/05/08/mr-tony-chan-chun-chuen-dear-friend/

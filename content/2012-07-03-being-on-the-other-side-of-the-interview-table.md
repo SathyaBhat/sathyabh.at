@@ -1,6 +1,6 @@
 ---
 title: Being on the other side of the Interview table
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-07-03T15:29:12+00:00
 url: /2012/07/03/being-on-the-other-side-of-the-interview-table/

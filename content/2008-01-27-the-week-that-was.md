@@ -1,6 +1,6 @@
 ---
 title: The week that was
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-01-27T15:51:28+00:00
 url: /2008/01/27/the-week-that-was/

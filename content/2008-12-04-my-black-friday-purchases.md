@@ -1,6 +1,6 @@
 ---
 title: My Black Friday Purchases
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-04T05:11:18+00:00
 url: /2008/12/04/my-black-friday-purchases/

@@ -1,6 +1,6 @@
 ---
 title: Seven years of togetherness
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2020-12-06T05:00:00+00:00
 url: /2020/12/06/seven-years-of-togetherness

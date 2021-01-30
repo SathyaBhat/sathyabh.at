@@ -1,6 +1,6 @@
 ---
 title: Contact Me
-author: sathya
+author: Sathyajith Bhat
 type: page
 aliases: ["contact-me", "contact"]
 date: 2008-03-31T04:43:02+00:00

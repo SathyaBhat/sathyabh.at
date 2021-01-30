@@ -1,6 +1,6 @@
 ---
 title: The 1800km Coastal Karnataka Roadtrip – Part 2 – Mangalore – Kaup – Udupi – Malpe
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-08-12T05:00:40+00:00
 url: /2016/08/12/the-1800km-coastal-karnataka-roadtrip-part-2-mangalore-kaup-udupi-malpe/

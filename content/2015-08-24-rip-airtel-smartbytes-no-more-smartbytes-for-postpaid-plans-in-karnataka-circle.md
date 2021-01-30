@@ -1,6 +1,6 @@
 ---
 title: RIP, Airtel SmartBytes – No More SmartBytes for PostPaid plans in Karnataka Circle
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2015-08-24T17:38:48+00:00
 url: /2015/08/24/rip-airtel-smartbytes-no-more-smartbytes-for-postpaid-plans-in-karnataka-circle/

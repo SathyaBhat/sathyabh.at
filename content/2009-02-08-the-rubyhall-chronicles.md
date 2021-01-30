@@ -1,6 +1,6 @@
 ---
 title: The RubyHall Chronicles
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-02-08T02:03:09+00:00
 url: /2009/02/08/the-rubyhall-chronicles/

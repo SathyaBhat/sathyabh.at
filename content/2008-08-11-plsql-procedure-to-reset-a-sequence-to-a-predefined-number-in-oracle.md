@@ -1,6 +1,6 @@
 ---
 title: PL/SQL Procedure To Reset A Sequence To A Predefined Number in Oracle
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-08-11T18:06:27+00:00
 url: /2008/08/11/plsql-procedure-to-reset-a-sequence-to-a-predefined-number-in-oracle/

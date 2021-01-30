@@ -1,6 +1,6 @@
 ---
 title: "You've Been Tagged!"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-29T18:35:44+00:00
 url: /2008/05/30/youve-been-tagged/

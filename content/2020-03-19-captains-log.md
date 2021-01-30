@@ -1,6 +1,6 @@
 ---
 title: "Captain's Log: Stardate -303213.11"
-author: sathya
+author: Sathyajith Bhat
 type: post
 draft: true
 date: 2020-01-19T04:51:13+00:00

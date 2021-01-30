@@ -1,6 +1,6 @@
 ---
 title: Brush up your PL/SQL knowledge with PL/SQL Challenge
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-05-10T05:14:31+00:00
 url: /2010/05/10/brush-up-your-plsql-knowledge-with-plsql-challenge/

@@ -1,6 +1,6 @@
 ---
 title: How weird are you?
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-08-02T16:35:57+00:00
 url: /2008/08/02/how-weird-are-you/

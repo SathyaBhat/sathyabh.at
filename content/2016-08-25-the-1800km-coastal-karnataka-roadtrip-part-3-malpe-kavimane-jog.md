@@ -1,6 +1,6 @@
 ---
 title: The 1800km Coastal Karnataka Roadtrip – Part 3 – Malpe – Kavimane – Jog
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-08-25T05:30:00+00:00
 url: /2016/08/25/the-1800km-coastal-karnataka-roadtrip-part-3-malpe-kavimane-jog/

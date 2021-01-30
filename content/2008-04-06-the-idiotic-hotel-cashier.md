@@ -1,6 +1,6 @@
 ---
 title: The Idiotic Hotel Cashier
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-04-06T17:01:48+00:00
 url: /2008/04/06/the-idiotic-hotel-cashier/

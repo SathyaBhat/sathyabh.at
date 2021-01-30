@@ -1,6 +1,6 @@
 ---
 title: In with the new (job)
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-07-12T06:00:23+00:00
 url: /2016/07/12/in-with-the-new-job/
