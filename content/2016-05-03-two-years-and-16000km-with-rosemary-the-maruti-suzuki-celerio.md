@@ -1,6 +1,6 @@
 ---
 title: Two years and 16,000km with Rosemary – The Maruti Suzuki Celerio
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-05-02T19:46:00+00:00
 url: /2016/05/03/two-years-and-16000km-with-rosemary-the-maruti-suzuki-celerio/

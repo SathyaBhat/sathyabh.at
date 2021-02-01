@@ -1,6 +1,6 @@
 ---
 title: "I'm on Folding@Home"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-07T18:29:18+00:00
 url: /2008/05/07/im-on-foldinghome/

@@ -1,6 +1,6 @@
 ---
 title: Websense redirect – My First Chrome Extension
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-02-04T10:35:11+00:00
 url: /2011/02/04/websense-redirect-my-first-chrome-extension/

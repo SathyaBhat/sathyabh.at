@@ -1,6 +1,6 @@
 ---
 title: I wanna listen to music!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-09T08:49:03+00:00
 url: /2008/05/09/i-wanna-listen-to-music/

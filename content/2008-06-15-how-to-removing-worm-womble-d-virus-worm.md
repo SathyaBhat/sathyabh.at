@@ -1,6 +1,6 @@
 ---
 title: '[How To] Removing Worm/Womble.D – Virus/Worm'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-15T09:55:04+00:00
 url: /2008/06/15/how-to-removing-worm-womble-d-virus-worm/

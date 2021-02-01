@@ -1,6 +1,6 @@
 ---
 title: So how's it to be in Bucharest after moving from Bangalore?
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2020-05-17T05:00:00+00:00
 url: /2020/05/17/life-in-bucharest

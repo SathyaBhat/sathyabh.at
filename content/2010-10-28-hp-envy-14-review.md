@@ -1,6 +1,6 @@
 ---
 title: HP Envy 14 Review
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-10-28T03:01:40+00:00
 url: /2010/10/28/hp-envy-14-review/

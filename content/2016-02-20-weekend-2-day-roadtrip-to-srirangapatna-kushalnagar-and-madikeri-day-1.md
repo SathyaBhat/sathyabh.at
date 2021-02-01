@@ -1,6 +1,6 @@
 ---
 title: Weekend 2-day roadtrip to Srirangapatna, Kushalnagar and Madikeri – Day 1
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-02-20T14:36:42+00:00
 url: /2016/02/20/weekend-2-day-roadtrip-to-srirangapatna-kushalnagar-and-madikeri-day-1/

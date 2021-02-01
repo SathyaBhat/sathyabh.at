@@ -1,6 +1,6 @@
 ---
 title: Diablo III! Diablo III! It’s Going to Be Diablo III!!!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-28T11:57:52+00:00
 url: /2008/06/28/diablo-iii-diablo-iii-its-going-to-be-diablo-iii/

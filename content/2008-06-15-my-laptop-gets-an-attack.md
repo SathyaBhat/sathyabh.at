@@ -1,6 +1,6 @@
 ---
 title: My Laptop Gets An Attack!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-15T08:19:21+00:00
 url: /2008/06/15/my-laptop-gets-an-attack/

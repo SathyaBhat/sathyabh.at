@@ -1,6 +1,6 @@
 ---
 title: Golden Rules for Developers
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-06-15T00:27:56+00:00
 url: /2010/06/15/golden-rules-for-developers/

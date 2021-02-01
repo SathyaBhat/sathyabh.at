@@ -1,6 +1,6 @@
 ---
 title: 'Convert Your Windows XP/Vista ordinary taskbar into Windows 7 Superbar and Get AeroPeek in Windows XP & Vista'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-06-27T21:46:05+00:00
 url: /2009/06/28/convert-your-windows-xpvista-ordinary-taskbar-into-windows-7-superbar-and-get-aeropeek-in-windows-xp-vista/

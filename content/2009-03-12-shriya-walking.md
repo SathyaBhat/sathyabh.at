@@ -1,6 +1,6 @@
 ---
 title: Shriya walking
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-03-12T02:36:42+00:00
 url: /2009/03/12/shriya-walking/

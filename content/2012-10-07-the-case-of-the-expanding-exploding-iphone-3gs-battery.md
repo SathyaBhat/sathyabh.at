@@ -1,6 +1,6 @@
 ---
 title: The case of the expanding, exploding iPhone 3GS battery
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-10-07T17:57:01+00:00
 url: /2012/10/07/the-case-of-the-expanding-exploding-iphone-3gs-battery/

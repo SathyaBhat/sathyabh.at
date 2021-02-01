@@ -1,6 +1,6 @@
 ---
 title: Back In India
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-09-28T18:45:29+00:00
 url: /2009/09/29/back-in-india/

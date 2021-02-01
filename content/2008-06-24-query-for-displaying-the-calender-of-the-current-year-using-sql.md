@@ -1,6 +1,6 @@
 ---
 title: Query For Displaying The Calender of The Current Year using SQL
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-24T08:45:56+00:00
 url: /2008/06/24/query-for-displaying-the-calender-of-the-current-year-using-sql/

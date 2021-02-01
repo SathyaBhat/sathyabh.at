@@ -1,6 +1,6 @@
 ---
 title: Sony Ericsson P1i Review
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-03-29T20:43:59+00:00
 url: /2008/03/30/sony-ericsson-p1i-review/

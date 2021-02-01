@@ -1,6 +1,6 @@
 ---
 title: Keepin’ busy for a month
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-07-28T11:03:35+00:00
 url: /2016/07/28/keepin-busy-for-a-month/

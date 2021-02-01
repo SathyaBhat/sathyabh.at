@@ -1,6 +1,6 @@
 ---
 title: New desktop for the house
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-05-16T05:30:09+00:00
 url: /2016/05/16/new-low-budget-build/

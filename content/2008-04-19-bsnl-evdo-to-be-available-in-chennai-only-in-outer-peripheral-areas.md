@@ -1,6 +1,6 @@
 ---
 title: BSNL EVDO To Be Available in Chennai only in Outer Peripheral Areas
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-04-19T12:48:00+00:00
 url: /2008/04/19/bsnl-evdo-to-be-available-in-chennai-only-in-outer-peripheral-areas/

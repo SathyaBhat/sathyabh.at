@@ -1,6 +1,6 @@
 ---
 title: Exporting and Importing An Oracle database from one schema/user to Another schema/user easily
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-01T03:40:25+00:00
 url: /2008/12/01/exporting-and-importing-an-oracle-database-from-one-schemauser-to-another-schemauser-easily/

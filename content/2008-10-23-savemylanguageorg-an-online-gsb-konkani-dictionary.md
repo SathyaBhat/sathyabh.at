@@ -1,6 +1,6 @@
 ---
 title: SaveMyLanguage.org – An Online GSB Konkani Dictionary
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-23T17:09:16+00:00
 url: /2008/10/23/savemylanguageorg-an-online-gsb-konkani-dictionary/

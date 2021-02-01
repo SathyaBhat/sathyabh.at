@@ -1,6 +1,6 @@
 ---
 title: "Hellforge, Remastered: Rebuilding my home desktop"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2020-01-19T04:51:13+00:00
 url: /2020/01/19/hellforge-remastered-home-desktop/

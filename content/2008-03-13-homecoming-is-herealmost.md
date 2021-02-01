@@ -1,6 +1,6 @@
 ---
 title: Homecoming is here…almost!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-03-13T17:18:30+00:00
 url: /2008/03/13/homecoming-is-herealmost/

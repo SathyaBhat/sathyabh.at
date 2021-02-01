@@ -1,6 +1,6 @@
 ---
 title: Forget Monday Blues, Presenting Tuesday Blues
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-08-21T18:40:50+00:00
 url: /2008/08/22/forget-monday-blues-presenting-tuesday-blues/

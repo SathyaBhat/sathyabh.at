@@ -1,6 +1,6 @@
 ---
 title: 3 Months… And More to Come!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-02-24T06:04:08+00:00
 url: /2009/02/24/3-months-and-more-to-come/

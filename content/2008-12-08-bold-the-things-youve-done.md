@@ -1,6 +1,6 @@
 ---
 title: "Bold the things you've done"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-08T01:01:52+00:00
 url: /2008/12/08/bold-the-things-youve-done/

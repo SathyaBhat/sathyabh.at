@@ -1,6 +1,6 @@
 ---
 title: Me? Man of Many Faces? Had Plastic Surgery?
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-08T04:30:11+00:00
 url: /2008/06/08/me-man-of-many-faces-had-plastic-surgery/

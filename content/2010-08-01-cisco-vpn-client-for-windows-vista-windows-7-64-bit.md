@@ -1,6 +1,6 @@
 ---
 title: Cisco VPN Client for Windows Vista / Windows 7 64-bit
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-08-01T05:19:55+00:00
 url: /2010/08/01/cisco-vpn-client-for-windows-vista-windows-7-64-bit/

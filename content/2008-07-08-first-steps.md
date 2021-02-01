@@ -1,6 +1,6 @@
 ---
 title: First Steps
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-07-08T11:39:08+00:00
 url: /2008/07/08/first-steps/

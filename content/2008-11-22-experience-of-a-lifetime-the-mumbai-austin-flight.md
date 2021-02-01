@@ -1,6 +1,6 @@
 ---
 title: Experience of a Lifetime – The Mumbai Austin Flight
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-11-22T04:25:14+00:00
 url: /2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/

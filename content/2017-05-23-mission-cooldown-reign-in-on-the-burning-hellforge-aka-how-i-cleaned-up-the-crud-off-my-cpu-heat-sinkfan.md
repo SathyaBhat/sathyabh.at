@@ -1,6 +1,6 @@
 ---
 title: 'Mission Cooldown: Reign in on the burning Hellforge! [Aka: How I cleaned up the crud off my CPU heat sink/fan]'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-05-23T12:51:54+00:00
 url: /2017/05/23/mission-cooldown-reign-in-on-the-burning-hellforge-aka-how-i-cleaned-up-the-crud-off-my-cpu-heat-sinkfan/

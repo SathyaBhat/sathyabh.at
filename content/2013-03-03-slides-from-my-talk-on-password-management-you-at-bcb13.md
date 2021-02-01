@@ -1,6 +1,6 @@
 ---
 title: 'Slides from my talk on “Password Management & You” at Barcamp Bangalore'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-03-03T12:19:20+00:00
 url: /2013/03/03/slides-from-my-talk-on-password-management-you-at-bcb13/

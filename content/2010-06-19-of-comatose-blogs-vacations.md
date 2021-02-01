@@ -1,6 +1,6 @@
 ---
 title: 'Of comatose blogs & vacations'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-06-19T14:00:48+00:00
 url: /2010/06/19/of-comatose-blogs-vacations/

@@ -1,6 +1,6 @@
 ---
 title: The Passport Seva Kendra Experience
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-07-09T12:03:39+00:00
 url: /2017/07/09/the-passport-seva-kendra-experience/

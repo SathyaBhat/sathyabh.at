@@ -1,6 +1,6 @@
 ---
 title: Fresh new look for My World
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-11-06T23:51:22+00:00
 url: /2009/11/07/fresh-new-look-for-my-world/

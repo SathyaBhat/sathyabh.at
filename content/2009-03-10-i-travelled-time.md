@@ -1,6 +1,6 @@
 ---
 title: I travelled time!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-03-10T01:48:47+00:00
 url: /2009/03/10/i-travelled-time/

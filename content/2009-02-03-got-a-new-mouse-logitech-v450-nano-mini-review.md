@@ -1,6 +1,6 @@
 ---
 title: Got a new mouse – Logitech v450 Nano (mini) Review
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-02-03T03:56:47+00:00
 url: /2009/02/03/got-a-new-mouse-logitech-v450-nano-mini-review/

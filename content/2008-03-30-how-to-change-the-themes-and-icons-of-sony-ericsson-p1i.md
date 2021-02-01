@@ -1,6 +1,6 @@
 ---
 title: 'How-to: Change the themes and icons of Sony Ericsson P1i'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-03-30T16:12:34+00:00
 url: /2008/03/30/how-to-change-the-themes-and-icons-of-sony-ericsson-p1i/

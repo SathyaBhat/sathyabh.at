@@ -1,6 +1,6 @@
 ---
 title: 'The Srinagar to Manali Travelogue: Part 1: Srinagar'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2015-09-23T06:13:39+00:00
 url: /2015/09/23/the-srinagar-to-manali-travelogue-part-1-srinagar/

@@ -1,6 +1,6 @@
 ---
 title: "I am in III Standard"
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-03-12T15:32:42+00:00
 url: /2009/03/12/i-am-in-iii-standard/

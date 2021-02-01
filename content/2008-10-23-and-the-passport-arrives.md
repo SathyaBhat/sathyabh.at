@@ -1,6 +1,6 @@
 ---
 title: And The Passport Arrives
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-23T16:32:30+00:00
 url: /2008/10/23/and-the-passport-arrives/

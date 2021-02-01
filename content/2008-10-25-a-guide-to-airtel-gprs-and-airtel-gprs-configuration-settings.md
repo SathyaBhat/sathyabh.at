@@ -1,6 +1,6 @@
 ---
 title: A guide to Airtel GPRS And Airtel GPRS Configuration Settings
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-25T10:03:54+00:00
 url: /2008/10/25/a-guide-to-airtel-gprs-and-airtel-gprs-configuration-settings/

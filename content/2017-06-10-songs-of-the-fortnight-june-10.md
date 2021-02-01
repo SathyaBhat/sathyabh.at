@@ -1,6 +1,6 @@
 ---
 title: 'Monday Tunes #7'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-06-09T19:48:00+00:00
 url: /2017/06/10/songs-of-the-fortnight-june-10/

@@ -1,6 +1,6 @@
 ---
 title: Of Tumbles, Disabled NT accounts, And BarCampBangalore 7
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-12T19:33:23+00:00
 url: /2008/09/13/of-tumbles-disabled-nt-accounts-and-barcampbangalore-7/

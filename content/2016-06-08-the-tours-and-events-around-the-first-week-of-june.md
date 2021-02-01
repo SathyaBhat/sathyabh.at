@@ -1,6 +1,6 @@
 ---
 title: The tours and events around the first week of June
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-06-08T06:39:53+00:00
 url: /2016/06/08/the-tours-and-events-around-the-first-week-of-june/

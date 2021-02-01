@@ -1,6 +1,6 @@
 ---
 title: Creating and Editing Parameterized Queries in Excel 2007
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-10-11T22:06:02+00:00
 url: /2010/10/12/creating-and-editing-parameterized-queries-in-excel-2007/

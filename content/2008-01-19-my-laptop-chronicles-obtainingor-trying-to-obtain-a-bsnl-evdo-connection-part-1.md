@@ -1,6 +1,6 @@
 ---
 title: 'My Laptop Chronicles: Obtaining(or trying to obtain) a BSNL EVDO connection Part 1'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-01-19T07:59:38+00:00
 url: /2008/01/19/my-laptop-chronicles-obtainingor-trying-to-obtain-a-bsnl-evdo-connection-part-1/

@@ -1,6 +1,6 @@
 ---
 title: My Last few days in India….
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-11-10T18:26:38+00:00
 url: /2008/11/10/my-last-few-days-in-india/

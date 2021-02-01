@@ -1,6 +1,6 @@
 ---
 title: Mangalore Diaries – Part II
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-08-21T07:37:56+00:00
 url: /2008/08/21/mangalore-diaries-part-ii/

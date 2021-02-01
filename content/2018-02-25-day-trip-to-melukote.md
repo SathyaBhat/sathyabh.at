@@ -1,6 +1,6 @@
 ---
 title: Day Trip to Melukote
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2018-02-25T09:14:36+00:00
 url: /2018/02/25/day-trip-to-melukote/

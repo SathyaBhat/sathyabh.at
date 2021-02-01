@@ -1,6 +1,6 @@
 ---
 title: Redbus.in’s long weekend reminder mail
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-02-17T05:18:23+00:00
 url: /2012/02/17/redbus-ins-long-weekend-reminder-mail/

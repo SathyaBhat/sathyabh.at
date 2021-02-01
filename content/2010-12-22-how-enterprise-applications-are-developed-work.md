@@ -1,7 +1,7 @@
 ---
 title: |
   Dream Jobs That You're Glad You Didn't Pursue (AKA: How "Enterprise" Applications Work)
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-12-21T19:55:27+00:00
 url: /2010/12/22/how-enterprise-applications-are-developed-work/

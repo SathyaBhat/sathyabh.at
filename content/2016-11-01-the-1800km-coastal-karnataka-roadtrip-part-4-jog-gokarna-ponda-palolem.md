@@ -1,6 +1,6 @@
 ---
 title: The 1800km Coastal Karnataka Roadtrip – Part 4 – Jog – Gokarna – Ponda – Palolem
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-11-01T15:58:09+00:00
 url: /2016/11/01/the-1800km-coastal-karnataka-roadtrip-part-4-jog-gokarna-ponda-palolem/

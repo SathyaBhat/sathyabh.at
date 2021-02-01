@@ -1,6 +1,6 @@
 ---
 title: It’s All Over
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-06-10T13:46:24+00:00
 url: /2007/06/10/its-all-over/

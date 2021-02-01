@@ -1,6 +1,6 @@
 ---
 title: My new baby
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-03-02T17:14:35+00:00
 url: /2008/03/02/my-new-baby/

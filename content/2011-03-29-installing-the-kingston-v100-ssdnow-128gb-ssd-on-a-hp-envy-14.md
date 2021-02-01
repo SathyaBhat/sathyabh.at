@@ -1,6 +1,6 @@
 ---
 title: Installing the Kingston v100 SSDNow 128GB SSD on a HP Envy 14
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-03-29T04:42:39+00:00
 url: /2011/03/29/installing-the-kingston-v100-ssdnow-128gb-ssd-on-a-hp-envy-14/

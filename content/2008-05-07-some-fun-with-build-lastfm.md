@@ -1,6 +1,6 @@
 ---
 title: Some fun with Build Last.fm
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-05-07T09:59:31+00:00
 url: /2008/05/07/some-fun-with-build-lastfm/

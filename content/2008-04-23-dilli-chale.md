@@ -1,6 +1,6 @@
 ---
 title: Dilli Chale!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-04-23T06:39:49+00:00
 url: /2008/04/23/dilli-chale/

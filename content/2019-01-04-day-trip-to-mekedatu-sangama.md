@@ -1,6 +1,6 @@
 ---
 title: Day trip to Mekedatu Sangama
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2019-01-04T04:51:13+00:00
 url: /2019/01/04/day-trip-to-mekedatu-sangama/

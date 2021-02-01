@@ -1,6 +1,6 @@
 ---
 title: Configure Airtel GPRS / Mobile Office for Android
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-01-09T04:46:28+00:00
 url: /2011/01/09/configure-airtel-gprs-mobile-office-for-android/

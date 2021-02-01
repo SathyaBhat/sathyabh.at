@@ -1,6 +1,6 @@
 ---
 title: Closing the chapter
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-03-27T07:44:41+00:00
 url: /2013/03/27/closing-the-chapter/

@@ -1,6 +1,6 @@
 ---
 title: Sony Ericsson Xperia X1 Impressions
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-04-18T18:24:23+00:00
 url: /2008/04/18/sony-ericsson-xperia-x1-impressions/

@@ -1,6 +1,6 @@
 ---
 title: How many Justin Biebers could you take in a fight?
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-06-14T03:33:10+00:00
 url: /2010/06/14/how-many-justin-biebers-could-you-take-in-a-fight/

@@ -1,6 +1,6 @@
 ---
 title: 'On Contact Lenses and Bausch & Lomb’s Pure View “HD” lenses'
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-04-20T08:24:28+00:00
 url: /2012/04/20/on-contact-lenses-and-bausch-lombs-pure-view-hd-lenses/

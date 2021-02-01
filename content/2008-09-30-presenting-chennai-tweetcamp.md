@@ -1,6 +1,6 @@
 ---
 title: Presenting, Chennai TweetCamp!
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-30T15:32:49+00:00
 draft: true
