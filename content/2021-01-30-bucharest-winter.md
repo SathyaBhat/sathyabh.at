@@ -1,6 +1,6 @@
 ---
 title: Winter in Bucharest
-author: sathya
+author: Sathyajith Bhat
 type: post
 date: 2021-01-30
 url: /2021/01/30/bucharest-winter
