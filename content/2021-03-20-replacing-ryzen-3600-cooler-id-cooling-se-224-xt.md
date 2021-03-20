@@ -18,7 +18,7 @@ A year back, I'd rebuilt [my desktop with some components](https://sathyabh.at/2
 
 To reduce the temperatures, I tried various options including BIOS updates, adding in some new intake fans and changing the fan curves but those did not help. I didn't experience any performance or thermal throttling problems, it was still annoying to see the temperatures so high. After running the processor in this state for a year, I figured it is high time to change the stock CPU cooler. 
 
-Abhay recommended the [ID-Cooling SE-224-XT](http://www.idcooling.com/Product/detail/id/187/name/SE-224-XT%20Basic) as a good budget cooler. I'd never heard of ID-Cooling till now, but Abhay knows his components. A quick search showed the cooler had good reviews - plus it was going for a great price (106 Lei instead of the typical price of 140 Lei).
+[Abhay](https://twitter.com/ALPHA_Ronin) recommended the [ID-Cooling SE-224-XT](http://www.idcooling.com/Product/detail/id/187/name/SE-224-XT%20Basic) as a good budget cooler. I'd never heard of ID-Cooling till now, but Abhay knows his components. A quick search showed the cooler had good reviews - plus it was going for a great price (106 Lei instead of the typical price of 140 Lei).
 
 The box pack was quite comprehensive - it had the CPU heatsink, the fan, and an accessory box. The accessory box had mounting brackets, screws, standoffs, retainer clips for the fans for both the Intel and the AMD processors.
 
