@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2021-03-20
 url: /2021/03/20/replacing-ryzen-3600-cooler-id-cooling-se-224-xt/
-featured_image: 
-categories:
+featured_image: https://images.sbhat.me/sb/id-cooling/cooler-box.jpg
+categories: 
   - Computing
 tags:
   - desktop
@@ -30,6 +30,6 @@ Overall, I'm happy with the ID-Cooling SE-224-XT and would highly recommend it. 
 
 ### Gallery
 
-Catch the pics below in the Gallery
+Catch the pics below in [the Gallery](https://adobe.ly/3s4cfgU)
 
 <div class='lr_embed' style='position: relative; padding-bottom: 50%; height: 0; overflow: hidden;'><iframe id='iframe' src='https://lightroom.adobe.com/embed/shares/bee9ff4bbc4f4e4e8802c768fa3a6ee0/slideshow?background_color=%232D2D2D&color=%23999999' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
