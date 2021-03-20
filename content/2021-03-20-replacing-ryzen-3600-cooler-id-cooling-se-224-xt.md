@@ -22,9 +22,21 @@ Abhay recommended the [ID-Cooling SE-224-XT](http://www.idcooling.com/Product/de
 
 The box pack was quite comprehensive - it had the CPU heatsink, the fan, and an accessory box. The accessory box had mounting brackets, screws, standoffs, retainer clips for the fans for both the Intel and the AMD processors.
 
+![ID-Cooling SE-224-XT unboxed](https://images.sbhat.me/sb/id-cooling/unboxed.jpg)
+
 ### Installation
 
-Installing the cooler was easy, but when I removed the existing stock cooler, I was stumped. The location where I was supposed to place the standoffs had larger-than-expected screw threads. Removing the second side panel made me realize that the backplate had fallen off when I removed the existing cooler. I mounted the backplate, cleaned up the crud off the processor. Then put some fresh thermal paste (also included in the accessory box) and mounted the cooler on the processor. Mounting the fan was a bit more difficult - there were no screws to tighten. Rather some retainers had to be clipped-on to the edges of the fan and tacked onto the sides of the cooler. With the first boot, the temperature difference was immediately noticeable - the idle temperatures were down to mid-50s and under load. After running some Civ 6 benchmarks, the temperatures averaged around the mid-60s, not exceeding 75 Degree Celsius. I also tweaked the fan curves so that the fans turn on / increase the speed at higher temperatures so that the system runs a little bit quieter. 
+Installing the cooler was easy, but when I removed the existing stock cooler, I was stumped. The location where I was supposed to place the standoffs had larger-than-expected screw threads. Removing the second side panel made me realize that the backplate had fallen off when I removed the existing cooler. 
+
+![Missing backplate](https://images.sbhat.me/sb/id-cooling/missing-backplate.jpg)
+
+I mounted the backplate, cleaned up the crud off the processor. Then put some fresh thermal paste (also included in the accessory box) and mounted the cooler on the processor. Mounting the fan was a bit more difficult - there were no screws to tighten. Rather some retainers had to be clipped-on to the edges of the fan and tacked onto the sides of the cooler. 
+
+![Thermal paste on](https://images.sbhat.me/sb/id-cooling/thermal-paste-on.jpg)
+
+With the first boot, the temperature difference was immediately noticeable - the idle temperatures were down to mid-50s and under load. After running some Civ 6 benchmarks, the temperatures averaged around the mid-60s, not exceeding 75 Degree Celsius. I also tweaked the fan curves so that the fans turn on / increase the speed at higher temperatures so that the system runs a little bit quieter. 
+
+![New cooler installed](https://images.sbhat.me/sb/id-cooling/new-cooler-installed.jpg)
 
 Overall, I'm happy with the ID-Cooling SE-224-XT and would highly recommend it. Even without a discount, the cooler is reasonably priced and performs well.
 
