@@ -3,8 +3,7 @@ title: "Getting our COVID-19 vaccines as foreigners in Romania"
 author: Sathyajith Bhat
 type: post
 date: 2021-06-21
-url: /2021/06/20/getting-covid-19-vaccine-as-a-foreigner-in-romania
-featured_image: https://images.sbhat.me/sb/id-cooling/cooler-box.jpg
+url: /2021/06/21/getting-covid-19-vaccine-as-a-foreigner-in-romania
 categories: 
   - Life
 tags:
