@@ -4,6 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2021-06-21
 url: /2021/06/21/getting-covid-19-vaccine-as-a-foreigner-in-romania
+featured_image: https://images.sbhat.me/sb/empty_vaccination_centre.jpg
 categories: 
   - Life
 tags:
@@ -30,7 +31,7 @@ When the waitlist opened up, I tried to log in but clearly, the site was not rea
 
 ### The Wait
 
-With the registrations being done, all that we could do was wait. Some community-driven websites started popping up, prominent being [vaccin.live](https://vaccin.live/county/BUCURESTI.html) which has a nice map of all the available vaccination centres, the approximate waitlists and which vaccine a particular centre is administering. During our daily morning coffee meets with my teams, a person told me about this new centre which has opened up and has a lot of slots open. Now, when I had put my name on the waitlist, I had selected a vaccination centre close to home and the waitlist was about 4000. To change the centre, I'd lose this slot and go back in the queue, so initially, I was hesitant, especially since the waitlist at the new centre was also about 4000. But we were told that the waitlists at the new centre are moving fast, so I changed the centre. And about 30 minutes later, I get an SMS requesting me to book my slot. I hardly could believe it, but I scheduled my appointment for March 30. I realized later that the new centre was actually [Romexpo](https://www.google.com/maps/place/Romexpo/@44.4762267,26.0650938,15z/data=!4m2!3m1!1s0x0:0x80ccadadef58f6a0?sa=X&ved=2ahUKEwiRxYreo6nxAhVxs4sKHWVcCJAQ_BIwG3oECFsQBQ), a large exhibition centre converted to vaccination centre. Pretty neat!
+With the registrations being done, all that we could do was wait. Some community-driven websites started popping up, prominent being [vaccin.live](https://vaccin.live/county/BUCURESTI.html) which has a nice map of all the available vaccination centres, the approximate waitlists and which vaccine a particular centre is administering. During our daily morning coffee meets with my teams, a person told me about this new centre which has opened up and has a lot of slots open. Now, when I had put my name on the waitlist, I had selected a vaccination centre close to home and the waitlist was about 4000. To change the centre, I'd lose this slot and go back in the queue, so initially, I was hesitant, especially since the waitlist at the new centre was also about 4000. But I was told that the waitlists at the new centre are moving fast, so I changed the centre. And about 30 minutes later, I get an SMS requesting me to book my slot. I hardly could believe it, but I scheduled my appointment for March 30. I realized later that the new centre was actually [Romexpo](https://www.google.com/maps/place/Romexpo/@44.4762267,26.0650938,15z/data=!4m2!3m1!1s0x0:0x80ccadadef58f6a0?sa=X&ved=2ahUKEwiRxYreo6nxAhVxs4sKHWVcCJAQ_BIwG3oECFsQBQ), a large exhibition centre converted to vaccination centre. Pretty neat!
 
 ### Dose Days
 
@@ -52,9 +53,13 @@ I got the Pfizer vaccine and I didn't see any major side effects. After both the
 
 When Jo moved to Bucharest, my first concern was to get her vaccinated - but how? Since Jo hadn't gotten her resident permit yet, I couldn't book an appointment from the RO Vaccinare website. There was a drive-in vaccination centre at the mall near where we stay - and decided to try there, but they did not allow us to walk in, unfortunately. A teammate told me that at this point (mid-May), there was no need for any appointments - walking into any centre would do.
 
-We decided to head to Romexpo since that was the place with the most centres (Romexpo internally had about 12 vaccination centres - each centre having multiple booths). Once at Romexpo, once again we were floored by how nice and helpful the people were. 
+We decided to head to Romexpo since that was the place with the most centres (Romexpo internally had about 12 vaccination centres - each centre having multiple booths). This time, however, Romexpo was quite empty. 
+
+![Empty Vaccination Centre](https://images.sbhat.me/sb/empty_vaccination_centre.jpg)
+
+Once at Romexpo, once again we were floored by how nice and helpful the people were. 
 
 {{< tweet 1406193372994342913 >}}
 
-Jo got her both her doses by using her Passport as the id proof, and with a code that we've gotten over SMS, we can download a digitally signed copy of the certificate from the National Electronic Vaccination Register ([renv.ro](https://adulti.renv.ro/users/login))
+Jo got her both her doses by using her Passport as the id proof, and with a code that we've gotten over SMS, we can download a digitally signed copy of the certificate from the National Electronic Vaccination Register ([renv.ro](https://adulti.renv.ro/users/login)). It's a great relief to be vaccinated. COVID cases in Romania have been on a drastic downswing, which is always an encouraging sign. We're still waiting for Jo's resident permit, and once we have that, we're likely to start exploring more of Romania. Subscribe to the [RSS Feed](https://sathyabh.at/index.xml) for updates!
 
