@@ -48,14 +48,14 @@ With my [Romania move finalized](https://sathyabh.at/2020/01/08/salut-bucharest/
 - RAM: Corsair Vengeance LPX 16GB DDR4 3200MHz
 - Cabinet: CoolerMaster Masterbox MB511
 - PSU: Corsair RM650
-- Monitor: Acer Nitro VG271UP 27", WQHD(1440p, 144Hz) and Dell P2418D 24", 1080p 60Hz (in portrait mode)
+- Monitor: Acer Nitro VG271UP 27", WQHD(1440p, 144Hz) and Dell P2418D 24", 1440p 60Hz (in portrait mode)
 
 I bought from a variety of sources, depending where I got the best price - Processor & Motherboard from [PC Garage](https://www.pcgarage.ro/), Cabinet from [evoMAG](https://www.evomag.ro/), RAM, PSU from [eMag](https://emag.ro) and the monitors from [Altex](https://altex.ro/). The rest of the components I carried over from my old PC:
 
 - GPU: EVGA GeForce GTX 1080 SC GAMING ACX 3.0
 - Keyboard: Corsair K70 Lux
 - Mouse: Corsair Glaive
-- Webcam: Logitech C270 
+- Webcam: Logitech <s>c270</s> c930e 
 
 Since I didn't have a lot of space on the desk, plus the fact that the Acer Nitro monitor has a really, really, [really bad stand](https://www.reddit.com/r/Monitors/comments/aybrqj/review_of_the_acer_nitro_vg271up/), I decided to get a [SBOX LCD 352-2 monitor arm](https://www.pcgarage.ro/suport-tv-monitor/sbox/lcd-352-2-13-27-inch/) from PC Garage.
 
