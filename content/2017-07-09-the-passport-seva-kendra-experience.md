@@ -32,7 +32,7 @@ By the time I was out it was close to 1:40 (not bad!) and I decided to go home a
 
 Some notes and observations of the PSK at Sai Arcade:
 
-  * Don't forget to carry printout of the application form. You won't be allowed without it.
+  * Keep the SMS of the appointment saved and ready, they're quite likely to check it
   * SMS update service costs ₹45, but needs to be paid in cash over counter A. I have no idea why it's not collected online. Carry change. Else forget about getting the ₹5 back
   * PSK at Bellandur has paid parking at the back. Just search for PSK Paid parking, maps is accurate. ₹20 for 2 hours. You can walk right to the PSK from the parking lot. No need to walk back to the main road.
   * You'll need one self attested set(ie sign on the photocopies) of your document proof along with the originals. There's a photocopy("Xerox") booth available at the PSK office itself.
