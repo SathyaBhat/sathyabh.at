@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2021-01-30
 url: /2021/01/30/bucharest-winter
-featured_image: https://images.sbhat.me/sb/winter/winter10.jpg
+featured_image: https://i.sathyabh.at/sb/winter/winter10.jpg
 categories:
   - Life
 tags:
@@ -23,20 +23,20 @@ Enjoy the photos and the videos.
 {{< youtube 4Q5gmB7Xlkw >}}
 {{< youtube D0QOa6ZvoiE >}}
 
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter01.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter02.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter03.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter04.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter05.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter06.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter07.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter08.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter09.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter10.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter11.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter11.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter12.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter13.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter14.jpg" "Snow!" "Winter Wonderland" >}}
-{{< fancybox "https://images.sbhat.me/sb/winter" "winter15.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter01.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter02.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter03.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter04.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter05.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter06.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter07.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter08.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter09.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter10.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter11.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter11.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter12.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter13.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter14.jpg" "Snow!" "Winter Wonderland" >}}
+{{< fancybox "https://i.sathyabh.at/sb/winter" "winter15.jpg" "Snow!" "Winter Wonderland" >}}
 

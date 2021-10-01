@@ -68,7 +68,7 @@ Unfortunately, due to time constraints and a work visit that was to follow, I ha
 
 With visa and flight tickets confirmed - the next challenge came in about moving and what exactly to be shifted. Jo and I created a Trello board making a list of our possessions and what should be moved right now/later/never at all. We've been using Trello for organizing a lot of things which has made our lives easier and this was no different. They say a picture tells a thousand words so I'll get the below image do the talking.
 
-{{< fancybox "https://images.sbhat.me/sb" "trello.png" "Trello list" "Trello" >}}
+{{< fancybox "https://i.sathyabh.at/sb" "trello.png" "Trello list" "Trello" >}}
 
 If you find this screenshot useful - check out [the Trello template](https://trello.com/b/UyEBCXxq/relocation-guidelines/sathyabhat/recommend) I have created using this.
 

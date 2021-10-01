@@ -66,42 +66,42 @@ What's a build post without some pictures?
 
 #### Processor & Motherboard 
 
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "processor-motherboard-power-supply.jpg" "Processor, Motherboard & Power Supply" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "processor.jpg" "Processor. TIM is rather thin..." "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "processor-fan.jpg" "Stock Ryzen processor fan" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "cabinet.jpg" "CoolerMaster MasterBox MB511" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "processor-motherboard-power-supply.jpg" "Processor, Motherboard & Power Supply" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "processor.jpg" "Processor. TIM is rather thin..." "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "processor-fan.jpg" "Stock Ryzen processor fan" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "cabinet.jpg" "CoolerMaster MasterBox MB511" "Hellforge Remastered" >}}
 
 #### Monitor 
 
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "monitor-box.jpg" "The box in which the Acer monitor came in" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "useless-stand.jpg" "The monitor stand is simply useless." "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "assembled-monitor.jpg" "Yep, that's it standing straight." "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "connected-to-ps4.jpg" "Playing Driveclub on the PS4" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "monitor-arm.jpg" "Monitor Arm" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "monitor-box.jpg" "The box in which the Acer monitor came in" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "useless-stand.jpg" "The monitor stand is simply useless." "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "assembled-monitor.jpg" "Yep, that's it standing straight." "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "connected-to-ps4.jpg" "Playing Driveclub on the PS4" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "monitor-arm.jpg" "Monitor Arm" "Hellforge Remastered" >}}
 
 #### Linnmon/Adils table assembly
 
 I bought the Linnmon/Adils from Ikea to replace the existing table. The first Linnmon countertop Ikea sent got damaged in transit. 
 
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "cardboard-cover.jpg" "Damaged Linnmon countertop" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "damaged-linnmon.jpg" "Damaged Linnmon countertop" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "closer-look-at-linnmon.jpg" "Closer look at the damaged Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "cardboard-cover.jpg" "Damaged Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "damaged-linnmon.jpg" "Damaged Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "closer-look-at-linnmon.jpg" "Closer look at the damaged Linnmon countertop" "Hellforge Remastered" >}}
 
 Thankfully Ikea replaced the Linnmon countertop, no questions asked after I filled up a small form with pictures above. Assembling the Linnmon/Adils was quite easy - line up the receptacles at the points, screw them up and then screw in the legs
 
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fitting-first-receptacle.jpg" "Fitting in the first receptacle for Adils leg" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "leg-receptacles.jpg" "Receptacle for Adils legs screwed in" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "linnmon-countertop.jpg" "Linnmon countertop" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "linnmon-existing-comparison.jpg" "Linnmon countertop length compared to existing table" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fitting-adils-legs.jpg" "Fitting in Adils legs" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "fitting-first-receptacle.jpg" "Fitting in the first receptacle for Adils leg" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "leg-receptacles.jpg" "Receptacle for Adils legs screwed in" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "linnmon-countertop.jpg" "Linnmon countertop" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "linnmon-existing-comparison.jpg" "Linnmon countertop length compared to existing table" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "fitting-adils-legs.jpg" "Fitting in Adils legs" "Hellforge Remastered" >}}
 
 
 
 #### Road to final assembly
 
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "fully-assembled.jpg" "Components built" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "initial-setup.jpg" "Initial setup without the monitor arm" "Hellforge Remastered" >}}
-{{< fancybox "https://images.sbhat.me/sb/hellforge-remastered" "complete-setup.jpg" "Complete setup" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "fully-assembled.jpg" "Components built" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "initial-setup.jpg" "Initial setup without the monitor arm" "Hellforge Remastered" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-remastered" "complete-setup.jpg" "Complete setup" "Hellforge Remastered" >}}
 
 ### Temps and stuff
 

@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2021-06-21
 url: /2021/06/21/getting-covid-19-vaccine-as-a-foreigner-in-romania
-featured_image: https://images.sbhat.me/sb/empty_vaccination_centre.jpg
+featured_image: https://i.sathyabh.at/sb/empty_vaccination_centre.jpg
 categories: 
   - Life
 tags:
@@ -55,7 +55,7 @@ When Jo moved to Bucharest, my first concern was to get her vaccinated - but how
 
 We decided to head to Romexpo since that was the place with the most centres (Romexpo internally had about 12 vaccination centres - each centre having multiple booths). This time, however, Romexpo was quite empty. 
 
-![Empty Vaccination Centre](https://images.sbhat.me/sb/empty_vaccination_centre.jpg)
+![Empty Vaccination Centre](https://i.sathyabh.at/sb/empty_vaccination_centre.jpg)
 
 Once at Romexpo, once again we were floored by how nice and helpful the people were. 
 
