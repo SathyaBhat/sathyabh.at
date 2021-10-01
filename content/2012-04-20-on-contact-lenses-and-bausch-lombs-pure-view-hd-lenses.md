@@ -15,7 +15,7 @@ tags:
 I've been wearing contact lenses for more than 10 years now. Switched to contacts from my clunky spectacles when I started my PU(aka 11th).
 
 <div id="attachment_626" style="width: 729px" class="wp-caption aligncenter">
-  <a href="https://images.sbhat.me/sb/2012/04/26076_384503182411_3200318_n.jpg"><img src="https://images.sbhat.me/sb/2012/04/26076_384503182411_3200318_n.jpg" alt="Guess who I am & win!" title="Guess who I am & win!" width="719" height="464" class="size-full wp-image-626" /></a>
+  <a href="https://i.sathyabh.at/sb/2012/04/26076_384503182411_3200318_n.jpg"><img src="https://i.sathyabh.at/sb/2012/04/26076_384503182411_3200318_n.jpg" alt="Guess who I am & win!" title="Guess who I am & win!" width="719" height="464" class="size-full wp-image-626" /></a>
   
   <p class="wp-caption-text">
     Guess who I am & win!

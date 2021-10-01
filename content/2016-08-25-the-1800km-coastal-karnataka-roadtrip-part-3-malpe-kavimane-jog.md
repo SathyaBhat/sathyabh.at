@@ -22,32 +22,32 @@ Waking up beach side in Malpe, I was more excited than ever - we had a long day 
 
 <!--more-->
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Breakfast-at-Paradise-Isle.jpg" "Breakfast at Paradise Isle" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Breakfast-at-Paradise-Isle.jpg" "Breakfast at Paradise Isle" "Roadtrip" >}}
 
 
 With a view like this while having breakfast, it was really hard to say goodbye, but we had to move on to avoid delays. Before we went full on the highway, we went searching for an umbrella to avoid getting drenched (Jo had an umbrella.. and with the way it'd been pouring, just one was not enough). We bought an Umbrella at a nearby town and started towards our first stop, Kavimane.
 
 Unlike our earlier days, today's journey was solely through State Highways. That meant narrower roads, but roads were well maintained and we didn't run into any major potholes and jams.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-4.jpg" "Narrow roads.." "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-3.jpg" "Narrow roads.." "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-1.jpg" "Narrow roads.." "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-2.jpg" "Passing through a plantation" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-4.jpg" "Narrow roads.." "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-3.jpg" "Narrow roads.." "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-1.jpg" "Narrow roads.." "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-2.jpg" "Passing through a plantation" "Roadtrip" >}}
 
 As we got closer and closer towards Agumbe, the roads got narrower, the weather outside was changing - it becoming more and more foggy, till I noticed what Google Maps was showing up on the road ahead.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-Maps.jpg" "Agumbe Maps" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-Maps.jpg" "Agumbe Maps" "Roadtrip" >}}
 
 Fully pumped, we started climbing up only for the roads to get even narrower and foggier. Our car got clumped with a set of 2 cars ahead of us to form a cavalcade of sorts, closely sticking close to each other to avoid running into problems.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-cavalcade.jpg" "Agumbe cavalcade" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-cavalcade.jpg" "Agumbe cavalcade" "Roadtrip" >}}
 
 By the time we reached the peak, the fog was so thick, I could barely see anything beyond the hood. I stopped the car on the side to take a look around.. though we couldn't see much, it was just amazing.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-Peak-1.jpg" "Agumbe Peak" "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-Peak-2.jpg" "Foggy" "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-Peak-3.jpg" "Foggy" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Agumbe-Peak-4.jpg" "Selfie at Agumbe Peak" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-Peak-1.jpg" "Agumbe Peak" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-Peak-2.jpg" "Foggy" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-Peak-3.jpg" "Foggy" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Agumbe-Peak-4.jpg" "Selfie at Agumbe Peak" "Roadtrip" >}}  
 
 &nbsp;
 
@@ -55,12 +55,12 @@ Agumbe done, we started for Kavimane and reached there in about 1.5 hours. Kavi
 
 Kavimane houses a lot of interesting and mundane artifacts from Kuvempu's life - the mantapa where he got married, the kitchen utensils - these take back to the days gone past. Unfortunately photography was prohibited inside the house, so we had to make do with ones outside.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavimane-5.jpg" "Kavimane entrance" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavimane-4.jpg" "Kavimane" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavimane-3.jpg" "Outhouse containing farming equipment" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavimane-2.jpg" "Asian Paints protection!" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavimane-6.jpg" "Small road leading to Kavimane" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavimane-1.jpg" "Side view of Kavimane" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavimane-5.jpg" "Kavimane entrance" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavimane-4.jpg" "Kavimane" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavimane-3.jpg" "Outhouse containing farming equipment" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavimane-2.jpg" "Asian Paints protection!" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavimane-6.jpg" "Small road leading to Kavimane" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavimane-1.jpg" "Side view of Kavimane" "Roadtrip" >}}  
 
 From here we went over to Kavishaila, which is a monument made of megalithic rocks arranged in a fashion resembling to the Stonehenge. Kavishaila is on the top of a small hill accessible via a short back road from Kavimane or a longer dedicated road. It is where Kuvempu used to write as a youngster and where he was laid to rest after his death.  The view from the top of Kavishaila is terrific but we couldn't catch a proper sight as it started raining very heavily.
 
@@ -68,29 +68,29 @@ From here we went over to Kavishaila, which is a monument made of megalithic roc
 
 A [360 degree panoramic view of Kavishaila](https://goo.gl/photos/USDY5zbiuhjCZj5TA) (well, almost - was hard to take a photosphere with an umbrella in your hand )
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavishaila.jpg" "Kavishaila" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavishaila-3.jpg" "Jo at Kavishaila entrance" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Kavishaila-2.jpg" "Kavishaila" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavishaila.jpg" "Kavishaila" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavishaila-3.jpg" "Jo at Kavishaila entrance" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Kavishaila-2.jpg" "Kavishaila" "Roadtrip" >}}  
 
 
 With lunch time near and stomach rumbling, we had to stop for lunch. There aren't any places in Kupalli and I decided to stop at Thirthalli for lunch. After a quick lunch pitstop we started towards Jog and reached there in another couple of hours. A massive plaque welcomed us to Jog
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Welcome-to-Jog.jpg" "Welcome to Jog" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Welcome-to-Jog.jpg" "Welcome to Jog" "Roadtrip" >}}  
 
 
 Since it was a public holiday, Jog was pretty heavily crowded. We decided to check into our Hotel room at KSTDC Mayura Gersoppa. When the manager took us to our room and opened the doors, I couldn't believe my eyes. The room was fairly massive and had an amazing view of Jog falls.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "KSTDC-Mayura-Gersoppa-1.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "KSTDC-Mayura-Gersoppa-4.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "KSTDC-Mayura-Gersoppa-3.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "KSTDC-Mayura-Gersoppa-2.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "KSTDC-Mayura-Gersoppa-1.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "KSTDC-Mayura-Gersoppa-4.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "KSTDC-Mayura-Gersoppa-3.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "KSTDC-Mayura-Gersoppa-2.jpg" "KSTDC Mayura Gersoppa" "Roadtrip" >}}  
 
 Since it's quite common to have fog come over in no time and spoil the view of the falls, we ran over outside to grab a view of the majestic falls and we weren't disappointed.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Jog-falls.jpg" "Jog falls" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Jog-falls-2.jpg" "Jog falls" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "foggy-Jog.jpg" "foggy Jog" "Roadtrip" >}}  
-{{< fancybox "https://images.sbhat.me/sb/2016/08" "Jo-looking-at-Jog.jpg" "Jo looking at Jog" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Jog-falls.jpg" "Jog falls" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Jog-falls-2.jpg" "Jog falls" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "foggy-Jog.jpg" "foggy Jog" "Roadtrip" >}}  
+{{< fancybox "https://i.sathyabh.at/sb/2016/08" "Jo-looking-at-Jog.jpg" "Jo looking at Jog" "Roadtrip" >}}  
 
 No sooner than we took a small walk across the corridor that the fog settled in, obscuring our view. We were told that there was to be a Laser light show but we decided to skip it, instead opting to return to our room and relax and retire for the night. A word of advice about food though: there's only one restaurant here and you really don't have too many choices. There are couple of small shops where you can maggi/chat etc so set your expectations accordingly.
 

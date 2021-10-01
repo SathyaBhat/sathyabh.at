@@ -44,8 +44,8 @@ Now, for the pictures. You've been warned. This was how it was when I opened the
 
 <!--more-->
 
-{{< fancybox "https://images.sbhat.me/sb/2017/05" "cpu-hsf-top-fans.jpg" "CPU heatsink/fan with cabinet top fans" "Cooldown" >}}
-{{< fancybox "https://images.sbhat.me/sb/2017/05" "full-cabinet.jpg" "Full cabinet" "Cooldown" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2017/05" "cpu-hsf-top-fans.jpg" "CPU heatsink/fan with cabinet top fans" "Cooldown" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2017/05" "full-cabinet.jpg" "Full cabinet" "Cooldown" >}}
 
 
 <div id="attachment_1183" style="width: 1623px" class="wp-caption aligncenter">

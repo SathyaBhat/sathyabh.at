@@ -45,27 +45,27 @@ Having had breakfast, we went walking around the property. Jo spotted a swing an
 
 Also noticed an AntHill around.
 
-<img class="aligncenter size-full wp-image-881" src="https://images.sbhat.me/sb/2016/02/anthill.jpg" alt="anthill" width="866" height="1155" /> 
+<img class="aligncenter size-full wp-image-881" src="https://i.sathyabh.at/sb/2016/02/anthill.jpg" alt="anthill" width="866" height="1155" /> 
 
 We checked out from Palm Era resorts and headed towards Nisargadhama. Nisardhama was barely 2 kilometers away, so wasn't long before we reached. There was a fair bit of crowd but nothing that you'd feel uncomfortable with.
 
-<img class="aligncenter size-full wp-image-862" src="https://images.sbhat.me/sb/2016/02/Nisargadhama.jpg" alt="Nisargadhama" width="1560" height="2104" /> 
+<img class="aligncenter size-full wp-image-862" src="https://i.sathyabh.at/sb/2016/02/Nisargadhama.jpg" alt="Nisargadhama" width="1560" height="2104" /> 
 
 When you reach the place, a very nice suspension bridge with the sanctuary board welcomes you. From the bridge, you can see river Kaveri flowing. There's boating here and you can hear the crew whistling regularly to warn people from not go away too far off.
 
-<img class="aligncenter size-full wp-image-863" src="https://images.sbhat.me/sb/2016/02/Nisargadhama2.jpg" alt="Nisargadhama2" width="2309" height="1732" /> 
+<img class="aligncenter size-full wp-image-863" src="https://i.sathyabh.at/sb/2016/02/Nisargadhama2.jpg" alt="Nisargadhama2" width="2309" height="1732" /> 
 
 Once the euphoria of seeing the suspension bridge and the river is over, you see Nisargadhama for what it is - a huge, barren island which hasn't been maintained really that well(except for being sorta clean). There are treehouses, the trees have paintings of various animals on them(which is pretty neat) but really, there isn't much that can be done. Sure, there's an elephant ride but that didn't start till 11, so we didn't get to try that.
 
-<img class="aligncenter size-full wp-image-864" src="https://images.sbhat.me/sb/2016/02/Nisargadhama3.jpg" alt="Nisargadhama3" width="2309" height="1732" /> 
+<img class="aligncenter size-full wp-image-864" src="https://i.sathyabh.at/sb/2016/02/Nisargadhama3.jpg" alt="Nisargadhama3" width="2309" height="1732" /> 
 
 We headed on to the Deer park but that was in absolute shambles. There was literally no green cover, the ground was really dry, the trees were chopped and charred, there was one tiny shed for the Deer to take shelter and to make matters worse people were mocking and teasing deer without care or bother.
 
-<img class="aligncenter size-full wp-image-865" src="https://images.sbhat.me/sb/2016/02/Nisargadhama4.jpg" alt="Nisargadhama4" width="1155" height="866" /> 
+<img class="aligncenter size-full wp-image-865" src="https://i.sathyabh.at/sb/2016/02/Nisargadhama4.jpg" alt="Nisargadhama4" width="1155" height="866" /> 
 
-<img class="aligncenter size-full wp-image-866" src="https://images.sbhat.me/sb/2016/02/Nisargadhama5.jpg" alt="Nisargadhama5" width="1155" height="866" /> 
+<img class="aligncenter size-full wp-image-866" src="https://i.sathyabh.at/sb/2016/02/Nisargadhama5.jpg" alt="Nisargadhama5" width="1155" height="866" /> 
 
-<img class="aligncenter size-full wp-image-867" src="https://images.sbhat.me/sb/2016/02/Nisargadhama6.jpg" alt="Nisargadhama6" width="1155" height="866" /> 
+<img class="aligncenter size-full wp-image-867" src="https://i.sathyabh.at/sb/2016/02/Nisargadhama6.jpg" alt="Nisargadhama6" width="1155" height="866" /> 
 
 As there wasn't much to do, we decided to head on and exit Nisargadhama - that's when we spotted the zipline board. After couple of no, maybe, no, I convinced Jo to take the zipline.. and that probably was the best part of the park.
 
@@ -75,26 +75,26 @@ From here, we headed towards Bylakuppe which houses the Tibetian settlement and
 
 And true to my expectation, the place was packed. Unfortunately, it was packed way more than expected and resembled more of a market than a monastery.
 
-<img class="aligncenter size-full wp-image-868" src="https://images.sbhat.me/sb/2016/02/monastery1.jpg" alt="monastery1" width="4610" height="2807" /> 
+<img class="aligncenter size-full wp-image-868" src="https://i.sathyabh.at/sb/2016/02/monastery1.jpg" alt="monastery1" width="4610" height="2807" /> 
 
-<img class="aligncenter size-full wp-image-869" src="https://images.sbhat.me/sb/2016/02/monastery2.jpg" alt="monastery2" width="1155" height="866" /> 
+<img class="aligncenter size-full wp-image-869" src="https://i.sathyabh.at/sb/2016/02/monastery2.jpg" alt="monastery2" width="1155" height="866" /> 
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-875" src="https://images.sbhat.me/sb/2016/02/monastery4.jpg" alt="monastery4" width="1154" height="1029" /> 
+<img class="aligncenter size-full wp-image-875" src="https://i.sathyabh.at/sb/2016/02/monastery4.jpg" alt="monastery4" width="1154" height="1029" /> 
 
 The main monastery was also pretty crowded and all signs requesting silence to be kept were gleefully ignored.
 
 The temple, however instills a sense of peace and quiet you don't see elsewhere. The insides have some incredible paintings, depicting Gods, Demons, lifecycles around Buddhism. If you've been to Leh, you can related to these paintings especially if you've been told the story around the paintings or explained them
 
-<img class="aligncenter size-full wp-image-877" src="https://images.sbhat.me/sb/2016/02/monastery5.jpg" alt="monastery5" width="866" height="1155" />  
-<img class="aligncenter size-full wp-image-878" src="https://images.sbhat.me/sb/2016/02/monastery6.jpg" alt="monastery6" width="1155" height="866" /> 
+<img class="aligncenter size-full wp-image-877" src="https://i.sathyabh.at/sb/2016/02/monastery5.jpg" alt="monastery5" width="866" height="1155" />  
+<img class="aligncenter size-full wp-image-878" src="https://i.sathyabh.at/sb/2016/02/monastery6.jpg" alt="monastery6" width="1155" height="866" /> 
 
 With people getting too loud in the temple, we moved out and started walking around the monastery, where we found another smaller temple with much lesser people around
 
-<img class="aligncenter size-full wp-image-880" src="https://images.sbhat.me/sb/2016/02/monastery7.jpg" alt="monastery7" width="1155" height="866" /> 
+<img class="aligncenter size-full wp-image-880" src="https://i.sathyabh.at/sb/2016/02/monastery7.jpg" alt="monastery7" width="1155" height="866" /> 
 
-<img class="aligncenter size-full wp-image-879" src="https://images.sbhat.me/sb/2016/02/monastery8.jpg" alt="monastery8" width="1052" height="780" /> 
+<img class="aligncenter size-full wp-image-879" src="https://i.sathyabh.at/sb/2016/02/monastery8.jpg" alt="monastery8" width="1052" height="780" /> 
 
 Sat here for a while, soaked in the peace. With the trip ending, we started to head back toward Bangalore and reached by evening.
 

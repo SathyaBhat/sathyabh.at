@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2020-12-06T05:00:00+00:00
 url: /2020/12/06/seven-years-of-togetherness
-featured_image: https://images.sbhat.me/sb/seven-years/seven-years.jpg
+featured_image: https://i.sathyabh.at/sb/seven-years/seven-years.jpg
 categories:
   - Life
 tags:
@@ -43,18 +43,18 @@ Zoomin's delivery estimate indicated that the delivery might happen +/- 2 days o
 {{< tweet 1332588852037431298 >}}
 {{< tweet 1332589434714415105 >}}
 
-{{< fancybox "https://images.sbhat.me/sb/seven-years" "post-card.jfif" "Post Card" "Seven years of togetherness" >}}
-{{< fancybox "https://images.sbhat.me/sb/seven-years" "post-card-back.jfif" "Post Card Back" "Seven years of togetherness" >}}
+{{< fancybox "https://i.sathyabh.at/sb/seven-years" "post-card.jfif" "Post Card" "Seven years of togetherness" >}}
+{{< fancybox "https://i.sathyabh.at/sb/seven-years" "post-card-back.jfif" "Post Card Back" "Seven years of togetherness" >}}
 
 Zoomin missed the delivery by a day but it was delivered nonetheless quite early, so that was a good thing for me to start my day with. Here are some pics from the photo book. 
 
-{{< fancybox "https://images.sbhat.me/sb/seven-years" "gift-wrap.jpg" "Gift wrapped photobook" "Seven years of togetherness" >}}
-{{< fancybox "https://images.sbhat.me/sb/seven-years" "pb2.jpg" "A pic from the photo book" "Seven years of togetherness" >}}
+{{< fancybox "https://i.sathyabh.at/sb/seven-years" "gift-wrap.jpg" "Gift wrapped photobook" "Seven years of togetherness" >}}
+{{< fancybox "https://i.sathyabh.at/sb/seven-years" "pb2.jpg" "A pic from the photo book" "Seven years of togetherness" >}}
 
 
 So Happy 7 years & more to us!
 
-{{< fancybox "https://images.sbhat.me/sb/seven-years" "pb1.jpg" "Another pic from the photo book" "Seven years of togetherness" >}}
-{{< fancybox "https://images.sbhat.me/sb/seven-years" "seven-years.jpg" "Pic from the wedding day" "Seven years of togetherness" >}}
+{{< fancybox "https://i.sathyabh.at/sb/seven-years" "pb1.jpg" "Another pic from the photo book" "Seven years of togetherness" >}}
+{{< fancybox "https://i.sathyabh.at/sb/seven-years" "seven-years.jpg" "Pic from the wedding day" "Seven years of togetherness" >}}
 
 

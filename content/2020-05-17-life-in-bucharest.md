@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2020-05-17T05:00:00+00:00
 url: /2020/05/17/life-in-bucharest
-featured_image: https://images.sbhat.me/sb/bucharest.jpg
+featured_image: https://i.sathyabh.at/sb/bucharest.jpg
 categories:
   - Life
 tags:
@@ -13,7 +13,7 @@ tags:
 
 It's been [7 months since I've been in Bucharest](https://sathyabh.at/2020/01/08/salut-bucharest/). The past couple of months I've been under quarantine and staying indoors. That aside, people kept asking me how's it been in Bucharest and how's life been in Bucharest, how different life is compared to Bangalore. 
 
-{{< fancybox "https://images.sbhat.me/sb" "bucharest.jpg" "Sunset at Bucharest" "Bucharest" >}}
+{{< fancybox "https://i.sathyabh.at/sb" "bucharest.jpg" "Sunset at Bucharest" "Bucharest" >}}
 
 
 Moving across the world is a huge endeavour and even though I've done my share of travels, moving and settling in Bucharest while smooth, experiencing day to day life in Bucharest took me by surprise. Here's a list of things that stood out:

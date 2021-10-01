@@ -23,7 +23,7 @@ With our trip almost at the halfway point, we were beginning to feel a bit bumme
 
 We took the Gersoppa/Honnavar route and while driving, were so glad to have taken the Agumbe route while heading towards Jog. The roads were narrow, not well maintained, pothole ridden and in addition you had buses driving maniacally to avoid the potholes and it almost resulted in a big collision at one instance because the bus driver was just way too fast. Upside though, we did spot a bunch of what seemed like Grey Langurs.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Langur.jpg" "Grey Langur" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Langur.jpg" "Grey Langur" "Roadtrip" >}}
 
 Soon we crossed the village of Gersoppa and passed through Sharavathi Hydroelectric Power Generating station. Not too far away from here, we spotted a rather large suspension bridge. Unfortunately the bridge was closed for painting the day we were passing through and were not able to climb/cross over to check further.
 
@@ -36,25 +36,25 @@ While Goa is known to many as the beach state, for us Konkanas, it's the temple�
 
 First stop was Shri Mahalasa Narayani temple, Kuldevi for my family side
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Mahalasa-Temple-1.jpg" "Mahalasa Temple Main Gate" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Mahalasa-Temple-1.jpg" "Mahalasa Temple Main Gate" "Roadtrip" >}}
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Mahalasa-Temple-3.jpg" "Mahalasa Temple Inside Hall" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Mahalasa-Temple-3.jpg" "Mahalasa Temple Inside Hall" "Roadtrip" >}}
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Mahalasa-Temple-2.jpg" "Mahalasa Temple surrounding walkway" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Mahalasa-Temple-2.jpg" "Mahalasa Temple surrounding walkway" "Roadtrip" >}}
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Mahalasa-Temple-4.jpg" "Mahalasa Temple corridors" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Mahalasa-Temple-4.jpg" "Mahalasa Temple corridors" "Roadtrip" >}}
 
 After a short time here, we headed for Shri Ramnath temple which is Jo's family's Kuldevtha.
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Ramnathi-3.jpg" "Ramnathi Temple Main Entrance" "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Ramnathi-2.jpg" "Ramnathi Temple Main Entrance" "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Ramnathi-4.jpg" "Ramnathi Temple" "Roadtrip" >}}
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "Ramnathi-1.jpg" "Ramnathi Temple" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Ramnathi-3.jpg" "Ramnathi Temple Main Entrance" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Ramnathi-2.jpg" "Ramnathi Temple Main Entrance" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Ramnathi-4.jpg" "Ramnathi Temple" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "Ramnathi-1.jpg" "Ramnathi Temple" "Roadtrip" >}}
 
 
 By the time we were done with the temple visits, it was close to 6:00pm and it'd take us another hour and half to get back, so we decided to head back to Palolem. Finding out where Castle House, our hotel was a bit tricky as the road was not lit and it was off the main road but with a bit of glancing into (slight) darkness and around, we finally reached our destination
 
-{{< fancybox "https://images.sbhat.me/sb/2016/11" "castle-house-1.jpg" "Castle House" "Roadtrip" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2016/11" "castle-house-1.jpg" "Castle House" "Roadtrip" >}}
 
 
 ### Facts of the day
