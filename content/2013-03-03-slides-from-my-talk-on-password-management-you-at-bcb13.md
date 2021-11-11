@@ -13,7 +13,7 @@ tags:
   - security
 
 ---
-I've been going to <a href="https://barcampbangalore.org/bcb" target="_blank">Barcamp Bangalore</a> since quite a while now, and it was only at last time's Barcamp Bangalore that I actually gave a techlash session on Automated backup. This time, I decided to give a general session with focus on how & why people people should improve their passwords & password management skills. Embedded below are my slides.
+I've been going to <a href="https://barcampbangalore.com/bcb" target="_blank">Barcamp Bangalore</a> since quite a while now, and it was only at last time's Barcamp Bangalore that I actually gave a techlash session on Automated backup. This time, I decided to give a general session with focus on how & why people people should improve their passwords & password management skills. Embedded below are my slides.
 
 
 
