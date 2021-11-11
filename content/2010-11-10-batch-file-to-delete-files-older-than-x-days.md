@@ -11,8 +11,6 @@ url: /2010/11/10/batch-file-to-delete-files-older-than-x-days/
 categories:
   - Computing
 tags:
-  - backup
-  - batch-file
   - command-line
 
 ---

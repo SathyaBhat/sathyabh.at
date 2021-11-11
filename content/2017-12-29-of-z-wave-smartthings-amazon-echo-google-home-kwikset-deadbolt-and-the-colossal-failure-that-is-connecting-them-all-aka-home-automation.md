@@ -7,18 +7,11 @@ url: /2017/12/29/of-z-wave-smartthings-amazon-echo-google-home-kwikset-deadbolt-
 categories:
   - Computing
 tags:
-  - alexa
-  - epic fail
-  - fail
-  - google assistant
   - home automation
-  - kiwkset
-  - smartthings hub
 
 ---
-This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought a <a href="https://www.amazon.com/Kwikset-SmartCode-Electronic-SmartThings-featuring/dp/B004F1B24I/ref=sr_1_1?ie=UTF8&qid=1514550037&sr=8-1&keywords=kwikset+910" target="_blank" rel="noopener">Kwikset 910 deadbolt</a> (more like I asked her to buy - hindsight I should have done more and better research) and I was trying to setup the remote locking feature using Alexa/Google Assistant via <a href="https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE/ref=sr_1_3?s=hi&ie=UTF8&qid=1514550067&sr=1-3&keywords=smartthings+hub" target="_blank" rel="noopener">SmartThings</a> Hub. Here's a copy-paste of the entire message. I'll have a separate post on my home automation setup.
+This is a huge rant I sent to [Jo][1]. Some backstory: Few months back Jo bought a [Kwikset 910 deadbolt](https://www.amazon.com/Kwikset-SmartCode-Electronic-SmartThings-featuring/dp/B004F1B24I/ref=sr_1_1?ie=UTF8&qid=1514550037&sr=8-1&keywords=kwikset+910)) (more like I asked her to buy - hindsight I should have done more and better research) and I was trying to setup the remote locking feature using Alexa/Google Assistant via [SmartThings](https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE/ref=sr_1_3?s=hi&ie=UTF8&qid=1514550067&sr=1-3&keywords=smartthings+hub) Hub. Here's a copy-paste of the entire message. I'll have a separate post on my home automation setup.
 
-<!--more-->
 
 > Sathya Bhat, [29.12.17 16:25]  
 > well that was a completely wasted afternoon
