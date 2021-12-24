@@ -9,6 +9,7 @@ categories:
   - Life
 tags:
   - Romania
+  - immigration
 ---
 
 It's been [7 months since I've been in Bucharest](https://sathyabh.at/2020/01/08/salut-bucharest/). The past couple of months I've been under quarantine and staying indoors. That aside, people kept asking me how's it been in Bucharest and how's life been in Bucharest, how different life is compared to Bangalore. 
