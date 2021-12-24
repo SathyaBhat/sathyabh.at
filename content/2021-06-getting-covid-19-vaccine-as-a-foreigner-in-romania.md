@@ -8,7 +8,7 @@ featured_image: https://i.sathyabh.at/sb/empty_vaccination_centre.jpg
 categories: 
   - Life
 tags:
-  - vaccine
+  - immigration
   - Romania
 
 ---
