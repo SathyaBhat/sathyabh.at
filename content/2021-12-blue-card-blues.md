@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2021-12-25
 url: /2021/12/25/blue-card-blues
-featured_image: https://i.sathyabh.at/sb/moving/living-room.jpg
+featured_image: https://i.sathyabh.at/sb/facepalm-deja-q.jpg
 description: Getting my EU Blue Card renewed has been more painful than it should have been.
 categories: 
   - Life
