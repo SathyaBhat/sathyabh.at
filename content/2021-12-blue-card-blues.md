@@ -22,6 +22,7 @@ Having an expired permit meant that both Jo & I were effectively stuck in Romani
 
 The appointment at the IGI went with no problems, and I was told I'd get my permit a month after the appointment date. However, because of Covid status, I was told this might get extended by another week or so. 6 weeks later, I finally got an email from my immigration counsel that my permit has been picked up. *But* in typical Murphy's law fashion - the IGI issued me a wrong type of permit. Instead of sending the EU blue card, they sent me a Residence Permit.
 
-![](https://tenor.com/view/picard-ugh-star-trek-stress-facepalm-gif-17203897)
+<div class="tenor-gif-embed" data-postid="17203897" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/picard-ugh-star-trek-stress-facepalm-gif-17203897">Picard Ugh GIF</a>from <a href="https://tenor.com/search/picard-gifs">Picard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 At this moment, my immigration counsel reached out to the IGI, and they have accepted their mistake and the resident permit that was issued has been given back to the IGI. I'm been told the IGI will re-issue the Blue Card, but it might take another two weeks. We'll see about returning home maybe in January end or February. 
