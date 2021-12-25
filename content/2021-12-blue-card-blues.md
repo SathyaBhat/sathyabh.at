@@ -10,6 +10,7 @@ categories:
   - Life
 tags:
   - Romania
+  - immigration
 ---
 
 While living in the US revolves around visas.. things are different here in the EU. Visas, even the long-term visas are incredibly short. Visas are typically used only for short-term tourist visits. For longer stays, you're expected to apply for resident/work permits. The rules vary from country to country - here in Romania, Jo couldn't move in with me when I shifted because Romanian law requires that I move in on my long-term visa, apply for a resident/work permit, wait for it to be approved, then apply to the Immigration Office (IGI) in Bucharest to *ask* them for their approval in applying for family unification visa. And this is even before she could apply for the family unification visa!
