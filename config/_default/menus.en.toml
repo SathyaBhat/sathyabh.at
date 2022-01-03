@@ -21,3 +21,23 @@ name              = "Contact"
 identifier        = "contact"
 url               = "/contact/"
 weight            = 5
+
+[[main]]
+name              = "Tumblr"
+identifier        = "tumblr"
+url               = "https://tumble.sathyabh.at/"
+weight            = 10
+
+[[main]]
+name              = "Tech Blog"
+identifier        = "tech"
+url               = "https://sathyasays.com/"
+weight            = 10
+
+
+
+[[main]]
+name              = "Subscribe via RSS"
+identifier        = "subscribe"
+url               = "https://sathyabh.at/index.xml"
+weight            = 20
