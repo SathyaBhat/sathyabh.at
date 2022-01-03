@@ -5,6 +5,7 @@ type: post
 date: 2021-03-20
 url: /2021/03/20/replacing-ryzen-3600-cooler-id-cooling-se-224-xt/
 featured_image: https://i.sathyabh.at/sb/id-cooling/cooler-box.jpg
+draft: true
 categories: 
   - Life
 tags:
