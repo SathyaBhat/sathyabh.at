@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2022-01-03
 url: /2022/01/03/covid-booster
-featured_image: https://i.sathyabh.at/sb/empty_vaccination_centre.jpg
+meta_image: https://i.sathyabh.at/sb/empty_vaccination_centre.jpg
 description: Got my third booster dose of Covid vaccine.
 categories: 
   - Life
