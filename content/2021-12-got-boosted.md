@@ -24,7 +24,7 @@ When we entered and presented our ids, there was a little bit of hesitant (again
 {{< tweet sathyabhat 1472553101328621568 >}}
 
 
-The shot itself went okay, and from there we went over to the [Westside Christmas Market](https://www.primarie6.ro/targul-de-craciun-west-side-christmas-market-deschis-de-sapte-copii-care-au-aprins-luminitele-de-sarbatori/). late rin the evening, we started feeling some of the side-effects of the shot. I was feeling quite drowsy, so went to sleep early. The next day, I was still drowsy and thought having some breakfast and coffee and a shower will make me feel better.. nope, nada.
+The shot itself went okay, and from there we went over to the [Westside Christmas Market](https://www.primarie6.ro/targul-de-craciun-west-side-christmas-market-deschis-de-sapte-copii-care-au-aprins-luminitele-de-sarbatori/). Later in the evening, we started feeling some of the side-effects of the shot. I was feeling quite drowsy, so went to sleep early. The next day, I was still drowsy and thought having some breakfast and coffee and a shower will make me feel better.. nope, nada.
 
 Not feeling well, I went back to sleep, only to see the side effects worsening. I felt like I had a headache over a headache! I was feeling quite cold, so I asked Jo to give me the socks to trap the body heat, and once I put on my blanket, I was suddenly feeling too hot! Trying to get some sleep was a real challenge and somehow I pushed through and fell asleep. A few hours later, I woke up feeling a million times better, though I still had a hundred-degree fever. Took a paracetamol tablet and went to sleep, to wake up the next feeling as nothing had ever happened! 
 
