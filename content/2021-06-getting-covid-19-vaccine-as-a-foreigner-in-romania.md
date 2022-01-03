@@ -10,6 +10,7 @@ categories:
 tags:
   - immigration
   - Romania
+  - covid
 
 ---
 
