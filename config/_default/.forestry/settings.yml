@@ -8,7 +8,8 @@ sections:
   path: content
   label: Posts
   create: all
-  match: "*"
+  match: "**/*"
+  new_doc_ext: ".md"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
