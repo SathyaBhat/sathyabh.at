@@ -3,7 +3,6 @@ author = "Sathyajith Bhat"
 categories = ["Life"]
 date = 2022-01-08T12:00:00Z
 description = "A look back at 2021"
-draft = true
 meta_image = ""
 tags = ["year in review", "throwback", "2021"]
 title = "A Look Back at 2021"
