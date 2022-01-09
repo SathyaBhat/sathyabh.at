@@ -28,7 +28,7 @@ Airlines changed their policy to have negative RT-PCR tests from 72 hours to neg
 
 In fact, just 4 days before Jo's flight, Lufthansa suddenly barred people from India from boarding the flights from India into Germany and Schengen area - even for those transiting via Germany. Since Romania isn't in the Schengen, Jo could board the flight. There was also a COVID scare 2 weeks prior to her travel - the maid who comes to our house was in another house where some people tested positive. And closer to the travel date, we booked COVID test appointments from two different clinics, just to ensure we would get it on time (that's the SRE in me kicking in).
 
-And for good measure, we had a third option to test at the airport, but we didn't want to take any chances. The redundancy helped. After many calls to determine if the tests were ready or not en route to the airport, she got her (negative) result just as she reached the airport, while the other clinic sent her the results after her travel. Thankfully.. she reached Bucharest amongst all of this! Never been happier ever than to see her come out of the arrivals. 
+And for good measure, we had a third option to test at the airport, but we didn't want to take any chances. The redundancy helped. After many calls to determine if the tests were ready or not en route to the airport, she got her (negative) result just as she reached the airport, while the other clinic sent her the results after her travel. Thankfully.. she reached Bucharest amongst all of this! Never been happier ever than to see her come out of the arrivals.
 
 In midst of all of this, [also helped in planning, organizing and hosting CDK Day.](https://sathyasays.com/2021/04/30/cdk-day/)
 
@@ -38,21 +38,31 @@ In midst of all of this, [also helped in planning, organizing and hosting CDK Da
 
 **July**: In July, we took our first holiday in Romania. With daily COVID cases going down to mid-double digits, we felt at ease in traveling. THe vacation started with a 3-day visit to the coastal city of Constanta. Not content with having to return to Constanta, we made an impulse decision to head to Brasov to complete the week's vacation. Check the picture albums from [Constanta](https://pics.sathyabh.at/constanta-2021) and [Brasov](https://pics.sathyabh.at/brasov-2021).
 
-**August**: Was fairly busy with work, and started working on [The CDK Book](https://www.thecdkbook.com/), the second edition of Practical Docker With Python. 
+**August**: Was fairly busy with work, and started working on [The CDK Book](https://www.thecdkbook.com/), the second edition of Practical Docker With Python.
 
 **September**: Work and other projects like [The CDK Book](https://www.thecdkbook.com/), the second edition of Practical Docker With Python, continued to take up my time. Not content with this, I started helping with organizing [AWS Community Day South Asia](https://communityday.awsug.asia/). Started paperwork for renewing my EU Blue Card.
 
-**October**: Finished work on Practical Docker with Python, and the AWS Community Day Asia happened on October 22 that was well received. Just my paperwork was being processed, and we were getting cozy in our house, the landlady of our house informed us to move out as they were selling the house. See [this post for details](/2021/11/11/moving-house/). 
+**October**: Finished work on Practical Docker with Python, and the AWS Community Day Asia happened on October 22 that was well received. Just my paperwork was being processed, and we were getting cozy in our house, the landlady of our house informed us to move out as they were selling the house. See [this post for details](/2021/11/11/moving-house/).
 
-**November**: With re:Invent just around the corner, and no sign of my EU Blue card, I cancelled the re:Invent visit. This was kind of disappointing as I really wanted to be at re:Invent as we planned to launch The CDK Book. With the Vegas trip cancelled, Jo and I took a holiday and visited Sinaia, and celebrated 8 years of marriage. See our Sinaia [pics here](). 
+**November**: With re:Invent just around the corner, and no sign of my EU Blue card, I cancelled the re:Invent visit. This was kind of disappointing as I really wanted to be at re:Invent as we planned to launch The CDK Book. I gave a talk at JAWS Pankration 2021.
+
+{{< tweet sathyabhat 1462050514561081347 >}}
+
+With the Vegas trip cancelled, Jo and I took a holiday and visited Sinaia, and celebrated 8 years of marriage. See our Sinaia [pics here](https://pics.sathyabh.at/sinaia-2021). 
+
+{{< tweet sathyabhat 1464878187276648449 >}}
 
 **December**: My EU blue card arrived, or so I thought - they sent a resident permit instead. See this post [for the details](https://sathyabh.at/2021/12/25/blue-card-blues/). The [print edition of Practical Docker with Python](https://sathyasays.com/2021/12/20/practical-docker-with-python-second-edition/) finally hit the markets. Spent the Christmas and winter break by first [getting my booster shot](https://sathyabh.at/2022/01/03/covid-booster/) and then relaxing at home.
+
+Bonus: video of our trip from Sinaia
+
+<iframe src="https://express.adobe.com/video/t5jISafkZ4efv/embed"  width="960" height="540" frameborder="0" allowfullscreen></iframe>
 
 ### Gaming
 
 Most of my gaming revolved around weekend Civilization 6 sessions with Aman. Later half of the year, I couldn't find much time to play, but I put in some hours in these.
 
-*  Divison 2 (completed)
+* Divison 2 (completed)
 * Snow Runner (finished one map, gave up soon after)
 * Diablo 3 (but, of course)
 * Diablo 2 Resurrected (so good. played little though)
@@ -62,5 +72,7 @@ Most of my gaming revolved around weekend Civilization 6 sessions with Aman. Lat
 ### What's for 2022?
 
 In 2021, in trying to get my mind off the anxiety of COVID and trying to get Jo here meant I picked up a lot of projects to keep my mind occupied. This year, I am looking at scaling back a little and just relax. Of course, I'll look at supporting one or two events (definitely the next CDK Day) but mostly, I'm looking at getting my driver's license in Romania and travel more. And of course, play more games and dust off my PS4 & the Switch.
+
+{{< tweet sathyabhat 1477035330565980164 >}}
 
 Wish the best of 2022!
