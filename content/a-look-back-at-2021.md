@@ -3,8 +3,8 @@ author = "Sathyajith Bhat"
 categories = ["Life"]
 date = 2022-01-08T12:00:00Z
 description = "A look back at 2021"
-meta_image = "https://i.sathyabh.at/ss/2021-look-back/lake.jpg"
-featured_image = "https://i.sathyabh.at/ss/2021-look-back/lake.jpg"
+meta_image = "https://i.sathyabh.at/sb/2021-look-back/lake.jpg"
+featured_image = "https://i.sathyabh.at/sb/2021-look-back/lake.jpg"
 tags = ["Romania", "year in review", "throwback", "2021"]
 title = "A Look Back at 2021"
 type = "post"
@@ -23,7 +23,7 @@ Here's what happened in the months:
 
 **March**: Romania started vaccinating the public, and I signed up and got myself registered in the portal! My team mates told me of a new vaccination center that was set up in the Romexpo exhibition center, and because of this I jumped the queue and got a vaccination date. Was really worried about whether I may be vaccinated, about the side effects, and all of that was for nought. The vaccination process was smooth and didn't have any bad side-effects.
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "snowman.jpg" "Snowman!" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "snowman.jpg" "Snowman!" "Look back at 2021" >}}
 
 **April**: This was probably the most stressful month of the entire year. Got my second dose of vaccine. Back home, Jo started packing up stuff and sending things home - including [Rosemary](/2016/05/03/two-years-and-16000km-with-rosemary-the-maruti-suzuki-celerio/). Meanwhile, the second wave hit India hard. Really hard. In between the overflowing hospitals, lack of oxygen, trying to get a RT-PCR test was incredibly hard because of an influx of requests.
 
@@ -33,35 +33,35 @@ In fact, just 4 days before Jo's flight, Lufthansa suddenly barred people from I
 
 And for good measure, we had a third option to test at the airport, but we didn't want to take any chances. The redundancy helped. After many calls to determine if the tests were ready or not en route to the airport, she got her (negative) result just as she reached the airport, while the other clinic sent her the results after her travel. Thankfully.. she reached Bucharest amongst all of this! Never been happier ever than to see her come out of the arrivals.
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "jo-airport.jpg" "Jo arrives in Bucharest" "Look back at 2021" >}}
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "jo-bucharest.jpg" "Jo arrives in Bucharest" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "jo-airport.jpg" "Jo arrives in Bucharest" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "jo-bucharest.jpg" "Jo arrives in Bucharest" "Look back at 2021" >}}
 
 
 In midst of all of this, [also helped in planning, organizing and hosting CDK Day.](https://sathyasays.com/2021/04/30/cdk-day/)
 
 **May**: Jo had a 10 day quarantine post entry into Bucharest, and once that was done, we started visiting some nearby parks. We started work on Jo's resident permit and this involved a bunch of clinic visits to get a medical certificate. (To quote the regulations: the certificate should mention "clinically healthy and do not put in danger the public health"). Jo also got her first vaccination shot, and I felt at ease.
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "spring.jpg" "Spring time" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "spring.jpg" "Spring time" "Look back at 2021" >}}
 
 **June**: Jo finished her second dose, and we started exploring Bucharest. We visited a couple of Museums, the Botanical Garden and more. See the pictures over at [https://pics.sathyabh.at/romania](https://pics.sathyabh.at/romania "https://pics.sathyabh.at/romania")
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "piata-local-market.jpg" "Exploring the piata" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "piata-local-market.jpg" "Exploring the piata" "Look back at 2021" >}}
 
 **July**: In July, we took our first holiday in Romania. With daily COVID cases going down to mid-double digits, we felt at ease in traveling. THe vacation started with a 3-day visit to the coastal city of Constanta. Not content with having to return to Constanta, we made an impulse decision to head to Brasov to complete the week's vacation. Check the picture albums from [Constanta](https://pics.sathyabh.at/constanta-2021) and [Brasov](https://pics.sathyabh.at/brasov-2021).
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "sea-side-constanta.jpg" "Seaside in Constanta" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "sea-side-constanta.jpg" "Seaside in Constanta" "Look back at 2021" >}}
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "brasov.jpg" "Brasov" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "brasov.jpg" "Brasov" "Look back at 2021" >}}
 
 **August**: Was fairly busy with work, and started working on [The CDK Book](https://www.thecdkbook.com/), the second edition of Practical Docker With Python.
 
 **September**: Work and other projects like [The CDK Book](https://www.thecdkbook.com/), the second edition of Practical Docker With Python, continued to take up my time. Not content with this, I started helping with organizing [AWS Community Day South Asia](https://communityday.awsug.asia/). Started paperwork for renewing my EU Blue Card.
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "lake.jpg" "Lake in Drumul Taberei Park" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "lake.jpg" "Lake in Drumul Taberei Park" "Look back at 2021" >}}
 
 **October**: Finished work on Practical Docker with Python, and the AWS Community Day Asia happened on October 22 that was well received. Just my paperwork was being processed, and we were getting cozy in our house, the landlady of our house informed us to move out as they were selling the house. See [this post for details](/2021/11/11/moving-house/).
 
-{{< fancybox "https://i.sathyabh.at/ss/2021-look-back" "autumn.jpg" "Herestrau park in Autumn" "Look back at 2021" >}}
+{{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "autumn.jpg" "Herestrau park in Autumn" "Look back at 2021" >}}
 
 
 **November**: With re:Invent just around the corner, and no sign of my EU Blue card, I cancelled the re:Invent visit. This was kind of disappointing as I really wanted to be at re:Invent as we planned to launch The CDK Book. I gave a talk at JAWS Pankration 2021.
