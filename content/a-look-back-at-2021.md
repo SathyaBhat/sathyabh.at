@@ -3,8 +3,8 @@ author = "Sathyajith Bhat"
 categories = ["Life"]
 date = 2022-01-08T12:00:00Z
 description = "A look back at 2021"
-meta_image = "https://i.sathyabh.at/sb/2021-look-back/lake.jpg"
 featured_image = "https://i.sathyabh.at/sb/2021-look-back/lake.jpg"
+meta_image = "https://i.sathyabh.at/sb/2021-look-back/lake.jpg"
 tags = ["Romania", "year in review", "throwback", "2021"]
 title = "A Look Back at 2021"
 type = "post"
@@ -19,7 +19,7 @@ Here's what happened in the months:
 
 **January:** January started with a lot of promise - vaccinations were being administered to healthcare workers in Romania. The Romanian embassy in Delhi finally started issuing appointments for family unification visas, and Jo got an appointment for the first week of January. Flew to Delhi, only to be told to come back later as her flight date was too far in the future (April end). Felt like crap. Snowed a bit in Bucharest. Felt nice to get out of the house to walk in the snow (I rarely used to head out because of my paranoia of catching COVID).
 
-**February**: Jo traveled again to Delhi for her appointment, and it went well! No problems and was approved, and she collected her visa stamped passport! Went to meet some colleagues for a board game evening. Was fun! 
+**February**: Jo traveled again to Delhi for her appointment, and it went well! No problems and was approved, and she collected her visa stamped passport! Went to meet some colleagues for a board game evening. Was fun!
 
 **March**: Romania started vaccinating the public, and I signed up and got myself registered in the portal! My team mates told me of a new vaccination center that was set up in the Romexpo exhibition center, and because of this I jumped the queue and got a vaccination date. Was really worried about whether I may be vaccinated, about the side effects, and all of that was for nought. The vaccination process was smooth and didn't have any bad side-effects.
 
@@ -36,7 +36,6 @@ And for good measure, we had a third option to test at the airport, but we didn'
 {{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "jo-airport.jpg" "Jo arrives in Bucharest" "Look back at 2021" >}}
 {{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "jo-bucharest.jpg" "Jo arrives in Bucharest" "Look back at 2021" >}}
 
-
 In midst of all of this, [also helped in planning, organizing and hosting CDK Day.](https://sathyasays.com/2021/04/30/cdk-day/)
 
 **May**: Jo had a 10 day quarantine post entry into Bucharest, and once that was done, we started visiting some nearby parks. We started work on Jo's resident permit and this involved a bunch of clinic visits to get a medical certificate. (To quote the regulations: the certificate should mention "clinically healthy and do not put in danger the public health"). Jo also got her first vaccination shot, and I felt at ease.
@@ -47,7 +46,7 @@ In midst of all of this, [also helped in planning, organizing and hosting CDK Da
 
 {{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "piata-local-market.jpg" "Exploring the piata" "Look back at 2021" >}}
 
-**July**: In July, we took our first holiday in Romania. With daily COVID cases going down to mid-double digits, we felt at ease in traveling. THe vacation started with a 3-day visit to the coastal city of Constanta. Not content with having to return to Constanta, we made an impulse decision to head to Brasov to complete the week's vacation. Check the picture albums from [Constanta](https://pics.sathyabh.at/constanta-2021) and [Brasov](https://pics.sathyabh.at/brasov-2021).
+**July**: In July, we took our first holiday in Romania. With daily COVID cases going down to mid-double digits, we felt at ease in traveling. THe vacation started with a 3-day visit to the coastal city of Constanta. Not content with having to return to Bucharest, we made an impulse decision to head to Brasov to complete the week's vacation. Check the picture albums from [Constanta](https://pics.sathyabh.at/constanta-2021) and [Brasov](https://pics.sathyabh.at/brasov-2021).
 
 {{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "sea-side-constanta.jpg" "Seaside in Constanta" "Look back at 2021" >}}
 
@@ -63,19 +62,17 @@ In midst of all of this, [also helped in planning, organizing and hosting CDK Da
 
 {{< fancybox "https://i.sathyabh.at/sb/2021-look-back" "autumn.jpg" "Herestrau park in Autumn" "Look back at 2021" >}}
 
-
 **November**: With re:Invent just around the corner, and no sign of my EU Blue card, I cancelled the re:Invent visit. This was kind of disappointing as I really wanted to be at re:Invent as we planned to launch The CDK Book. I gave a talk at JAWS Pankration 2021.
 
 {{< tweet sathyabhat 1462050514561081347 >}}
 
-With the Vegas trip cancelled, Jo and I took a holiday and visited Sinaia, and celebrated 8 years of marriage. See our Sinaia [pics here](https://pics.sathyabh.at/sinaia-2021). 
+With the Vegas trip cancelled, Jo and I took a holiday and visited Sinaia, and celebrated 8 years of marriage. See our Sinaia [pics here](https://pics.sathyabh.at/sinaia-2021).
 
 {{< tweet sathyabhat 1464878187276648449 >}}
 
 **December**: My EU blue card arrived, or so I thought - they sent a resident permit instead. See this post [for the details](https://sathyabh.at/2021/12/25/blue-card-blues/). The [print edition of Practical Docker with Python](https://sathyasays.com/2021/12/20/practical-docker-with-python-second-edition/) finally hit the markets. Spent the Christmas and winter break by first [getting my booster shot](https://sathyabh.at/2022/01/03/covid-booster/) and then relaxing at home and couple of Christmas market visits in Bucharest.
 
-
-Bonus: video of our trip from Sinaia
+Bonus: video of our Sinaia trip
 
 <iframe src="https://express.adobe.com/video/t5jISafkZ4efv/embed"  width="960" height="540" frameborder="0" allowfullscreen></iframe>
 
