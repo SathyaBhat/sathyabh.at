@@ -17,9 +17,11 @@ fields:
 - type: text
   name: url
   label: url
-- type: file
-  name: meta_image
-  label: meta_image
+- name: featured_image
+  type: text
+  config:
+    required: false
+  label: featured image
 - type: text
   name: description
   label: description
@@ -29,5 +31,11 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: meta_image
+  type: text
+  config:
+    required: false
+  label: meta_image
+  description: Image to be used for social media previews
 pages:
 - content/a-look-back-at-2021.md
