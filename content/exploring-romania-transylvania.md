@@ -39,4 +39,8 @@ At the moment, this is our plan:
 * Day 5: Sighisoara, Biertan, Medias.
 * Day 6: Turda Salt mine, Rimetea.
 
+Here's a Google Maps view of the places. There's day-by-day driving layers as well as a layer on the places of interest. [Here's the full link to it](https://www.google.com/maps/d/viewer?mid=1t7d5rdWS-Z0wk98G8mIw_KXJH35u9iDO&hl=en&usp=sharing). 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1t7d5rdWS-Z0wk98G8mIw_KXJH35u9iDO&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+
 Hopefully, it will not be too stressful :) I look forward to the visits and writing about it!
