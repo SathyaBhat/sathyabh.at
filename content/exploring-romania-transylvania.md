@@ -9,6 +9,7 @@ tags = ["Sibiu", "Transylvania", "Romania"]
 title = "Exploring Romania: Transylvania"
 type = "post"
 url = "/2022/03/19/exploring-romania-transylvania"
+series = ["Exploring Romania"]
 
 +++
 ![][1]
