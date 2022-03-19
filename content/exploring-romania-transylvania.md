@@ -5,20 +5,18 @@ date = 2022-03-19T11:00:00Z
 description = "It's time to pack up our bags and explore Transylvania!"
 featured_image = "https://i.sathyabh.at/ss/transylvania.jpg"
 meta_image = "https://i.sathyabh.at/ss/transylvania.jpg"
+series = ["Exploring Romania"]
 tags = ["Sibiu", "Transylvania", "Romania"]
 title = "Exploring Romania: Transylvania"
 type = "post"
 url = "/2022/03/19/exploring-romania-transylvania"
-series = ["Exploring Romania"]
 
 +++
-![][1]
-
-[1]: https://i.sathyabh.at/ss/transylvania.jpg
+![](https://i.sathyabh.at/ss/transylvania.jpg)
 
 _Featured Photo by_ [_Artem Zhukov_](https://unsplash.com/@artemioz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/transylvania?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Since moving to [Romania](https://sathyabh.at/2022/01/08/a-look-back-at-2021/), we've had some sort of problem or the other that has made us stop in our tracks in exploring Romania. Whether it was Covid, or figuring out how to move Jo hwere, getting Jo's resident permit, the [unexpected house shifting](https://sathyabh.at/2021/11/11/moving-house/), or our [resident permit renewal glitches](https://sathyabh.at/2021/12/25/blue-card-blues/), or the repeated waves of Covid, we've been hesitant to travel.
+Since moving to [Romania](https://sathyabh.at/2022/01/08/a-look-back-at-2021/), we've had some sort of problem or the other that has made us stop in our tracks in exploring Romania. Whether it was Covid, or figuring out how to move Jo here, getting Jo's resident permit, the [unexpected house shifting](https://sathyabh.at/2021/11/11/moving-house/), or our [resident permit renewal glitches](https://sathyabh.at/2021/12/25/blue-card-blues/), or the repeated waves of Covid, we've been hesitant to travel.
 
 That's not to say we've not done _any_ travel - we've done visits to [Brasov](https://pics.sathyabh.at/brasov-2021), [Constanta](https://pics.sathyabh.at/constanta-2021), [Sinaia](https://pics.sathyabh.at/sinaia-2021), and few [other museums](https://pics.sathyabh.at/romania) in Bucharest. Most of these were limited to a day or a couple of days.
 
@@ -30,7 +28,7 @@ We looked for travel guides who would take us on guided tours, and we found Flor
 
 {{< youtube PhSanuvCrOA >}}
 
-Given that the Transfagarasan is currently closed due to winter (the road is open only during the months of June to October), we've been told that we will still do the road, albeit on an alternative route.
+Given that the Transfagarasan is currently closed due to winter (the road is fully open only during the months of June to October), we've been told that we will still do the road, albeit on an alternative route.
 
 At the moment, this is our plan:
 
