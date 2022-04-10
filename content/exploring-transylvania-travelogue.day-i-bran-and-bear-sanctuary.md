@@ -13,4 +13,6 @@ type = "post"
 url = "/2022/03/19/exploring-romania-bran"
 
 +++
-The past posts talked about our plan well, the day had finally artier the previous night we packed our bags Jo didn't sleep for fear of not being Wake up on time not able to wake up in time for the Train. Me like my usual paranoid self kept the alarm for couple hous and then some we look an Uber to the railway station called gara de Nord. Though house is right near to the metro station we look Uber not  knowing how long it would take to get the metro.
+The past posts talked about our plan well, the day had finally artier the previous night we packed our bags Jo didn't sleep for fear of not being Wake up on time not able to wake up in time for the Train. Me like my usual paranoid self kept the alarm for couple hous and then some we look an Uber to the railway station called gara de Nord. Though house is right near to the metro station we look Uber not  knowing how long it would take to get the metro. Since we were hungry and had nodeden
+
+Breakfast, we picked up some food and coffee at the shop. soon as the Train started we let Florin Know 
