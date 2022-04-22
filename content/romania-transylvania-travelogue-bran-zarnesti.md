@@ -1,16 +1,15 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Travel"]
-date = 2022-04-10T21:00:00Z
+date = 2022-04-22
 description = "Our Transylvania travelogue starts with Day 1 exploring Bran Castle and a bear sanctuary"
-draft = true
 featured_image = "https://i.sathyabh.at/ss/exploring-transylvania/moutains-backdrop-1.jpg"
 meta_image = "https://i.sathyabh.at/ss/exploring-transylvania/moutains-backdrop-1.jpg"
 series = ["Exploring Romania"]
 tags = ["Sibiu", "Transylvania", "Romania"]
 title = "Transylvania Travelogue: Bran Castle and Zarnesti Bear Sanctuary"
 type = "post"
-url = "/2022/03/19/romania-transylvania-travelogue-bran-zarnesti"
+url = "/2022/04/22/romania-transylvania-travelogue-bran-zarnesti"
 
 +++
 For the first day of our tour, our plan was to head over to Brasov. From Brasov, Florin, our tour guide would pick us up and drive us over to [Libearty Bear Sanctuary](https://millionsoffriends.org/en/libearty/) in [Zarnesti](https://goo.gl/maps/qat4HtJF5ELwUzC49). From there, we'd head over to Bran castle, explore the castle and then to Sibiu, where we would stay for the rest of the trip.
