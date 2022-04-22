@@ -3,8 +3,8 @@ author = "Sathyajith Bhat"
 categories = ["Travel"]
 date = 2022-04-22
 description = "Our Transylvania travelogue starts with Day 1 exploring Bran Castle and a bear sanctuary"
-featured_image = "https://i.sathyabh.at/ss/exploring-transylvania/moutains-backdrop-1.jpg"
-meta_image = "https://i.sathyabh.at/ss/exploring-transylvania/moutains-backdrop-1.jpg"
+featured_image = "https://i.sathyabh.at/sb/exploring-transylvania/moutains-backdrop-1.jpg"
+meta_image = "https://i.sathyabh.at/sb/exploring-transylvania/moutains-backdrop-1.jpg"
 series = ["Exploring Romania"]
 tags = ["Sibiu", "Transylvania", "Romania"]
 title = "Transylvania Travelogue: Bran Castle and Zarnesti Bear Sanctuary"
@@ -18,11 +18,11 @@ Libearty Bear Sanctuary has guided tour of the sanctuary which occurs at limited
 
 The first train to Brasov from Bucharest via [CFR](https://www.cfrcalatori.ro/en/) was at 6 am. To be at the train station in time, we were wondering whether to take the Metro or an Uber. Ultimately, we weren't sure if we'd be up and ready to take the metro in time, so took an Uber. We reached the train station in time, grabbed some food, and then boarded our train.
 
-{{< fancybox "https://i.sathyabh.at/ss/exploring-transylvania" "bucharest-gara-de-nord-railway-station.jpg" "At the Bucharest Railway Station Gara de Nord" "Transylvania Travelogue" >}}
+{{< fancybox "https://i.sathyabh.at/sb/exploring-transylvania" "bucharest-gara-de-nord-railway-station.jpg" "At the Bucharest Railway Station Gara de Nord" "Transylvania Travelogue" >}}
 
 There's plenty of trains from Bucharest to Brasov at fairly regular intervals and even though the distance is quite low (about 120 km), the trains on this route go slow because of mountain terrain. As we passed by Sinaia, we noticed that there was still a fair bit of snow up near the mountains.
 
-{{< fancybox "https://i.sathyabh.at/ss/exploring-transylvania" "snow-at-sinaia.jpg" "The snow still hadn't melted" "Transylvania Travelogue" >}}
+{{< fancybox "https://i.sathyabh.at/sb/exploring-transylvania" "snow-at-sinaia.jpg" "The snow still hadn't melted" "Transylvania Travelogue" >}}
 
 
 We reached Brasov in time, just as Florin arrived there as well (though in all fairness, he was there some 10-15 mins earlier and told us he'd take the time to get some coffee). Introductions done, we put our bags in his car (a nice Volkswagen Caravelle minibus - I was expecting a sedan) and set off towards Zarnesti. We reached there in just over an hour. The roads leading there were pretty great, albeit the last part, which was understandable since the sanctuary's not quite in the middle of town.
