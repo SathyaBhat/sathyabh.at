@@ -12,7 +12,7 @@ type = "post"
 url = "/2022/04/23/romania-transylvania-travelogue-bran-zarnesti"
 
 +++
-For the first day of our tour, our plan was to head over to Brasov. From Brasov, Florin, our tour guide would pick us up and drive us over to [Libearty Bear Sanctuary](https://millionsoffriends.org/en/libearty/) in [Zarnesti](https://goo.gl/maps/qat4HtJF5ELwUzC49). From there, we'd head over to Bran castle, explore the castle and then to Sibiu, where we would stay for the rest of the trip.
+For the first day of our tour, our plan was to head over to Brasov. From Brasov, [Florin](https://sibiutourguide.com/), our tour guide would pick us up and drive us over to [Libearty Bear Sanctuary](https://millionsoffriends.org/en/libearty/) in [Zarnesti](https://goo.gl/maps/qat4HtJF5ELwUzC49). From there, we'd head over to Bran castle, explore the castle and then to Sibiu, where we would stay for the rest of the trip.
 
 Libearty Bear Sanctuary has guided tour of the sanctuary which occurs at limited time slots, and to be there in time, Florin had asked to take the first train from Bucharest to Brasov. We've taken the train from Bucharest to Brasov and Sinaia a few times previously, so this was not an unknown route, but we'd never taken the first train out.
 
@@ -34,7 +34,7 @@ We reached Brasov in time, just as Florin arrived there as well (though in all f
 
 Libearty Bear Sanctuary is now the home of over a hundred bears that were rescued from captivity. The bears were kept in tiny cages near restaurants, hotels, and other places as tourist attractions. 
 
-{{< fancybox "https://i.sathyabh.at/sb/exploring-transylvania" "bear-cage.jpg" "Bears were freed from trapped in tiny ages like these" "Transylvania Travelogue" >}}
+{{< fancybox "https://i.sathyabh.at/sb/exploring-transylvania" "bear-cage.jpg" "Bears were freed from trapped in tiny cages like these" "Transylvania Travelogue" >}}
 
 We learnt that most of the bears have been in captivity for far too long that they can't be set free in the jungle, as they lack any survival skills. Some bears even have a psychological barrier set in their mind around the cages they were in, and that even with over a large open space available for them in the sanctuary, they end up going in circles in the same tiny cramped space that they were jailed in. The guided tour takes us through different open spaces that the bears have right now and takes about an hour. The sanctuary has cameras that are [live streaming that you](https://millionsoffriends.org/en/libearty/about-the-sanctuary/) can view.
 
@@ -61,7 +61,9 @@ During the day, we had lots of interesting, varied and lively conversations with
 
 ### Day stats
 
-Distance covered: 158 km by train, 184 km by car
+Distance covered: 342 km(158 km by train, 184 km by car)
+
 Expenses: 
-    * Entrance Fee for Libearty Bear Sanctuary: 60 RON per person
-    * Entrance Fee for Bran Castle: 45 RON per person
+
+* Entrance Fee for Libearty Bear Sanctuary: 60 RON per person
+* Entrance Fee for Bran Castle: 45 RON per person
