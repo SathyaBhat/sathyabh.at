@@ -31,6 +31,7 @@ enableThemeChange = true # site color theme
 # body
 enableBreadcrumb = true # breadcrumb for list, single page
 enableSearch = true # site search with Fuse
+searchContent = true
 enableSearchHighlight = true # when true, search keyword will be highlighted
 searchResultPosition = "main"
 enableGoToTop = true # scroll to top
@@ -47,7 +48,7 @@ myname = "Sathyajith Bhat"
 email = "sathya@sathyasays.com"
 whoami = "Author, AWS Community Hero and DevOps Specialist"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
-useGravatar = true # we use this option highest priority
+useGravatar = true # we use this option highest prioritye
 location = "Bucharest, Romania"
 organization = "Adobe"
 link = "https://about.sathyabh.at"
