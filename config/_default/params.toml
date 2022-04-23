@@ -31,7 +31,7 @@ enableThemeChange = true # site color theme
 # body
 enableBreadcrumb = true # breadcrumb for list, single page
 enableSearch = true # site search with Fuse
-enableSearchHighlight = true # when true, search keyword will be highlighted
+enableSearchHighlight = false # when true, search keyword will be highlighted
 enableGoToTop = true # scroll to top
 enableWhoami = true # at the end of single page
 summaryShape = "classic" # card, classic, compact
