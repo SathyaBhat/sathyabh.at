@@ -65,5 +65,7 @@ Distance covered: 342 km(158 km by train, 184 km by car)
 
 Expenses: 
 
+* Train tickets from Bucharest to Brasov: 48,6 RON per person (Second class/AC "chair car" for those familiar with Indian Railways)
 * Entrance Fee for Libearty Bear Sanctuary: 60 RON per person
 * Entrance Fee for Bran Castle: 45 RON per person
+* 
