@@ -12,9 +12,9 @@ type = "post"
 url = "/2022/08/13/romania-transylvania-travelogue-lisa-sambata-balea-transfagarasan"
 
 +++
-I was really excited about Day 2. Today's the day when we were to visit Transfăgărășan. Florin had already told us to be prepared for cold weather with some jackets, waterproof shoes and sunglasses. We were ready with the jackets, and visited Decathlon the previous evening to get shoes for Jo, but didn't understand why sunglasses were asked for. We'd know soon.
+I was really excited about Day 2. Today's the day when we were to visit Transfăgărășan. Florin had informed us to be prepared for cold weather with jackets, waterproof shoes and sunglasses. We were ready with the jackets, and visited Decathlon the previous evening to get shoes for Jo, but didn't understand why sunglasses were asked for. We'd know soon.
 
-Florin came by to pick us up, and we started towards Transfăgărășan. Transfăgărășan (Trans-făgărășan or literally, crossing the Făgărăș mountains) is the second-highest paved road in Romania, after Transalpina. Florin told us about the history of the Transfăgărășan, how it was built into early 80's as a strategic military route, and to provide quick military access across the mountain passes in case of any military incursions from nearby countries.
+Florin came by to pick us up at 9am in the morning and we started towards Transfăgărășan. Transfăgărășan (Trans-făgărășan or literally, crossing the Făgărăș mountains) is the second-highest paved road in Romania, after Transalpina. Florin told us about the history of the Transfăgărășan, how it was built into early 80's as a strategic military route, and to provide quick military access across the mountain passes in case of any military incursions from nearby countries.
 
 Building the such at such an high altitude, up in the mountains at an elevation of 6,600ft was no small feat, requiring quite heavy rounds of dynamite to clear the mountains. In the more recent past, Transfăgărășan became famous due to Top Gear's coverage of the road and Jeremy Clarkson calling it the best road in the world.
 
@@ -103,3 +103,5 @@ Expenses:
 * Cable Car at Balea Lake: 80 RON per person (up+down)
 * Entry Fee at La Valtori: 10 RON per person
 * Lunch: 74 RON
+
+The Travelogue photo album is available on my [gallery page](https://pics.sathyabh.at/transylvania-around).
