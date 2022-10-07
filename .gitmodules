@@ -3,4 +3,4 @@
 	url = https://github.com/zzossig/hugo-theme-zzo.git
 [submodule "themes/easy-gallery"]
 	path = themes/easy-gallery
-	url = git@github.com:liwenyip/hugo-easy-gallery.git
+	url = https://github.com/liwenyip/hugo-easy-gallery.git
