@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-date = 2022-04-23
+date = 2022-12-08
 description = "Unfortunately, I picked up COVID."
 featured_image = "https://i.sathyabh.at/sb/covid_positive.jpg"
 meta_image = "https://i.sathyabh.at/sb/covid_positive.jpg"
