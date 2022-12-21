@@ -14,7 +14,7 @@ url = "/2022/12/21/recovering-from-covid"
 
 ### Recovery
 
-In my last post, I posted about [picking up COVID](https://sathyabh.at/2022/12/08/covid-positive/). Thankfully a couple of days after my previous post, I recovered from COVID. That said, I was still quarantining and masking up indoors so to prevent Jo from getting COVID. We were in separate rooms, with different bathrooms, and I stayed in my room. Sadly, all the precautions were not enough, as she picked up COVID as well, undoubtedly from me. 
+In my last post, I talked about [picking up COVID](https://sathyabh.at/2022/12/08/covid-positive/). Thankfully a couple of days after my previous post, I have recovered from COVID. That said, I was still quarantining and masking up indoors so to prevent Jo from getting COVID. We were in separate rooms, with different bathrooms, and I stayed in my room. Sadly, all the precautions were not enough, as she picked up COVID as well, undoubtedly from me. 
 
 Both of us had similar symptoms:
 
