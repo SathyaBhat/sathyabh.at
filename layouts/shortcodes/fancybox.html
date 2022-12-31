@@ -48,8 +48,27 @@
   {{ $file := $.Scratch.Get "file" }}
   {{ $caption  := $.Scratch.Get "caption" }}
   {{ $gallery := $.Scratch.Get "gallery" }}
-  <div class="fancybox">
-    <a data-fancybox="{{ $gallery }}" href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}"><img src="{{ $path }}/{{ $file }}"></a>
+  <style>
+    div.gallery {
+       display: flex;
+       flex-wrap: wrap;
+    }
+    div.gallery a {
+        flex-grow: 1;
+        object-fit: cover;
+        margin: 2px;
+        display: flex;
+    }
+    div.gallery a img {            
+        height: 480px;
+        object-fit: cover;
+        flex-grow: 1;
+    }  
+  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+  <div class="gallery">
+    <a data-fancybox="gallery" href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}"><img src="{{ $path }}/{{ $file }}"></a>
     <div class="caption">{{ $caption }}</div>
   </div>
 {{ end }}
