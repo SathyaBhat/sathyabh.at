@@ -20,7 +20,7 @@ First up, Happy New Year folks!
 
 I don't take off from work very often - the main reason being me working in Chennai means it nigh impossible to visit my hometown of Mangalore over the weekend. So generally I have a set routine of work for about 3-4 months, then take a week or so off (often coinciding with some festivals/holidays/extended weekends to get the maximum number of holidays with minimum number of leaves) to take a nice break, relax and rejuvenate - an approach which had worked very well over the past couple of years that I've been working.
 
-<!--more-->
+
 
 Speaking of breaks - its been quite sometime since I took a break - the last time when I was on a leave was back in August when I [came back to India][1] after [my Austin jig][2]. Initially I had planned to take an off during second week of November - a plan which sadly never materialized due to my increasing workload. While this was going on, I was in constant touch with my engineering classmates - Rakesh, Prasad, Sid,  Smi & Rach via mails, and one thing that we were always contemplating was a meetup (reunion ?) at a place so that all of can catch up at a common point. Bangalore seemed to logical choice given that it was the central location from Chennai as well as Mangalore. Deciding on the date was bit of a bother as we struggled to decide on a weekend when everyone was free. Finally we decided that New Year's weekend would be the best time to meet, and I booked my bus tickets for Bangalore ( Volvo A/C Sleeper, night bus).
 

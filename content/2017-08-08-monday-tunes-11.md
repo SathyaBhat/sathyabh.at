@@ -16,7 +16,7 @@ tags:
 ---
 Another series of Monday tunes! Let me know how you like the songs! &#x1f3b6;&#x1f3b5;
 
-<!--more-->
+
 
 "Begin" by Shallou(ft Wales)
 

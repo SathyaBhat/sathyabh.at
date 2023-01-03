@@ -17,7 +17,7 @@ tags:
 ---
 Well not a "rodent" mouse, but a mouse, mouse. You know the computer peripheral 😛 Well my previous mouse (which, by the way was a contender for [The Lamest Mouse award][1]™ had almost died - the left clicks weren't registering, the cord was getting all tangled up - and decided to go for a new mouse. Thought I'll get a wireless one, and what the heck a Laser wireless one. After a bit of searching - this is what I got
 
-<!--more-->
+
 
 [<img src="https://farm4.static.flickr.com/3302/3244708681_5eac434764.jpg" alt="Logitech v450 nano" width="500" height="375" />][2]
 

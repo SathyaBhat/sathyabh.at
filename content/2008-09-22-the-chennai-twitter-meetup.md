@@ -29,7 +29,7 @@ Well the third Chennai twitter meetup was held yesterday - and like the second t
   * Narayanan(@narayananh)
   * Palaniappam (@palam)
 
-<!--more-->
+
 
 <div>
   The venue was decided to be Mocha, K N K Road, Nungambakkam as it seemed to be sort-of a central location to most people. We had decided initially to meet up at 16:30, but then decided to move it to 19:00 as Narayanan felt it would be too early. I tweeted this change in plan but seems that Ashish didn't read this update(I wouldn't blam him though, with the amount of tweeting that I do, anyone could've missed it!). Anyways he got the tweet just before he left for Mocha @ 16:15, else he'd be waiting there for like 3 hours! Anyways once the venue was fixed, he didn't know how to make his way from Kelly's to Mocha, but Balaji was kind enough to tweet the EXACT directions, which road, where to take left right etc. That was pretty awesome.

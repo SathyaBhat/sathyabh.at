@@ -20,7 +20,7 @@ tags:
 
 It's been more than 7 years since I last [built my home desktop](https:///sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/). It hadn't remained static - there had been a [steady trickle of updates](https://sathyabh.at/) over the years but the base foundation:
 
-<!--more-->
+
 
 - the processor
 - motherboard

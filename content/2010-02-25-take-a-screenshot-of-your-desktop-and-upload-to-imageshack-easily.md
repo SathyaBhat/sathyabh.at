@@ -16,7 +16,7 @@ tags:
 ---
 I wanted a simple tool to upload to Imageshack with minimum fuss and absolutely no config settings, couldn't find any such so I built one myself.  Just extract all the files to a folder, run the executable, and if you want to upload something to  Imageshack, hit PrintScreen and double click the icon on the system tray, it'll automatically upload to <s>ImageShack</s> imgur, and once upload is done, will give you a notification and copy the <s>ImageShack</s> imgur URL to the clipboard.
 
-<!--more-->
+
 
   
 I've been using this for the past few <span style="text-decoration: line-through;">weeks</span> months now, and seems to work fine atleast on Win 7. Under Linux, the app runs fine using Mono + Winforms without any changes - although there's a slight glitch - the generated URL doesn't see to get copied to the clipboard. Let me know your feedback / rants.

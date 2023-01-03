@@ -21,7 +21,7 @@ Quite some time back Kingston was kind enough to send me their v100 128GB SSD fo
 
 While the SSD was in transit, I started researching on how would I be able to fit the SSD into my laptop, with the SSD as the primary drive and the existing Seagate Momentus 7200rpm hard drive as the secondary drive. Digging up the Envy 14 manual, I was under the impression that having both drives would be possible.
 
-<!--more-->
+
 
 <div style="width: 591px" class="wp-caption aligncenter">
   <a href="https://i.imgur.com/SNq5n.png"><img title="HP Service Manual Illustration" src="https://i.imgur.com/SNq5n.png" alt="HP Service Manual Illustration" width="581" height="275" /></a>

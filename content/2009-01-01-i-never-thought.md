@@ -15,7 +15,7 @@ tags:
 ---
 Its almost time to kick out 2008 and welcome 2009. Instead of posting the Happy New Year message, thought I'll post somethings which I never thought/expected I'd do/happen but did: So here ya go
 
-<!--more-->
+
 
   1. Never thought I'd go from busy to jobless and extremely busy and working overtime in a matter of couple of hours.
   2. Never thought I'd such a huge twaddict (that's twitter addict for you lesser mortals)

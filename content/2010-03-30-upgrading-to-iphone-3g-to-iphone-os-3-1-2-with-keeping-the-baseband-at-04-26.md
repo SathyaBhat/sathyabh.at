@@ -18,7 +18,7 @@ tags:
 ---
 I think this is my first post on iPhone ( barring the [rant][1]). o_O. Surprising, since I purchased the iPhone from eBay close to a year ago. Anyhow, being the computer <span style="text-decoration: line-through;">freak</span> enthusiast that I am,  I keep a track of most of the latest software that appears on the tech scene.  I generally have a zero-day update policy - any new version/update that arrives for a software I generally update it. I'm probably amongst the few folks who also read the release notes and change logs prior to upgrading, to find out if there's some new functionality or enhancement that has been added to the software which isn't so obvious. (Of course, some say if the new feature [isn't obvious in the UI][2], it is unlikely to get noticed, to which I agree. That said, do read the release notes. It will contain some good information). With the iPhone purchased, however I had to break this habit.
 
-<!--more-->The core reason being - the iPhone's carrier lockdown. Its pretty known that the iPhone is carrier locked - which would mean that you cannot just pop in any random SIM and it would start working. There are, of course, 
+The core reason being - the iPhone's carrier lockdown. Its pretty known that the iPhone is carrier locked - which would mean that you cannot just pop in any random SIM and it would start working. There are, of course, 
 
 [ways around this][3] thanks to some amazing efforts by bunch of [zomg-awesome folks][4].
 

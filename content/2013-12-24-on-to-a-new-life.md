@@ -17,7 +17,7 @@ I had originally wanted to publish this back in late August when I shifted from 
 
 Since shifting to Bangalore, I'd been staying in a tiny 1BHK house in Murugeshpalya, off Old Airport Road. Back then, I'd chosen this place mainly for it's proximity to my workplace - at about 4.4km, it takes me an average of 15 minutes to a maximum of 30 minutes to reach office. With 335E plying in copious amounts, heading to office or to Majestic to head back home was quite easy too. 2 years in, I decided to to move to a bigger place, so that things are all set when the inevitable <a title="#cpgweds" href="https://cpgweds.com" target="_blank">#cpgweds</a> happens.
 
-<!--more-->
+
 
 I wasn't really inclined to move away from this area, and started searching for houses, apartments. Like most house hunts, finding the one you like is really tough. Either the place is too small, or too big, or isn't in the right area, or too far away or has some problems - water/neighbourhood/moron neighbors/no bachelor/no nonveg nonsense - the list goes on. After searching for about 4-5 weekends, I finally found a place which was pretty nice. Wasn't too big, just enough space, had a nice balcony to kickback and have a beer - wasn't too interior, but was real quiet for some peace of mind 🙂
 

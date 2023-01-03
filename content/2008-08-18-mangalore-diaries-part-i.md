@@ -13,7 +13,7 @@ tags:
 ---
 If you've been <a href="https://twitter.com/sathyabhat" target="_blank">following me</a> on twitter, you'd be knowing that I was due for a trip to Mangalore soon. Well it's been couple of days since I've been in Mangalore, so I thought I'll do a short post on what's been up past couple of days.
 
-<!--more-->
+
 
 Well lets start from my train journey from Chennai - my train was scheduled to depart at 11:30am, so I thought I'd leave at say around 10:45, and be at Chennai Central at 11(yup, it takes only 15minutes). However early morning at 6:30, I got a call from my colleague, Ashmita - she was due to leave for Bangalore by the 7am train - she told me about luggage and baggage check over at the railway station - after all, the events of past few weeks and the fact that, the day was India's 61st Independence Day meant that security was heightened. This made me pre-pone my timings. So I left my room at 10:15, and reached the railway station. I was expecting huge queue for the baggage check, but surprising there was none - and the station itself was rather deserted - compared to Chennai Central standards atleast. Probably everyone left the previous day itself. Anyhow the journey was rather boring - no hot chicks, I was surrounded by aunties.
 

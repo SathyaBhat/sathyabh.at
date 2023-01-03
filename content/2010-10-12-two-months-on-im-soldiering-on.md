@@ -21,7 +21,7 @@ Hard to believe, but it's been two months since [I've been in Austin][1].  Let
 
 As mentioned in my previous post my flight was due to depart at 04:45, and I would have to reach at the Airport by atleast 2AM. Since I didn't have a vehicle, I called up a call-taxi and arranged for it to come at 01:30. The airport was about 45 minutes from where I stay, and wasn't sure about the traffic (if any - plus it was kinda stormy that night/early morning) so revised the taxi timings and asked him to come over at 01:15.
 
-<!--more-->
+
 
 (Un)fortunately the taxi driver was a little too fast and I was at the airport by 01:45. And by 02:15 I was done with baggage check and security clearance ( I didn't have to check-in - I'd done web check-in 12 hours ago and just had to pick up the boarding pass and was directed straightaway to the counter to pick it up). Plenty of time to kill. I pulled out my laptop so that I browse the 'net - and guess what - the Airport didn't have any free WiFi and the paid WiFi required sending of password to cell phone - which maybe fine, but I'd already given up by number to Ashmi since I would not be using any more, and soo the sending of password was useless. Remind me again, why they need to send the password via an SMS ? Why not generate a unique one-time link to authenticate ? Yeesh. The other alternative was to get an hour's worth of WiFi from a Tata Indicom booth nearby ( hey, something's better than nothing!) and the brilliant guys over at booth thought it was fit NOT to have anyone man the station. Huh, not much sales I guess.
 

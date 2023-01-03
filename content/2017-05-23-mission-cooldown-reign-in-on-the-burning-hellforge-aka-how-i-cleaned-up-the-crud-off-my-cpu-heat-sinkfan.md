@@ -42,7 +42,7 @@ Here's what I bought to clean up:
 
 Now, for the pictures. You've been warned. This was how it was when I opened the cabinet
 
-<!--more-->
+
 
 {{< fancybox "https://i.sathyabh.at/sb/2017/05" "cpu-hsf-top-fans.jpg" "CPU heatsink/fan with cabinet top fans" "Cooldown" >}}
 {{< fancybox "https://i.sathyabh.at/sb/2017/05" "full-cabinet.jpg" "Full cabinet" "Cooldown" >}}

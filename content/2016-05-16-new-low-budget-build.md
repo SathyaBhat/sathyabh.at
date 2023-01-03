@@ -21,7 +21,7 @@ Past Friday, she gave me a reminder about having it would be nice and me being 
 
 That's about it. I started with a base 6th gen Skylake based i3-6100 as my system build. Since I wasn't sure about the pricing, these are what I came up with:
 
-<!--more-->
+
 
   * Processor: <a class="in-cell-link" href="https://www.amazon.in/Intel-Core-i3-6100-1151-Processor/dp/B015VPX2EO/ref=sr_1_1?ie=UTF8&tag=mewoof-21&qid=1463159175&sr=8-1&keywords=intel+i3#productDetails" target="_blank">i3-6100</a> ~ ₹9,300
   * Motherboard: <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MSI H110M PRO&quot;}" data-sheets-userformat="{&quot;2&quot;:1049089,&quot;3&quot;:[null,0],&quot;12&quot;:0,&quot;23&quot;:1}" data-sheets-formula="=HYPERLINK(&quot;https://www.amazon.in/MSI-H110M-PRO-Generation-MotherBoard/dp/B01649FUXM/ref=sr_1_1?s=computers&ie=UTF8&qid=1463159358&tag=mewoof-21&sr=1-1&keywords=h110&quot;,&quot;MSI H110M PRO&quot;)"><a class="in-cell-link" href="https://www.amazon.in/MSI-H110M-PRO-Generation-MotherBoard/dp/B01649FUXM/ref=sr_1_1?s=computers&ie=UTF8&qid=1463159358&tag=mewoof-21&sr=1-1&keywords=h110" target="_blank">MSI H110M PRO</a> ~ </span>₹4,700

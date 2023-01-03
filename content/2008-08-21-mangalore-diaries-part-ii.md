@@ -17,7 +17,7 @@ tags:
 ---
 In my previous post I'd written about my initial experiences in Mangalore after a 5 month absence. This post continues my previous post.
 
-<!--more-->
+
 
 Well one of the main reasons I'd come to Mangalore was for my neice Shriya's first birthday celebrations and more importantly her ear-piercing ceremony. My parents had been delaying it for me to come down to Mangalore. You see tradition has it that neice's ear has to be pierced on her uncle's lap. I was all gung-ho for it, and yesterday while I'd gone out for dinner with my family, my brother-in-law received a phone call, informing him that there was a death in the family(don't ask whom, it was like maternal-uncles'-first-cousins'-elder-sister's-loooong-family-chain-crap) and hence because of Vaale<sup><a href="#footnote_0_115" id="identifier_0_115" class="footnote-link footnote-identifier-link" title="Konkani for death in family">1</a></sup> we won't be able to conduct the ear piercing ceremony. And that made me go like :-\ Damn. So when this ear-piercing will happen, no idea.
 

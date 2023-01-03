@@ -19,7 +19,7 @@ Over the period of time that I’ve been working on PL/SQL, the one the thing th
 
 Consider this case:
 
-<!--more-->
+
 
 You enter some values via the front end. Assume that there are \*a lot\* of fields to be entered. You save them. The <sequence-name>.nextval will pick up the next number in the sequence and goes into your table as the primary key. Now consider that most of the data is common, so instead of entering them via the front-end, you fire up Toad or SQL Developer or PL/SQL Developer and make use of the "duplicate row” feature. You enter some random value in the PK column, and save it.
 

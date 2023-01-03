@@ -29,7 +29,7 @@ I keep getting this mail as a forward, and it's contents reflect my views too. H
 > Let's ask one of them&#8230;  
 > Here's what he says&#8230; "What's there 2 do after going home&#8230;Here we get to surf, AC, phone, food, coffee that is why I am working late&#8230;Importantly no bossssssss!!!!!!!!!!!"
 > 
-> <!--more-->
+> 
 > 
 >  
 >   

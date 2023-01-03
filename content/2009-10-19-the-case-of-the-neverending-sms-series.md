@@ -30,7 +30,7 @@ Most of the [Ruby gang][1] are very well aware of the "Stupid SMS series". For 
 
 Anyways back to the post,  couple of days ago, as I was spending time in morning, my iPhone started to buzz away. It wasn't very surprising, since getting a message in morning isn't something out of the ordinary. Opened the message only to see it was a blank SMS from an unknown number. Ignored it at first, but then the buzzing went on continuously. In a matter of few minutes my inbox looked like this:
 
-<!--more-->
+
 
 <p style="text-align: center;">
   <a href="https://kurast.sathyabh.at/wp-content/uploads/2009/10/sms-spam.jpg"><img class="size-medium wp-image-309 aligncenter" title="sms-spam" src="https://kurast.sathyabh.at/wp-content/uploads/2009/10/sms-spam-200x300.jpg" alt="sms-spam" width="200" height="300" /></a>

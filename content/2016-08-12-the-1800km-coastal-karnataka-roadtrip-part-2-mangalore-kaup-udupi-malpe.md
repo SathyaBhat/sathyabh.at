@@ -17,7 +17,7 @@ tags:
 ---
 I've always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 2 continues..
 
-<!--more-->
+
 
 Come Tuesday morning, we woke up earlier than usual and started packing for our journey. Sat down for breakfast and gulped down buns made by Mom. Saying bye is always hard, we took leave from home, filled up fuel and started on.
 

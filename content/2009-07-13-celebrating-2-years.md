@@ -15,7 +15,7 @@ tags:
 ---
 Couple of days ago, I tweeted this [little message][1]. July 9, 2007 is a red letter day for me - for that was the day I started my career as a working professional. As I tweeted that, I was greeted over IM by few of my friends and colleagues. It didn't strike me much as soon as I tweeted, but few hours later I was just amazed as to how fast time has gone by - and how far I've come. To think, I applied for this position as an afterthought ("should I really ? Well.."). That got me into nostalgia mode.
 
-<!--more-->
+
 
 Lets travel back in time - nearly 3 years ago. I was just about done with my 6th semester in College. I was barely scraping through college, no thanks to me and a certain VTU ("V Torture U" - my university). 3rd - 6th sems were probably one  of the worst phases of my life. I almost lost a year, with my overdues ("OD") almost killing me. Almost - is the keyword - I didn't. My folks were pretty supportive, as were my friends. My "escapades" through mid-college meant that I was ineligible for campus selections, and here I was seeing those people snapping jobs left and right because they were able to "cram" everything into their frigging minds and "vomit" them out onto answer paper - word by word, letter by letter, punctuation mark by punctuation mark. This cramming thing was something I could never do. It was rather disgusting to see these people (mainly girls - no I'm NOT being sexist here) spew out letter by letter things from the "prescribed" textbooks - ask them a Question and they would tell you which page, paragraph and line these definitions were there.
 

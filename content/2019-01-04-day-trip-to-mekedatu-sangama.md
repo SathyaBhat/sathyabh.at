@@ -18,7 +18,7 @@ It'd been a while since Jo and I had gone for a day trip on the outskirts of Ban
 
 We started out fairly late, at about 09:15 in the morning and stopped for breakfast at MTR on <a rel="noreferrer noopener" aria-label="Kanakapura Road, near Art of Living (opens in a new tab)" href="https://goo.gl/maps/F8VYRxMWYCw" target="_blank">Kanakapura Road, near Art of Living</a>&nbsp;Ashram. Jo had a long face when she thought that was the end of the long drive but I told her that we were just getting started.
 
-<!--more-->
+
 
 We've been stopping by MTR (to be honest, it's more of a food court with MTR plus couple of other outlets) outlet since quite some time. The place is usually crowded to that it's hard to find a spot to sit, but this time it was fairly empty. I'm not sure if it was empty because we were late or because the prices at the outlet have become ridiculously expensive - just 2 coffees cost us Rs 68 and with with 2 idly-vada cost us an additional Rs 208. Made a mental note to probably skip this outlet for the next trip
 

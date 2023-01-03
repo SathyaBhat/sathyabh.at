@@ -15,7 +15,7 @@ tags:
 ---
 Long time, no music.. slightly occupied with house shifting and new job - but more on that later. For now, enjoy the songs
 
-<!--more-->
+
 
 "Humbug Mountain Song" by Fruit Bats -'shrooms. nuff said.
 

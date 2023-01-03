@@ -16,7 +16,7 @@ tags:
 ---
 Experimenting with something. Decided to make a list of few songs I enjoyed during this week's commute, one per day. Maybe do it regularly, if possible
 
-<!--more-->
+
 
 Bear's Den - Red Earth & Pouring Rain
 

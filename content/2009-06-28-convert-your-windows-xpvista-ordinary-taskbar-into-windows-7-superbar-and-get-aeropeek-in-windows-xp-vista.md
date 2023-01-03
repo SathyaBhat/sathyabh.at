@@ -14,7 +14,7 @@ tags:
 ---
 I've been trying out Windows 7 RC on my personal laptop for about 2 weeks now - and I've been very impressed with Windows 7 (I'll leave my Windows 7 impressions for another blogpost). One of the best liked features about Windows 7, for me is AeroPeek. Essentially AeroPeek groups all similar Windows into one, and as you hover your mouse over it, It displays all windows open so that you can quickly switch over to it. The picture below will give a good idea of AeroPeek.
 
-<!--more-->
+
 
 <a style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="https://www.flickr.com/photos/sathyabhat/3666391564/"><img style="border: 0px none;" title="win 7 aero peek" src="https://static.flickr.com/3619/3666391564_a9862dc103.jpg" alt="" width="500" height="313" /></a>
 

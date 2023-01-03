@@ -22,7 +22,7 @@ Been a while since last wrote a review so I'm a bit rusty 🙂
 
 Previously, I depended a lot on the [crappy Airtel data card][1]. In course of time [things happened][2], ( which is not relevant to the review 😉 ) and I shifted to a new place. This place had a pre-existing Reliance WiMax connection, so I really cannot comment on the installation charges and support.
 
-<!--more-->
+
 
 So I'm going to focus more on the way it works, speed and support. To begin with: the WiMAX connection isn't exactly plug and play: once you switch on PoE you'll have to wait for couple of minutes before you get onto Reliance's internal network when you can sign in, via their web portal. Which is my first problem - The session sign on is web based. Why is this a problem ? Because I cannot automate the task of logging on. I have to launch the browser, visit the page, enter the username / password and then signon. If it was something like a bridged connection present on tradition DSL based lines then I could easily write a script to do the same.  
 My second problem is Reliance's session management: I've been  using it in excess of 4 months, and I still can't figure out when the session gets timed out. There have been times when the session hasn't expired for more than 24 hours, and yet at times it gets expired in 4 hours - this is really frustrating more so with the way session logon is handled ( ref above).  

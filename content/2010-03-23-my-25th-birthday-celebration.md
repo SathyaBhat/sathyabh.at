@@ -20,7 +20,7 @@ tags:
 ---
 March 19 1985, 05:28. Date and time a certain SJ (no, not Steve Jobs, [me][1]!) came into this world. Fast forward to March 19, 2010. <span style="text-decoration: line-through;">Today.</span> <span style="text-decoration: line-through;">Yesterday</span>. couple of days ago. 25. I've "officially" completed 25 years of which 22 years were spent in [Mangalore][2], 9 months in [Austin][3], and the remaining time in [Chennai][4].
 
-<!--more-->
+
 
 The day was pretty uneventful, however. My colleague Sweety was the first to call at 12:00, and Zakir, the silent assassin sitting besides me jumped and pounced on me, hammering away - all in the name of "bumps". Few more calls, \*loads\* and \*loads\* of tweets and facebook messages wishing me a Happy B'day. I actually hit twitter rate limit, on xtw.in and dabr, twice. Dang. Finished off my work ( I'm a zombie, work at nights thanks to my [previous stint][5] \*grumble\*grumble\* ) left for home. Dad & Mum called, as did few relatives 🙂 Returned to work on Friday evening(\*grumble\*grumble\*), got wishes from Colleagues, and cake facials ( thankfully, no tomatoes or rotten eggs !). Finished off work and got back home Saturday morning. (FYI: Reach office at 5:30pm, leave at 5:30am).
 

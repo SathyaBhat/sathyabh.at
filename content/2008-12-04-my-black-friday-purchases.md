@@ -18,7 +18,7 @@ tags:
 ---
 "Black Friday" in US is the day after Thanksgiving day. On this single day you get the best deals - flat discounts, and unbelievable prices. There's a catch though, the best deals are available real early - I mean as early 5 AM - people are known to camp the night out just to grab them. While my colleague and me went to the mall relatively late at 7:30 I still got some nice deals.
 
-<!--more-->
+
 
 Picked up this PSP for $150 after tax.  
 <a href="https://www.flickr.com/photos/sathyabhat/3070126750/in/set-72157605200758599/" target="_blank"><img src="https://farm4.static.flickr.com/3055/3070126750_5b4f3e5fd2.jpg?v=0" alt="PSP" /></a>  

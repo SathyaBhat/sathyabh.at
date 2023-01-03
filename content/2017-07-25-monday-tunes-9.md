@@ -16,7 +16,7 @@ tags:
 ---
 Another week, another set of tunes. Enjoy. &#x1f3b6;&#x1f3b5;
 
-<!--more-->
+
 
 "Ain't Scared" by The Tragic Thrills
 

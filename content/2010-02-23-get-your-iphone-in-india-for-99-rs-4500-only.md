@@ -13,7 +13,7 @@ tags:
 ---
 That got your attention ? Well, brace up, this is a rant.
 
-<!--more-->
+
 
 _Note: This is something I had stored on txtb.in long, long ago. I decided to post this because people keep saying the same old shit - 'its only 4k in US blah blah. This post was triggered by that guy <a href="https://www.facebook.com/profile.php?id=557145254" target="_blank">Pranav</a> ( 😛 ). Pranav - if you're trying to reject this -_ 
 

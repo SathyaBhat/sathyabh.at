@@ -17,7 +17,7 @@ tags:
 ---
 If you're a regular reader ( and not reading this in a feed reader) you would have obviously noted a change in appearance of my blog. - It's been a while since I last [refreshed my blog][1] . My World had been running on the absolutely gorgeous (well, IMO anyways) SoDelicious2 theme. I even had a mini "[contest][2]" to decide who would get the spots for the gallery links. So why the change then ?
 
-<!--more-->Well nothing in particular, just that you know, you have to keep things changing (OK not \*that\* much) to it look fresh. I'd been planning for a theme change for a bit now, but was too lazy to scope out which would be good. And then just yesterday I stumbled onto 
+Well nothing in particular, just that you know, you have to keep things changing (OK not \*that\* much) to it look fresh. I'd been planning for a theme change for a bit now, but was too lazy to scope out which would be good. And then just yesterday I stumbled onto 
 
 [Theo Jones' blog][3] and was just blown away by [his theme][4]. And the best part was that he had released it for all, and integrates well with the social networks I frequent on (well, except that the last.fm records plugin is \*slightly\* broken but doesn't affect the blog looks at all).
 

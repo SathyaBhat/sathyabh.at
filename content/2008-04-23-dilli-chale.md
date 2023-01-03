@@ -21,40 +21,40 @@ Will keep twittering about it, <a href="https://www.twitter.com/sathyabhat/" tar
 
 Update: I was sent a text file containing the "elaborate schedule" I was speaking about, here it goes:
 
-<!--more-->
 
-> PLAN FOR DELHI&#8212;->
+
+> PLAN FOR DELHI—->
 > 
 > 25/04/2008->FRIDAY
 > 
-> 1.CHATARPUR MANDIR&#8212;->9.00  
-> 2.QUTUBMINAR&#8212;&#8212;&#8212;->9.30  
+> 1.CHATARPUR MANDIR—->9.00  
+> 2.QUTUBMINAR———->9.30  
 > 3.LOTUS TEMPLE(VIA)  
 > 4.AIIMS(VIA)  
-> 5.INDIA GATE&#8212;&#8212;&#8212;->11.00  
-> 6.PRESIDENT HOUSE&#8212;->12.00  
-> 7.CANNAUGHT PLACE&#8212;->12.00&#8212;3.00  
-> 8.JANAPATH&#8212;&#8212;&#8212;&#8212;>12.00&#8212;3.00  
-> 9.JANTAR-MANTAR&#8212;&#8212;->12.00-3.00  
-> 10.LAL KILA&#8212;&#8212;&#8212;->3.00-7.00  
-> 11.JAMA MASJID&#8212;&#8212;->3.00-7.00  
-> 12.CHANDNI CHOWK&#8212;&#8212;>3.00-7.00  
-> 13.DHEERAJ'S FUNCTION&#8212;>8.30 PM  
-> &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;  
+> 5.INDIA GATE———->11.00  
+> 6.PRESIDENT HOUSE—->12.00  
+> 7.CANNAUGHT PLACE—->12.00—3.00  
+> 8.JANAPATH————>12.00—3.00  
+> 9.JANTAR-MANTAR——->12.00-3.00  
+> 10.LAL KILA———->3.00-7.00  
+> 11.JAMA MASJID——->3.00-7.00  
+> 12.CHANDNI CHOWK——>3.00-7.00  
+> 13.DHEERAJ'S FUNCTION—>8.30 PM  
+> ——————————  
 > 26/04/2008->SATURDAY
 > 
-> 1.AGRA&#8212;&#8212;&#8212;&#8212;->8.00 AM  
-> 2.FATEHPUR SIKRI&#8212;>7.00 PM  
-> 3.PARTY AT GURGAON->10.00PM&#8212;>5.00AM
+> 1.AGRA————->8.00 AM  
+> 2.FATEHPUR SIKRI—>7.00 PM  
+> 3.PARTY AT GURGAON->10.00PM—>5.00AM
 > 
-> &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+> ——————————
 > 
 > 27/04/2008->SUNDAY
 > 
 > 1.GURGAON  
 > 2.MARRAIGE
 > 
-> &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-  
+> ——————-  
 > 28/04/2008->MONDAY
 > 
 > 1.BACK TO  PAVILLION

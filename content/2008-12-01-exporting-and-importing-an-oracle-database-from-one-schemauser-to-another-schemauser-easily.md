@@ -21,7 +21,7 @@ If you want to skip all the commands and all just get the import / export done i
 
 Anyways here's a step by step  process on how you export and import the data - do note that Easy Dump Oracle can import data ONLY if required grants are given to the user and tablespace has been allocated. For that you need to follow the below mentioned steps.
 
-<!--more-->
+
 
 First, export the user/schema that you want to import to. For that open the command prompt and type
 
