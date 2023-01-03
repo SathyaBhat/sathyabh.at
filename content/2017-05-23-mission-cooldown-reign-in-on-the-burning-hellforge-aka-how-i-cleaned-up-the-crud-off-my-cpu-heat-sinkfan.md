@@ -12,7 +12,6 @@ tags:
   - gaming
   - heatsink
   - Hellforge
-  - hsf
 
 ---
 It's been about 4 years since I built <a href="https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank" rel="noopener noreferrer">Hellforge</a>. It's gotten some updates:

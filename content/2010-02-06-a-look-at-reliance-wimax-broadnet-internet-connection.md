@@ -14,7 +14,7 @@ tags:
   - Hassles
   - internet
   - Reliance
-  - revie
+  - review
   - WiMAX
 
 ---
