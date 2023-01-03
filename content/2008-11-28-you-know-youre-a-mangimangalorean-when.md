@@ -24,7 +24,7 @@ Found this post while randomly browsing through facebook groups. Was literally R
 > 
 > 4. Every other Mangy is a far off relation.
 > 
-> <!--more-->
+> 
 > 
 > 5. Your parents say you have to marry only a Mangy because apparently, the other communities aren't good enough.
 > 

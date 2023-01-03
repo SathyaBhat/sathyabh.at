@@ -25,7 +25,7 @@ I was like WTF are American Capsicum Noodles? Undettered by not even \*heard\* a
 
 Have a look:
 
-<!--more-->
+
 
   
 [![American Capsicum Noodles][1]][2]       [![American Capsicum Noodles,Again][3]][4]

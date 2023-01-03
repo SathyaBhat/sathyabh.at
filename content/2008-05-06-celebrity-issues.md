@@ -20,7 +20,7 @@ tags:
 Being a mini "celebrity"  can be a problem. Now I'm no "celebrity", but being a moderator of India's biggest tech website forums, [Tech2.o][1] has its advantages&#8230;and drawbacks too. Some of the people who contact me on IM, just make me go =)) =)) =))
 
 Case in point was the other day, while I was working, I get buzzed on IM. A guy asks me, "are you the moderator at tech2?". I say "yes". He tells me: ""prove it!!" I was like WTF?, and I go "Why should I?". He then goes :"I KNOW YOU ARE LYING". I then go "Ughhh, Ok, fine. I see no reason as to why I should "prove" you anything" . I'm like jeez what losers. Unfortunately I didnt have teh ENTIRE log of that conversation to share with you guys.  
-<!--more-->
+
 
 Today, i had another such incident. with Log. For sake of not embarrassing the guy,I've changed it to xxxx
 

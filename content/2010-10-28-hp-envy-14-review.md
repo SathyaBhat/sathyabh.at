@@ -27,7 +27,7 @@ You can never have enough of available space.
 Opted for a 1366&#215;768 resolution screen, instead of a 1600&#215;900. I [really do believe][2] that 1280&#215;800 / 1366&#215;768 resolution hits the sweet spot for 14/15&#8243; screens. Here's a glance at the laptop specifications.
 
 **Laptop Specifications:**  
-<!--more-->
+
 
   * Processor: Intel Core i5 520M @ 2.4 GHz, Turbo boost upto 2.93 GHz, 3 MB L2 Cache w/ [HT][3], [EM64T][4], [VT-x][5] & [VT-d][5] & AES new instructions ( [CPU-z validation][6])
   * Main memory: 2x2GB DDR3 1066 MHz Dual Channel mode

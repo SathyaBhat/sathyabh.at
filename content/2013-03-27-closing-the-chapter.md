@@ -13,7 +13,7 @@ tags:
 ---
 About a week ago, round about this time, my Mum called me up and and told me a piece of news which I would never in my wildest nightmares would have imagined, would happen to me.
 
-<!--more-->
+
 
 She told me that my fiancee's family wanted to break the engagement and drop the wedding proposal. The news had me shook so bad, I was frozen at my seat for a good half hour thinking, what? Is this real? Am I imagining things? What did I do wrong? Did I insult them somehow?
 

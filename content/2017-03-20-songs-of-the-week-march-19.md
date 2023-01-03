@@ -16,7 +16,7 @@ tags:
 ---
 Another week of missed songs.. but I'm back.. again. Enjoy ♫♬
 
-<!--more-->
+
 
 Only Love by Ben Howard
 

@@ -30,7 +30,7 @@ And what's the big break? Well, I've been" identified" as a technical resource 
 
 So why was I so cryptic in the first place? And what's with "identified",  you may be wondering huh ? Read on.
 
-<!--more-->Well this happened last week: The onsite implementor comes to me, and asks me to have a talk with me. We have a smoke together and then he asks me, How good are you with the product? I reply, I can handle it, but I have zero knowledge of functional stuff. He was like OK that's fine. He then tells me - you will most probably going onsite as a technical resource. Don't discuss this with anyone yet, we'll have to get this thing finalized. And couple of days later - I get an official mail - "We've identified Sathyajith for API onsite implementation". So&#8230;&#8230; YAAAAAAAAAAAAAAAAAAAAAAAAAY 😀 😀 😀 \:D/ \:D/
+Well this happened last week: The onsite implementor comes to me, and asks me to have a talk with me. We have a smoke together and then he asks me, How good are you with the product? I reply, I can handle it, but I have zero knowledge of functional stuff. He was like OK that's fine. He then tells me - you will most probably going onsite as a technical resource. Don't discuss this with anyone yet, we'll have to get this thing finalized. And couple of days later - I get an official mail - "We've identified Sathyajith for API onsite implementation". So&#8230;&#8230; YAAAAAAAAAAAAAAAAAAAAAAAAAY 😀 😀 😀 \:D/ \:D/
 
 So the reason why I was so cryptic was because (a) the implementor had told me that I _may_ be going, he wasn't too certain (b) I didn't have a passport. So I was like very uncertain if I'll miss the opportunity, and I didn't want to go about saying Yaay I'm going onsite and then get blown out at the last moment. 
 

@@ -22,7 +22,7 @@ tags:
 After running about the Mangalore passport offices, running behind the cops to get verification done, and running to Bangalore passport office and converting the passport application to Tatkal, I finally received my passport in Chennai yesterday.
 
 It wasn't all smooth sailing though - I could've gotten it a LOT earlier but Ayudha Pooja, Vijaya Dashami, holidays caused the Passport application processing to be delayed by a week.  
-<!--more-->
+
 
   
 To add to the complications, I had to apply for the passport in Mangalore I don't have any valid address proof for my Chennai residence though I've been here for more than a year. And though we have a passport office in Mangalore, we can't convert it to a Tatkal quota passport, meaning after applying for the passport and waiting for the police verification, I had to goto Bangalore to submit the Tatkal conversion application, and pay the Tatkal fee. And there was another catch here.

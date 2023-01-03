@@ -16,7 +16,7 @@ tags:
 ---
 Slight change for this post - going to post only instrumental songs. Enjoy &#x1f3b6;&#x1f3bc;
 
-<!--more-->
+
 
 'Oizys' by James Heather
 

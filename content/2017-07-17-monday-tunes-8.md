@@ -16,7 +16,7 @@ tags:
 ---
 Songs of the week/fortnight/month is now Monday tunes. Will be regular. Mother promise. Till then, enjoy tunes. &#x1f3b6;&#x1f3b5;
 
-<!--more-->
+
 
 "It was a sin" by The Revivalists
 

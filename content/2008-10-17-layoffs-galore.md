@@ -19,7 +19,7 @@ SInce the past couple of days, I’ve been reading lot of email forwards regardi
 
 But then today, that whole thing of a layoff really hit me.
 
-<!--more--></p> </p> 
+</p> </p> 
 
 Today was probably one of the worst days of my life. I watched in horror as 90% of the team mates of my current project were layed off, all in the name of cost cutting. These guys weren’t even given a month or couple of days notice, infact no notice whatsoever. These guys came to office in the morning, afternoon they get a call from the HR asking them to meet, and then were told, “Please submit your resignation paper”. Even worse, they were further told “Don’t make us do anything harsh”. Like, helllooooooooooo? Calling them in the middle of the day, out of nowhere and telling them to get the fuck out of here isn’t harsh? Oh gee.
 

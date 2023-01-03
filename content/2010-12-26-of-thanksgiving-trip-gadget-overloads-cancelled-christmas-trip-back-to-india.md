@@ -25,7 +25,7 @@ I've been absent in posting here - more because there's hardly anything interest
 
 For the past couple of months, my colleague had returned back to India, which meant me having no company. With Thanksgiving around the corner, I decided to pay a trip to my cousin sis’ place in Allen, TX. With no car with me & bus service from Austin to Allen non-existent – I decided to rent a car from Enterprise.
 
-<!--more-->
+
 
 With no International OR a US driving license, I was worried if they’d reject the rental ( the Texas DMV, however, says you can drive with a valid license – doesn’t have to be International or US) – but thankfully, Enterprise didn’t reject it. The other worry I had was that Enterprise **requires** a valid credit card to be presented while renting. Now I didn’t have a US credit card. Then I realized that I did have my Indian credit card which was a valid International credit card – so I presented it – and voilà  - it was accepted. I also enquired if if the final payment could be done with my Bank Of America debit card – they said that would be fine – so USD <-> INR exchange rate problems.
 

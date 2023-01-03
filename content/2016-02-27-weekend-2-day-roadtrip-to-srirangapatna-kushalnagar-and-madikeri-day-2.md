@@ -21,7 +21,7 @@ Day 2 <a href="https://sathyabh.at/2016/02/20/weekend-2-day-roadtrip-to-sriranga
 
 So, for Day 2 we had originally planned like so: Nisargadhama - Mysore - Chamundi Temple - Bangalore. However, since we couldn't visit the Monasteries on day one, we decided to visit Monasteries on day 2 and skip Mysore/Chamundi since it'd have been way too late by the time we reached home.
 
-<!--more-->
+
 
   
 Having had breakfast, we went walking around the property. Jo spotted a swing and couldn't help sitting on it..

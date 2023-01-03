@@ -16,7 +16,7 @@ tags:
 ---
 Monday tunes is here again. Let me know how you like the songs! &#x1f3b6;&#x1f3b5;
 
-<!--more-->
+
 
 "Goodnight" by Shoffy - this is probably the first song that I really like <a href="https://open.spotify.com/track/2bWoRWc3AD9Dv2IZTa6MaN" target="_blank" rel="noopener">the version on Spotify</a>(which I suspect is the orignal) but YouTube doesn't have this one. I'm going to link another one for YouTube but if you can - do listen to the <a href="https://open.spotify.com/track/2bWoRWc3AD9Dv2IZTa6MaN" target="_blank" rel="noopener">one on Spotify</a>
 

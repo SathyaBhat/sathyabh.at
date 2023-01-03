@@ -19,7 +19,7 @@ I spotted this question on Super User about <a href="https://superuser.com/q/197
 
 And well - it was easy - the part part where you create the query, that is. Now creating _**parameterized**_ queries - now that's something totally different. I searched around a bit for documentation on doing so - and found that any articles on the same were woefully inadequate. To be specific: There are plenty of articles on how to _change_ the parameters - just head over to Properties -> Query Definition -> Parameters. Ok, cool. Now hang on, the Parameters button is disabled. How the heck am I supposed to get it enabled ? I had a ball of a time trying to figure out a way to do it - and in the end, found the answer, and posted it. Figured might as well post it here for my reference&#8230; and for others who are searching for a way to do the same.
 
-<!--more-->
+
 
 Dunno why MS has made this so complicated, You will have to use Microsoft Query.
 

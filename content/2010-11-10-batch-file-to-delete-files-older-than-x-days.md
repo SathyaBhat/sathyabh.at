@@ -16,7 +16,7 @@ tags:
 ---
 At work, I have bunch of batch files which take an export from Oracle database, compress them and move them to their respective folders. In addition to this, the scripts also copy the Oracle forms executibles ("fmx"), reports ("rdf") and other miscellaneous files to the backup locations and these are further compressed. The compressed files are then transferred over to the [SAN][1].
 
-<!--more-->
+
 
 Now the problem was that these backup files would still remain on the hard drive, littering the folders and resulting in waste of space - I was looking for an alternative to get rid of these files via a scripted approach. The catch is that this is a Windows server and I'm restricted to the CLI that Windows provides - and no PowerShell either. So while researching for ways to select files older than x days, I came across forfiles command on [Stack Overflow][2] (God bless thee).
 

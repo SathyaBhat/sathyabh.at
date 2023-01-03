@@ -25,7 +25,7 @@ First thing: the return trip. The return flight was <a href="https://sathyabh.at
 
 [My flight itself was rather long][1] ( heck what do ya expect from a transcontinental flight anyway), covering 4 different flights – American Airlines from Austin to Chicago, and from Chicago to New York  and Jet Airways from New York to Brussels (stop over) and from Brussels to Chennai.
 
-<!--more-->
+
 
 I was rather surprised at the airport, for one the security check was nowhere near as extensive when I entered US, or for that matter when I left India. My baggage was checked in all the way to Chennai so baggage wasn’t a problem either.
 

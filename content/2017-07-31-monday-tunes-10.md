@@ -16,7 +16,7 @@ tags:
 ---
 We're on double digits! Let me know how you like the songs! &#x1f3b6;&#x1f3b5;
 
-<!--more-->
+
 
 Start with "Stay in" by JAWS. Released in 2012, the song has a very 90s feel
 

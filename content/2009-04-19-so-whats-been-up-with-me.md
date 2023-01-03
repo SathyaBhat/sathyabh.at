@@ -21,7 +21,7 @@ tags:
 ---
 Its been a while since I posted eh&#8230; oh yea been busy with <span style="text-decoration: line-through;">lots of stuff</span> just work :|. Lot has happened, so let me get started.
 
-<!--more-->First, yap I'm still in Austin - I was scheduled to make a return to India in 
+First, yap I'm still in Austin - I was scheduled to make a return to India in 
 
 <span style="text-decoration: line-through;">January</span> March - well that didn't quite happen - I'm still here - and would most probably return to India during the end of May - don't think this would get postponed - might just cause a problem when I return (yes there's a high chance that I might return).
 

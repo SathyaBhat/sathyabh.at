@@ -16,7 +16,7 @@ tags:
 ---
 Monday tunes is here again. Let me know how you like the songs! &#x1f3b6;&#x1f3b5;
 
-<!--more-->
+
 
 "Cardiac Arrest" by Bad Suns
 
