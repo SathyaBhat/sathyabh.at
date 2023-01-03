@@ -19,7 +19,7 @@ tags:
 ---
 I was going through Google Photos' Rediscover This Day feature and realized that over the past couple of years, a lot of my trips seem to have happened around this time frame.
 
-<!--more-->
+
 
 ### 2016
 

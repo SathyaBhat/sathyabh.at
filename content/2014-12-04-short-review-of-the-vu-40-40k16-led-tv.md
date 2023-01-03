@@ -8,7 +8,6 @@ categories:
   - Opinion
 tags:
   - review
-  - snapdeal
   - tv
   - Vu
 
@@ -22,18 +21,6 @@ Snapdeal shipped the TV next day, to be delivered by Bluedart - who took a good
 The first thing you'll notice about the TV is how light & thin the entire package is. With the whole box, including wall mounting kit and all, I'd estimate it weighed about 13 kilos.
 
 The shipped TV box consisted of (obviously) the TV, table mounting bracket, wall mounting bracket, the remote, pair of AAA batteries for the remote, the usual manuals, cable ties, component and coaxial cables
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;
 
 ### Ports, connectors
 
@@ -50,16 +37,6 @@ Now it's important to note that this isn't a "Smart" TV, which is fine by me bec
 ### Video quality
 
 I don't have a cable or a DTH connection, primarily because I use Chromecast to stream media from my Plex Media Server(on my desktop) over to the TV, and the quality has been pretty awesome. I did find the colours a bit over-saturated out-of-the-box, but toning it down from the menu helped that. Something I also noticed was visible backlight bleed, especially over the upper and lower left corners. Normally, it should be fine, but if you're watching a media which emphasizes on dark backgrounds with the lights off, this might be annoying.
-
-I've also been testing [Ogle][1](which uses Plex for their video delivery) and been generally very happy with the quality of the video - both from Ogle as well as the delivery from the TV. I'll write about Ogle some other day.
-
-
-
-
-
-
-
-
 
 ### Sound Quality
 
@@ -96,5 +73,3 @@ So overall: if you're looking for a great budget TV, I'd definitely recommend th
 
   * Visible backlight bleed, especially with dark background
   * Meh sound quality
-
- [1]: https://ogleit.in

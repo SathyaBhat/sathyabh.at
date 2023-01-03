@@ -18,7 +18,7 @@ Since the past year and half I've been in Bangalore, staying in a rented house a
 
 In mid Jan I finally decided to get a new desktop than fix my laptop. Anyway, after doing some research and settling on a budget(which was stretched by over 6k) here's what I got: (disclaimer: Flipkart affiliate links follow)
 
-<!--more-->
+
 
   * <a href="https://www.flipkart.com/intel-core-i5-3470/p/itmdd2xsg3gvjzrz?pid=PSRDD2HHC9GF4GEF&affid=sathyasath" target="_blank" rel="noopener noreferrer">Core i5 3470</a> (initially was a i3, but decided to move i5 thanks some light warning from Jayesh)
   * <a href="https://www.flipkart.com/msi-zh77a-g41-motherboard/p/itmdeh3fjcdga8gc?pid=MBDDEG8JE46VYZ39&affid=sathyasath" target="_blank" rel="noopener noreferrer">MSI ZH77A-G41</a> Motherboard

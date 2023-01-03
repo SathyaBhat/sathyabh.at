@@ -16,7 +16,7 @@ tags:
 ---
 Songs of the week continues.
 
-<!--more-->
+
 
 Coast Modern - Animals  
 

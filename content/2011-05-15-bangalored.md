@@ -24,7 +24,7 @@ Although, I was not  _strictly_ <a href="https://www.google.co.in/search?hl=en&
 
 Reached Bangalore on Sunday, May 1st morning via the Jan Shatabdi Chennai-Mysore train at <a href="https://foursquare.com/venue/14367096" target="_blank" rel="noopener">10:45am</a>. <a href="https://twitter.com/ashwinsid" target="_blank" rel="noopener">Ashwin</a> was kind enough to come over to the railway station to pick me up. Headed over to At-home Guest House at Koramangala, which was to be my place of stay for the duration of the visit. With no agenda being set, Ashwin & Me were wondering what be the next thing to do. Ashwin & Me remembered Ashwin Murali ( “Cruise” to avoid any confusions”<img class="wlEmoticon wlEmoticon-smilewithtongueout" style="border-style: none;" src="https://i.sathyabh.at/sb/2011/05/wlEmoticon-smilewithtongueout.png" alt="Smile with tongue out" /> ) tweeting about TGIF having reopened in Royal Meenakshi Mall, and that’s where we decided to move next.
 
-<!--more-->
+
 
 In true twaddict fashion, we sent a tweet about a tweetup at TGIF and we were joined by DKris & Fossil. Daaku was supposed to come but cancelled last minute due to some heavy rains. Santosh & HNP also cancelled since it was too far away from where they stay. We spent a good 3-4 hours there, discussing about anything and everything over pitchers of Beer & Mojitos, and some excellent food. Needless to say, it was one of the best meetups that I’ve had. Although we were supposed to meet Santosh & HNP at Guzzlers, we decided to cancel that because of the distance.
 

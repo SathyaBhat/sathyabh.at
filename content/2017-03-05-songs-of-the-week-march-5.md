@@ -16,7 +16,7 @@ tags:
 ---
 I missed last week's post, but back this week. Enjoy ♫♬
 
-<!--more-->
+
 
 Zac Saber's Soak Up The Sun : Some lovely guitars and harmonica
 

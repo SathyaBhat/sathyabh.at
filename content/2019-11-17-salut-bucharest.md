@@ -17,7 +17,7 @@ tags:
 
 It's been a while since I posted anything, so lets get this started again. As I had tweeted few weeks back, I have moved to Bucharest, Romania. 
 
-<!--more-->
+
 
 
 {{< tweet 1182251512334077952 >}}

@@ -18,7 +18,7 @@ tags:
 ---
 Happy New Year! While I'm working on year-2011-in-review post, here's a spam that I have being receiving quite a lot.
 
-<!--more-->
+
 
 > MARUTI SUZUKI INDIA LTD (MSIL)  
 > Head Office Maruti Suzuki,  

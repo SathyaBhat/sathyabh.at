@@ -20,7 +20,7 @@ I’ve always wanted to go on long road trips, but with both Jo and me working, 
 
 Waking up beach side in Malpe, I was more excited than ever - we had a long day coming up.Kavimane, Kavishaila and more importantly, I was really excited about the ride through Agumbe. Agumbe  is called as "The Cherrapunji of the South" due to heavy rainfall it receives, and the ghat roads leading to it are rather infamous. Plus driving through it in July meant that we'd be driving during the wettest month of the year and I wondered what would be in store.
 
-<!--more-->
+
 
 {{< fancybox "https://i.sathyabh.at/sb/2016/08" "Breakfast-at-Paradise-Isle.jpg" "Breakfast at Paradise Isle" "Roadtrip" >}}
 

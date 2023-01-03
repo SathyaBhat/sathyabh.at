@@ -27,7 +27,7 @@ Unfortunately, the drivers from nvidia's site won't work for a laptop, as they d
 
 Grab the latest drivers from [here][1]. Also, pick up the modified inf files from the same thread. Now extract the downloaded drivers to a folder(the .exe is a self extracting 7z compressed file). Next, goto the folder where the drivers are extracted. Replace the inf file with the modded inf file you have downloaded. DO NOT run the setup.exe file. You will have to update the drivers manually, using the Have Disk Method.  
 To do this, goto Control Panel, Double click the System, Click on Hardware Tab and Choose the Device Manager. Expand Display adapters, right click on the 8600m GT and Click on Properties. Click on Driver tab, and Choose update drivers.  
-<!--more-->
+
 
   
 ![Update][2] 

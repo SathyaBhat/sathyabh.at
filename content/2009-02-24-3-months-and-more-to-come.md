@@ -15,7 +15,7 @@ tags:
 Its been a while since I've posted (crap nearly a month) on my blog - so what have I been upto and what's happening ?  
 For starters, work, work, work, more work - did I mention work ? There's just 2 people here in Austin for the project I'm with and as we hit the project go live date, there's tons of work to be doing - and the 2 of us are just about struggling. My colleague being the Business Analyst & Implementer -means that he's got to report to his managers about what's going on and and analysis of bug reports, calls resolved etc. That leaves him busy - and leaves me with a frikkin' huge set of things to do - test the test conditions in advance and report any bugs found.
 
-<!--more-->
+
 
 That's just a start - a day prior to the actual testing, I have to setup the required data and conditions - that means setting up multiple policies, associated claims et al. Then there's filing in of bugs as reported by the client, data migration and data migration testing, preparing training manuals, assisting the users in getting a hang of the application.
 

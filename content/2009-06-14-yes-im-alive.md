@@ -26,7 +26,7 @@ It's been  a while hasn't it, since I last blogged ? \*goes to next tab to chec
 
 Next question - Am I in Austin ?
 
-<!--more-->
+
 
 Yup, I'm still in the Capital of the [Lone Star State][1]. "But you were supposed to return to India in <span style="text-decoration: line-through;">February end</span> May end". Well I'm still in Austin. So what happened ? Well I arrived here on B1 visa, with my I-94 expiring on Feb 20. It was a no-brainer that an extension for my I-94 would be filed, but I assumed that the extension period would be 3 months, meaning that I'd have to exit by May 20. Well it turned out that the extension period filed was for 6 months.. which means I can stay here in US till August 20. As of now, I'm going be in US till June end - mid July. I don't know if I will be here till August - that depends on upcoming days ahead.
 

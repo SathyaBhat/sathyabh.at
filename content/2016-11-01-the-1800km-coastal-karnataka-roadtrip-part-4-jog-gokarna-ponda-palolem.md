@@ -17,7 +17,7 @@ I’ve always wanted to go on long road trips, but with both Jo and me working, 
 
 With our trip almost at the halfway point, we were beginning to feel a bit bummed out that we were at the mid-point already. Then again, we reminded ourselves that we have few more days remaining and rather than looking at it as half-gone, we should look at it from still 4-more days to go approach. With this in mind, we checked out from our rooms, had breakfast and had one more glance at Jog before heading out.
 
-<!--more-->
+
 
 
 

@@ -12,7 +12,6 @@ tags:
   - gaming
   - heatsink
   - Hellforge
-  - hsf
 
 ---
 It's been about 4 years since I built <a href="https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank" rel="noopener noreferrer">Hellforge</a>. It's gotten some updates:
@@ -42,7 +41,7 @@ Here's what I bought to clean up:
 
 Now, for the pictures. You've been warned. This was how it was when I opened the cabinet
 
-<!--more-->
+
 
 {{< fancybox "https://i.sathyabh.at/sb/2017/05" "cpu-hsf-top-fans.jpg" "CPU heatsink/fan with cabinet top fans" "Cooldown" >}}
 {{< fancybox "https://i.sathyabh.at/sb/2017/05" "full-cabinet.jpg" "Full cabinet" "Cooldown" >}}

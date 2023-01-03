@@ -15,7 +15,7 @@ tags:
 Attending an interview tends to be a scary, nerve-wracking event for most, me included. It's like college exam 2.0 - you don't do anything building up to the event, panic & do a splash and dash the previous night(though in my case, it's more like "ah, fahgettaboutit"), start wondering and worrying what's about to be asked prior to the event, with your mind racing about - "what if x comes, oh shit I forgot about y", the big moment where you stammer, blabber and spit out something and then keep worrying till the results are out.
 
 Last week, I got a call from the HR team asking if I'd be available and willing to come to office on Saturday. The reason? We had a weekend hiring drive and they wanted me(among others) to be an interviewer. My first reaction was - "mm okaaay but I've _never_ done this before"(though never is not true, I did take up an interview, but that was for my team & was more of accompany-the-project-leads-and-ask-a-few-questions). This case, however, was different. It'd be a face-to-face interview. With people willing to join the organization. I decided to say Ok. Hey, it'd be a different experience.  
-<!--more-->
+
 
 Some time later, I realized that I needed to prepare - you don't want an Interviewer who goes blank in front of a candidate!  Now deciding what to prepare, how to prepare was a challenge. The candidates I was to interview would be having a work experience of about 1-2yrs - and at that stage most candidates would barely know anything.  After speaking to few colleagues and friends I decided to prepare a "set list" of topics to talk about.
 

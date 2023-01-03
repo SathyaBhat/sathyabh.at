@@ -16,7 +16,7 @@ tags:
 ---
 Bringing you more good songs&#8230; hopefully you'll like them. Also moving to a fortnightly schedule.
 
-<!--more-->
+
 
 "Gloves" by Two Places at Once
 

@@ -18,7 +18,7 @@ Two years back, I bought(rather, Dad bought & leased it to me, I'm still repayi
 
 Dad told me that a new car is coming and is quite within the budget and he was right. The car seemed to be pretty good - looks good(from the front anyway), and with its hype about the AMT(and from [Magnetti Marelli of all places][3]) I decided to zero-in on the car.. till I realized the AMT is only upto the VX trim(no ABS/Airbags/BT stereo etc) and with a waiting time of 3 months or so - decided to nix this and went for the Manual transmission Zxi (Optional trim)
 
-<!--more-->
+
 
 <img class="aligncenter wp-image-903" src="https://i.sathyabh.at/sb/2016/05/celerio1.jpg" alt="celerio1" width="950" height="1267" /> 
 

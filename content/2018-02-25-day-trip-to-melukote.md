@@ -15,7 +15,7 @@ tags:
 ---
 Starting this year, Jo & I wanted to resume our monthly outing to a place outside of Bangalore and we'd decided to head to Sravanabelagola during the Republic Day weekend. Unfortunately couple of days before the trip, Jo fell ill and we had to cancel the trip and thus January month went by without a trip. Few days later, [Abhilash](https://www.firstpost.com/author/abhilash-pavuluri) mentioned that he was arranging for a ride to Melukote and since this was the week after Barcamp Bangalore, Jo & I signed up for the ride.
 
-<!--more-->
+
 
 We formed a telegram group and started coordinating all the details - who's coming, where to meet, when to meet etc. We decided to start fairly early, around 5:30am, meet at [Goraguntepalya Metro Station](https://goo.gl/maps/wsCMsoVhd1Q2) and go via Yediyur-Bellur cross-road rather than Mandya road. Since Jo & I were starting from JP Nagar side, we decided to take the NICE road and meet the rest of the riders just after Nelamangala.
 

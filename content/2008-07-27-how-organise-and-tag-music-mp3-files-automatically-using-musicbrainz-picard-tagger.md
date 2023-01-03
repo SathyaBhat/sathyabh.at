@@ -18,7 +18,7 @@ tags:
 
 ---
 I’m a music buff.Music surrounds me all time time, whether its listening to it from my laptop or from my P1i. My music collection though isn’t as large as some other people’s, regardless I’d like to keep it organized. While re-organizing my music files, I realized that a huge chunk of my files were badly tagged, and erroneously named. So I set about searching for a software which can automatically tag and rename my files, and I found MusicBrainz Picard Tagger.  
-<!--more-->
+
 
 So what is MusicBrainz? The wiki states
 
@@ -69,7 +69,3 @@ Here are the download Links:
 MusicBrainz Picard Tagger: <a href="https://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">Windows</a> / <a href="https://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">*Nix</a> / <a href="https://musicbrainz.org/doc/MusicBrainz_Picard" target="_blank">Mac OS X</a>
 
 <a href="https://users.musicbrainz.org/~luks/picard-qt/plugins/coverart.py" target="_blank">Cover Art Downloader Plugin</a>
-
-<div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:8d17b15b-7de3-4490-9195-105201d1b9bd" class="wlWriterSmartContent" style="display: inline; float: none; margin: 0px; padding: 0px;">
-  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/tags">tags</a>,<a rel="tag" href="https://technorati.com/tags/ID3">ID3</a>,<a rel="tag" href="https://technorati.com/tags/music">music</a>,<a rel="tag" href="https://technorati.com/tags/organizing">organizing</a>,<a rel="tag" href="https://technorati.com/tags/Picard">Picard</a>,<a rel="tag" href="https://technorati.com/tags/MusicBrainz">MusicBrainz</a>,<a rel="tag" href="https://technorati.com/tags/MusicBrainz+Picard">MusicBrainz Picard</a>,<a rel="tag" href="https://technorati.com/tags/CoverArt">CoverArt</a>,<a rel="tag" href="https://technorati.com/tags/sathyabh.at">sathyabh.at</a>,<a rel="tag" href="https://technorati.com/tags/Sathya">Sathya</a>,<a rel="tag" href="https://technorati.com/tags/My+World">My World</a>
-</div>

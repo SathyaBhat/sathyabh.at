@@ -19,7 +19,7 @@ I've been in couple of flights before but this would be my first International, 
 
 Let me start from scratch.
 
-<!--more-->
+
 
 Before leaving from Mumbai, I had to get there, that was via the 15:15 flight from Chennai. That flight set the precident for flights ahead, it would seem, for that flight was delayed by half hour. So I reached Mumbai at about 18:30, and by the time I made it to International airport for the mini-tweetip, it was already 19:00. Soon I met up with Manan, Aalaap and Shadez (12-pack bodybuilder, was carrying my 12.5KG baggage all over :O ). We chatted for a bit, and then went for dinner. Aalaap and Shadez wanted to have some beer, I said no at first, but then its hard for a beer lover NOT to drink beer 😀 😉 ) After the dinner, just before heading for checkin met with Mehul and Aditya Sengupta (poor Mehul's bike ran out of fuel, hence the delay).
 

@@ -53,7 +53,7 @@ I get a lot of forwards, I mean a **lot**. Most of them I just delete, since the
 > 
 > Answer:- Well you haven't particularly shrunk yourself.
 > 
-> <!--more-->
+> 
 > 
 > 6. When a friend announces her wedding, and you ask&#8230;  
 > Stupid Question:- Is the guy you're marrying good?
