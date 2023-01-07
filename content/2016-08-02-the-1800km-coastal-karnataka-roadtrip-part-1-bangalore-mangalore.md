@@ -12,11 +12,13 @@ tags:
   - mangalore
   - road trip
   - travelogue
+series: 
+  - The 1800km Coastal Karnataka Roadtrip
 
 ---
-I've always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me <a href="https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/" target="_blank">taking a break</a> and Eid holiday coming during middle of the week, we got a chance to do our road trip.
+I've always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me [taking a break](https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/) and Eid holiday coming during middle of the week, we got a chance to do our road trip.
 
-With a date set, we next wondered which route to take? We considered Coastal Karnataka(Bangalore - Goa - Mangalore - Bangalore) and Tamil Nadu(Bangalore - Madurai - Kanyakumari - Thanjavur - Chennai - Bangalore), but eventually decided upon Coastal Karnataka after consulting with resident travel expert <a href="https://medium.com/@ashwinsid" target="_blank">Ashwin</a>. He also suggested few additional places(OK, he suggested a lot of the intermediate places) and we decided on this route and timeline.
+With a date set, we next wondered which route to take? We considered Coastal Karnataka(Bangalore - Goa - Mangalore - Bangalore) and Tamil Nadu(Bangalore - Madurai - Kanyakumari - Thanjavur - Chennai - Bangalore), but eventually decided upon Coastal Karnataka after consulting with resident travel expert [Ashwin](https://medium.com/@ashwinsid). He also suggested few additional places(OK, he suggested a lot of the intermediate places) and we decided on this route and timeline.
 
 
 

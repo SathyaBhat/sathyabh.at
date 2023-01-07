@@ -14,7 +14,9 @@ tags:
   - shimoga
   - thirthalli
   - travelogue
-
+series: 
+  - The 1800km Coastal Karnataka Roadtrip
+  
 ---
 I’ve always wanted to go on long road trips, but with both Jo and me working, trying to find a contiguous block of holiday has been rather difficult. With me [taking a break](https://sathyabh.at/2016/07/28/keepin-busy-for-a-month/) and Eid holiday coming during middle of the week, we got a chance to do our road trip. Part 3 continues..
 

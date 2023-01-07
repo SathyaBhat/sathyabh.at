@@ -6,7 +6,7 @@ description = "Unfortunately, I picked up COVID."
 featured_image = "https://i.sathyabh.at/sb/covid_positive.jpg"
 meta_image = "https://i.sathyabh.at/sb/covid_positive.jpg"
 tags = ["Life", "COVID", "Australia"]
-title = "Unfortunately, I picked up COVID."
+title = "Unfortunately, I picked up COVID"
 type = "post"
 url = "/2022/12/08/covid-positive"
 
