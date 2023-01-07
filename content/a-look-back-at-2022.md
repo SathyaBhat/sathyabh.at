@@ -1,14 +1,14 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-date = 2022-01-04T12:00:00Z
+date = 2023-01-07T12:00:00Z
 description = "A look back at 2022"
-featured_image = "https://i.sathyabh.at/sb/2022-look-back/lake.jpg"
-meta_image = "https://i.sathyabh.at/sb/2022-look-back/lake.jpg"
+featured_image = "https://i.sathyabh.at/sb/2022-look-back/october_opera_house.jpg"
+meta_image = "https://i.sathyabh.at/sb/2022-look-back/october_opera_house.jpg" 
 tags = ["Romania", "Australia", "year in review", "throwback"]
 title = "A Look Back at 2022"
 type = "post"
-url = "/2022/01/04/a-look-back-at-2022/"
+url = "/2023/01/07/a-look-back-at-2022/"
 
 +++
 
