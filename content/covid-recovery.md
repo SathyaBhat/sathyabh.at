@@ -6,7 +6,7 @@ description = "Recovering from COVID."
 featured_image = "https://i.sathyabh.at/sb/covid_negative.jpg"
 meta_image = "https://i.sathyabh.at/sb/covid_negative.jpg"
 tags = ["Life", "COVID", "Australia"]
-title = "Recovering from COVID."
+title = "Recovering from COVID"
 type = "post"
 url = "/2022/12/21/recovering-from-covid"
 
