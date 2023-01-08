@@ -106,6 +106,12 @@ I created this [Sankey Diagram](https://en.wikipedia.org/wiki/Sankey_diagram) of
 
 This time, most of my gaming revolved around Civilization 6. For a couple of months after we left Bucharest and till we properly set up the house, I played on the Switch quite a lot, particularly Stardew Valley. Check out my previous post on the [wrap-up of wrap-ups to see the full breakdown of what I played on Steam and Switch](/2022/12/31/wrap-up-of-wrap-ups-2022). 
 
+### The Video
+
+Thanks to Apple iCloud Photos for generating this 
+
+{{< youtube q1Mrgl9Bk2s >}}
+
 ### What’s for 2023?
 
 Towards [the end of 2021](/2022/01/08/a-look-back-at-2021/), I was thinking of taking it slow for 2022 and scaling it back. While a cross-continental move isn’t quite taking it slow, I did actually spend a lot of time relaxing. For 2023, I hope to continue at the same pace - looking to travel and drive more, play more, and blog more. 
