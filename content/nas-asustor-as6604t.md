@@ -19,7 +19,10 @@ I'd been meaning to buy a NAS unit since quite some time, but it never masterial
 The AS6604T came in a fairly standard box. There was a nice foam padding on inside to prevent some damage during shipping. There was a separate accessories box that came with an external power brick, cable ties, screws to hold the drives to the caddy and 2x CAT 5e LAN cables. Note that this is a 4-bay diskless unit and didn't come with any drives - I ordered two Seagate IronWolf 6TB disks separately (hindsight, ordering two drives together in general is not a good idea as they might be of the same batch and might fail together). The CAT 5e cables with the box meant that I didn't have to go hunting for LAN cables and is a nice addition
 
 
-{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas/" "as6604t_box.jpg" "NAS Box" "Asustor AS6604T NAS" >}}
-{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas/" "as6604t_box_back.jpg" "NAS Box from back" "Asustor AS6604T NAS" >}}
-{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas/" "as6604t_accessories_box.jpg" "Accessories Box" "Asustor AS6604T NAS" >}}
+{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "as6604t_box.jpg" "NAS Box" "Asustor AS6604T NAS" >}}
+{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "as6604t_box_back.jpg" "NAS Box from back" "Asustor AS6604T NAS" >}}
+{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "as6604t_accessories_box.jpg" "Accessories Box" "Asustor AS6604T NAS" >}}
 
+### Hardware Specs
+
+While looking for NAS devices, you'll find plenty that are at a low price around ~
