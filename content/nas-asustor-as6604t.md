@@ -63,6 +63,8 @@ The AS6604T comes with its own custom distro called [Asustor Data Master (ADM)](
 
 You'll be greeted with an ominous TLS cert warning (and Edge just refused to load the page for me) since it defaults to TLS with a self-signed cert. I actually quite like the Web UI - it mimics most of the phone/tablet OS home screen with shortcuts to most of the commonly used stock apps, settings, and you can customize and add a mini widget that shows essential hardware metrics such as CPU & memory utilization, disk space utilization, RAID array status, as well as some important logs. 
 
+{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "adm_web_ui.jpg" "The Asustor ADM Web UI" "Asustor AS6604T NAS" >}}
+
 The default username and password for the AS6604T is admin, and when you log in, you're reminded multiple times to change these, to create a new user, to change the default port used for the Web UI (though I don't see how useful changing the port is - people are likely to just nmap and find open ports) and to disable unwanted services. Asustor devices were hit by a [bad ransomware attack in Feb 2022](https://www.theverge.com/2022/2/22/22945962/asustor-nas-deadbolt-ransomware-attack), and this looks like one way of telling people not to mind the security of their devices. The NAS device will also complete synchronizing the RAID array in the background, and for my 6TB volume, it took about 14 hours or so. During this sync process, you can still use your device, and you probably will not notice any difference. If you install too many apps, you'll see a slider on the sides, and clicking on it reveals the next page with a nice, smooth transition. It sounds trivial, but it really does add a nice touch.
 
 Out of the box, besides the settings, the AS6604T comes with the following applications pre-installed:
@@ -79,9 +81,6 @@ Out of the box, besides the settings, the AS6604T comes with the following appli
 ### App Central
 
 The App Central is the AS6604T's preferred way of installing apps. The App Central comes with a decent number of apps, including fan favorites like Plex, Jellyfin, Sonarr, Radarr, and Photo Prism. Installing from the App Central is incredibly easy - it's just a single click, and a few seconds later, the app is ready - complete with an icon on the Web UI.
-
-{{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "adm_web_ui.jpg" "The Asustor ADM Web UI" "Asustor AS6604T NAS" >}}
-
 
 It might have been the fastest and simplest way to install Plex, Tailscale, Photoprism, and many more. For many apps, the App Central install just wraps the Docker image pull and run, while for a few others, they do a native install, i.e., without using Docker. Sadly, the ADM doesn't use deb/rpm/aur or such commonly used packages and seems to use its custom package manager called "APKG" and the packages use .apk extension, but I don't believe they are the same as Alpine's packages. The lack of deb/rpm support means that you cannot add Debian/Ubuntu/other custom repos, update and install, rather, you would have to search for Asustor's versions of it (if it's not there in the App Store).
 
