@@ -1,14 +1,14 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-date = 2023-01-19T12:00:00Z
+date = 2023-01-21T12:00:00Z
 description = "Summary of all things that happened on the 3rd week of 2023."
 featured_image = "https://i.sathyabh.at/sb/weekly-notes/sydney-mansions.jpg"
 meta_image = "https://i.sathyabh.at/sb/weekly-notes/sydney-mansions.jpg" 
 tags = ["weekly-notes", "sydney"]
 title = "Weekly notes 03/2023"
 type = "post"
-url = "/2023/01/22/weekly-notes-03-2023/"
+url = "/2023/01/21/weekly-notes-03-2023/"
 series = "Weekly notes"
 
 +++
