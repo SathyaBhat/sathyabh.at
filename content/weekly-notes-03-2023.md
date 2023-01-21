@@ -9,7 +9,7 @@ tags = ["weekly-notes", "sydney"]
 title = "Weekly notes 03/2023"
 type = "post"
 url = "/2023/01/21/weekly-notes-03-2023/"
-series = "Weekly notes"
+series = ["Weekly notes"]
 
 +++
 
