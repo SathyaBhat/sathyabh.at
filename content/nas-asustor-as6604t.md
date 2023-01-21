@@ -1,14 +1,14 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Computing"]
-date = 2023-01-19T12:00:00Z
-description = "After much delay, I finally bought a NAS - The Asustor Lockerstor 4 AS6604T 4-Bay NAS. A brief review and my experiences with it."
-# featured_image = ""
-# meta_image = "" 
-tags = ["NAS", "homeserver"]
+date = 2023-01-21T12:00:00Z
+description = "I finally bought a NAS - The Asustor Lockerstor 4 AS6604T 4-Bay NAS. A brief review and my experiences with it."
+featured_image = "https://i.sathyabh.at/sb/as6604t-nas/nas_initilizing.jpg"
+meta_image = "https://i.sathyabh.at/sb/as6604t-nas/nas_initilizing.jpg"
+tags = ["NAS", "homeserver", "linux"]
 title = "A brief look at my new NAS - The Asustor 6604T"
 type = "post"
-url = "/2023/01/19/asustor-lockerstor4-as6604t/"
+url = "/2023/01/21/asustor-lockerstor4-as6604t/"
 
 +++
 
