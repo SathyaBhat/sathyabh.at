@@ -65,7 +65,7 @@ You'll be greeted with an ominous TLS cert warning (and Edge just refused to loa
 
 {{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "adm_web_ui.jpg" "The Asustor ADM Web UI" "Asustor AS6604T NAS" >}}
 
-The default username and password for the AS6604T is admin, and when you log in, you're reminded multiple times to change these, to create a new user, to change the default port used for the Web UI (though I don't see how useful changing the port is - people are likely to just nmap and find open ports) and to disable unwanted services. Asustor devices were hit by a [bad ransomware attack in Feb 2022](https://www.theverge.com/2022/2/22/22945962/asustor-nas-deadbolt-ransomware-attack), and this looks like one way of telling people not to mind the security of their devices. The NAS device will also complete synchronizing the RAID array in the background, and for my 6TB volume, it took about 14 hours or so. During this sync process, you can still use your device, and you probably will not notice any difference. If you install too many apps, you'll see a slider on the sides, and clicking on it reveals the next page with a nice, smooth transition. It sounds trivial, but it really does add a nice touch.
+The default username and password for the AS6604T is admin, and when you log in, you're reminded multiple times to change these, to create a new user, to change the default port used for the Web UI (though I don't see how useful changing the port is - people are likely to just nmap and find open ports) and to disable unwanted services. Asustor devices were hit by a [bad ransomware attack in Feb 2022](https://www.theverge.com/2022/2/22/22945962/asustor-nas-deadbolt-ransomware-attack), and this looks like one way of telling people to mind the security of their devices. The NAS device will also complete synchronizing the RAID array in the background, and for my 6TB volume, it took about 14 hours or so. During this sync process, you can still use your device, and you probably will not notice any difference. If you install too many apps, you'll see a slider on the sides, and clicking on it reveals the next page with a nice, smooth transition. It sounds trivial, but it really does add a nice touch.
 
 Out of the box, besides the settings, the AS6604T comes with the following applications pre-installed:
 
@@ -110,7 +110,7 @@ The first thing that I setup was [Plex Media Server](https://www.plex.tv/) - and
 * [Portainer](https://www.portainer.io/) for container management
 * [Netdata](https://github.com/netdata/netdata) for monitoring
 * [Tailscale](https://tailscale.com/) for access to the device from outside of my home network
-* [Jackett]https://github.com/Jackett/Jackett), [Sonarr](https://sonarr.tv/), [Radarr](https://radarr.video/) and [qBitTorrent](https://www.qbittorrent.org/) - to acquire media
+* [Jackett](https://github.com/Jackett/Jackett), [Sonarr](https://sonarr.tv/), [Radarr](https://radarr.video/) and [qBitTorrent](https://www.qbittorrent.org/) - to acquire media
 * [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) for blocking ads and trackers at a network level. 
 * [RIPE Atlas Probe](https://atlas.ripe.net/about/) to measure the external network connectivity 
 
@@ -124,6 +124,3 @@ With all of these running, the NAS runs quietly at low CPU and memory utilizatio
 ### Summary
 
 Overall, I am quite happy with the Asustor AS6604T NAS and would recommend it to anyone looking for a decent 4-bay NAS, assuming you will use it as a NAS and not as a full-blown home server. With a RAM upgrade, the AS6604T can act as a mini home server as well, but the problems I have seen with the ADM OS make me question if it's worth going that route. There are posts on [Reddit on How to install](https://www.reddit.com/r/asustor/comments/t3kh1t/newb_installing_ubuntu_linux_on_asustor_as5304t/) Ubuntu or other Linux distros on the NAS, but it will require a significant time investment. Also, there are plenty of reports of losing fan control if an alternate OS is installed. If you're just looking for backups and a couple of side containers, the AS6604T will do just fine. If you have any questions, please leave a comment or [send me toot on @SathyaBhat@Mastodon](https://mastodon.social/@Sathyabhat), I'll be happy to answer.
-
-
- 
