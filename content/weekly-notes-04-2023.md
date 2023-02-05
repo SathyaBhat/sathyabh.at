@@ -23,7 +23,7 @@ A month of 2023 is over! Can't believe - time goes by so fast!
 
   By the time we were done with these, most of the food places were shutting down so we bought some Japanese Donburi [^1] as takeaway and ate it while sitting in the park benches. Picked up some gelato too and walked back home - Saturday well spent! Check out [the video](https://youtu.be/SuLQbCGJEAo) I made featuring some clips from the Darling Harbour Fireworks and the Lion and Dragon Dances.
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SuLQbCGJEAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {{< youtube SuLQbCGJEAo >}}
 
 * Exciting Sunday night! We were all set to have pizza (Jo was making it). Turned the oven on, some 10 minutes heard a pop and suddenly we were sitting in darkness. Turns out the oven ended up tripping the main circuit breaker. I looked at the breakers in the house, flipped the one that had tripped back to "on" and.... no dice. On a Sunday night, at 10:30 pm. Ended up calling Glenco, who were listed in my rental agreement. About an hour later, the electrician came over. They looked at the house, went over to the electrical cabinet and flipped it on. TIL that the electrician has a key that can open most electrical cabinets, so they don't have to call the building managers. Handy if you get stuck like me.
 
@@ -35,7 +35,7 @@ A month of 2023 is over! Can't believe - time goes by so fast!
 
 * I reinstalled GTA V and played a bit with Bibhas. GTA V MP, especially with friends can be really fun, but Rockstar makes it really difficulty to play with only friends, and consistently throws you out into a public session. Too many griefers and hackers causing disruption. Check out [this video](https://www.youtube.com/watch?v=9sGNS8u0snQ) for example. 
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9sGNS8u0snQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {{< youtube 9sGNS8u0snQ >}}
 
 * Jo has started watching a series called [Cold Case](https://en.wikipedia.org/wiki/Cold_Case). It's about couple of Philly detectives that look into cases that have been unsolved for many years/decades, often brought into light due to situations (dying person's confession for ex). It's an interesting take on the crime drama series, and there's lots of flashbacks on what had happened with many of the suspects shown in current as well as past era. Love the soundtrack! Lots of awesome songs. Somebody has compiled a [Spotify playlist](https://open.spotify.com/playlist/0iPA7Rac8yaErLd2VscK9Q?si=a8e66d1055da4c2c) of the songs. Go check it out if you like crime/drama series. 
 
