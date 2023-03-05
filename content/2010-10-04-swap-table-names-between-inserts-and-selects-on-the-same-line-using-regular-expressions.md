@@ -12,12 +12,9 @@ categories:
   - 'Oracle & PL/SQL Stuff'
   - Programming
 tags:
-  - insert
   - oracle
   - regex
-  - regexp
-  - regular expressions
-  - swap table names
+
 
 ---
 Background: For the past few <span style="text-decoration: line-through;">days</span> weeks, I have been working on a way to export selective data from one schema to import into another. Now the problem is that "selective" data refers to the data as stored across various tables in the custom application that I've been working on, with elaborate relational links between the tables ( if you're curious, the table count on the related data was about 65) - so it was not just couple of tables that I had to export.  

@@ -14,7 +14,7 @@ tags:
   - 3i
   - Chennai
   - mangalore
-  - vacations
+  - vacation
 
 ---
 Its been a very busy, hectic past few months. Besides my <strike>day</strike> night job( I work at US timings, PITA), I’ve also <a href="https://techie-buzz.com/author/sathya" target="_blank">started contributing</a> to <a href="https://techie-buzz.com" target="_blank">techie-buzz</a>, though my <strike>day</strike> night job takes a whole lot of my time, and I’ve not been able to contribute much. My <a href="https://sathyasays.com/" target="_blank">Linux blog</a> and as well as this blog has been lying almost in a coma state. I plan to start posting some articles now and then, got it in shipshape with a new theme, so watch out!  I’m still pretty active on <a href="https://twitter.com/sathyabhat" target="_blank">twitter</a> ( again, not as active as I used to be – even with my “low” activity I keep getting requests not to spam the timeline &#58;&#112;). I’ve been fairly active on posterous though. 
