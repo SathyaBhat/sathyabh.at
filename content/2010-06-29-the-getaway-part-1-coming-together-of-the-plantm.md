@@ -15,7 +15,7 @@ tags:
   - Kerala
   - mangalore
   - trip
-  - vacations
+  - vacation
 
 ---
 If you’ve been reading my blog or know me, you probably know that I have a rather regular set of vacation times – ie, a week’s break once every three months or so. This time, however it was slightly different, and it had been about 5 months since I had taken a break. Let’s go back in time for a bit, however.
