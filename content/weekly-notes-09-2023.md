@@ -32,3 +32,5 @@ meta_image = "https://i.sathyabh.at/sb/weekly-notes/the-piano-guys.jpg"
 In The Piano Guys concert, I found out that they are on a quest to perform at the [Seven Wonders of the World](https://www.britannica.com/list/new-seven-wonders-of-the-world) and have already completed four of them. While we wait for the remaining songs, I'd recommend checking out the [music videos recorded](https://www.youtube.com/watch?v=NCaH-qqTWpk&list=PL7j5iXGSdMwf9PPCsgjKN63PsPBweeYZB&index=4) at each of the wonders.
 
 {{< youtube NCaH-qqTWpk >}}
+
+Till next week!
