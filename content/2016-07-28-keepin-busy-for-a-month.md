@@ -11,7 +11,6 @@ tags:
   - home improvement
   - roadtrip
   - vacation
-  - vacations
 
 ---
 So when I <a href="https://sathyabh.at/2016/07/12/in-with-the-new-job/" target="_blank">resigned from CGI</a>, I thought I'd have to stay through the entire 2 month notice period with the org. However, since there was no dependency on me, I was hoping for an early release and thankfully that did happen. I initially thought of joining the new job right away but decided to take a month-long break from work and relax for a month.
