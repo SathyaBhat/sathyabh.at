@@ -27,6 +27,6 @@ It's been a pretty uneventful week, so not much of updates, so here's some updat
 
 ### Link of the week
 
-I saw this link which has a small Q/A with Shane Pitman (who used to be the leader of Razor 1911, a popular warez group) and he talks about life in and post jail. It's a gripping read, especially the last few months in jail where he got moved to solitary just because the Associate Warden and Director of Education department didn't get along. Read the post [here](https://defacto2.net/file/view/ab3914).
+I came across this link in [Hacker News](https://news.ycombinator.com/item?id=35115862) which has Q/A with Shane Pitman. Shane used to be the leader of Razor 1911, a popular [warez](https://en.wikipedia.org/wiki/Warez) group and he talks about life in and post jail. It's a gripping read, especially the last few months in jail where he got moved to solitary just because the Associate Warden and Director of Education department didn't get along. Read the post [here](https://defacto2.net/file/view/ab3914).
 
 Till next week.
