@@ -20,9 +20,12 @@ It's been a pretty uneventful week, so not much of updates, so here's some updat
 
     {{< tweet sathyabhat 1633638142820634624 >}}
 
-* Seasonal update: We're not officially in Autumn! It's cooler and we're seeing the leaves on the roads everywhere.
+* Seasonal update: We're now officially in Autumn! It's cooler and we're seeing the leaves on the roads everywhere.
+
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "fall-leaves.jpg" "Fall Leaves" "Weekly Notes" >}}
+
 * Formula 1 update: Aston Martin actually did well! Alonso came third, Ferrari fumbled and Mercedes has some serious issues with pace. Let's see how the rest of the season goes. I can catch the next two races (in Jeddah and then off to Melbourne).
-* Diablo 3 update: I'm nearly done with the Altar with only the final potion unlock remaining. That'll take some time since I"ll need two more primals. Been liking the Patterns of Justice Monk gameplay, wanted to see if there's something similar with the Necromancer - and sadly I was disappointed. I've now started building a new WIzard, and will continue with a new Barbarian soon.
+* Diablo 3 update: I'm nearly done with the Altar with only the final potion unlock remaining. That'll take some time since I'll need two more primals. Been liking the Patterns of Justice Monk gameplay, wanted to see if there's something similar with the Necromancer - and sadly I was disappointed. I've now started building a new WIzard, and will continue with a new Barbarian soon.
     * While playing D3, I've been rewatching The Amazing Race. I used to watch it as a kid - they used to Air it on AXN. I realize now that I was watching the first season on AXN and since then 33 other seasons have aired.
 
 ### Link of the week
