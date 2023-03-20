@@ -8,12 +8,14 @@ url = "/2023/03/20/weekly-notes-11-2023/"
 title = "Weekly notes 11/2023"
 date = 2023-03-20T12:00:00Z 
 description = "Week 11 summary - a birthday weekend out in Newcastle."
-featured_image = "https://i.sathyabh.at/sb/weekly-notes/fall-leaves.jpg"
-meta_image = "https://i.sathyabh.at/sb/weekly-notes/fall-leaves.jpg"
+featured_image = "https://i.sathyabh.at/sb/weekly-notes/newcastle.jpg"
+meta_image = "https://i.sathyabh.at/sb/weekly-notes/newcastle.jpg"
 
 +++
 
 This week's post is delayed, and for a good reason - I just got back to Sydney from a weekend roadtrip to Newcastle. Though I did start writing some portions, I have to admit I just lazed the weekend away 😊 I'll have a travelogue of the Newcastle trip later in the week, let's see what's been happening since the past week.
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "newcastle.jpg" "Newcastle" "Weekly Notes" >}}
 
 ### What's been happening
 
