@@ -20,7 +20,7 @@ meta_image = "https://i.sathyabh.at/sb/weekly-notes/waywards-at-the-bank.jpg"
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "waywards-at-the-bank.jpg" "Stage all set for Good Kids, Slim Jimz, and South Summit" "Weekly Notes" >}}
 
 * Went to a [Satyanarayana Puja](https://en.wikipedia.org/wiki/Satyanarayan_Puja) organized by a former [3i](/tags/3i/) colleague at his house in Schofields, a suburb about 45kms from Sydney CBD. We went there via Trains, and upon returning back, there was a major signal failure. That meant that our hour and half long journey took over four hours, and we had to switch trains multiple times, go back stations and figure out alternative route. These breakdowns have been happening at an alarming pace in the past few weeks/months and I can only imagine how it'd be at peak hours on weekdays.
-* Got a chance tu Play Diablo IV open beta. My thoughts so far? A bit early, I have only few hours in but what is done exceedingly well:
+* Got a chance to play Diablo IV open beta. My thoughts so far? A bit early, I have only few hours in but what is done exceedingly well:
     * Music. I think the soundtrack I listened to so far is really well done.
     * It looks gorgeous.
     * Combat is visceral and has the same amount of oomph and feedback you got in Diablo 3
