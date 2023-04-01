@@ -8,6 +8,7 @@ url = "/2023/03/05/weekly-notes-09-2023/"
 title = "Weekly notes 09/2023"
 date = 2023-03-05T12:00:00Z
 description = "Week 9 summary - Piano Guys concert, Diablo 3 season update and more"
+summary = "Week 9 summary - Piano Guys concert, Diablo 3 season update and more."
 featured_image = "https://i.sathyabh.at/sb/weekly-notes/the-piano-guys.jpg"
 meta_image = "https://i.sathyabh.at/sb/weekly-notes/the-piano-guys.jpg"
 +++

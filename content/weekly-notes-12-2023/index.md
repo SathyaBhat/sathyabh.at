@@ -8,6 +8,7 @@ url = "/2023/03/26/weekly-notes-12-2023/"
 title = "Weekly notes 12/2023"
 date = 2023-03-26T12:00:00Z
 description = "Week 12 summary - a train ride that took forever, a look at couple of new games and more."
+summary = "Week 12 summary - a train ride that took forever, a look at couple of new games and more."
 featured_image = "https://i.sathyabh.at/sb/weekly-notes/waywards-at-the-bank.jpg"
 meta_image = "https://i.sathyabh.at/sb/weekly-notes/waywards-at-the-bank.jpg"
 
@@ -17,7 +18,9 @@ meta_image = "https://i.sathyabh.at/sb/weekly-notes/waywards-at-the-bank.jpg"
 
 * As I was listening to some [Aussie Rock music](https://music.apple.com/au/playlist/aussie-rock-essentials/pl.3bd0830f625440d4b24d7230e332da45) over the week, I realized I missed out writing about the [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1?si=HNIhHWY4TL2u0lKDktd1yA) with [Slim Jimz](https://open.spotify.com/artist/44fqCERFJr8LGSSDLTiaat?si=9VHeEhabR2GiKF2CWyW_RQ) and the [Good Kids](https://open.spotify.com/artist/3f6jdkYDK91W89EdGFwQzy?si=5JT2xa0oSt2vEmpLXcui0Q) gig we attended. Fact that I forgot to mention about the gig should give an indication of how well it went. The bands are good and they have good music and songs, the set up at the venue was bad - the volume was cranked up just to make it seem loud, there was weird shrill sounds and feedback at random times and the vocals were barely heard. I was more looking to protect my ears than enjoy the music.
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "waywards-at-the-bank.jpg" "Stage all set for Good Kids, Slim Jimz, and South Summit" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "waywards-at-the-bank.jpg" "Stage all set for Good Kids, Slim Jimz, and South Summit" "Weekly Notes">}}
+
+
 
 * Went to a [Satyanarayana Puja](https://en.wikipedia.org/wiki/Satyanarayan_Puja) organized by a former [3i](/tags/3i/) colleague at his house in Schofields, a suburb about 45kms from Sydney CBD. We went there via Trains, and upon returning back, there was a major signal failure. That meant that our hour and half long journey took over four hours, and we had to switch trains multiple times, go back stations and figure out alternative route. These breakdowns have been happening at an alarming pace in the past few weeks/months and I can only imagine how it'd be at peak hours on weekdays.
 * Got a chance to play Diablo IV open beta. My thoughts so far? A bit early, I have only few hours in but what is done exceedingly well:
