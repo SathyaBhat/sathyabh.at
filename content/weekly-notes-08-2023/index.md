@@ -8,6 +8,7 @@ url = "/2023/02/26/weekly-notes-08-2023/"
 title = "Weekly notes 08/2023"
 date = 2023-02-26T12:00:00Z
 description = "Week 8 summary - Singapore visit, and the start of F1 season"
+summary = "Week 8 summary - Singapore visit, and the start of F1 season."
 featured_image = "https://i.sathyabh.at/sb/weekly-notes/jewel-waterfall.jpg"
 meta_image = "https://i.sathyabh.at/sb/weekly-notes/jewel-waterfall.jpg"
 +++

@@ -8,6 +8,7 @@ url = "/2023/03/12/weekly-notes-10-2023/"
 title = "Weekly notes 10/2023"
 date = 2023-03-10T12:00:00Z
 description = "Week 10 summary "
+summary = "Week 10 summary."
 featured_image = "https://i.sathyabh.at/sb/weekly-notes/fall-leaves.jpg"
 meta_image = "https://i.sathyabh.at/sb/weekly-notes/fall-leaves.jpg"
 +++
