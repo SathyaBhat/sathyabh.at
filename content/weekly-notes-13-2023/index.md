@@ -7,13 +7,13 @@ series = ["Weekly notes"]
 url = "/2023/04/02/weekly-notes-13-2023/"
 title = "Weekly notes 13/2023"
 date = 2023-04-02T12:00:00Z
-description = "Week 13 summary - a fresh coat of paint, going back to the past, some heavy rains and more"
+summary = "Week 13 summary - a fresh coat of paint, going back to the past, some heavy rains and more"
 images = ["thumb-downtown.jpg"]
 +++
 
 ### What's been happening
 
-* If you're reading this from [my blog](https://sathyabh.at), you'd have noticed that there's a fresh new coat of paint on the blog. I've been using the zzo theme since quite some time now, and it's been nice but the one thing that kept annoying me was that the pics were getting stretched, and it would look hideously bad, especially on the [travel posts](https://sathyabh.at/categories/travel/) that are not landscape photos. Along the way, I used this to clean up some old pages, and diable comments. I usually get more feedback on a post on twitter or mastodon, and the disqus comment section has been a ghost town since a while, so disabling this reduces the amount of resources the page needs and it should load quicker. 
+* If you're reading this from [my blog](https://sathyabh.at), you'd have noticed that there's a fresh new coat of paint on the blog. I've been using the zzo theme since quite some time now, but I was forever annoyed that the photos that were not taken in landscape mode were getting stretched and looked hideously bad, especially on the [travel posts](https://sathyabh.at/categories/travel/). I'd been meaning to change the theme for a while and after a lot of searching, I found [Congo theme](https://jpanther.github.io/congo/) by [James Panther](https://github.com/jpanther). I liked the theme quite a bit. Along the way, I used this to clean up some old pages, and decided to disable comments on the blog. I usually get more feedback about a post on [twitter](https://twitter.com/sathyabhat/) or [Mastodon](https://mastodon.social/@sathyabhat), and the Disqus comment section has been a ghost town since a while, so disabling this reduces the amount of resources the page needs and it should load quicker. 
 * Australia finally traveled time today, and we're back in Austral East Standard Time (AEST, UTC +10). This meant that we travelled back in time by an hour and I got an extra hour of sleep. Since moving to Australia, the time difference has been one of the most painful things. With a 4.5 hour difference between India (5.5 hours, during daylight savings time), it effectively killed any means of co-op gaming with some of my friends that I used to do.
 * The Steam Deck continues to be a blast. I've been playing more Vampire Survivors and picked up Olli Olli again.
     * With Vampire Survivors, I've cleared three stages with various character, managing to find evolutions for 5 of the weapons. 
