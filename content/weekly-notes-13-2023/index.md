@@ -8,7 +8,7 @@ url = "/2023/04/02/weekly-notes-13-2023/"
 title = "Weekly notes 13/2023"
 date = 2023-04-02T12:00:00Z
 summary = "Week 13 summary - a fresh coat of paint, going back to the past, some heavy rains and more"
-images = ["thumb-downtown.jpg"]
+images = ["/2023/04/02/weekly-notes-13-2023/thumb-downtown.jpg"]
 +++
 
 ### What's been happening
