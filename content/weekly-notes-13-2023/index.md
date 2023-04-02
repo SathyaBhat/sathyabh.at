@@ -23,12 +23,12 @@ images = ["thumb-downtown.jpg"]
     ![Vampire Survivors Weapon Evolution](vampire-survivors-weapon-evolution.jpg "Vampire Survivors Weapon Evolution")
 
     * When I played Olli Olli first back in 2015 (thanks to [Varun](https://twitter.com/blurr_warun) for the gift), I got frustrated very early on due to the 'tap button before land' feature. The very first level needs you to nail this before it lets you proceed further and this made it even more frustrating. Surprise, surprise the same happened when I played again this week, but because I was playing on the Steam Deck, I was able to practice longer, and made it easier to land the tricks. I'm not getting it right all the time, but having the controller has definitely made it easier and more fun to play.
-* It's been a dull, grey rainy week. Jo & I stepped out yesterday to grab some groceries and was surprised by how much it was raining. 
+* It's been a dull, grey rainy week. Jo & I stepped out yesterday to grab some groceries and were surprised by how much it was raining. 
     <iframe src="https://mastodon.social/@Sathyabhat/110120660586843775/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
 ### Link of the week
 
-Last week's [post I ranted](/2023/03/26/weekly-notes-12-2023/) about the Sydney trains, gave an impression that it sucks. I actually like Sydney's public transport system and this YouTube video talks about why I like them so much. Give it a watch
+Last week's [post I ranted](/2023/03/26/weekly-notes-12-2023/) about the Sydney trains, giving an impression that it sucks. I actually like Sydney's public transport system and this YouTube video talks about why I like them so much. Give it a watch
 
 {{< youtube Nmxr3fie7xA >}}
 
