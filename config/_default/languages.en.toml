@@ -19,7 +19,7 @@ dateFormat = "2 January 2006"
   bio = "Staff Software Engineer at The Trade Desk"
   links = [
     { twitter = "https://twitter.com/sathyabhat" },
-    { mastodon = "https://mastodon.social/sathyabhat" },
+    { mastodon = "https://mastodon.social/@sathyabhat" },
     { linkedin = "https://linkedin.com/in/sathyabhat" },
     { youtube = "https://youtube.com/sathyasjbhat" },
   ]
