@@ -26,7 +26,7 @@ images = ["/2023/04/08/weekly-notes-14-2023/thumb-chinatown.jpg"]
 
 ### Links of the week
 
-This week I've got couple of links I found fascinating:
+This week I've got three links that I found fascinating:
 
 * [What lesser-known accessories do you use with your computer?](https://news.ycombinator.com/item?id=35429801) - Tired with your clickety-clack mech keyboard, shiny RGB lights and still need something to fill up your desk? Give this thread a read.
 
