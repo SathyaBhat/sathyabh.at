@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Sathyajith Bhat"
-description = "Personal blog of Sathyajith"
+description = "Personal blog of Sathyajith Bhat."
 copyright = "&copy; 2023 Sathyajith Bhat"
 
 dateFormat = "2 January 2006"
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Sathyajith Bhat"
   email = "sathya@sathyasays.com"
-  # image = "img/author.jpg"
+  image = "img/sathya.jpg"
   headline = "Author, AWS Container Hero and DevOps Specialist"
   bio = "Staff Software Engineer at The Trade Desk"
   links = [
@@ -22,4 +22,7 @@ dateFormat = "2 January 2006"
     { mastodon = "https://mastodon.social/@sathyabhat" },
     { linkedin = "https://linkedin.com/in/sathyabhat" },
     { youtube = "https://youtube.com/sathyasjbhat" },
+    { github = "https://github.com/sathyabhat" },
+    { instagram = "https://instagram.com/sathyabhat" },
+    { lastfm = "https://lastfm.com/user/sathyabhat" },
   ]
