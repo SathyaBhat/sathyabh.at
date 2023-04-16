@@ -27,7 +27,7 @@ images = ["/2023/04/16/weekly-notes-15-2023/thumb-three-sisters.jpg"]
 
     ![View of the Three Sisters from Echo Point Lookout](thumb-three-sisters.jpg "View of the Three Sisters from Echo Point Lookout")
 
-    ![View of the Lincoln’s Rock](lincoln-rock.jpg "View of the Lincoln’s Rock")
+    ![View of the Lincoln’s Rock](lincoln-rock.jpg "View of Lincoln’s Rock")
 
 *  We're just about a month away from [Barcamp Bangalore](https://barcampbangalore.com/bcb/) which is happening on May 20 at RV University. Though I can't make it, I'll be helping and cheering on from here. I'd recommend you [register and join](https://planning.barcampbangalore.com/register-for-barcamp-bangalore-2023/) in for the event. It's worth it!
 
