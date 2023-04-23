@@ -27,8 +27,6 @@ _Thumbnail image: Clock tower at General Post Office, Sydney. Check it out on my
     {{< youtube izrwQBuxE8U >}}
 
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
-
 ### Link of the week
 
 Nostalgia trip! Saw this video from Linus Tech Tips about PC Game emulation using PCem. Give [it a view](https://www.youtube.com/watch?v=mWEE2RJj3YI).
