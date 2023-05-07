@@ -13,7 +13,7 @@ images = ["/2023/04/29/weekly-notes-17-2023/thumb-grey-sky.jpg"]
 
 ### What's been happening
 
- It's been another busy week! Don't have a lot of updates
+ It's been another busy week!
 
 * It's oncall week. At the Trade Desk, at the moment SRE's role in oncall is primarily on a escalation basis, so I don't have to be the first person to response to any alerts. Plus it's only for work hours - but includes weekends as well. As such, I decided to not take the long weekend and work on Tuesday as well. I'll take another day off in lieu of this.
 * I had changed my blog theme few weeks ago. I mostly like the theme, but was annoyed that it didn't add the paginator for old posts on the home page. I finally got to fix this, [thanks to this tip](https://github.com/jpanther/congo/discussions/537).
