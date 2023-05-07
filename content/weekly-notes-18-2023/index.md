@@ -34,7 +34,7 @@ images = ["/2023/05/07/weekly-notes-18-2023/thumb-neon-nights.jpg"]
 
 * Instagram ads are pretty annoying and irrelevant but I have to admit, most of my concert discovery has been via Instagram ads. I found about [Candlelight concerts](https://feverup.com/en/sydney/candlelight) via Instagram ad. They're doing a tribute to Queen in June and I bought tickets for that. Let's see how it goes!
 
-* I switched to Firefox again! I'd been using Edge for the past 4 years or so and wanted to try it out again. Sadly not much has changed, container tabs is still the best feature. Dragging a tab out into a new Window is still clunk and slow. Dragging a tab out to my second window doesn't bring it to the second window. Just a bunch of papercuts, but still annoying.
+* I switched to Firefox again. I'd been using Edge for the past 4 years or so and wanted to try out Firefox again. Sadly not much has changed, container tabs is still the best feature. Dragging a tab out into a new Window is still clunky and slow. Dragging a tab out to my second monitor doesn't bring it to the second screen. Just a bunch of papercuts, but still annoying.
 
 ### Link of the week
 
