@@ -7,7 +7,7 @@ series = ["Exploring Australia"]
 url = "/2023/05/07/blue-mountains-day-trip-travelogue/"
 title = "The Blue Mountains Day Trip Travelogue"
 date = 2023-05-07T12:00:00Z
-summary = "Write up on our day trip to the Blue Mountains"
+summary = "Write up on our day trip to the Blue Mountains."
 images = ["/2023/04/23/weekly-notes-16-2023/thumb-clock-tower.jpg"]
 +++
 
@@ -29,12 +29,6 @@ Lincoln's Rock is a popular cliff-edge lookout in the Blue Mountains. It has som
 
 We parked the car and walked to the lookout. The place wasn't full but soon after couple of buses made their way and it got fairly congested. The expansive view of the ranges and the valley was pretty awesome. There's a particular place that you can sit and grab a photo of - and that proved to be quite popular with a tour group. The tour lead kept repeating the instructions repeatedly - "shuffle on your butts!". Became second nature to everyone there! 
 
-<!-- ![View from Lincoln's Rock](https://i.sathyabh.at/sb/blue-mountains/lincolns-rock-1.jpg "View from Lincoln's Rock")
-![View from Lincoln's Rock](https://i.sathyabh.at/sb/blue-mountains/lincolns-rock-2.jpg "View from Lincoln's Rock")
-![View from Lincoln's Rock](https://i.sathyabh.at/sb/blue-mountains/lincolns-rock-3.jpg "View from Lincoln's Rock")
-![View from Lincoln's Rock](https://i.sathyabh.at/sb/blue-mountains/lincolns-rock-4.jpg "View from Lincoln's Rock")
-![View from Lincoln's Rock](https://i.sathyabh.at/sb/blue-mountains/lincolns-rock-5.jpg "View from Lincoln's Rock") -->
-
 {{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-1.jpg" "Lincoln's Rock" "Blue Mountains" >}}
 {{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-2.jpg" "Lincoln's Rock" "Blue Mountains" >}}
 {{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-3.jpg" "Lincoln's Rock" "Blue Mountains" >}}
@@ -48,40 +42,40 @@ After spending about half hour at Lincoln's Rock, we headed off towards Katoomba
 
 The Three Sisters is about a 45 minute drive from Lincoln Rock. This place is quite heavily crowded, so expect to drive around for a bit to get a parking spot. The view from The Three Sisters' was awesome. Our plans to do the walk to the first Sister however was dashed, as the bridge to it was closed. The other hiking trail was much longer and we didn't feel like doing it.
 
-![View from Three Sisters](https://i.sathyabh.at/sb/blue-mountains/three-sisters-1.jpg "View from Three Sisters")
-![View from Three Sisters](https://i.sathyabh.at/sb/blue-mountains/three-sisters-4.jpg "View from Three Sisters")
-
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "three-sisters-1.jpg" "Patel Shot from Three Sisters!" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "three-sisters-4.jpg" "Three Sisters" "Blue Mountains" >}}
 
 By this time, it was close to lunch and we were hungry. We looked at couple of cafes and decided to head over to Basil Nut Cafe. We chose to sat outside since the indoor seating was full. Basil Nut Cafe had really good food! Fresh ingredients and good quantity. Would highly recommend if you're in Katoomba.
 
-![Lunch - Basil Nut Cafe ](https://i.sathyabh.at/sb/blue-mountains/lunch-1.jpg "Lunch - Basil Nut Cafe ")
-![Lunch - Basil Nut Cafe ](https://i.sathyabh.at/sb/blue-mountains/lunch-2.jpg "Lunch - Basil Nut Cafe ")
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lunch-1.jpg" "Lunch - Chicken Cashew Nut" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lunch-2.jpg" "Lunch - Tom Yum Fried Rice" "Blue Mountains" >}}
 
 
 ### Walking around in Katoomba
 
 With lunch over, we picked up couple of coffees and started walking about Katoomba city center. Vinayak was looking for the Cultural Center, and just infront of the Cultural Center we found several amazing murals and graffiti on the walls, across multiple cross roads. Some of the artwork were amazing and had special traits - a notable one were a mural would show a "hidden" face only when viewed at a certain angle. Katoomba is filled with many quaint shops from speciality gift shops (we checked out one focused on cat-themed apparel including mitten that had paw marks on them - very cute!), little bookstores, antique shops etc. 
 
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-1.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-2.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-3.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-4.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-5.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-6.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-7.jpg "Graffiti on Display on the Streets of Katoomba")
-![Graffiti on Display on the Streets of Katoomba](https://i.sathyabh.at/sb/blue-mountains/graffiti-8.jpg "Graffiti on Display on the Streets of Katoomba")
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-1.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-2.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-3.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-5.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-4.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-6.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-7.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "graffiti-8.jpg" "Graffiti on Display on the Streets of Katoomba" "Blue Mountains" >}}
+
 
 We must have easily spent couple of hours with the lunch and then the walk about. We would have spent more time graffiti hunting, but by this time (approx 4pm) it was getting dark as the sunlight was fading out. Our plans for a waterfall hike had fallen through, so we decided to make one final stop at Everglades House & Gardens. Unfortunately when we reached, the place had closed for the day so we could only some pictures from the outside.
 
-![Everglades House and Cafe](https://i.sathyabh.at/sb/blue-mountains/everglades-1.jpg "Everglades House and Cafe")
-![Everglades House and Cafe](https://i.sathyabh.at/sb/blue-mountains/everglades-2.jpg "Everglades House and Cafe")
-![Everglades House and Cafe](https://i.sathyabh.at/sb/blue-mountains/everglades-3.jpg "Everglades House and Cafe")
-![Everglades House and Cafe](https://i.sathyabh.at/sb/blue-mountains/everglades-4.jpg "Everglades House and Cafe")
-![Everglades House and Cafe](https://i.sathyabh.at/sb/blue-mountains/everglades-5.jpg "Everglades House and Cafe")
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-1.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-2.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-3.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-4.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-5.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
 
 With that, we started heading back to Sydney as we had other plans in Sydney and didn't want to delay those. Hope you enjoyed reading this.
 
 Some stats:
 
-* Distance driven:209 km
+* Distance driven: 209 km
 * Time taken for the whole trip: 4h 58min
