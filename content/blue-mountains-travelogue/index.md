@@ -31,9 +31,9 @@ We parked the car and walked to the lookout. The place wasn’t full, but soon a
 
 {{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-1.jpg" "Lincoln's Rock" "Blue Mountains" >}}
 {{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-2.jpg" "Lincoln's Rock" "Blue Mountains" >}}
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-3.jpg" "Lincoln's Rock" "Blue Mountains" >}}
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-4.jpg" "Lincoln's Rock" "Blue Mountains" >}}
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-5.jpg" "Lincoln's Rock" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-3.jpg" "The edge on the left corner is where everyone was trying to sit" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-4.jpg" "The ranges go on forever" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "lincolns-rock-5.jpg" "Enjoying a nice sit down and watch" "Blue Mountains" >}}
 
 
 ### Three Sisters 
@@ -67,10 +67,10 @@ With lunch over, we picked up a couple of coffees and started walking around Kat
 
 We must have easily spent a couple of hours between lunch and the walkabout. We would have spent more time hunting for graffiti, but by this time (approximately 4 pm), it was getting dark as the sunlight was fading out. Our plans for a waterfall hike had fallen through, so we decided to make one final stop at Everglades House & Gardens. Unfortunately, when we reached it, the place had closed for the day, so we could only take some pictures from the outside.
 
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-1.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-2.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-3.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
-{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-4.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-1.jpg" "The cafe at Everglades" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-2.jpg" "Road leading to the estate" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-3.jpg" "Trees ever so lightly changing colours" "Blue Mountains" >}}
+{{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-4.jpg" "Road leading to the estate" "Blue Mountains" >}}
 {{< fancybox "https://i.sathyabh.at/sb/blue-mountains" "everglades-5.jpg" "Everglades House and Cafe" "Blue Mountains" >}}
 
 With that, we started heading back to Sydney, as we had other plans there and didn't want to delay those. I hope you enjoyed reading this!
