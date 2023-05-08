@@ -7,7 +7,7 @@ series = ["Exploring Australia"]
 url = "/2023/05/07/blue-mountains-day-trip-travelogue/"
 title = "The Blue Mountains Day Trip Travelogue"
 date = 2023-05-07T12:00:00Z
-summary = "Discover the beauty of the Blue Mountains, including The Three Sisters and Katoomba's street art. Indulge in great food and quaint shops on this day trip from Sydney."
+summary = "Join us as we take a leisurely day trip to the beautiful Blue Mountains."
 images = ["/2023/04/23/weekly-notes-16-2023/thumb-three-sisters.jpg"]
 +++
 
