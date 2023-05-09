@@ -8,7 +8,7 @@ url = "/2023/05/07/blue-mountains-day-trip-travelogue/"
 title = "The Blue Mountains Day Trip Travelogue"
 date = 2023-05-07T12:00:00Z
 summary = "Join us as we take a leisurely day trip to the beautiful Blue Mountains."
-images = ["/2023/04/23/weekly-notes-16-2023/thumb-three-sisters.jpg"]
+images = ["/2023/05/07/blue-mountains-day-trip-travelogue/thumb-three-sisters.jpg"]
 +++
 
 A couple of weeks back, [Vinayak](https://twitter.com/Vinayakh) and his family were visiting Sydney, and I reached out to him asking if he had any specific plans for the weekend. Knowing that he didn’t have any plans, and both Jo and I have been meaning to visit the Blue Mountains, we figured this is a good time to do a road trip!
