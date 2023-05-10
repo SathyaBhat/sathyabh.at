@@ -28,7 +28,7 @@ images = ["/2023/05/07/weekly-notes-18-2023/thumb-neon-nights.jpg"]
 
     {{< youtube S828_f0-dQI >}}
 
-* Published a fight of taking on Scion of the Elves in Divinity: Original Sin II. Much like many of the fights in Divinity, this one's pretty challenging and really forces you to think. I started playing Divinity: Original Sin II in Classic mode difficulty. I found the difficulty spikes to be much too annoying and frustrating and I dropped it down to . In this difficulty, I think it's a tad bit too easy, but I know moving it back will get me frustrated with the game. Anyway, give [the video a view](https://www.youtube.com/watch?v=rTDltHoQbYg). 
+* Published a fight of taking on Scion of the Elves in Divinity: Original Sin II. Much like many of the fights in Divinity, this one's pretty challenging and really forces you to think. I started playing Divinity: Original Sin II in Classic mode difficulty. I found the difficulty spikes to be much too annoying and frustrating and I dropped it down to Explorer. In this difficulty, I think it's a tad bit too easy, but I know moving it back will get me frustrated with the game. Anyway, give [the video a view](https://www.youtube.com/watch?v=rTDltHoQbYg). 
 
     {{< youtube rTDltHoQbYg >}}
 
