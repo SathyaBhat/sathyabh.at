@@ -9,7 +9,10 @@ title = "Weekly notes 20/2023"
 date = 2023-05-22T12:00:00Z
 summary = "Week 20 summary"
 images = ["/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"]
+feature = ["/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"]
 +++
+
+_Thumbnail photo: [Everglades](https://www.nationaltrust.org.au/places/everglades-house-gardens/) House gardens._
 
 ### What's been happening
 
