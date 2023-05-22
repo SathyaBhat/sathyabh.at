@@ -17,7 +17,7 @@ _Thumbnail photo: [Everglades](https://www.nationaltrust.org.au/places/everglade
 ### What's been happening
 
 * This week's notes post is delayed since Jo & I just returend from a weekend visit to Blue Mountains, again.
-    * The trip was to check out the fall colours in Blue Mountains, particularly Mt Wilson and other areas. However, as this tweet mentions, Mt Wilson never happened since we made a detour to Bathurst. Best detour, ever
+    * The trip was to check out the fall colours in Blue Mountains, particularly Mt Wilson and other areas. However, as [this tweet](https://twitter.com/SathyaBhat/status/1660249586139811841) mentions, Mt Wilson never happened since we made a detour to Bathurst. Best detour, ever
 
     {{< tweet sathyabhat 1660249586139811841 >}}
 
