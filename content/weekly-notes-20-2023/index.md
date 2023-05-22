@@ -9,7 +9,7 @@ title = "Weekly notes 20/2023"
 date = 2023-05-22T12:00:00Z
 summary = "Week 20 summary"
 images = ["/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"]
-feature = ["/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"]
+feature = "/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"
 +++
 
 _Thumbnail photo: [Everglades](https://www.nationaltrust.org.au/places/everglades-house-gardens/) House gardens._
@@ -21,7 +21,7 @@ _Thumbnail photo: [Everglades](https://www.nationaltrust.org.au/places/everglade
 
     {{< tweet sathyabhat 1660249586139811841 >}}
 
-    * While the overall trip was great, we were about couple of tweets too late to experience the fall colours as most of the foliage had already fallen off. That said, no regrets, it was great to get out of the city for couple of days.
+    * While the overall trip was great, we were about a couple of weeks too late to experience the fall colours as most of the foliage had already fallen off. That said, no regrets, it was great to get out of the city for couple of days.
 
     * I'll have a longer post on our trip, till then check out some pictures below.
 
