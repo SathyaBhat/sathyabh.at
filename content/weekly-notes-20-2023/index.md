@@ -7,7 +7,7 @@ series = ["Weekly notes"]
 url = "/2023/05/22/weekly-notes-20-2023/"
 title = "Weekly notes 20/2023"
 date = 2023-05-22T12:00:00Z
-summary = "Week 20 summary"
+summary = "Week 20 summary - a weekend trip, meeting an old friend and more."
 images = ["/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"]
 cover = "/2023/05/22/weekly-notes-20-2023/thumb-everglades.jpg"
 +++
