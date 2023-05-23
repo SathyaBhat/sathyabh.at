@@ -52,7 +52,7 @@ The desktop has a brand new cabinet Lian Li Lancool II Mesh C, be quiet! Pure Po
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "hyper-212-evo-2.jpeg" "The Cooler Master Hyper 212 Evo" "Hellforge Down under" >}}
 
-{{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "lian-li-lancool-ii.jpeg" "Lian Li LanCool Case on Ikea Uppspel Castors" "Hellforge Down under" >}}
+{{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "lian-li-lancool-ii.jpeg" "Lian Li LanCool Case on Ikea Uppspel CPU Stand with Castors" "Hellforge Down under" >}}
 
 The rest of the components are the same that I've had for a while:
 
