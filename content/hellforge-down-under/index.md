@@ -8,6 +8,7 @@ title = "Hellforge, Down Under (aka How I moved my desktop across two continents
 date = 2023-05-18T12:00:00Z
 summary = "I've moved across continents again but most of my gaming build remains the same. Here's an updated build."
 images = ["/2023/05/23/hellforge-down-under/thumb-full-build.jpeg"]
+aliases = [ "/setup", "/hellforge" ]
 +++
 
 
