@@ -11,7 +11,15 @@ images = ["/2023/05/23/hellforge-down-under/thumb-full-build.jpeg"]
 +++
 
 
-When we were about to leave Romania last year, I had the dilemma of what to do with Jo's and my desktop. I'd just rebuilt it, and initially thought we'll ship off the whole thing directly to Sydney from Bucharest. And then we got a quote for our items - coming to a whopping US $7,400 (not a typo!). Yeah, it was at that moment we decided to not ship it (or anything else for that matter). With very little time remaining to sell my desktop, I ended up doing a fire sale for the heaviest components - the monitors, cabinet, [CPU cooler](/2021/03/20/replacing-ryzen-3600-cooler-id-cooling-se-224-xt/), power supplies, Noctua fans. As much as I would have loved to carry it, I had absolutely exhausted my luggage allowance (we were carrying about 60kg of baggage) and having to carry it back to India and then to Australia just didn't make any sense. I must admit I felt bad when I saw my components being put on sale at 100% markup less than an hour of being picked up from me - but such is life.
+### Previously
+
+> The Hellforge is a magical forge found in the deepest pit of the Realm of Destruction, set in the Diablo universe.
+
+Hellforge is also the name I had given to my gaming computer. I had built my first desktop way back in [2013](/2013/08/01/hellforge-my-desktop-after-a-long-time/). This machine still lives on in some [parts with Bibhas](https://bibhasdn.com/my-desktop/) and in my the desktop mentioned below (specially, the HDD). When I moved to Romania, I sold the desktop to Bibhas (minus the GPU & the drives) and [rebuilt a new desktop](/2020/01/19/hellforge-remastered-home-desktop/).
+
+### We come from the land down under
+
+When Jo and I were about to [leave Romania last year](/2022/06/22/thank-you-adobe), I had the dilemma of what to do with our desktop systems. I'd just rebuilt it, and initially thought we'll ship off the whole thing directly to Sydney from Bucharest. And then we got a quote for our items - coming to a whopping US $7,400 (not a typo!). Yeah, it was at that moment we decided to not ship it (or anything else for that matter). With very little time remaining to sell my desktop, I ended up doing a fire sale for the heaviest components - the monitors, cabinet, [CPU cooler](/2021/03/20/replacing-ryzen-3600-cooler-id-cooling-se-224-xt/), power supplies, Noctua fans. As much as I would have loved to carry it, I had absolutely exhausted my luggage allowance (we were carrying about 60kg of baggage) and having to carry it back to India and then to Australia just didn't make any sense. I must admit I felt bad when I saw my components being put on sale at 100% markup less than an hour of being picked up from me - but such is life.
 
 That said, the remaining parts - GPU, Hard disks, RAM sticks were removed from the motherboard and packed separately, double wrapped in bubblewrap for extra measure. The two motherboards were packed differently - my motherboard with the processor and the NVME drive still in the slots, and the motherboard was wrapped in its original anti-static bad and kept it in the original box. 
 
@@ -25,7 +33,7 @@ Let's start with the computer table - I went with an Ikea Uppspel gaming desk (1
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "wip-ikea-uppspel.jpeg" "The Ikea Uppspel being built" "Hellforge Down under" >}}
 
-Sitting on the table are two, 28" monitors. The monitors are a LG 27" 4k UL500 and a Gigabyte M28U. Why two separate ones? Ideally, I would have wanted 2x 32" 4K screens but didn't have enough space in my office/guest room to have a 180mm width desk that is required for the 2 32-inch screens. 
+Sitting on the table are two, 27" monitors. The monitors are a LG 27" 4k UL500 and a Gigabyte M28U. Why two separate ones? Ideally, I would have wanted 2x 32" 4K screens but didn't have enough space in my office/guest room to have a 180mm width desk that is required for the 2 32-inch screens. 
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "gigabyte-m28u.jpeg" "Gigabyte M28U" "Hellforge Down under" >}}
 
@@ -62,8 +70,9 @@ For the chair, initially I had bought an Ikea Matchspel. After trying it for cou
 
 Here's the finished system specs
 
-| Processor   | AMD Ryzen 5 3600                             |
+| Component   | Details
 | ----------- | -------------------------------------------- |
+| Processor   | AMD Ryzen 5 3600                             |
 | CPU Cooler  | Cooler Master Hyper 212 EVO V2               |
 | Motherboard | Gigabyte Aorus Elite X570                    |
 | RAM         | Corsair Vengeance LPX 2x 16GB DDR4           |
