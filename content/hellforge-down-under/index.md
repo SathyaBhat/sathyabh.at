@@ -40,7 +40,7 @@ Sitting on the table are two, 27" monitors. The monitors are a LG 27" 4k UL500 a
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "lg-27ul500.jpeg" "LG 27UL500" "Hellforge Down under" >}}
 
 
-The LG is about half the price of the Gigabyte since it goes only to 60Hz & doesn't have Freesync. For me, the higher refresh rate wasn't noticeable but the Freesync support was a must have for the gaming screen, and since I use only one screen for gaming (the other for discord etc), went for the M28U. The monitors are connected to my desktop directly via Display Port cables and to the work laptop. I have an Apple M1 MacBook Pro from work since I prefer working from home, the laptop is to the monitors - one via DisplayPort to a Dock connected to the Thunderbolt on the Mac, while the other monitor plugs straight into the HDMI port.  The Macbook is forever folded away and stowed in a vertical laptop stand, being the LG monitor. The M1 runs relatively cool and keeping it closed hasn't caused any problems. The monitors are mounted on XCD Gas lift monitor arm. Having two of them made it easier to move/rearrange the monitors. The speakers are a Creative Pebbles 2.0. They're small but are quite decent for a small room. Mounted on the monitor is a Logitech 930 webcam. 
+The LG is about half the price of the Gigabyte since it goes only to 60Hz & doesn't have Freesync. For me, the higher refresh rate wasn't noticeable but the Freesync support was a must have for the gaming screen, and since I use only one screen for gaming (the other for discord etc), went for the M28U. The monitors are connected to my desktop directly via Display Port cables and to the work laptop. I have an Apple M1 MacBook Pro from work since I prefer working from home, the laptop is connected to the monitors via two cables - first via DisplayPort to a Dock connected to the Thunderbolt on the Mac, while the other monitor plugs straight into the HDMI port.  The Macbook is forever folded away and stowed in a vertical laptop stand, being the LG monitor. The M1 runs relatively cool and keeping it closed hasn't caused any problems. The monitors are mounted on XCD Gas lift monitor arm. Having two of them made it easier to move/rearrange the monitors. The speakers are a Creative Pebbles 2.0. They're small but are quite decent for a small room. Mounted on the monitor is a Logitech 930 webcam. 
 
 For input devices I got a Logitech MK850 combo keyboard and mouse, just because I like the keyboard. Sure it's not mech, but meh.. don't care much about it. With the unifying receiver on the dock and on my desktop and Logitech's EasySwitch I can use the same set of input devices without a KVM. I gave the mouse to Jo and got a MX Master 3s for myself. (the free scrolling is really awesome for scrolling through pages really fast).
 
@@ -71,22 +71,44 @@ For the chair, initially I had bought an Ikea Matchspel. After trying it for cou
 Here's the finished system specs
 
 | Component   | Details
-| ----------- | -------------------------------------------- |
-| Processor   | AMD Ryzen 5 3600                             |
-| CPU Cooler  | Cooler Master Hyper 212 EVO V2               |
-| Motherboard | Gigabyte Aorus Elite X570                    |
-| RAM         | Corsair Vengeance LPX 2x 16GB DDR4           |
-| GPU         | EVGA GeForce GTX 1080 SC GAMING ACX 3.0      |
-| Cabinet     | Lian Li Lancool II Mesh C                    |
-| PSU         | be quiet! Pure Power 11 FM Gold 850W Modular |
-| Monitors    | LG UL500                                     |
-|             | MSI M28U                                     |
-| Storage     | SiliconPower P34A80 1TB NVME                 |
-|             | Samsung Evo 850 500GB SSD                    |
-|             | Seagate ST500DM002 HDD                       |
-| Keyboard    | Logitech MK850 Combo                         |
-| Mouse       | MX Master 3s                                 |
-| Desk        | Ikea Uppspel                                 |
+| ----------- | --------------------------------------------------- |
+| Processor   | [AMD Ryzen 5 3600][proc]                            |
+| CPU Cooler  | [Cooler Master Hyper 212 EVO V2][cooler]            |
+| Motherboard | [Gigabyte Aorus Elite X570][mb]                     |
+| RAM         | [Corsair Vengeance LPX 2x 16GB DDR4][ram]           |
+| GPU         | [EVGA GeForce GTX 1080 SC GAMING ACX 3.0][gpu]      |
+| Cabinet     | [Lian Li Lancool II Mesh C][cab]                    |
+| PSU         | [be quiet! Pure Power 11 FM Gold 850W Modular][psu] |
+| Monitors    | [LG UL500][mon1]                                    |
+|             | [Gigabyte M28U][mon2]                               |
+| Storage     | [SiliconPower P34A80 1TB NVME][nvme]                |
+|             | [Samsung Evo 850 500GB SSD][ssd]                    |
+|             | [Seagate ST500DM002 HDD][hdd]                       |
+| Keyboard    | [Logitech MK850 Combo][keyb]                        |
+| Mouse       | [MX Master 3s][mouse]                               |
+| Desk        | [Ikea Uppspel][desk]                                |
+| Webcam      | [Logitech C930e][cam]                               |
+| Speakers    | [Creative Pebbles 2.0 V2][speak]                    |
+| CPU Stand   | [Ikea Uppspel CPU Stand][cpustand]                  |
+
+[proc]: https://www.amd.com/en/product/8456
+[cooler]: https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo-v2/
+[mb]: https://www.gigabyte.com/Motherboard/X570-AORUS-ELITE-rev-10
+[ram]: https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16
+[gpu]: https://www.evga.com/products/specs/gpu.aspx?pn=ab7b6447-6329-4361-8ab7-4ad62ea6a2af
+[cab]: https://lian-li.com/product/lancool-ii-mesh-rgb/
+[psu]: https://www.bequiet.com/en/powersupply/3610
+[mon1]: https://www.lg.com/au/it-monitors/lg-27UL500-W
+[mon2]: https://www.gigabyte.com/Monitor/M28U#kf
+[ssd]: https://www.samsung.com/au/memory-storage/sata-ssd/850-evo-sata-3-2-5-inch-ssd-500gb-mz-75e500bw/
+[nvme]: https://www.silicon-power.com/web/product-p34a80
+[hdd]: https://www.amazon.com.au/Seagate-Barracuda-ST500DM002-Internal-Drive/dp/B005EE5P84
+[keyb]: https://www.logitech.com/en-au/products/combos/mk850-wireless-keyboard-mouse.html
+[mouse]: https://www.logitech.com/en-au/products/mice/mx-master-3s.html
+[desk]: https://www.ikea.com/au/en/p/uppspel-gaming-desk-black-s99430195/
+[cam]: https://www.logitech.com/en-au/products/webcams/c930e-business-webcam.html
+[speak]: https://au.creative.com/p/speakers/creative-pebble-v2
+[cpustand]: https://www.ikea.com/au/en/p/uppspel-cpu-stand-with-castors-dark-grey-10504062/
 
 Here's how the final build looks like
 
