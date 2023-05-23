@@ -10,6 +10,17 @@ identifier        = "about"
 url               = "/about/"
 weight            = 2
 
+[[main]]
+name              = "Hellforge - My Setup"
+identifier        = "setup"
+url               = "/setup/"
+weight            = 3
+
+[[main]]
+name              = "Tech Blog"
+identifier        = "tech"
+url               = "https://sathyasays.com/"
+weight            = 10
 
 [[main]]
 name              = "Subscribe"
@@ -35,8 +46,3 @@ identifier        = "tags"
 url               = "/tags/"
 weight            = 5
 
-[[footer]]
-name              = "Tech Blog"
-identifier        = "tech"
-url               = "https://sathyasays.com/"
-weight            = 10
