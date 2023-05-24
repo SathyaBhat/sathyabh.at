@@ -65,7 +65,7 @@ The rest of the components are the same that I've had for a while:
 
 And of course, an EVGA nVidia GeForce GTX 1080. I've owned this GPU since 2017 and not only has it served me really well, it's done a world tour - Jo bought it in SF, brought it to Bangalore, used it there, and then has travelled with me to Bucharest and now in Sydney. Now that I've moved to dual 4k screens, I'm seeing the limitations of the GPU - playing a game at 4k and playing a 4k video often results in frame skips/choppy video. With the recent Diablo 4 Server Slam and earlier beta, the 1080 was able to drive 4k at mostly 60fps at high settings. I've been considering an upgrade for my GPU and will probably get a 4070Ti once the price drops a bit further - but for now, the 1080 will have to do. 
 
-For the chair, initially I had bought an Ikea Matchspel. After trying it for couple of months, I gave up on it and returned the chair back. I didn;t get full refund for it, onl half off. - the chair was just too hard and not wide enough for me sit comfortably - especially since I often fold my legs and sit. I ended buying a SecretLab Evo Titan and absolutely love. Assembling the chair was singficantly easier than the other chairs I've done before. They even send a laminated instruct set on how to assemble the chair complete with a QR code that links to video instructions on how to assemble it. The common feedback on the chair is that the bottom cushion is far too hard, compared to the Matchspel it is much better and I prefer the firm cushion 
+For the chair, initially I had bought an Ikea Matchspel. After trying it for couple of months, I gave up on it and returned the chair. I didn't get a full refund for it, only half off. The chair was just too hard and not wide enough for me sit comfortably - especially since I often fold my legs and sit. I ended buying a SecretLab Evo Titan and absolutely love. Assembling the chair was singficantly easier than the other chairs I've done before. They even send a laminated instruction set on how to assemble the chair complete with a QR code that links to video instructions on how to assemble it. The common feedback on the chair is that the bottom cushion is far too hard, compared to the Matchspel it is much better and I prefer the firm cushion.
 
 ### TL;DR - The assembled components
 
@@ -111,6 +111,6 @@ Here's the finished system specs
 [speak]: https://au.creative.com/p/speakers/creative-pebble-v2
 [cpustand]: https://www.ikea.com/au/en/p/uppspel-cpu-stand-with-castors-dark-grey-10504062/
 
-Here's how the final build looks like
+Here's how the final build looks like:
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "full-build.jpeg" "The Complete Build" "Hellforge Down under" >}}
