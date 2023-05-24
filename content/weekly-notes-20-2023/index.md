@@ -25,7 +25,7 @@ _Thumbnail photo: [Everglades](https://www.nationaltrust.org.au/places/everglade
 
     * I'll have a longer post on our trip, till then check out some pictures below.
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "norman-lindsay-gallery.jpg" "At the Normal Lindsay Gallery" "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "norman-lindsay-gallery.jpg" "At the Norman Lindsay Gallery" "Weekly Notes" >}}
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "mt-panaroma-bathurst.jpg" "At Mount Panorama, Bathurst" "Weekly Notes" >}}
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "everglades.jpg" "Everglades House" "Weekly Notes" >}}
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "everglades-2.jpg" "Everglades House" "Weekly Notes" >}}
