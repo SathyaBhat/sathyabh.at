@@ -37,7 +37,7 @@ It's been a bad week for my gadgets. Let's dive in.
 
     {{< tweet sathyabhat 1669820177670881280 >}}
 
-    * This weekend, the weather has been better. I went over to Chautauqua Park, and it was lovely. Apart from being the starting point for many hikes and trails, there's also a spacious area for picnics, a restaurant, and a theater. Unfortunately, there were no events happening when I visited, so I had to settle for sitting down with some coffee and enjoying the sunshine.
+    * This weekend, the weather has been better. I went over to [Chautauqua Park](https://pxl.mx/i/web/post/576138912770084981), and it was lovely. Apart from being the starting point for many hikes and trails, there's also a spacious area for picnics, a restaurant, and a theater. Unfortunately, there were no events happening when I visited, so I had to settle for sitting down with some coffee and enjoying the sunshine.
 
     <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/576138912770084981/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
