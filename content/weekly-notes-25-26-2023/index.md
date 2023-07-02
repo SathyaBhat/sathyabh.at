@@ -65,4 +65,4 @@ Too many links that I will share in a different post but I found this site that 
 
 Till next week. If you enjoyed reading this post, please consider sharing it via the links below and subscribing to the blog. You can subscribe via email using [Substack](https://sathyabhat.substack.com/). If you prefer RSS/news readers, you can [click here](https://sathyabh.at/index.xml) for the feed link.
 
-[^1]: Italian-American fish stew originating in San Francisco, California. See [here]() for details
+[^1]: Italian-American fish stew originating in San Francisco, California. See [here](https://en.m.wikipedia.org/wiki/Cioppino) for details
