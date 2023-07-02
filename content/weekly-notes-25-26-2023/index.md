@@ -9,7 +9,6 @@ title = "Weekly notes 26/2023"
 date = 2023-07-01T12:00:00Z
 summary = "Week 25 and 26 summary - missed updates, meeting lots of friends and heading back to Sydney."
 images = ["/2023/07/01/weekly-notes-26-2023/thumb-the-view.jpg"]
-draft = true
 +++
 
 ### What's been happening
