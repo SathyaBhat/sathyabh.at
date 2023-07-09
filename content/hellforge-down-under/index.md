@@ -63,7 +63,7 @@ The rest of the components are the same that I've had for a while:
 * Samsung Evo 850 500GB SSD
 * Seagate ST500DM002 HDD
 
-And of course, an EVGA nVidia GeForce GTX 1080. I've owned this GPU since 2017 and not only has it served me really well, it's done a world tour - Jo bought it in SF, brought it to Bangalore, used it there, and then has travelled with me to Bucharest and now in Sydney. Now that I've moved to dual 4k screens, I'm seeing the limitations of the GPU - playing a game at 4k and playing a 4k video often results in frame skips/choppy video. With the recent Diablo 4 Server Slam and earlier beta, the 1080 was able to drive 4k at mostly 60fps at high settings. I've been considering an upgrade for my GPU and will probably get a 4070Ti once the price drops a bit further - but for now, the 1080 will have to do. 
+And of course, an EVGA nVidia GeForce GTX 1080. I've owned this GPU since 2017 and not only has it served me really well, it's done a world tour - Jo bought it in SF, brought it to Bangalore, used it there, and then has travelled with me to Bucharest and now in Sydney. Now that I've moved to dual 4k screens, I'm seeing the limitations of the GPU - playing a game at 4k and playing a 4k video often results in frame skips/choppy video. With the recent Diablo 4 Server Slam and earlier beta, the 1080 was able to drive 4k at mostly 60fps at high settings. I've been considering an upgrade for my GPU and will probably get a 4070Ti once the price drops a bit further - but for now, ~~the 1080 will have to do~~. In June 2023, I upgradede the 1080 to a Geforce RTX 2080 Ti Founder's Edition, [thanks to a colleague](/2023/07/09/weekly-notes-27-2023/).
 
 For the chair, initially I had bought an Ikea Matchspel. After trying it for couple of months, I gave up on it and returned the chair. I didn't get a full refund for it, only half off. The chair was just too hard and not wide enough for me sit comfortably - especially since I often fold my legs and sit. I ended buying a SecretLab Evo Titan and absolutely love. Assembling the chair was singficantly easier than the other chairs I've done before. They even send a laminated instruction set on how to assemble the chair complete with a QR code that links to video instructions on how to assemble it. The common feedback on the chair is that the bottom cushion is far too hard, compared to the Matchspel it is much better and I prefer the firm cushion.
 
@@ -77,7 +77,7 @@ Here's the finished system specs
 | CPU Cooler  | [Cooler Master Hyper 212 EVO V2][cooler]            |
 | Motherboard | [Gigabyte Aorus Elite X570][mb]                     |
 | RAM         | [Corsair Vengeance LPX 2x 16GB DDR4][ram]           |
-| GPU         | [EVGA GeForce GTX 1080 SC GAMING ACX 3.0][gpu]      |
+| GPU         | [nVidia GeForce 2080Ti Founders Edition][gpu]      |
 | Cabinet     | [Lian Li Lancool II Mesh C][cab]                    |
 | PSU         | [be quiet! Pure Power 11 FM Gold 850W Modular][psu] |
 | Monitors    | [LG UL500][mon1]                                    |
@@ -96,7 +96,7 @@ Here's the finished system specs
 [cooler]: https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo-v2/
 [mb]: https://www.gigabyte.com/Motherboard/X570-AORUS-ELITE-rev-10
 [ram]: https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16
-[gpu]: https://www.evga.com/products/specs/gpu.aspx?pn=ab7b6447-6329-4361-8ab7-4ad62ea6a2af
+[gpu]: https://www.nvidia.com/en-au/geforce/graphics-cards/compare/?section=compare-20
 [cab]: https://lian-li.com/product/lancool-ii-mesh-rgb/
 [psu]: https://www.bequiet.com/en/powersupply/3610
 [mon1]: https://www.lg.com/au/it-monitors/lg-27UL500-W
