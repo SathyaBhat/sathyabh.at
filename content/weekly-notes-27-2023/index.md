@@ -7,9 +7,8 @@ series = ["Weekly notes"]
 url = "/2023/07/09/weekly-notes-27-2023/"
 title = "Weekly notes 27/2023"
 date = 2023-07-09T12:00:00Z
-summary = "Week 27 summary"
+summary = "Week 27 summary - back in Sydney, an unexpected free gift and time to go house hunting again."
 images = ["/2023/07/09/weekly-notes-27-2023/thumb-.jpg"]
-draft = true
 +++
 
 ### What's been happening
