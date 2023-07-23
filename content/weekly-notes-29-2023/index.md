@@ -13,7 +13,7 @@ images = ["/2023/07/23/weekly-notes-29-2023/thumb-sydney-cbd.jpg"]
 
 ### What's been happening
 
-It's a been a busy week.
+It's been a busy week.
 
 * I wrote a blog post about how I tried to use hostname spoofing on a HTTPS request with curl and the `Host` header and it didn't work as I thought it would. Give it a read on [my tech blog](https://sathyasays.com/2023/07/18/curl-tls-sni-hostname-spoof/) if you're interested.
 
