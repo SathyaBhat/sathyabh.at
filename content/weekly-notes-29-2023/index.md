@@ -7,7 +7,7 @@ series = ["Weekly notes"]
 url = "/2023/07/23/weekly-notes-29-2023/"
 title = "Weekly notes 29/2023"
 date = 2023-07-23T12:00:00Z
-summary = "Week 29 summary - a dull week, a new blog post and more."
+summary = "Week 29 summary - a busy week, a new blog post and more."
 images = ["/2023/07/23/weekly-notes-29-2023/thumb-sydney-cbd.jpg"]
 +++
 
@@ -15,7 +15,7 @@ images = ["/2023/07/23/weekly-notes-29-2023/thumb-sydney-cbd.jpg"]
 
 It's a been a busy week.
 
-* I wrote a blog post about how I tried to use hostname spoofing on a HTTPS request with curl and the `Host` and it didn't work as I thought it would. Give it a read on [my tech blog](https://sathyasays.com/2023/07/18/curl-tls-sni-hostname-spoof/) if you're interested.
+* I wrote a blog post about how I tried to use hostname spoofing on a HTTPS request with curl and the `Host` header and it didn't work as I thought it would. Give it a read on [my tech blog](https://sathyasays.com/2023/07/18/curl-tls-sni-hostname-spoof/) if you're interested.
 
 * After more than 1.5 years of job hunting (combined in Romania + Australia), Jo finally got a job. She starts tomorrow :) I am sure she will do well. 
 
