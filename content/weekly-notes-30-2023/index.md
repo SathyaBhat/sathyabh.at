@@ -5,15 +5,15 @@ tags = ["weekly-notes", "sydney", "gaming"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/07/30/weekly-notes-30-2023/"
-title = "Weekly notes 30/2023"
+title = "Weekly notes 30/2023 - a milestone week for us."
 date = 2023-07-30T12:00:00Z
 summary = "Week 30 summary"
-images = ["/2023/07/30/weekly-notes-30-2023/thumb-.jpg"]
+images = ["/2023/07/30/weekly-notes-30-2023/thumb-griffith-tea.jpg"]
 +++
 
 ### What's been happening
 
-* The past week has been a milestone week - as it marks a year of us moving to Sydney, Australia and as well as joining at The Trade Desk. I started on a draft post about how and why we moved from Bucharest, Romania but I never got to finish it. I have another draft post that will cover reflections on the past year and I hope to get it out by the next week - and that will cover a lot more.
+* The past week has been a milestone week - [it's year of us moving to Sydney](https://twitter.com/SathyaBhat/status/1550350073883934720), Australia and as well as joining at The Trade Desk. I started on a draft post about how and why we moved from Bucharest, Romania but I never got to finish it. I have another draft post that will cover reflections on the past year and I hope to get it out by the next week - and that will cover a lot more.
     * I also have a really long post (in draft) that talks about my time at Adobe that I hope to finish soon as well!
 * We got our lease extended for our current house for another six months. One thing that stood out in our recent rental run was that a lot of the houses, even the relatively nicer places were not getting leased out and we kept getting price decrease notifications. 
 * I've been hearing a lot about Succession and I finally got to watch the first season during my US visit and thoroughly enjoyed it! Look forward to watching more episodes. 
