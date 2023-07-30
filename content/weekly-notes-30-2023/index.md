@@ -5,9 +5,9 @@ tags = ["weekly-notes", "sydney", "gaming"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/07/30/weekly-notes-30-2023/"
-title = "Weekly notes 30/2023 - a milestone week for us."
+title = "Weekly notes 30/2023"
 date = 2023-07-30T12:00:00Z
-summary = "Week 30 summary"
+summary = "Week 30 summary - a milestone week for us."
 images = ["/2023/07/30/weekly-notes-30-2023/thumb-griffith-tea.jpg"]
 +++
 
