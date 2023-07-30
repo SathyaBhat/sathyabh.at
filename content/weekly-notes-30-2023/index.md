@@ -14,6 +14,9 @@ images = ["/2023/07/30/weekly-notes-30-2023/thumb-griffith-tea.jpg"]
 ### What's been happening
 
 * The past week has been a milestone week - [it's year of us moving to Sydney](https://twitter.com/SathyaBhat/status/1550350073883934720), Australia and as well as joining at The Trade Desk. I started on a draft post about how and why we moved from Bucharest, Romania but I never got to finish it. I have another draft post that will cover reflections on the past year and I hope to get it out by the next week - and that will cover a lot more.
+
+    {{< tweet SathyaBhat 1550350073883934720 >}}
+    
     * I also have a really long post (in draft) that talks about my time at Adobe that I hope to finish soon as well!
 * We got our lease extended for our current house for another six months. One thing that stood out in our recent rental run was that a lot of the houses, even the relatively nicer places were not getting leased out and we kept getting price decrease notifications. 
 * I've been hearing a lot about Succession and I finally got to watch the first season during my US visit and thoroughly enjoyed it! Look forward to watching more episodes. 
