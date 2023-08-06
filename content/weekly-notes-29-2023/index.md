@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "gaming"]
+tags = ["weekly-notes", "sydney"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/07/23/weekly-notes-29-2023/"
