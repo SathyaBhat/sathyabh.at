@@ -8,7 +8,7 @@ url = "/2023/08/06/weekly-notes-31-2023/"
 title = "Weekly notes 31/2023"
 date = 2023-08-06T12:00:00Z
 summary = "Week 31 summary - rejected CFP, a new game release and more."
-images = ["/2023/08/06/weekly-notes-31-2023/thumb-.jpg"]
+images = ["/2023/08/06/weekly-notes-31-2023/thumb-hyde-park-plaza.jpg"]
 +++
 
 ### What's been happening
