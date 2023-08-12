@@ -7,7 +7,7 @@ series = ["Weekly notes"]
 url = "/2023/08/12/weekly-notes-32-2023/"
 title = "Weekly notes 32/2023"
 date = 2023-08-12T12:00:00Z
-summary = "Week 32 summary - outing celebration, a new game purchase and more."
+summary = "Week 32 summary - a celebration outing, a new game purchase and more."
 images = ["/2023/08/12/weekly-notes-32-2023/thumb-sydney-dobell-tower.jpg"]
 +++
 
@@ -15,11 +15,11 @@ _Thumbnail image: [Dobell Memorial Sculpture](https://publicartaroundtheworld.co
 
 ### What's been happening
 
-* It was Jo's birthday this week. I asked a team mate for some suggestions to a restaurant and she told me couple of choices. I picked an Italian restaurant (called [Sagra](https://www.sydneysagra.com.au/)) because we've been trying to find a decent Italian place and most have been pretty meh. Thankfully, this place was really good. It was a small, quaint little place. The service was a bit slow but the food was great. While walking to the place, we realized there's a whole lot of Italian restaurants on the same road as this restaurant. We should be back to the area to explore more such restaurants.
+* It was Jo's birthday this week. I asked a team mate for some suggestions to a restaurant and she told me couple of choices. I picked an Italian restaurant (called [Sagra](https://www.sydneysagra.com.au/)) because we've been trying to find a decent Italian place and most have been pretty meh. Thankfully, this place was really good. It was a small, quaint little place. The service was a bit slow [but the food](https://pxl.mx/p/sathyabhat/594532211850375235/) was great. While walking to the place, we realized there's a whole lot of Italian restaurants on the same road as this restaurant. We should be back to the area to explore more such restaurants.
 
     <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/594532211850375235/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
-* Ever since our electricity meter got upgraded to [a digital meter](/2023/07/16/weekly-notes-28-2023/) I've been thinking of a way to export the data to a timeseries database so I can chart out my usage. Over the past week, I realized that my energy provider has an option in the portal where I can download the entire usage data from the past two years. I wrote a script to read this file and import the data to a timeseries database. I'm trying to figure out if I can make it more automated. I'll publish the code to my Github as well, but for now there's a lot of magic numbers that need to be cleaned up. Look for a blog post on my [tech blog soon](https://sathyasays.com).
+* Ever since our electricity meter got upgraded to [a digital meter](/2023/07/16/weekly-notes-28-2023/) I've been thinking of a way to export the data to a timeseries database so I can chart out my usage. I realized that my energy provider's website has an option to download the usage data from the past two years.  Over the past week, I wrote a script to read this file and import the data to a timeseries database. I'm trying to figure out if I can make it more automated. I'll publish the code to my Github as well, but for now there's a lot of magic numbers that need to be cleaned up. Look for a blog post on my [tech blog soon](https://sathyasays.com).
 
 * I bought [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/). The character creator/customizer is quite comprehensive! I've started a [Tiefling](https://forgottenrealms.fandom.com/wiki/Tiefling) [Monk](https://forgottenrealms.fandom.com/wiki/Monk?so=search). For a change I didn't start a game with my usual Fire mage archetype but I figured let's try something else for a change.
 
