@@ -11,7 +11,7 @@ summary = "Week 32 summary - a celebration outing, a new game purchase and more.
 images = ["/2023/08/12/weekly-notes-32-2023/thumb-sydney-dobell-tower.jpg"]
 +++
 
-    {{< fancybox "/2023/08/12/weekly-notes-32-2023" "thumb-sydney-dobell-tower.jpg" "Dobell Memorial Sculpture" "Weekly Notes" >}}
+![](/2023/08/12/weekly-notes-32-2023/thumb-sydney-dobell-tower.jpg)
 
 _Thumbnail image: [Dobell Memorial Sculpture](https://publicartaroundtheworld.com/public-art-in-australia/public-art-sydney-cbd/dobell-memorial-sculpture/): A shiny, reflective diamond shaped (or pyramids-like, to be more specific) tower at the intersection of Spring Street and Bond Street, Sydney CBD._ 
 
