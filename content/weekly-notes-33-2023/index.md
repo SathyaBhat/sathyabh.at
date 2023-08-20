@@ -8,7 +8,7 @@ url = "/2023/08/19/weekly-notes-33-2023/"
 title = "Weekly notes 33/2023"
 date = 2023-08-19T12:00:00Z
 summary = "Week 33 summary - on-call wrap up, rewatching old sitcoms and gaming update."
-images = ["thumb-wyndham-club.jpg"]
+images = ["/2023/08/19/weekly-notes-33-2023/thumb-wyndham-club.jpg"]
 +++
 
 ![](thumb-wyndham-club.jpg)
