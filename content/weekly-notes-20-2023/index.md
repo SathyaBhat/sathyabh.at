@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "travel", "blue mountains", "Diablo 4"]
+tags = ["weekly-notes", "sydney", "travel", "blue mountains", "Diablo IV"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/05/22/weekly-notes-20-2023/"
@@ -34,7 +34,7 @@ _Thumbnail photo: [Everglades](https://www.nationaltrust.org.au/places/everglade
 
 ### Link of the week
 
-Diablo 4 launches in another 10 days, and if there's anything that I miss from my time playing the game, it's the fantastic music. Luckily, somebody has created a YouTube playlist of it. Until the soundtrack is officially released, [enjoy the videos](https://www.youtube.com/watch?v=NrHQF7eURvc&list=PLsQpV9OLWf1KHHeXCjH_4WH14grYlp936&index=1).
+Diablo IV launches in another 10 days, and if there's anything that I miss from my time playing the game, it's the fantastic music. Luckily, somebody has created a YouTube playlist of it. Until the soundtrack is officially released, [enjoy the videos](https://www.youtube.com/watch?v=NrHQF7eURvc&list=PLsQpV9OLWf1KHHeXCjH_4WH14grYlp936&index=1).
 
 
 {{< youtube NrHQF7eURvc >}}

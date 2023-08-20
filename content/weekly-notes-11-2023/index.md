@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "gaming", "travel", "Diablo 4"]
+tags = ["weekly-notes", "sydney", "gaming", "travel", "Diablo IV"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/03/20/weekly-notes-11-2023/"
@@ -35,6 +35,6 @@ This week's post is delayed, and for a good reason - I just got back to Sydney f
 
     {{< tweet sathyabhat 1637433722336317440 >}}
 
-* Diablo 4 early access beta is here! Early access weekend started with huge queues but seemed to get better. Saw some interesting gameplay. I look forward to trying it out over the weekend.
+* Diablo IV early access beta is here! Early access weekend started with huge queues but seemed to get better. Saw some interesting gameplay. I look forward to trying it out over the weekend.
 
 Till next week.
