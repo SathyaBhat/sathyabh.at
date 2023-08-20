@@ -8,10 +8,10 @@ url = "/2023/08/19/weekly-notes-33-2023/"
 title = "Weekly notes 33/2023"
 date = 2023-08-19T12:00:00Z
 summary = "Week 33 summary - on-call wrap up, rewatching old sitcoms and gaming update."
-images = ["/2023/08/19/weekly-notes-33-2023/thumb-wyndham-club.jpg"]
+images = ["thumb-wyndham-club.jpg"]
 +++
 
-![](/2023/08/19/weekly-notes-33-2023/thumb-wyndham-club.jpg)
+![](thumb-wyndham-club.jpg)
 
 _Thumbnail image: [Wartime Mural on Wyndham Club](https://streetartcities.com/markers/31870): A 14-storey black-and-white mural based on inspiration from 1940s World War II newsreels and Hollywood movies._ 
 

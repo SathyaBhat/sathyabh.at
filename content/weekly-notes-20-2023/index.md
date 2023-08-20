@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "travel", "blue mountains", "Diablo 4"]
+tags = ["weekly-notes", "sydney", "travel", "blue mountains", "Diablo IV"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/05/22/weekly-notes-20-2023/"
