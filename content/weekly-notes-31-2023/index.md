@@ -21,7 +21,7 @@ images = ["/2023/08/06/weekly-notes-31-2023/thumb-hyde-park-plaza.jpg"]
 
     {{< tweet PCGamingWiki 1282046190318751753 >}}
 
-* I was doing a side quest in [Diablo IV](/tags/diablo-iv) and walked across this bridge and suddenly had a sense of deja vu. I look closer and I realize I'm walking along the same path as that was shown in the [Diablo 4 announce cinematic](https://www.youtube.com/watch?v=9bRWIdOMfro). A lot of games showcase high quality cinematic environments especially in the announce trailers never to be seen again in the game. This was one of those nice nods that was done well. Was happy to see this. Oh and the quest name is the same as the announce trailer - "By three they come".
+* I was doing a side quest in [Diablo IV](/tags/diablo-iv) and walked across this bridge and suddenly had a sense of deja vu. I look closer and I realize I'm walking along the same path as that was shown in the [Diablo IV announce cinematic](https://www.youtube.com/watch?v=9bRWIdOMfro). A lot of games showcase high quality cinematic environments especially in the announce trailers never to be seen again in the game. This was one of those nice nods that was done well. Was happy to see this. Oh and the quest name is the same as the announce trailer - "By three they come".
 
 
 ### Link of the week
