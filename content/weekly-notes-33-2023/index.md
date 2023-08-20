@@ -7,7 +7,7 @@ series = ["Weekly notes"]
 url = "/2023/08/19/weekly-notes-33-2023/"
 title = "Weekly notes 33/2023"
 date = 2023-08-19T12:00:00Z
-summary = "Week 33 summary - oncall wrap up, rewatching old sitcoms and gaming update."
+summary = "Week 33 summary - on-call wrap up, rewatching old sitcoms and gaming update."
 images = ["/2023/08/19/weekly-notes-33-2023/thumb-wyndham-club.jpg"]
 +++
 
@@ -19,8 +19,8 @@ _Thumbnail image: [Wartime Mural on Wyndham Club](https://streetartcities.com/ma
 ### What's been happening
 
 * After a few warm days, Syndey's cold again. Thought I could pack up my hoodies into the storage, but not yet. 
-* I'm wrapping up my second week of [on-call](tags/on-call/) in three weeks. The shifts are usually for a week once every 5-6 weeks, but since I was in the US during my previous shift, I swapped my shift around. Both the shifts were quite silent, but happy to be done with them.
-* My Diablo 4 season has been coming along pretty nice. I'm close to level 75 and might wrap up my rogue and start a new Druid. I'm less inclined to take it to level 100, there's a lot of grinding and I think getting the character from 75 to 100 is more or less like going from Diablo 3's Greater Rift 100 to 130+ - it's a lot of grinding for not a lot of benefit. Either way with Diablo 3 season starting soon, I might consider not creating a new character at all and focus on Baldur's Gate 3 and some Diablo 4 on the side till Diablo 3's next season starting soon.
+* I'm wrapping up my second week of [on-call](/tags/on-call/) in three weeks. The shifts are usually for a week once every 5-6 weeks, but since I was in the US during my previous shift, I swapped my shift around. Both the shifts were quite silent, but happy to be done with them.
+* My Diablo 4 season has been coming along pretty nice. I'm close to level 75 and might wrap up my rogue and start a new Druid. I'm less inclined to take it to level 100, there's a lot of grinding and I think getting the character from 75 to 100 is more or less like going from Diablo 3's Greater Rift 100 to 130+ - it's a lot of grinding for not a lot of benefit. Either way with Diablo 3 season starting soon, I might consider not creating a new character at all and focus on Baldur's Gate 3 and some [Diablo 4](/tags/diablo-iv) on the side till Diablo 3's next season starting soon.
 * While playing Diablo 4, I usually have something light that I'm watching on the other screen. In the past few weeks I'd been (re)watching Silicon Valley and finally completed the finale. I had dropped watching Silicon Valley multiple timees because I got tired of the gets-it-write-and-then-massive-fail approach to every season, that continued till the end except for, well, the finale. I somehow didn't expect the finale to be done that way, and I guess I kinda liked it. 
     * I'm also rewatching Seinfeld now and understanding why it's such a classic. Back when it was being broadcasted on TV (maybe when I was in 8th standard?), I didn't get the series at all and thought it was crap. How wrong i was. Actually even watching it when playing Diablo feels wrong, because I'm focusing on the game, while missing out on the fantastic acting, especially by [Julia Louis-Dreyfus' expressions](https://www.youtube.com/watch?v=ZTvtSKXwu0o) and Micahel Richards' [entrance to Seinfeld's apartment](https://www.youtube.com/watch?v=tZmf4uz_fRk&list=PLM5HYcF2798O_fcyYdIhQhXlJAHCS39WS).
 * I'm starting to experiment with Obsidian for notes and snippets. 
