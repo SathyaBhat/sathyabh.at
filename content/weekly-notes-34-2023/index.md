@@ -13,7 +13,7 @@ images = ["/2023/08/27/weekly-notes-34-2023/thumb-commercial-banking-company-syd
 
 ![](thumb-commercial-banking-company-sydney.jpg)
 
-_Thumbnail image: [343 George Street, Sydney](https://streetartcities.com/markers/31870) is a heritage-listed former bank building built from 1921 to 1925, and until 2008 housed banking premises of the Commercial Banking Company of Sydney (CBC) and later National Australia Bank. It is now a nine-storey retail and commercial premise.
+_Thumbnail image: [343 George Street, Sydney](https://streetartcities.com/markers/31870) is a heritage-listed former bank building built from 1921 to 1925, and until 2008 housed the Commercial Banking Company of Sydney (CBC) and later National Australia Bank. It is now a nine-storey retail and commercial premise._
 
 ### What's been happening
 
@@ -22,10 +22,10 @@ _Thumbnail image: [343 George Street, Sydney](https://streetartcities.com/marker
 * I've been playing a lot of Baldur's Gate 3 and have been mostly enjoying it. The things that I find frustrating are some poor camera issues which make it difficult to sight high vantage points - this hurts because positioning is of utmost importance, especially to come out of top in a tough fight. 
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "baldurs-gate-1.jpg" "Screenshot from Baldur's Gate 3" "Weekly Notes" >}}
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "baldurs-gate-1.jpg" "Screenshot from Baldur's Gate 3" "Weekly Notes" >}}
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "baldurs-gate-1.jpg" "Screenshot from Baldur's Gate 3" "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "baldurs-gate-2.jpg" "Screenshot from Baldur's Gate 3" "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "baldurs-gate-3.jpg" "Screenshot from Baldur's Gate 3" "Weekly Notes" >}}
 
-* After a lot of procrastination, I finally started writing a [Prometheus](https://prometheus.io/) exporter for You Need a Budget ([YNAB](https://app.ynab.com/)). The goal was to understand how exporters work, and for all the awesomeness that is YNAB, its reporting is pretty lackluster. It'll be interesting to see how my expenses and financial data can be modeled as time series and labels. 
+* After a lot of procrastination, I finally started writing a [Prometheus](https://prometheus.io/) exporter for You Need a Budget ([YNAB](https://www.ynab.com/)). The goal was to understand how exporters work, and for all the awesomeness that is YNAB, its reporting is pretty lackluster. It'll be interesting to see how my expenses and financial data can be modeled as time series and labels. 
 * I'm not a big chess fan (barely played a couple of matches as a kid) but I was following the last few matches of the FIDE Chess World Championship, primarily because of the [R Praggnanandhaa](https://en.wikipedia.org/wiki/R_Praggnanandhaa) and [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen) match. I must give props the the commentators of the match Peter Leko and Daniel Naroditsky who made it pretty easy to follow what's happening with detailed descriptions of the moves and how/why they are good, bad, or can be countered. You can watch the previous live streams on the [Chess24 YouTube Channel](https://www.youtube.com/@Chess24/streams).
 
 ### Music of the Week
