@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "gaming", "on-call", "diablo-iv", "baldurs gate"]
+tags = ["weekly-notes", "sydney", "gaming", "on-call", "diablo-iv", "Baldurs Gate"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/08/19/weekly-notes-33-2023/"
