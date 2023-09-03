@@ -19,7 +19,7 @@ _Thumbnail image: [Million Life on Dixon Street](https://streetartcities.com/mar
 
 ### What's been happening
 
-* I bought the tickets for the Melbourne 2024 Formula 1 Grand Prix! Looking forward to be there. I got the 4-day pass. The schedule's not yet out, so not sure what's in store for Thursday but going by previous years, there would be something in store (like the Supercars or vintage car parade from the past few years). 
+* I bought the tickets for the Melbourne 2024 Formula 1 Grand Prix! Looking forward to being there. I got the 4-day pass. The schedule's not yet out, so not sure what's in store for Thursday but going by previous years, there would be something in store (like the Supercars or vintage car parade from the past few years). 
 
 * Another concert booked for January! Lord Huron is touring Australia and they are performing in Enmore Theater in Sydney.
 
@@ -29,9 +29,9 @@ _Thumbnail image: [Million Life on Dixon Street](https://streetartcities.com/mar
 
     <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/603829178108089561/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
-    * After lunch, we had a brisk walk over to the movie theatre (only about 800m away, but we were close to running late). Oppenheimer was a great watch. I had no idea it was by Christopher Nolan, but thoroughly enjoyed it. What I didn't like about the movie: no subtitles meant it was hard to follow the dialog at certain places. The pacing and the timeline jump made it difficult to figure out when and where the events are happening, but that's a Nolan movie for you. 
+    * After lunch, we had a brisk walk over to the movie theatre (only about 800m away, but we were close to running late). Oppenheimer was a great watch. I had no idea it was by Christopher Nolan, but thoroughly enjoyed it. What I didn't like about the movie: no subtitles meant it was hard to follow the dialogue at certain places. The pacing and the timeline jump made it difficult to figure out when and where the events are happening, but that's a Nolan movie for you. 
 
-    * After the movie, we went back to Chinatown for some unfinished business (aka dessert). First, a stop by Emperor's[ Bakery for some cream puffs](https://pxl.mx/p/sathyabhat/603842213395346650). Unless the samosa-style cream puffs that I've seen in Malaysian restaurants, these are small custard balls fresh and hot out of the oven. 
+    * After the movie, we went back to Chinatown for some unfinished business (aka dessert). First, a stop by Emperor's[ Bakery for some cream puffs](https://pxl.mx/p/sathyabhat/603842213395346650). Unlike the samosa-style cream puffs that I've seen in Malaysian restaurants, these are small custard balls fresh and hot out of the oven. 
 
     <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/603842213395346650/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
