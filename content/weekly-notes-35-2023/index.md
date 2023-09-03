@@ -14,7 +14,7 @@ images = ["/2023/09/03/weekly-notes-35-2023/thumb-million-life.jpg"]
 ![](thumb-million-life.jpg)
 
 
-_Thumbnail image: [Million Life on Dixon Street](https://streetartcities.com/markers/31870) is an brightly lit arcade featuring many "UFO Catcher" or "claw game" [machines](https://en.wikipedia.org/wiki/Claw_machine). It is said many of these machines are often rigged - the more money you spend, the greater the chance that the catcher will be able to hold on to the prize._
+_Thumbnail image: [Million Life on Dixon Street](https://streetartcities.com/markers/31870) is a brightly lit arcade featuring many "UFO Catcher" or "claw game" [machines](https://en.wikipedia.org/wiki/Claw_machine). It is said many of these machines are often rigged - the more money you spend, the greater the chance that the catcher will be able to hold on to the prize._
 
 
 ### What's been happening
