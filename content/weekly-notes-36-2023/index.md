@@ -15,14 +15,14 @@ images = ["/2023/09/10/weekly-notes-36-2023/thumb-barangaroo-wharf.jpg"]
 ![](thumb-barangaroo-wharf.jpg)
 
 
-_Thumbnail image: View of the [Barangaroo Wharf](https://en.wikipedia.org/wiki/Barangaroo,_New_South_Wales) from The Trade Desk office. Barangaroo used for fishing and hunting by Indigenous Australians prior to colonial settlement. The area is inclusive of The Hungry Mile, where workers would walk from wharf to wharf in search of a job, often failing to find one._
+_Thumbnail image: View of the [Barangaroo Wharf](https://en.wikipedia.org/wiki/Barangaroo,_New_South_Wales) from The Trade Desk office. Barangaroo was used for fishing and hunting by Indigenous Australians prior to colonial settlement. The area is inclusive of The Hungry Mile, where workers would walk from wharf to wharf in search of a job, often failing to find one._
 
 
 ### What's been happening
 
 * I have completed my re:Invent guide and submitted it to AWS! Once it gets approved and published, I will link it in my weekly notes and on my tech blog once it's live.
 * I wrote a blog post on my tech blog after a long time! Check out [Bulk tagging all instances in an Auto Scaling Group (ASG) using AWS CLI and JMESPath Expressions](https://sathyasays.com/2023/09/04/bulk-tag-instances-in-asg-aws-cli/). I wrote the post more than 3 months ago but didn't get to publish it because I thought it was too trivial. Given how many times I've had to refer to my draft, I figured it might be useful to others.
-* We had a good weekend. In a first for me, I went to see a musical with Jo. The musical was [Beauty & the Beast performed at the Capitol Theatre](https://pxl.mx/p/sathyabhat/606004304576524291). I've never been a fan of musicals, but I have to appreciate the performance - the actors were really good. The production was quite outstanding - really well-done set design, lighting, sound. It was quite an experience!
+* We had a good weekend. In a first for me, I went to see a musical with Jo. The musical was [Beauty & the Beast performed at the Capitol Theatre](https://pxl.mx/p/sathyabhat/606004304576524291). I've never been a fan of musicals, but I have to appreciate the performance. The actors were really good. The production was quite outstanding - really well-done set design, lighting, and sound. It was quite an experience!
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-1.jpg" "Beauty & the Beast hoarding at The Capitol Theatre." "Weekly Notes" >}}
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-2.jpg" "Capitol Theatre is amazing." "Weekly Notes" >}}
