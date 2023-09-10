@@ -20,15 +20,15 @@ _Thumbnail image: View of the [Barangaroo Wharf](https://en.wikipedia.org/wiki/B
 
 ### What's been happening
 
-* I have completed my re:Invent guide and submitted to AWS! Once it gets approved and published, I will link it in my weekly notes and in my tech blog once it's live.
-* I wrote a blog post on my tech blog after a long time! Check out [Bulk tagging all instances in an Auto Scaling Group (ASG) using AWS CLI and JMESPath Expressions](https://sathyasays.com/2023/09/04/bulk-tag-instances-in-asg-aws-cli/). I wrote the post more than 3 months ago, but didn't get to publish it because I thought it was too trivial. Given how many times I've had to refer to my draft, I figured it might be useful to others.
-* We had a good weekend. In a first for me, went to see a musical with Jo. The musical was [Beauty & the Beast performed at the Capitol Theatre](https://pxl.mx/p/sathyabhat/606004304576524291). I've never been a fan of musicals, but have to appreciate the performance - the actors were really good. The production was quite outstanding - really well done set design, lightning, sound. It was quite an experience!
+* I have completed my re:Invent guide and submitted it to AWS! Once it gets approved and published, I will link it in my weekly notes and on my tech blog once it's live.
+* I wrote a blog post on my tech blog after a long time! Check out [Bulk tagging all instances in an Auto Scaling Group (ASG) using AWS CLI and JMESPath Expressions](https://sathyasays.com/2023/09/04/bulk-tag-instances-in-asg-aws-cli/). I wrote the post more than 3 months ago but didn't get to publish it because I thought it was too trivial. Given how many times I've had to refer to my draft, I figured it might be useful to others.
+* We had a good weekend. In a first for me, I went to see a musical with Jo. The musical was [Beauty & the Beast performed at the Capitol Theatre](https://pxl.mx/p/sathyabhat/606004304576524291). I've never been a fan of musicals, but I have to appreciate the performance - the actors were really good. The production was quite outstanding - really well-done set design, lighting, sound. It was quite an experience!
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-1.jpg" "Beauty & the Beast hoarding at The Capitol Theatre." "Weekly Notes" >}}
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-2.jpg" "Capitol Theatre is amazing." "Weekly Notes" >}}
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-3.jpg" "Capitol Theatre is amazing." "Weekly Notes" >}}
 
-    * We decided to go to the musical fairly late, so we had to rush to the theatre. The musical was for 2.5 hours, and by the time the show was over, we thought most of the restaurants would have closed (pain point of being in Sydney CBD). Thankfully, we found a nice Thai [restaurant called @Bangkok](https://pxl.mx/p/sathyabhat/606374679004766283) that was open.
+    * We decided to go to the musical fairly late, so we had to rush to the theatre. The musical was for 2.5 hours, and by the time the show was over, we thought most of the restaurants would have closed (a pain point of being in Sydney CBD). Thankfully, we found a nice Thai [restaurant called @Bangkok](https://pxl.mx/p/sathyabhat/606374679004766283) that was open.
 
     <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/606374679004766283/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
@@ -40,7 +40,7 @@ _Thumbnail image: View of the [Barangaroo Wharf](https://en.wikipedia.org/wiki/B
 
 It's been a Foo Fighters week - been listening to them all week long. I also found out that their acoustic live album, [Skin and Bones](https://www.youtube.com/watch?v=yRFCbeyQ2WI&list=PLIDmetLgAoj4E1UNiyv6QiXtYiAgtABrB) is back up on YouTube. I think it's one of their best concerts ever. 
 
-{{< youtube "yRFCbeyQ2WI&list=PLIDmetLgAoj4E1UNiyv6QiXtYiAgtABrB" >}}
+{{< youtube "yRFCbeyQ2WI" >}}
 
 ### Link of the week
 
