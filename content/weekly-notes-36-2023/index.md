@@ -40,7 +40,7 @@ _Thumbnail image: View of the [Barangaroo Wharf](https://en.wikipedia.org/wiki/B
 
 It's been a Foo Fighters week - been listening to them all week long. I also found out that their acoustic live album, [Skin and Bones](https://www.youtube.com/watch?v=yRFCbeyQ2WI&list=PLIDmetLgAoj4E1UNiyv6QiXtYiAgtABrB) is back up on YouTube. I think it's one of their best concerts ever. 
 
-{{< youtube yRFCbeyQ2WI&list=PLIDmetLgAoj4E1UNiyv6QiXtYiAgtABrB >}}
+{{< youtube "yRFCbeyQ2WI&list=PLIDmetLgAoj4E1UNiyv6QiXtYiAgtABrB" >}}
 
 ### Link of the week
 
