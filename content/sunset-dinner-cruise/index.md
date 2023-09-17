@@ -7,8 +7,8 @@ series = ["Exploring Australia"]
 url = "/2023/09/17/captain-cook-sydney-harbour-sunset-dinner-cruise"
 title = "The Captain Cook Sydney Harbour Sunset Dinner Cruise Experience"
 date = 2023-09-17T12:00:00Z
-summary = "We try out Captain Cook's sunset dinner cruise about the Sydney 2000 vessel."
-images = ["/2023/09/17/blue-mountains-day-trip-travelogue/thumb-sunset-skyline"]
+summary = "We try out Captain Cook's sunset dinner cruise aboard the Sydney 2000 vessel."
+images = ["/2023/09/17/captain-cook-sydney-harbour-sunset-dinner-cruise/thumb-sunset-skyline.jpg"]
 +++
 
 
