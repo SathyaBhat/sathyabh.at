@@ -30,7 +30,7 @@ _Thumbnail image: [The Downing Center](https://en.wikipedia.org/wiki/Downing_Cen
 
 ### Music of the Week
 
-Every now and then, YouTube pops up a recommendation out of nowhere and it makes me wonder, why did I not know about this!?. One such recommendation was [Martin Miller](https://www.youtube.com/channel/UCKrWgJg6GU9OwC-5fSqfB1g) Session Band's [Ultimate 80's medley](https://www.youtube.com/watch?v=r4U4b1CJAPg&list=PLHMXDT3DkTcWm1v3YJspMgVnBunpriODg&index=1&pp=iAQB8AUB). The band is so good, and the performance is really awesome. I have been listening to every single medley they've done, and they are just amazing. They capture the sounds, teh songs, the little nuances of different bands and ages so well, I would highly recommend giving them a listen.
+Every now and then, YouTube pops up a recommendation out of nowhere and it makes me wonder, why did I not know about this!?. One such recommendation was [Martin Miller](https://www.youtube.com/channel/UCKrWgJg6GU9OwC-5fSqfB1g) Session Band's [Ultimate 80's medley](https://www.youtube.com/watch?v=r4U4b1CJAPg&list=PLHMXDT3DkTcWm1v3YJspMgVnBunpriODg&index=1&pp=iAQB8AUB). The band is so good, and the performance is really awesome. I have been listening to every single medley they've done, and they are just amazing. They capture the sounds, the songs, the little nuances of different bands and ages so well, I would highly recommend giving them a listen.
 
 {{< youtube r4U4b1CJAPg >}}
 
