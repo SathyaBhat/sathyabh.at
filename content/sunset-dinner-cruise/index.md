@@ -36,8 +36,8 @@ _Map of the cruise from [Captain Cook's website](https://www.captaincook.com.au/
 The sunset dinner cruise comes with a three-course menu served alternatively. Beverages are not included as part of the package, but can be purchased separately.  We bought a bottle of Tempus Two Copper Prosecco.
 
 {{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "prosecco-1.jpg" "Tempus Two Copper Prosecco" "Sunset Dinner Cruise" >}}
-{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "prosecco-1.jpg" "Tempus Two Copper Prosecco" "Sunset Dinner Cruise" >}}
-{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "prosecco-1.jpg" "Tempus Two Copper Prosecco" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "prosecco-2.jpg" "Tempus Two Copper Prosecco" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "prosecco-3.jpg" "Tempus Two Copper Prosecco" "Sunset Dinner Cruise" >}}
 
 
 While we didn't have any dietary restrictions, the table next to us requested for gluten-free options and were provided for. The entrees were Smoked Salmon and Garden Leaf Salad.
@@ -55,4 +55,14 @@ For desserts we had Lemon & Lime Tart and Chocolate Raspberry Coconut Pebble
 {{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "chocolate-raspberry-pebble.jpg" "Chocolate Raspberry Coconut Pebble" "Sunset Dinner Cruise" >}}
 {{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "lemon-tart.jpg" "Lemon & Lime Tart" "Sunset Dinner Cruise" >}}
 
-The food was excellent and loved it. Once done with dinner, we went over to the Sky Deck to check out some views. The views, especially of twilight are pretty stunning. Pictures don't do justice to how pretty they are. If you have couple of hours to spend, I would highly recommend the cruise.
+The food was excellent and loved it. Once done with dinner, we went over to the Sky Deck to check out some views. The views, especially of twilight are pretty stunning. Pictures don't do justice to how pretty they are. 
+
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-1.jpg" "Sunset Skyline" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-2.jpg" "Sunset Skyline" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-3.jpg" "Sunset Skyline" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-4.jpg" "Sunset Skyline" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-5.jpg" "Sunset Skyline" "Sunset Dinner Cruise" >}}
+{{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-6.jpg" "Sunset Skyline" "Sunset Dinner Cruise" >}}
+
+
+If you have couple of hours to spend, I would highly recommend the cruise.
