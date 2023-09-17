@@ -4,9 +4,9 @@ categories = ["Life"]
 tags = ["weekly-notes", "sydney", "gaming", "cruise", "Diablo III", "blueboarding"]
 type = "post"
 series = ["Weekly notes"]
-url = "/2023/09/16/weekly-notes-37-2023/"
+url = "/2023/09/17/weekly-notes-37-2023/"
 title = "Weekly notes 37/2023"
-date = 2023-09-16T12:00:00Z
+date = 2023-09-17T14:00:00Z
 summary = "Week 37 summary - fresh start to an old game and a lovely harbour cruise."
 images = ["/2023/09/16/weekly-notes-37-2023/thumb-downing-center.jpg"]
 +++
