@@ -12,6 +12,10 @@ images = ["/2023/<<month>>/<<date>>/weekly-notes-<<week>>-2023/thumb-.jpg"]
 draft = true
 +++
 
+![](thumb-.jpg)
+
+_Thumbnail image: ._ 
+
 ### What's been happening
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
