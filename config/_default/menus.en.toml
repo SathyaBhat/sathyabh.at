@@ -1,48 +1,54 @@
 [[main]]
-name              = "Home"
-identifier        = "home"
-url               = "/"
-weight            = 1
+name = "Home"
+identifier = "home"
+url = "/"
+weight = 1
 
 [[main]]
-name              = "About"
-identifier        = "about"
-url               = "/about/"
-weight            = 2
+name = "About"
+identifier = "about"
+url = "/about/"
+weight = 2
 
 [[main]]
-name              = "Hellforge - My Setup"
-identifier        = "setup"
-url               = "/setup/"
-weight            = 3
+name = "Hellforge - My Setup"
+identifier = "setup"
+url = "/setup/"
+weight = 3
 
 [[main]]
-name              = "Tech Blog"
-identifier        = "tech"
-url               = "https://sathyasays.com/"
-weight            = 10
+name = "Tech Blog"
+identifier = "tech"
+url = "https://sathyasays.com/"
+weight = 10
 
 [[main]]
-name              = "Subscribe"
-identifier        = "subscribe"
-url               = "/subscribe"
-weight            = 20
+name = "Wot I Read"
+identifier = "tech"
+url = "/shares/"
+weight = 15
+
+
+[[main]]
+name = "Subscribe"
+identifier = "subscribe"
+url = "/subscribe"
+weight = 20
 
 [[footer]]
-name              = "Categories"
-identifier        = "categories"
-url               = "/categories/"
-weight            = 4
+name = "Categories"
+identifier = "categories"
+url = "/categories/"
+weight = 4
 
 [[footer]]
-name              = "Tags"
-identifier        = "tags"
-url               = "/tags/"
-weight            = 5
+name = "Tags"
+identifier = "tags"
+url = "/tags/"
+weight = 5
 
 [[footer]]
-name              = "All posts"
-identifier        = "tags"
-url               = "/tags/"
-weight            = 5
-
+name = "All posts"
+identifier = "tags"
+url = "/tags/"
+weight = 5
