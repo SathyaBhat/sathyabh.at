@@ -25,9 +25,6 @@ It's been a painful week.
 * Speaking of which... I will be [a speaker](https://hub.reinvent.awsevents.com/attendee-portal/catalog/?search=NET327) at this year's re:Invent! I will be joining Sean Meckley, the GM of the AWS Global Accelerator service team, talking about The Trade Desk's experience with the AWS Global Accelerator and how we use it. I've been working on the slides for the talk and will have a dry-run this upcoming week, just before I head off to India.
 * With the deadline for filing Australian Income tax returns coming up this month end, I finished filing the returns (put it away for long). The experience was pretty smooth. The ATO portal automatically filled in most of the details: TDS, Bank interest amounts, medical insurance details, dividend information etc. I got my refund in couple of days as well. I wish the Indian Tax portal would prefill a lot of the details and save us the time. Ah well.
 
-
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
-
 ### Music of the Week
 
 Fleetwood Mac's got some amazing songs and I was watching some of their videos when I came across [Lindsey Buckingham's live performance of "Big Love"](https://www.youtube.com/watch?v=bVsxvoUX9Rw&list=PL777F6F97DC4ADD07&index=25). Amazing, flawless performance.
