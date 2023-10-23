@@ -13,17 +13,17 @@ images = ["/2023/10/22/weekly-notes-42-2023/thumb-filter-coffee.jpg"]
 
 ![](thumb-filter-coffee.jpg)
 
-_Thumbnail image: A cup of South Indian filter coffee. _ 
+_Thumbnail image: A cup of South Indian filter coffee._ 
+
+This week's post is massively delayed because I'm on my vacation and I missed my usual writing time.
 
 ### What's been happening
 
 * It's been a week of relaxation, and I've done nothing but eat, sleep, visit a few places (staying at my place, visiting my in-laws, and a day-trip with my sister that we did last week), and play some games on the Steam Deck. 
 * AWS re:Invent slide submission deadline has come and gone by, we're all set. 
-    * Reserved seating for AWS re:Invent also opened up past Tuesday. I've managed to reserve a slot for most of the talks I was interested in, and my own talk has no free seats. That said, a portion of the seats will be available for walk-in attendees, but expect long lines especially if a talk/topic is in heavy demand.
-* After long last, I converted Jo's & my Airtel postpaid numbers to pre-paid. We've been meaning to do this since long but on every visit it gets derailed by something else. 
+    * Reserved seating for AWS re:Invent also opened up past Tuesday. I've managed to reserve a slot for most of the talks I was interested in, and [my own talk](https://hub.reinvent.awsevents.com/attendee-portal/catalog/?search=NET327) has no free seats. That said, a portion of the seats will be available for walk-in attendees, but expect long lines especially if a talk/topic is in heavy demand.
+* After long last, I converted Jo's & my Airtel postpaid numbers to prepaid. We've been meaning to do this since long but on every visit it gets derailed by something else. On the flipside, I am missing my 330 GB per month data allowance on the postpaid - especially back home in Mangalore where we don't have a broadband connection.
 * Can't believe a week has gone by so fast. Half my vacation is over! I fly over to Bangalore tonight and will be meeting a few more friends, an office visit and some more eating before I head back to Sydney next Sunday. 
-
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
 
 ### Music of the Week
 
