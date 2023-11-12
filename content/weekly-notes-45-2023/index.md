@@ -21,11 +21,11 @@ _Thumbnail image: Dior boutique is wrapped up for Christmas._
 - We had no mobile and Internet for over 9 hours! Unbelievable for 2023.. but it is true. Optus, Australia's second-largest telco had a [major nationwide outage](https://www.smh.com.au/business/companies/inside-optus-day-from-hell-20231110-p5eiz0.html) for over 9 hours. I noticed this when I woke up at about 7 am, my phone had no signal and my broadband was down as well. My broadband router has a backup 4G SIM, but that's from Optus as well (the router is a device from Optus, part of my Internet package) so the backup failed. Jo's mobile has a Telstra connection, so I was able to search and find out about the outage. The outage lasted all morning, and by mid-afternoon, it was restored. 
 - The season of concerts is starting, and the first one was The World Tour by Def Leppard & Mötley Crüe. I'd been waiting to watch Def Leppard live for a long time and this was a dream come true. Def Leppard performed first(I was expecting Mötley Crüe to go first), and Mötley Crüe had large shoes to fill in. I've not heard any of Mötley Crüe's songs (except Kickstart My Heart, and Girls, Girls, Girls) but had a good time nonetheless. I have some videos of the performances, I'll create a mash-up video and publish it soon. For now, enjoy the photos.
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" def-leppard-1.jpg" "Def Leppard Concert" "Weekly Notes" >}}
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" def-leppard-2.jpg" "Def Leppard Concert" "Weekly Notes" >}}
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" def-leppard-3.jpg" "Def Leppard Concert" "Weekly Notes" >}}
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" def-leppard-4.jpg" "Def Leppard Concert" "Weekly Notes" >}}
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" def-leppard-5.jpg" "Def Leppard Concert" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "def-leppard-1.jpg" "Def Leppard Concert" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "def-leppard-2.jpg" "Def Leppard Concert" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "def-leppard-3.jpg" "Def Leppard Concert" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "def-leppard-4.jpg" "Def Leppard Concert" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "def-leppard-5.jpg" "Def Leppard Concert" "Weekly Notes" >}}
 
 ### Music of the Week
 
