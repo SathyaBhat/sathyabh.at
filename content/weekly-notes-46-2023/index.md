@@ -13,7 +13,7 @@ images = ["/2023/11/19/weekly-notes-46-2023/thumb-art-gallery.jpg"]
 
 ![](thumb-art-gallery.jpg)
 
-_Thumbnail image: Entry to [The Art Gallery of NSW](https://www.artgallery.nsw.gov.au/)._ 
+_Thumbnail image: [The Art Gallery of NSW](https://www.artgallery.nsw.gov.au/)._ 
 
 ### What's been happening
 
