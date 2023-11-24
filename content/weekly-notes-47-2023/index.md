@@ -7,20 +7,19 @@ series = ["Weekly notes"]
 url = "/2023/11/24/weekly-notes-47-2023/"
 title = "Weekly notes 47/2023"
 date = 2023-11-24T12:00:00Z
-summary = "Week 47 summary"
+summary = "Week 47 summary - Vegas, baby! (yes, I always wanted to say that)"
 images = ["/2023/11/24/weekly-notes-47-2023/thumb-christmas-tree.jpg"]
 
 +++
 
 ![](thumb-christmas-tree.jpg)
 
-_Thumbnail image: December is here and I see Christmas tree installations all over Sydney. Here's one from my office._ 
+_Thumbnail image: December is here and I see Christmas tree installations all over Sydney. Here's one from my office building._ 
 
 ### What's been happening
 
-* An early newsletter this week! I'll be flying to Las Vegas for AWS re:Invent and won't be able to get this one out after tomorrow, so wanted to publish this week's post. Looking forward to meeting a lot of folks! Also excited about [my talk](https://hub.reinvent.awsevents.com/attendee-portal/catalog/?search=NET327). 
+* An early newsletter this week! I'll be flying to Las Vegas for AWS re:Invent and won't be able to get this one out after tomorrow, so wanted to publish this week's post. Looking forward to meeting a lot of folks! Also excited about [my talk: NET327 Improve web application performance using AWS Global Accelerator](https://hub.reinvent.awsevents.com/attendee-portal/catalog/?search=NET327) on Nov. 28.
 * Summer's coming soon, and we're preparing for it. So much so that we bought another [Vornado 660](/2023/01/21/weekly-notes-03-2023/) for the Living Room. We'd already been impressed with it, and with Jo now working remotely from her desk in the living room, buying another was a no-brainer, especially since it has been much more effective (both cost as well as temperature-wise) than running ducted air conditioning. 
-
 <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/629559058223636112/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
 * I also picked up a [Belkin MagSafe 3-in-1 Wireless Charging Stand](https://www.belkin.com/au/3-in-1-wireless-charger-with-official-magsafe-charging-15w/P-WIZ017.html) for my desk. I thought of going for a generic no-brand solution but they coming nearly to the same price as the Belkin ones (at least the two-in-ones anyway) but some more research indicated that determining whether or not they would do fast charging is another headache. I would rather pay some extra and get a solution that will last longer and provide fast charging, so picked up this one.
