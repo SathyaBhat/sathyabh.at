@@ -38,13 +38,13 @@ Well, writing this post just a few hours after landing in Sydney. As mentioned i
 
 * While in Las Vegas, I didn't do any excursions or road trips, but I did not miss a chance to check out the Sphere. Postcard from Earth is a short film that runs about 50 minutes, chronicling the history of planet Earth, and is an amazing experience at the Sphere. If you're in Las Vegas, I would highly recommend it, especially at the $50 price I got it for. 
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sphere-postcard-from-earth-1.jpg" "Pictures from Postcard from Earth show at The Sphere" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sphere-postcard-from-earth-2.jpg" "Pictures from Postcard from Earth show at The Sphere" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sphere-postcard-from-earth-3.jpg" "Pictures from Postcard from Earth show at The Sphere" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sphere-postcard-from-earth-4.jpg" "Pictures from Postcard from Earth show at The Sphere" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-sphere.jpg" "The Sphere from outside" "Weekly Notes" >}}
 
 * On milestones - it's hard to believe but Jo and I completed our 10th anniversary. I cannot believe 10 years have gone by so fast. It's been the best 10 years of my life, yet and cannot [imagine what my life would have been](/2013/12/24/on-to-a-new-life/) if not for her. She's been my constant source of support, encouragement, companionship, and belief. She encouraged me and stood beside me when I did some crazy radical things like ditching my very comfy database-insurance-related job to [move to Styletag](/2016/07/12/in-with-the-new-job/) and shift to DevOps when it was nearly unheard of in India. She didn't say anything when I spent 6+ months writing [Practical Docker with Python](https://sathyasays.com/2018/10/02/so-i-wrote-a-book-presenting-pratical-docker-with-python/) mostly on weekends, or when I decided to [move to Romania](/2020/01/08/salut-bucharest/), even though that meant she couldn't move with me, due to Romania's policies. Here's to many more years 😊
+* Meta note: I used to add the city where I spent the week in, as a tag. Now I have moved it to a separate taxonomy called "[places](/places/)" which you can find on the footer of my blog. I'll update older posts and add the tag to more posts over the next few weeks.
 
 ### Music of the Week
 
