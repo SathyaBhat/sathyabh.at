@@ -6,19 +6,16 @@ date: 2020-01-08T04:51:13+00:00
 url: /2020/01/08/salut-bucharest/
 categories:
   - Life
+places:
+  - Bucharest
 tags:
-  - bucharest
   - romania
   - career
   - immigration
 
 ---
 
-
 It's been a while since I posted anything, so lets get this started again. As I had tweeted few weeks back, I have moved to Bucharest, Romania. 
-
-
-
 
 {{< tweet 1182251512334077952 >}}
 
@@ -33,11 +30,11 @@ Let's take on them one by one:
 
 ### Why Romania?
 
-To which I say why not? I've been looking at moving out for a while now, and the US was never an option, especially with the current visa situation (and Jo not being able to work with a dependent visa). Europe is what Jo and I had been looking at since a while. I've been working with my colleagues from Bucharest, Romania since past couple of years and this gave me a chance to bring up a internal transfer request within my team. With the approvals in place, we were finally able to start the process. However, as with immigration & inter-country transfers, this was just the start of a long road of lots of paperwork and documentation shuttle.
+To which I say why not? I've been looking at moving out for a while now, and the US was never an option, especially with the current visa situation (and Jo not being able to work with a dependent visa). Europe is what Jo and I had been looking at for a while. I've been working with my colleagues from Bucharest, Romania for the past couple of years and this gave me a chance to bring up an internal transfer request within my team. With the approvals in place, we were finally able to start the process. However, as with immigration & inter-country transfers, this was just the start of a long road of lots of paperwork and documentation shuttle.
 
 ### How did it happen?
 
-Immigration and work visas are never easy, and Romania's visa/work permit process wasn't a piece of cake either. Before the visa process could begin, I had to get a work permit - which can be only done by the employer. And for applying the work permits, I had to get a "Criminal Record" aka PCC/Police Clearance Certificate, Transcripts from my University, my Degree certificate and my previous experience certificates - and I had to get them [Apostilled](https://en.wikipedia.org/wiki/Apostille_Convention) too!
+Immigration and work visas are never easy, and Romania's visa/work permit process wasn't a piece of cake either. Before the visa process could begin, I had to get a work permit - which can be only done by the employer. For applying the work permits, I had to get a "Criminal Record" aka PCC/Police Clearance Certificate, Transcripts from my University, my Degree certificate, and my previous experience certificates - and I had to get them [Apostilled](https://en.wikipedia.org/wiki/Apostille_Convention) too!
 
 One of the many TIL moments was about Apostille: 
 

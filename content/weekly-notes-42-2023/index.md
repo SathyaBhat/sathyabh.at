@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "Mangalore", "vacation"]
+tags = ["weekly-notes", "vacation"]
+places = ["Mangalore"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/10/22/weekly-notes-42-2023/"

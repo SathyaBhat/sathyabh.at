@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "gaming", "Diablo IV"]
+tags = ["weekly-notes",  "gaming", "Diablo IV"]
+places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/07/16/weekly-notes-28-2023/"

@@ -5,7 +5,8 @@ date = 2023-01-28T12:00:00Z
 description = "Week 4 summary - Lunar New Year, electricity issues and a long weekend."
 featured_image = "https://i.sathyabh.at/sb/weekly-notes/lanterns.jpg"
 meta_image = "https://i.sathyabh.at/sb/weekly-notes/lanterns.jpg" 
-tags = ["weekly-notes", "sydney"]
+tags = ["weekly-notes", "New Year"]
+places = "Sydney"
 title = "Weekly notes 04/2023"
 type = "post"
 url = "/2023/01/28/weekly-notes-04-2023/"
@@ -29,17 +30,17 @@ A month of 2023 is over! Can't believe - time goes by so fast!
 
 * Couple of days later, we had the technician come over to check the oven. Turns out the heating coil ended up shorting, which caused the main circuit break to trip off. Thankfully, no damage to any of our equipment. They replaced the coil the same day and the oven is back in action! 
 
-* We had long weekend - Thursday was off due to [Australia Day](https://en.wikipedia.org/wiki/Australia_Day)[^2]. Thought we'll do some weekend roadtrips but ultimately did nothing.. 
+* We had a long weekend - Thursday was off due to [Australia Day](https://en.wikipedia.org/wiki/Australia_Day)[^2]. Thought we'll do some weekend road trips but ultimately did nothing.. 
 
 * My Singapore visa application got approved! I have a multi-entry visa valid for two years, when I requested for a week - not complaining.
 
-* I reinstalled GTA V and played a bit with Bibhas. GTA V MP, especially with friends can be really fun, but Rockstar makes it really difficulty to play with only friends, and consistently throws you out into a public session. Too many griefers and hackers causing disruption. Check out [this video](https://www.youtube.com/watch?v=9sGNS8u0snQ) for example. 
+* I reinstalled GTA V and played a bit with Bibhas. GTA V MP, especially with friends can be fun, but Rockstar makes it difficult to play with only friends and consistently throws you out into a public session. Too many griefers and hackers causing disruption. Check out [this video](https://www.youtube.com/watch?v=9sGNS8u0snQ) for example. 
 
   {{< youtube 9sGNS8u0snQ >}}
 
-* Jo has started watching a series called [Cold Case](https://en.wikipedia.org/wiki/Cold_Case). It's about couple of Philly detectives that look into cases that have been unsolved for many years/decades, often brought into light due to situations (dying person's confession for ex). It's an interesting take on the crime drama series, and there's lots of flashbacks on what had happened with many of the suspects shown in current as well as past era. Love the soundtrack! Lots of awesome songs. Somebody has compiled a [Spotify playlist](https://open.spotify.com/playlist/0iPA7Rac8yaErLd2VscK9Q?si=a8e66d1055da4c2c) of the songs. Go check it out if you like crime/drama series. 
+* Jo has started watching a series called [Cold Case](https://en.wikipedia.org/wiki/Cold_Case). It's about a couple of Philly detectives that look into cases that have been unsolved for many years/decades, often brought into light due to situations (a dying person's confession for example). It's an interesting take on the crime drama series, and there are lots of flashbacks on what had happened with many of the suspects shown in current as well as past eras. Love the soundtrack! Lots of awesome songs. Somebody has compiled a [Spotify playlist](https://open.spotify.com/playlist/0iPA7Rac8yaErLd2VscK9Q?si=a8e66d1055da4c2c) of the songs. Go check it out if you like crime/drama series. 
 
-* It's been another weird weather week and I confirm the [Vornado 660](https://vornado.com.au/products/660-large-air-circulator) is really good. There's a clear drop in temperature in the bedroom, where we've currently kept it. We've not needed to use the airconditioner since it does such a good job. 
+* It's been another weird weather week and I confirm the [Vornado 660](https://vornado.com.au/products/660-large-air-circulator) is really good. There's a clear drop in temperature in the bedroom, where we've currently kept it. We've not needed to use the air conditioner since it does such a good job. 
 
 That's a wrap up. Have a great Febuary!
 

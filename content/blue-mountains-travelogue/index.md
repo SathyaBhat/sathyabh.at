@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Travel"]
-tags = ["sydney", "travelogue", "blue mountains"]
+tags = [ "travelogue"]
+places = ["Blue Mountains"]
 type = "post"
 series = ["Exploring Australia"]
 url = "/2023/05/07/blue-mountains-day-trip-travelogue/"

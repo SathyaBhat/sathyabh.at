@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "gaming", "Diablo IV"]
+tags = ["weekly-notes",  "gaming", "Diablo IV"]
+places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/06/10/weekly-notes-23-2023/"
@@ -14,9 +15,9 @@ images = ["/2023/06/10/weekly-notes-23-2023/thumb-townhall.jpg"]
 ### What's been happening
 
 * I'll be spending my next three weeks in the US, with the first two in Boulder, Colorado, and the last week in San Francisco. I hope to meet some new colleagues and some old friends.
-* My Diablo IV playthrough has been coming along pretty nicely. I just finished Act 3 (I believe there are 6 acts in the game). For most of the first act, I spent a lot of time exploring the map rather than going through the campaign, so now I am way overleveled for the act. Diablo IV does level up the enemies (unlike the previous games) to your level in the campaign, so it's not boring as such.
+* My Diablo IV playthrough has been coming along pretty nicely. I just finished Act 3 (I believe there are 6 acts in the game). For most of the first act, I spent a lot of time exploring the map rather than going through the campaign, so now I am way over leveled for the act. Diablo IV does level up the enemies (unlike the previous games) to your level in the campaign, so it's not boring as such.
     * While I'm away, I will have my Steam Deck with me. I've tried Diablo IV on the Steam Deck, and it works pretty well. I'm not sure if I will continue with my new Barbarian character or finish the campaign with the first sorcerer. I'm heavily leaning towards playing with the Barb - I want to take copious amounts of screenshots (already have > 500MB worth of screenshots) and watch the cutscenes on the big screen, as it will be quite unlikely that I will play the campaign.
-    * Now that I've been playing for over 16 hours, here are some things I don't like about it: tedious fetch-item and escort-person quests, lots of backtracking, and the occasional glitch in the game state (just finished a cellar which was not marked as cleared because the enemies got stuck in limbo. Oh well.)
+    * Now that I've been playing for over 16 hours, here are some things I don't like about it: tedious fetch-item and escort-person quests, lots of backtracking, and the occasional glitch in the game state (just finished a cellar that was not marked as cleared because the enemies got stuck in limbo. Oh well.)
     * Here are some spoiler-free images from the game:
 
     

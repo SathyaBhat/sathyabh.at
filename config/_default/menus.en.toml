@@ -52,3 +52,9 @@ name = "All posts"
 identifier = "tags"
 url = "/tags/"
 weight = 5
+
+[[footer]]
+name = "Places"
+identifier = "Places"
+url = "/places/"
+weight = 6

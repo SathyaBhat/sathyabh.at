@@ -6,8 +6,9 @@ date: 2013-12-24T05:30:44+00:00
 url: /2013/12/24/on-to-a-new-life/
 categories:
   - Life
-tags:
+places:
   - Bangalore
+tags:
   - cpgweds
   - marriage
   - wifey
@@ -15,11 +16,11 @@ tags:
 ---
 I had originally wanted to publish this back in late August when I shifted from Borg Cube to Borg Cube Grande.. ie, my new home.. but #lazybhat happened and I never got around to finishing that.
 
-Since shifting to Bangalore, I'd been staying in a tiny 1BHK house in Murugeshpalya, off Old Airport Road. Back then, I'd chosen this place mainly for it's proximity to my workplace - at about 4.4km, it takes me an average of 15 minutes to a maximum of 30 minutes to reach office. With 335E plying in copious amounts, heading to office or to Majestic to head back home was quite easy too. 2 years in, I decided to to move to a bigger place, so that things are all set when the inevitable <a title="#cpgweds" href="https://cpgweds.com" target="_blank">#cpgweds</a> happens.
+Since shifting to Bangalore, I'd been staying in a tiny 1BHK house in Murugeshpalya, off Old Airport Road. Back then, I'd chosen this place mainly for its proximity to my workplace - at about 4.4km, it takes me an average of 15 minutes to a maximum of 30 minutes to reach the office. With 335E plying in copious amounts, heading to the office or to Majestic to head back home was quite easy too. 2 years in, I decided to move to a bigger place so that things are all set when the inevitable <a title="#cpgweds" href="https://joshenoy.weds.sathyabh.at/" target="_blank">#cpgweds</a> happens.
 
 
 
-I wasn't really inclined to move away from this area, and started searching for houses, apartments. Like most house hunts, finding the one you like is really tough. Either the place is too small, or too big, or isn't in the right area, or too far away or has some problems - water/neighbourhood/moron neighbors/no bachelor/no nonveg nonsense - the list goes on. After searching for about 4-5 weekends, I finally found a place which was pretty nice. Wasn't too big, just enough space, had a nice balcony to kickback and have a beer - wasn't too interior, but was real quiet for some peace of mind 🙂
+I wasn't inclined to move away from this area, and started searching for houses, and apartments. Like most house hunts, finding the one you like is tough. Either the place is too small, or too big, or isn't in the right area, or too far away or has some problems - water/neighbourhood/moron neighbors/no bachelor/no nonveg nonsense - the list goes on. After searching for about 4-5 weekends, I finally found a pretty nice place. Wasn't too big, just enough space, had a nice balcony to kick back and have a beer - wasn't too interior, but was quiet for some peace of mind 🙂
 
 This is how the house looked like the day I shifted
 
@@ -27,9 +28,9 @@ This is how the house looked like the day I shifted
 
 [<img alt="IMG_20130813_185911" src="https://farm8.staticflickr.com/7390/10097388213_b13a1f34af_b.jpg" width="1024" height="768" />][2]
 
-<span style="line-height: 1.5em;">Little did I know in </span><a style="line-height: 1.5em;" href="https://cpgweds.com/timeline.html" target="_blank">that brief time</a> <span style="line-height: 1.5em;">of moving away from the previous into the new house, I'd </span><span style="line-height: 1.5em;">fall head over heels </span><span style="line-height: 1.5em;">for Jyothsna and ask her to marry me 🙂 </span>
+Little did I know in [that brief time](https://joshenoy.weds.sathyabh.at/timeline.html) of moving away from the previous into the new house, I'd fall head over heels for Jyothsna and ask her to marry me 🙂.
 
-Over the course of next few weeks, we started furnishing the house. I'd bought the basic appliances. And in the past couple of weekends, we bought the furniture. In style.
+Over the next few weeks, we started furnishing the house. I'd bought the basic appliances. And in the past couple of weekends, we bought the furniture. In style.
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
@@ -61,7 +62,7 @@ Now with the furniture all in, this is how it looks like.
   ****
 </p>
 
-So here we are. It's almost end of this year. What I thought would be a <a href="https://sathyabh.at/2013/03/27/closing-the-chapter" target="_blank">wretched year</a>, instead has turned out to be a kickass one, ending in the way I never thought imagined. One particular tweet, however, has turned out to be just near prophetic - especialy considering that was her first tweet to me.
+So here we are. It's almost the end of this year. What I thought would be a <a href="https://sathyabh.at/2013/03/27/closing-the-chapter" target="_blank">wretched year</a>, instead has turned out to be a kickass one, ending in the way I never thought imagined. One particular tweet, however, has turned out to be just near prophetic - especially considering that was her first tweet to me.
 
 <blockquote class="twitter-tweet" lang="en">
   <p>

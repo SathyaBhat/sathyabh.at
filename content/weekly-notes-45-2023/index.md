@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "Sydney", "concert"]
+tags = ["weekly-notes",  "concert"]
+places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/11/12/weekly-notes-45-2023/"

@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Computing"]
-tags = ["desktop", "Hellforge", "sydney", "gaming"]
+tags = ["desktop", "Hellforge",  "gaming"]
+places = "Sydney"
 type = "post"
 url = "/2023/05/23/hellforge-down-under/"
 title = "Hellforge, Down Under (aka How I moved my desktop across two continents and rebuilt it)"

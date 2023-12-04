@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "Sydney"]
+tags = ["weekly-notes"]
+places = ["Sydney"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/10/01/weekly-notes-39-2023/"
