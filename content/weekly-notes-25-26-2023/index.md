@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "usa", "california", "colorado", "gadgets", "travel"]
+tags = ["weekly-notes", "gadgets", "travel"]
+places = ["Boulder", "San Francisco"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/07/01/weekly-notes-26-2023/"

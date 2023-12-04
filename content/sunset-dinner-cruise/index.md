@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Travel"]
-tags = ["Sydney", "travelogue", "cruise", "blueboarding"]
+tags = [ "travelogue", "cruise", "blueboarding"]
+places = "Sydney"
 type = "post"
 series = ["Exploring Australia"]
 url = "/2023/09/17/captain-cook-sydney-harbour-sunset-dinner-cruise"

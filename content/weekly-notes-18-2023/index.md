@@ -1,13 +1,14 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "gaming", "concert"]
+tags = ["weekly-notes",  "gaming", "concert"]
+places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/05/07/weekly-notes-18-2023/"
 title = "Weekly notes 18/2023"
 date = 2023-05-07T12:00:00Z
-summary = "Week 18 summary - concert obession, a new concert and more"
+summary = "Week 18 summary - concert obsession, a new concert, and more"
 images = ["/2023/05/07/weekly-notes-18-2023/thumb-neon-nights.jpg"]
 +++
 

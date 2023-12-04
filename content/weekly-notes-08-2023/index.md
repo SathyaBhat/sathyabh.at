@@ -1,7 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "sydney", "singapore", "conference", "travel"]
+tags = ["weekly-notes","conference", "travel"]
+places = [ "Singapore"]
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/02/26/weekly-notes-08-2023/"
