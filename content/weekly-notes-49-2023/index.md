@@ -22,7 +22,7 @@ I was most excited about this week. However it didn't start well
 
 * Monday afternoon or so, I wasn't feeling too well. I had a bit of a fever, a bad headache, and a sore throat. The headache was bad enough that I stopped working and took a nap. I woke up a few hours later - the fever had subsided, but the sore throat remained. I was wondering if I had picked up Covid like last year. I had a light dinner and went to sleep.
     * The next day I woke up and I was feeling much better. We had a concert on Wednesday and Saturday and wanted to do a COVID test for myself, just to be sure. Thankfully the COVID test came negative.
-* On Wednesday, we went to a concert by Kraftwerk. Kraftwerk is a German electronic band and is widely considered an innovator and pioneer of electronic music. Growing up as a kid, I had heard Kraftwerk's The Man Machine album quite a lot as Dad had the Man Machine cassette (remember those?) and had heard the songs quite a lot. When I found out they were coming to Sydney, I had to attend the show. In the end, the show was really good - they played most of their hits, including my favorites from The Man Machine, and a few more that I wasn't aware of. All in all, with fantastic lighting, and minimal set design - it was a memorable evening.
+* On Wednesday, we went to a concert by Kraftwerk. Kraftwerk is a German electronic band and is widely considered an innovator and pioneer of electronic music. Growing up as a kid, I had heard Kraftwerk's The Man Machine album quite a lot as Dad had the Man Machine cassette (remember those?) and he'd play them during our weekend beach outings, or even when dropping me to school. When I found out they were coming to Sydney, I had to attend the show. In the end, the show was really good - they played most of their hits, including my favorites from The Man Machine, and a few more that I wasn't aware of. All in all, with fantastic lighting, and minimal set design - it was a memorable evening.
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kraftwerk-1.jpg" "Kraftwerk" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kraftwerk-2.jpg" "Kraftwerk" "Weekly Notes" >}}
@@ -30,7 +30,7 @@ I was most excited about this week. However it didn't start well
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kraftwerk-4.jpg" "Kraftwerk" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kraftwerk-5.jpg" "Kraftwerk" "Weekly Notes" >}}
 
-* This Saturday was the hottest day of the year with temperatures hitting 41 degrees. It was also one of the days I had been looking forward to for quite some time - Foo Fighters were performing at the Accor stadium. The heat made it difficult, but once the sun went away combined with a [southerly](https://en.wikipedia.org/wiki/Southerly_Buster) buster](https://en.wikipedia.org/wiki/Southerly_Buster), the temperature dropped down to the low 30s and made it tolerable as the evening went by. Foo Fighters were awesome. Arguably, the [Red Hot Chili Peppers concert](/2023/02/04/red-hot-chili-peppers-post-malone-sydney-2023) had the better sound setup, but the Foo Fighters had better crowd interaction and the crowd was a lot more responsive. Personally, for me, this has been the best live event that I've been to, yet. Here's the [setlist for the concert](https://www.setlist.fm/setlist/foo-fighters/2023/accor-stadium-sydney-australia-bae353a.html).
+* This Saturday was the hottest day of the year with temperatures hitting 41 degrees. It was also one of the days I had been looking forward to for quite some time - Foo Fighters were performing at the Accor stadium. The heat made it difficult, but once the sun went away combined with a [southerly buster](https://en.wikipedia.org/wiki/Southerly_Buster), the temperature dropped down to the low 30s and made it tolerable as the evening went by. Foo Fighters were awesome. The [Red Hot Chili Peppers concert](/2023/02/04/red-hot-chili-peppers-post-malone-sydney-2023) had a better sound setup, but the Foo Fighters had better crowd interaction and the crowd was a lot more responsive. Personally, for me, this has been the best live event that I've been to, yet. Here's the [setlist for the concert](https://www.setlist.fm/setlist/foo-fighters/2023/accor-stadium-sydney-australia-bae353a.html).
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "foo-fighters-1.jpg" "Foo Fighters" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "foo-fighters-2.jpg" "Foo Fighters" "Weekly Notes" >}}
@@ -39,7 +39,9 @@ I was most excited about this week. However it didn't start well
 
 ### Music of the Week
 
-I mentioned last week I'll have my Spotify wrapper, so recorded it and put it up on [YouTube](https://youtu.be/pov0wf9R0R0?si=N6J8Tr5NTPHkjyBZ)!
+I mentioned last week I'll have my Spotify wrapped, so recorded it and put it up on [YouTube](https://youtu.be/pov0wf9R0R0?si=N6J8Tr5NTPHkjyBZ). Check out my [2023 Top Songs](https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU?si=3a3a77037ea041d5).
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "spotify_wrapped_2023.jpg" "Spotify Wrapped" "Weekly Notes" >}}
 
 {{< youtube pov0wf9R0R0 >}}
 
@@ -51,4 +53,4 @@ Ken Block died earlier in the year. Like many, I'd known of Ken Block via his [G
 
 ### Subscribe to my posts
 
-Till next week. If you enjoyed reading this post, please consider sharing it via the links below and subscribing to the blog. You can subscribe via email using [Substack](https://sathyabhat.substack.com/). If you prefer RSS/news readers, you can [click here](https://sathyabh.at/index.xml) for the feed link. If you prefer to follow only my weekly notes, here's [the RSS feed](https://sathyabh.at/series/weekly-notes/index.xml) for the Weekly Notes series. 
+Till next week. If you enjoyed reading this post, please consider sharing it via the links below and subscribing to the blog. You can subscribe via email using [Substack](https://sathyabhat.substack.com/). If you prefer RSS/news readers, you can [click here](https://sathyabh.at/index.xml) for the feed link. If you prefer to follow only my weekly notes, here's [the RSS feed](https://sathyabh.at/series/weekly-notes/index.xml) for the Wekly Notes series. 
