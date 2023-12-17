@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
+tags = ["weekly-notes", "gaming", "museum", "Diablo IV"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
@@ -47,6 +47,7 @@ _Thumbnail image: Merivale Hotel CBD - when we moved to Sydney, the Merivale Hot
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "records.jpg" "My inaugural records" "Weekly Notes" >}}
 
+* Gaming update: I finally hit level 100 on my Stormclaw Druid in Diablo IV! It's been quite the journey. I've completed mid-level 90 Nightmare Dungeon. Abbatoir of Zir eludes me, since I haven't completed the Season Journey yet. I'm building a new Ball Lightning Sorcerer as a second character and try to get the last Season Journey with the Sorcerer. 
 
 ### Music of the Week
 
