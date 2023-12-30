@@ -16,7 +16,7 @@ Since each service now offers its look back at 2023 / year in review / wrapped, 
 
 ### Spotify
 
-![Spotify 2023 wrapped](https://i.sathyabh.at/sb/wrapped/2022/spotify.jpg)
+![Spotify 2023 wrapped](https://i.sathyabh.at/sb/wrapped/2023/spotify.jpg)
 
 No changes here, Modern Rock is still my most listened-to genre. With over 642 artists listened to, playing a song more than a couple of times brings it to my top list. I've recorded Spotify's wrapped and published it to my [YouTube channel](https://www.youtube.com/watch?v=pov0wf9R0R0)
 
@@ -41,5 +41,5 @@ I have been using [Raycast](https://www.raycast.com/) as my Spotlight replacemen
 
 Finally, my beer stats 😂 Since the past couple of years, I've cut down on my drinking quite a bit so there are not a lot of stats here.
 
-![Untappd](https://i.sathyabh.at/sb/wrapped/2023/Untappd.jpg)
+![Untappd](https://i.sathyabh.at/sb/wrapped/2023/untappd.jpg)
 
