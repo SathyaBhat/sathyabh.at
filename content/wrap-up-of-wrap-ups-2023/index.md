@@ -11,17 +11,19 @@ url = "/2023/12/30/wrap-up-of-wrap-ups-2023"
 images = ["/2023/12/30/wrap-up-of-wrap-ups-2023/thumb-wrapup.png"]
 +++
 
-Since each service now offers its look back at 2023 / year in review / wrapped, I figured it'd be nice to collect them all in one place, similar to how I did it [last year](https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/)(https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/).
+Since each service now offers its look back at 2023 / year in review / wrapped, I figured it'd be nice to collect them all in one place, similar to how I did it [last year](https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/).
 
-### Spotify
+### Music
 
 ![Spotify 2023 wrapped](https://i.sathyabh.at/sb/wrapped/2023/spotify.jpg)
 
-No changes here, Modern Rock is still my most listened-to genre. With over 642 artists listened to, playing a song more than a couple of times brings it to my top list. I've recorded Spotify's wrapped and published it to my [YouTube channel](https://www.youtube.com/watch?v=pov0wf9R0R0)
+No changes here, Modern Rock is still my most listened-to genre. With 642 artists listened to, playing a song more than a couple of times brings it to my top list. I've recorded Spotify's wrapped and published it to my [YouTube channel](https://www.youtube.com/watch?v=pov0wf9R0R0). Want to listen to my Top Songs 2023 playlist? Find it on [Spotify](https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU?si=35c09ec9f44b4ecb).
 
 {{< youtube pov0wf9R0R0 >}}
 
-### Steam
+Last.fm doesn't provide a list till Jan 1, 2024 - so once that is out, will link here.
+
+### Gaming
 
 ![Steam replay](https://i.sathyabh.at/sb/wrapped/2023/steam.png)
 
@@ -41,4 +43,3 @@ I have been using [Raycast](https://www.raycast.com/) as my Spotlight replacemen
 Finally, my beer stats 😂 Since the past couple of years, I've cut down on my drinking quite a bit so there are not a lot of stats here.
 
 ![Untappd](https://i.sathyabh.at/sb/wrapped/2023/untappd.jpg)
-
