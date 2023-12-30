@@ -1,18 +1,17 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-places = "Sydney"
-date = 2023-12-30
-description = "A wrap-up of all the wrap-ups."
 tags = ["gaming", "music", "year in review", "throwback"]
-title = "Collecting all the year-in-reviews and lookbacks from various service for 2023"
+places = "Sydney"
 type = "post"
+date = 2023-12-30
+summary = "A wrap-up of all the wrap-ups of 2023."
+title = "Collecting all the year-in-reviews and lookbacks from various service for 2023"
 url = "/2023/12/30/wrap-up-of-wrap-ups-2023"
-images = ["/2023/12/30/wrap-up-of-wrap-ups-2023/thumb-wrap-up.png"]
-
+images = ["/2023/12/30/wrap-up-of-wrap-ups-2023/thumb-wrapup.png"]
 +++
 
-Since each service now offers its look back at 2023 / year in review / wrapped, I figured it'd be nice to collect them all in one place, similar to how I did it [last year](https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/)](https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/).
+Since each service now offers its look back at 2023 / year in review / wrapped, I figured it'd be nice to collect them all in one place, similar to how I did it [last year](https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/)(https://sathyabh.at/2022/12/31/wrap-up-of-wrap-ups-2022/).
 
 ### Spotify
 
