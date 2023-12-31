@@ -43,3 +43,18 @@ Finally, my beer stats 😂 Since the past couple of years, I've cut down on my 
 
 ![Untappd](https://i.sathyabh.at/sb/wrapped/2023/Untappd.jpg)
 
+### Concerts
+
+We went to several concerts this year, and here's a list of them:
+
+* Dec 9, 2023: Foo Fighters, Accor Stadium, Sydney, Australia
+* Dec 9, 2023: Hot Milk, Accor Stadium, Sydney, Australia
+* Dec 9, 2023: The Chats, Accor Stadium, Sydney, Australia
+* Dec 6, 2023: Kraftwerk, Aware Super Theatre, Sydney, Australia
+* Nov 11, 2023: Def Leppard, GIANTS Stadium, Sydney, Australia
+* Nov 11, 2023: Mötley Crüe, GIANTS Stadium, Sydney, Australia
+* May 30, 2023: Victor Wooten, Manning Bar, University of Sydney, Sydney, Australia
+* May 27, 2023: José González, Vivid Live 2023
+* Mar 4, 2023: The Piano Guys, Concert Hall, Sydney Opera House, Sydney, Australia
+* Feb 4, 2023: Post Malone, Accor Stadium, Sydney, Australia
+* Feb 2, 2023: Red Hot Chili Peppers, Accor Stadium, Sydney, Australia
