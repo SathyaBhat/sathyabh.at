@@ -15,7 +15,7 @@ images = ["/2023/12/24/a-look-back-at-2023/thumb-christmas-market.jpg"]
 
 ### Summary
 
-What a year. We completed one full calendar year of living in Sydney and got to experience a lot of what Australia has to offer. We had some nice road trips, but towards the second half, due to a change in regulation, I was not able to drive anymore. That said, we went to lot many concerts (averaging one a month), got better at Typescript, did a few long-haul flights for work and vacation, and signed off the year with a relaxing stay at home. 
+What a year. We completed one full calendar year of living in Sydney and got to experience a lot of what Australia has to offer. We had some nice road trips, but towards the second half, due to a change in regulation, I was not able to drive anymore. That said, we went to a lot many concerts (averaging one a month). I got better at Typescript, did a few long-haul flights for work and vacation, and signed off the year with a relaxing stay at home. 
 
 On the tech side of things, I continued helping out with the CDK Day, went to a few Meetups, got to give a [talk at re:Invent](https://sathyasays.com/talks/improve-web-application-performance-aws-global-accelerator-net327/), and worked on my YNAB Prometheus exporter as a side thing. And of course, our weekly Discord calls with my friends [Saurabh](https://twitter.com/the100rabh), [Fossil](https://twitter.com/Fossiloflife), [Cruise](https://twitter.com/Cruisemaniac), [Karthik](https://twitter.com/Karthik), [Ninad](https://twitter.com/Ni_nad), [Aman](https://twitter.com/amanmanglik) went about as usual, with me missing a couple of them due to being on the airplane 😆.
 
@@ -23,7 +23,7 @@ On the tech side of things, I continued helping out with the CDK Day, went to a 
 
 Here’s what happened by the month:
 
-**January:** We got a taste of what Summers in Sydney is like. With increasing temperatures and an ineffective air conditioning system, we bought a Vornado and liked it so much that we bought another one last month. Inspired by [Thej's](https://thejeshgn.com/tag/weekly-notes/), I started writing my [weekly notes](/series/weekly-notes) from the [third week](/2023/01/21/weekly-notes-03-2023/) of January and have been writing every week since - it's become a habit now to write my weekly notes as I talk with my friends on Discord every Sunday afternoon, and I want to keep at that. I also started helping out for Barcamp virtually. January ended with the Chinese New Year celebrations and we went over to Darling Harbour for the show.
+**January:** We got a taste of what Summers in Sydney is like. With increasing temperatures and an ineffective air conditioning system, we bought a Vornado and liked it so much that we bought another one last month. Inspired by [Thej's Weekly Notes](https://thejeshgn.com/tag/weekly-notes/), I started writing my [weekly notes](/series/weekly-notes) in the [third](/2023/01/21/weekly-notes-03-2023/) of January and have been writing every week since - it's become a habit now to write my weekly notes as I talk with my friends on Discord every Sunday afternoon, and I want to keep at that. I also started helping out for Barcamp virtually. January ended with the Chinese New Year celebrations and we went over to Darling Harbour for the show.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lanterns.jpg" "Happy Lunar New Year!" "A look back at 2023"  >}}
 
@@ -40,14 +40,14 @@ Here’s what happened by the month:
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "newcastle.jpg" "Newcastle" "A look back at 2023" >}}
 
-**April: With the fall season coming up, the temperatures started dipping forcing us to get our jackets out. Vinayak and his family visited Sydney and we made a road trip out of it - using this time to visit the Blue Mountains and the famous Three Sisters lookout (check out my travelogue of [Blue Mountains visit](/2023/05/07/blue-mountains-day-trip-travelogue/)) We wrapped up April with Prathamesh Sonpatki](https://twitter.com/prathamesh2_) publishing a transcript of our conversation he did for [SRE Stories](https://www.srestories.dev/p/sre-story-with-sathya-bhat).
+**April**: With the fall season coming up, the temperatures started dipping forcing us to get our jackets out. Vinayak and his family visited Sydney and we made a road trip out of it - using this time to visit the Blue Mountains and the famous Three Sisters lookout (check out my travelogue of [Blue Mountains visit](/2023/05/07/blue-mountains-day-trip-travelogue/)). We wrapped up April with Prathamesh publishing a transcript of our conversation for [SRE Stories](https://www.srestories.dev/p/sre-story-with-sathya-bhat).
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lincoln-rock.jpg" "Lincoln’s Rock" "A look back at 2023" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "three-sisters.jpg" "Three Sisters" "A look back at 2023" >}}
 
 
-**May**: In May, I got my first taste of Diablo IV, and I knew I'd be playing it for long. We went back to the Blue Mountains to check out the fall colours. While driving, we made a detour and ended up being the best detour, since we ended up at Bathurst.
+**May**: In May, I got my first taste of Diablo IV, and I knew I'd be playing it for long. We went back to the Blue Mountains to check out the fall colours. While exploring the Blue Mountain roads, we made a detour and that ended up being the best detour - we reached Bathurst.
 
   {{< tweet sathyabhat 1660249586139811841 >}}
 
@@ -68,7 +68,7 @@ I met my classmate from engineering and we had a good time reconnecting. We wrap
 Diablo IV was finally released and I then flew out spending the next three weeks in the US on a work visit, with the first two weeks in Boulder, Colorado.
 
 
-**July**: I spent the first week in July, meeting a lot of friends, family, and former colleagues. I met my teammates as well and we went for dinner. Meeting people, and talking over cioppino was fabulous. I also got a [free GPU upgrade to a RTX 2080Ti](/2023/07/09/weekly-notes-27-2023/), thanks to a colleague. I filed my first income tax returns for the year and was amazed by how simple it was. Having completed a year in Sydney, we contemplated moving to a new house as our rent was due to increase but decided against it after some research indicated an increase in rent all over. With the change in driving license regulations coming, I could not drive anymore. We wrapped up July with Jo starting to work more than a year and a half of job hunting.
+**July**: I spent the first week in July, meeting a lot of friends, family, and former colleagues. I met my teammates as well and we went for dinner. Meeting people, and talking over cioppino was fabulous. I also got a [free GPU upgrade to a RTX 2080Ti](/2023/07/09/weekly-notes-27-2023/), thanks to a colleague. I filed my first income tax returns in Australia for the year and was amazed by how simple it was. Having completed a year in Sydney, we contemplated moving to a new house as our rent was due to increase but decided against it after some research indicated an increase in rent all over. With the change in driving license regulations coming, I could not drive anymore. We wrapped up July with Jo starting to work more than a year and a half of job hunting.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "crab-cioppino-1.jpg" "Best Damn Crab Cioppino" "A look back at 2023" >}}
 
@@ -80,7 +80,7 @@ Diablo IV was finally released and I then flew out spending the next three weeks
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-3.jpg" "Capitol Theatre is amazing." "A look back at 2023" >}}
   
-We wrapped up September with a sunset harbour cruise, redeeming the Blueboard experience from my first-year milestone reward from The Trade Desk. Check out my [blog post about this experience](/2023/09/17/captain-cook-sydney-harbour-sunset-dinner-cruise).
+  We wrapped up September with a sunset harbour cruise, redeeming the Blueboard experience from my first-year milestone reward from The Trade Desk. Check out my [blog post about this experience](/2023/09/17/captain-cook-sydney-harbour-sunset-dinner-cruise).
 
   {{< fancybox "https://i.sathyabh.at/sb/sunset-cruise" "sunset-skyline-4.jpg" "Sunset Skyline" "A look back at 2023" >}}
 
@@ -96,13 +96,16 @@ We wrapped up September with a sunset harbour cruise, redeeming the Blueboard ex
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "def-leppard-5.jpg" "Def Leppard Concert" "A look back at 2023" >}}
 
-**December**: I started December with a week of re:Invent. You can read up on my re:Invent experience on my [previous weekly note](/2023/12/04/weekly-notes-48-2023/). Jo and I completed our 10th anniversary. We went to our final two concerts of the year: Kraftwerk and Foo Fighters. We also went to a Ramses II exhibit at the Australian Museum. We did [South Head Trail](/2023/12/24/weekly-notes-51-2023/), taking the ferry from Circular Quay to Watsons Bay, and from there went walking. We also walked over to the Christmas market at Martin Place. Finally, we welcomed the New Year by relaxing and chilling at home. 
+**December**: I started December with a week of re:Invent. You can read up on my re:Invent experience on my [previous weekly note](/2023/12/04/weekly-notes-48-2023/). Jo and I completed our 10th anniversary. We went to our final two concerts of the year: Kraftwerk and Foo Fighters (the Foo Fighters concert was the best live event I've been to till date). We also went to a Ramses II exhibit at the Australian Museum. We did [South Head Trail](/2023/12/24/weekly-notes-51-2023/), taking the ferry from Circular Quay to Watsons Bay, and from there went walking. We also walked over to the Christmas market at Martin Place. Finally, we welcomed the New Year by relaxing and chilling at home. 
 
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kraftwerk-1.jpg" "Kraftwerk" "A look back at 2023" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "foo-fighters-1.jpg" "Foo Fighters" "A look back at 2023" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "foo-fighters-3.jpg" "Foo Fighters" "A look back at 2023" >}}
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "christmas-market-3.jpg" "Christmas Market in Martin Place" "A look back at 2023" >}}
 
 ### Other wrapups
 
-Check out my previous post on the [wrap-up of wrap-ups](/2023/12/30/wrap-up-of-wrap-ups-2023) to see the full breakdown of what I played on Steam and Switch.
+Check out my previous post on the [wrap-up of wrap-ups](/2023/12/30/wrap-up-of-wrap-ups-2023) to see the full breakdown of what I played on Steam and the other related wrap-ups.
 
 ### The Video
 
@@ -112,6 +115,6 @@ Thanks to Apple iCloud Photos for generating this
 
 ### What’s for 2024?
 
-For 2023, I looking to travel and drive more, play more, and blog more. While I did do a lot of travel, I didn't drive a lot. For 2024, I want to continue my weekly notes, write more posts on my tech blog perhaps even dive into YouTube. More importantly, I need to get my driver's license done stat and start planning for my permanent residence in Australia. 
+For 2023, I was looking to travel, drive, and blog more. While I did do a lot of travel, I didn't get to drive a lot. For 2024, I want to continue my weekly notes, write more posts on my tech blog perhaps even dive into YouTube. More importantly, I need to get my driver's license done stat and start planning for my permanent residence in Australia. 
 
 Wish you all the best in 2024!
