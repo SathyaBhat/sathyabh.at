@@ -15,15 +15,15 @@ images = ["/2023/12/24/a-look-back-at-2023/thumb-christmas-market.jpg"]
 
 ### Summary
 
-What a year. We completed one full calendar year of living in Sydney and got to experience a lot of what Australia has to offer. We had some nice road trips, but towards the second half, due to a change in regulation, I was not able to drive anymore. That said, we went to a lot many concerts (averaging one a month). I got better at Typescript, did a few long-haul flights for work and vacation, and signed off the year with a relaxing stay at home. 
+What a year. We completed one full calendar year of living in Sydney and got to experience a glimpse of what Australia has to offer. We had some nice road trips, but towards the second half, due to a change in regulation, I was not able to drive anymore. That said, we went to a lot many concerts (averaging one a month). I got better at Typescript, did a few long-haul flights for work and vacation, and signed off the year with a relaxing stay at home, watching the fireworks.  
 
-On the tech side of things, I continued helping out with the CDK Day, went to a few Meetups, got to give a [talk at re:Invent](https://sathyasays.com/talks/improve-web-application-performance-aws-global-accelerator-net327/), and worked on my YNAB Prometheus exporter as a side thing. And of course, our weekly Discord calls with my friends [Saurabh](https://twitter.com/the100rabh), [Fossil](https://twitter.com/Fossiloflife), [Cruise](https://twitter.com/Cruisemaniac), [Karthik](https://twitter.com/Karthik), [Ninad](https://twitter.com/Ni_nad), [Aman](https://twitter.com/amanmanglik) went about as usual, with me missing a couple of them due to being on the airplane 😆.
+On the tech side of things, I continued helping out with the CDK Day, went to a few Meetups, got to give a [talk at re:Invent](https://sathyasays.com/talks/improve-web-application-performance-aws-global-accelerator-net327/), and worked on a couple of small side projects ([spotify-dl](https://github.com/SathyaBhat/spotify-dl) and [ynab-exporter](https://github.com/SathyaBhat/ynab-exporter)). And of course, our weekly Discord calls with my friends [Saurabh](https://twitter.com/the100rabh), [Fossil](https://twitter.com/Fossiloflife), [Cruise](https://twitter.com/Cruisemaniac), [Karthik](https://twitter.com/Karthik), [Ninad](https://twitter.com/Ni_nad), [Aman](https://twitter.com/amanmanglik) went about as usual, with me missing a couple of them due to being on the airplane 😆.
 
 ### By the months
 
 Here’s what happened by the month:
 
-**January:** We got a taste of what Summers in Sydney is like. With increasing temperatures and an ineffective air conditioning system, we bought a Vornado and liked it so much that we bought another one last month. Inspired by [Thej's Weekly Notes](https://thejeshgn.com/tag/weekly-notes/), I started writing my [weekly notes](/series/weekly-notes) in the [third](/2023/01/21/weekly-notes-03-2023/) of January and have been writing every week since - it's become a habit now to write my weekly notes as I talk with my friends on Discord every Sunday afternoon, and I want to keep at that. I also started helping out for Barcamp virtually. January ended with the Chinese New Year celebrations and we went over to Darling Harbour for the show.
+**January:** We got a taste of what Summer in Sydney is like. With increasing temperatures and an ineffective air conditioning system, we bought a Vornado whole-room air circulator and liked it so much that we bought another one last month. Inspired by [Thej's Weekly Notes](https://thejeshgn.com/tag/weekly-notes/), I started writing my [weekly notes](/series/weekly-notes) in the [third](/2023/01/21/weekly-notes-03-2023/) week of January and have been writing every week since - it's become a habit now to write my weekly notes as I talk with my friends on Discord every Sunday afternoon, and I want to keep at that. I also started helping out for Barcamp virtually. January ended with the Chinese New Year celebrations and we went over to Darling Harbour for the show.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lanterns.jpg" "Happy Lunar New Year!" "A look back at 2023"  >}}
 
@@ -76,7 +76,7 @@ Diablo IV was finally released and I then flew out spending the next three weeks
 
   <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/594532211850375235/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
-**September**: We saw our first movie in a theatre in Sydney! We went to watch Oppenheimer. We also went to our first musical, Beauty & the Beast. We started a weekend paper delivery for the Sydney Morning Herald, and have been enjoying reading the weekend newspaper.
+**September**: We saw our first movie in a theatre in Sydney! We went to watch Oppenheimer. We also went to my first musical, Beauty & the Beast. We started a weekend paper delivery for the Sydney Morning Herald, and have been enjoying reading the weekend newspaper.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "beauty-and-the-beast-3.jpg" "Capitol Theatre is amazing." "A look back at 2023" >}}
   
