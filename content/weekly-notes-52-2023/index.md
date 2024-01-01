@@ -20,18 +20,28 @@ It's the last week of the year 2023. When I started writing my weekly notes back
 
 ### What's been happening
 
-* I enrolled in a sleep study to check on possible sleep apnea. The sleep study involved me sleeping overnight with a sleep-measuring device. The device collects a lot of data about respiratory rate, Oxygen levels, airflow levels etc overnight. The hardest part was setting up the device as there are a lot of electrodes to be attached and having to carry the device which is quite bulky as it is battery-backed. I won't know the results of the study till much later, but that sleep with the device was one of the worst quality sleeps that I've ever had, and I wonder how much that would skew the results. 
+* I enrolled in a sleep study to check for possible sleep apnea. The sleep study involved me sleeping overnight with a sleep-measuring device. The device collects a lot of data about respiratory rate, Oxygen levels, airflow levels etc overnight. The hardest part was setting up the device as there are a lot of electrodes to be attached and having to carry the device which is quite bulky as it is battery-backed. I won't know the results of the study till much later, but that sleep with the device was one of the worst quality sleeps that I've ever had, and I wonder how much that would skew the results. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sleep-study.jpg" "Sleep Study device" "Weekly Notes" >}}
 
 * We walked over to the Sydney Observatory to catch the sunset from one of the vantage points. It was pretty crowded but well worth the walk!
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-observatory-1.jpg" "Sleep Study device" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-observatory-1.jpg" "View from the Observatory Hill" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-observatory-2.jpg" "Sleep Study device" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-observatory-2.jpg" "View from the Observatory Hill" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-observatory-3.jpg" "Sleep Study device" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-observatory-3.jpg" "View from the Observatory Hill" "Weekly Notes" >}}
 
+* I did end up buying Dave the Diver. It's been a nice game, plenty of laughs and gags. Not quite what I'd call cozy though - the aggressive fishes can be quite annoying especially since you can only target at a 60-degree arc on each side. The restaurant management seems to get a bit better to handle once you hire more people. I look forward to playing the game more.
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dave-the-diver-1.jpg" "Dave the Diver" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dave-the-diver-2.jpg" "Dave the Diver" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dave-the-diver-3.jpg" "Dave the Diver" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dave-the-diver-4.jpg" "Dave the Diver" "Weekly Notes" >}}
+    
 * Finally, we welcomed the New Year's at home, having a couple of beers. Initially, we planned to head out to Darling Harbour to check out the 9 pm fireworks show but by 7 pm itself notices were being posted about the vantage points being at capacity, so we decided to remain at home and watch the fireworks show. 
 
 
