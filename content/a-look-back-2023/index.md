@@ -10,7 +10,6 @@ type = "post"
 url = "/a-look-back-at-2023/"
 alias = "/2023/12/24/a-look-back-at-2023/"
 images = ["/2023/12/24/a-look-back-at-2023/thumb-christmas-market.jpg"]
-
 +++
 
 ### Summary
