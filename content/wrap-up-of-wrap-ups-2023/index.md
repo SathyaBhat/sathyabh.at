@@ -6,7 +6,7 @@ places = "Sydney"
 type = "post"
 date = 2023-12-30
 summary = "A wrap-up of all the wrap-ups of 2023."
-title = "Collecting all the year-in-reviews and lookbacks from various service for 2023"
+title = "Collecting all the year-in-reviews and lookbacks from various services for 2023"
 url = "/2023/12/30/wrap-up-of-wrap-ups-2023"
 images = ["/2023/12/30/wrap-up-of-wrap-ups-2023/thumb-wrapup.png"]
 +++
