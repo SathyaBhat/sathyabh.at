@@ -5,11 +5,11 @@ tags = ["weekly-notes", "gaming"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
-url = "/2023/<<month>>/<<date>>/weekly-notes-<<week>>-2023/"
-title = "Weekly notes <<week>>/2023"
-# date = 2023-<<month>>-<<date>>T12:00:00Z
+url = "/weekly-notes-<<week>>-2024/"
+title = "Weekly notes <<week>>/2024"
+# date = 2024-<<month>>-<<date>>T12:00:00Z
 summary = "Week <<week>> summary"
-images = ["/2023/<<month>>/<<date>>/weekly-notes-<<week>>-2023/thumb-.jpg"]
+images = ["/weekly-notes-<<week>>-2024/thumb-.jpg"]
 draft = true
 +++
 
