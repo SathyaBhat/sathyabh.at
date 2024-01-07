@@ -21,17 +21,17 @@ Welcome to the first weekly notes of 2024! For those who read my weekly notes on
 ### What's been happening
 
 * It's been a slow week. It seems like much of Sydney is still in vacation mode as seen by empty roads. Many cafes/restaurants have holiday notices. Many of my teammates are on holiday and are expected to return to work on Jan 8th. 
-* We resumed our house hunt, given that our house lease expires in Feb. We've been looking at North Sydney as a potential suburb to live in, and after a few house inspections, we liked a house and have an application submitted for a rental. We'll have to wait for a response to see how it goes.
-* Another long pending item I had been putting off - I've finally booked a slot for my Driver Knowledge Test (DKT) - the first step towards getting my NSW Drivers' License. I've been learning the Drivers' Handbook and doing some mock tests to prepare for the DKT. 
+* We resumed our house hunt, given that our house lease expires in Feb. We've been looking at North Sydney as a potential suburb to live in, and after a few house inspections, we liked a house and have submitted an application for a rental. We'll have to wait for a response to see how it goes.
+* I completed another long pending item I had been putting off - I've finally booked a slot for my Driver Knowledge Test (DKT) - the first step towards getting my NSW Drivers' License. I've been learning the Drivers' Handbook and doing some mock tests to prepare for the DKT. 
 * I bought a new processor - an [AMD Ryzen 7 5700x](https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x) as an upgrade over my existing Ryzen 5 3600. I did some benchmarks and found the processor's running a lot cooler, and seems to consume lesser power based on my smart plug measurements. This processor should give a pretty decent boost to my computer and I should be able to run this platform for my gaming/other work for another couple of years at least, without needing an upgrade. I posted a [thread on Twitter](https://twitter.com/SathyaBhat/status/1742436577421427107) on how I removed the old CPU, cleaned up the thermal compound, and installed the new processor. You can read about my [setup here](/setup).
 
   {{< tweet sathyabhat 1742436577421427107 >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-2.jpg" "CPU Upgrade to Ryzen 5 5700x" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-3.jpg" "CPU Upgrade to Ryzen 5 5700x" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-5.jpg" "CPU Upgrade to Ryzen 5 5700x" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-4.jpg" "CPU Upgrade to Ryzen 5 5700x" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-1.jpg" "CPU Upgrade to Ryzen 5 5700x" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-2.jpg" "The new Ryzen 5 5700x" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-3.jpg" "The new Ryzen 5 5700x" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-5.jpg" "Cleaning up the old heatsink" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-4.jpg" "Ryzen 5 5700x installed and thermal compound applied in the cross fashion" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryzen-cpu-upgrade-1.jpg" "Computer back in action again" "Weekly Notes" >}}
 * After much procrastination, I published an album of some of my better photos taken in/around Sydney on my [pictures site](https://pics.sathyabh.at/sydney-city-scapes-2). They look nothing quite like [Jo's amazing pictures](https://joshenoy.me) though.
 
 * Finally, after a lot of struggles, I managed to defeat Uber Lilith. I think the Uber Lilith fight is one of the most difficult and poorly designed fights in the 20+ years that I have been gaming. Despite cheesing with the Ball Lightning sorcerer, I couldn't deal enough damage to skip her first phase waves consistently, and those killed me the most as touching the wave just a bit is an insta-death scenario. 
