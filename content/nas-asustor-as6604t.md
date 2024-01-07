@@ -9,6 +9,7 @@ tags = ["NAS", "homeserver", "linux"]
 title = "A brief look at my new NAS - The Asustor AS6604T 4-bay NAS"
 type = "post"
 url = "/2023/01/21/asustor-lockerstor4-as6604t/"
+aliases = [ "/nas" ]
 
 +++
 
@@ -22,7 +23,7 @@ The AS6604T came in a fairly standard box. There was nice foam padding on the in
 {{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "as6604t_box_back.jpg" "NAS Box from back" "Asustor AS6604T NAS" >}}
 {{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "as6604t_accessories_box.jpg" "Accessories Box" "Asustor AS6604T NAS" >}}
 
-Note that this is a 4-bay diskless unit and didn't come with any drives - I ordered two Seagate IronWolf 6TB disks separately (hindsight, ordering two drives together in general is not a good idea as they might be from the same batch and might fail together). The CAT 5e cables included in the box meant that I didn't have to go hunting for LAN cables, which is a nice addition.
+Note that this is a 4-bay diskless unit and didn't come with any drives - I ordered two Seagate IronWolf 6TB disks separately (hindsight, ordering two drives together in general is not a good idea as they might be from the same batch, and might fail together). The CAT 5e cables included in the box meant that I didn't have to go hunting for LAN cables, which is a nice addition.
 
 {{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "ironwolf_harddisk.jpg" "IronWolf Hard Disk" "Asustor AS6604T NAS" >}}
 {{< fancybox "https://i.sathyabh.at/sb/as6604t-nas" "harddisk_with_nas.jpg" "IronWolf Hard Disk with the NAS" "Asustor AS6604T NAS" >}}
