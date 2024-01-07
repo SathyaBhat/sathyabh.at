@@ -1,14 +1,14 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
+tags = ["weekly-notes", "gaming", "Diablo IV"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-01-2024/"
 title = "Weekly notes 01/2024"
 date = 2024-01-07T12:00:00Z
-summary = "Week 01 summary - slow start to the new year and an computer upgrade."
+summary = "Week 01 summary - slow start to the new year and a computer upgrade."
 images = ["/weekly-notes-01-2024/thumb-w-hotel-imax.jpg"]
 +++
 
