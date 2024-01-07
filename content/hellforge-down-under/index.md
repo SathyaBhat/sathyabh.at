@@ -21,7 +21,7 @@ Hellforge is also the name I had given to my gaming computer. I had built my fir
 
 ### We come from the land down under
 
-When Jo and I were about to [leave Romania last year](/2022/06/22/thank-you-adobe), I had the dilemma of what to do with our desktop systems. I'd just rebuilt it, and initially thought we'll ship off the whole thing directly to Sydney from Bucharest. And then we got a quote for our items - coming to a whopping US $7,400 (not a typo!). Yeah, it was at that moment we decided to not ship it (or anything else for that matter). With very little time remaining to sell my desktop, I ended up doing a fire sale for the heaviest components - the monitors, cabinet, [CPU cooler](/2021/03/20/replacing-ryzen-3600-cooler-id-cooling-se-224-xt/), power supplies, Noctua fans. As much as I would have loved to carry it, I had absolutely exhausted my luggage allowance (we were carrying about 60kg of baggage) and having to carry it back to India and then to Australia just didn't make any sense. I must admit I felt bad when I saw my components being put on sale at 100% markup less than an hour of being picked up from me - but such is life.
+When Jo and I were about to [leave Romania last year](/2022/06/22/thank-you-adobe), I had the dilemma of what to do with our desktop systems. I'd just rebuilt it and initially thought we'd ship off the whole thing directly to Sydney from Bucharest. And then we got a quote for our items - coming to a whopping US $7,400 (not a typo!). Yeah, it was at that moment we decided to not ship it (or anything else for that matter). With very little time remaining to sell my desktop, I ended up doing a fire sale for the heaviest components - the monitors, cabinet, [CPU cooler](/2021/03/20/replacing-ryzen-3600-cooler-id-cooling-se-224-xt/), power supplies, Noctua fans. As much as I would have loved to carry it, I had exhausted my luggage allowance (we were carrying about 60kg of baggage), and having to carry it back to India and then to Australia just didn't make any sense. I must admit I felt bad when I saw my components being put on sale at 100% markup less than an hour of being picked up from me - but such is life.
 
 That said, the remaining parts - GPU, Hard disks, RAM sticks were removed from the motherboard and packed separately, double wrapped in bubblewrap for extra measure. The two motherboards were packed differently - my motherboard with the processor and the NVME drive still in the slots, and the motherboard was wrapped in its original anti-static bad and kept it in the original box. 
 
@@ -35,16 +35,14 @@ Let's start with the computer table - I went with an Ikea Uppspel gaming desk (1
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "wip-ikea-uppspel.jpeg" "The Ikea Uppspel being built" "Hellforge Down under" >}}
 
-Sitting on the table are two, 27" monitors. The monitors are a LG 27" 4k UL500 and a Gigabyte M28U. Why two separate ones? Ideally, I would have wanted 2x 32" 4K screens but didn't have enough space in my office/guest room to have a 180mm width desk that is required for the 2 32-inch screens. 
+Sitting on the table are two, 27" monitors. The monitors are an LG 27" 4k UL500 and a Gigabyte M28U. Why two separate ones? Ideally, I would have wanted 2x 32" 4K screens but didn't have enough space in my office/guest room to have a 180mm width desk that is required for the 2 32-inch screens. 
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "gigabyte-m28u.jpeg" "Gigabyte M28U" "Hellforge Down under" >}}
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "lg-27ul500.jpeg" "LG 27UL500" "Hellforge Down under" >}}
 
 
-The LG is about half the price of the Gigabyte since it goes only to 60Hz & doesn't have Freesync. For me, the higher refresh rate wasn't noticeable but the Freesync support was a must have for the gaming screen, and since I use only one screen for gaming (the other for discord etc), went for the M28U. The monitors are connected to my desktop directly via Display Port cables and to the work laptop. I have an Apple M1 MacBook Pro from work since I prefer working from home, the laptop is connected to the monitors via two cables - first via DisplayPort to a Dock connected to the Thunderbolt on the Mac, while the other monitor plugs straight into the HDMI port.  The Macbook is forever folded away and stowed in a vertical laptop stand, behind the LG monitor. The M1 runs relatively cool and keeping it closed hasn't caused any problems. The monitors are mounted on XCD Gas lift monitor arm. Having two of them made it easier to move/rearrange the monitors. The speakers are a Creative Pebbles 2.0. They're small but are quite decent for a small room. Mounted on the monitor is a Logitech 930 webcam. 
-
-For input devices I got a Logitech MK850 combo keyboard and mouse, just because I like the keyboard. Sure it's not mech, but meh.. don't care much about it. With the unifying receiver on the dock and on my desktop and Logitech's EasySwitch I can use the same set of input devices without a KVM. I gave the mouse to Jo and got a MX Master 3s for myself. (the free scrolling is really awesome for scrolling through pages really fast).
+The LG is about half the price of the Gigabyte since it goes only to 60Hz & doesn't have Freesync. For me, the higher refresh rate wasn't noticeable but the Freesync support was a must-have for the gaming screen, and since I use only one screen for gaming (the other for Discord etc), went for the M28U. The monitors are connected to my desktop directly via Display Port cables and to the work laptop. I have an Apple M1 MacBook Pro from work since I prefer working from home, the laptop is connected to the monitors via two cables - first via DisplayPort to a Dock connected to the Thunderbolt on the Mac, while the other monitor plugs straight into the HDMI port.  The Macbook is forever folded away and stowed in a vertical laptop stand, behind the LG monitor. The M1 runs relatively cool and keeping it closed hasn't caused any problems. The monitors are mounted on the XCD Gas lift monitor arm. Having two of them made it easier to move/rearrange the monitors. The speakers are Creative Pebbles 2.0. They're small but are quite decent for a small room. Mounted on the monitor is a Logitech 930 webcam. For input devices, I got a Logitech MK850 combo keyboard and mouse, just because I like the keyboard. Sure it's not mech, but meh.. don't care much about it. With the unifying receiver on the dock and on my desktop and Logitech's EasySwitch I can use the same set of input devices without a KVM. I gave the mouse to Jo and got an MX Master 3s for myself. The free scrolling is awesome for scrolling through pages fast.
 
 The desktop has a brand new cabinet Lian Li Lancool II Mesh C, be quiet! Pure Power 11 FM Gold 850W Modular PSU and a Cooler Master Hyper 212 EVO V2 CPU Cooler.
 
@@ -58,15 +56,16 @@ The desktop has a brand new cabinet Lian Li Lancool II Mesh C, be quiet! Pure Po
 
 The rest of the components are the same that I've had for a while:
 
-* Ryzen 5 3600 & Corsair Vengeance 32GB 3200MHz RAM
+* ~~Ryzen 5 3600~~ Ryzen 7 5700x (upgraded in [Jan 2024](/weekly-notes-01-2024/))
+* Corsair Vengeance 32GB 3200MHz RAM
 * Gigabyte Aorus X570 Elite Motherboard
-* SiliconPower P34A80 nvme 1TB drive
+* SiliconPower P34A80 NVME 1TB drive
 * Samsung Evo 850 500GB SSD
 * Seagate ST500DM002 HDD
 
-And of course, an EVGA nVidia GeForce GTX 1080. I've owned this GPU since 2017 and not only has it served me really well, it's done a world tour - Jo bought it in SF, brought it to Bangalore, used it there, and then has travelled with me to Bucharest and now in Sydney. Now that I've moved to dual 4k screens, I'm seeing the limitations of the GPU - playing a game at 4k and playing a 4k video often results in frame skips/choppy video. With the recent Diablo 4 Server Slam and earlier beta, the 1080 was able to drive 4k at mostly 60fps at high settings. I've been considering an upgrade for my GPU and will probably get a 4070Ti once the price drops a bit further - but for now, ~~the 1080 will have to do~~. In June 2023, I upgradede the 1080 to a Geforce RTX 2080 Ti Founder's Edition, [thanks to a colleague](/2023/07/09/weekly-notes-27-2023/).
+And of course, an EVGA nVidia GeForce GTX 1080. I've owned this GPU since 2017 and not only has it served me well, it's done a world tour - Jo bought it in SF, brought it to Bangalore, used it there, and then traveled with me to Bucharest, and now in Sydney. Now that I've moved to dual 4k screens, I'm seeing the limitations of the GPU - playing a game at 4k and playing a 4k video often results in frame skips/choppy video. With the recent Diablo 4 Server Slam and earlier beta, the 1080 was able to drive 4k at mostly 60fps at high settings. I've been considering an upgrade for my GPU and will probably get a 4070Ti once the price drops a bit further - but for now, ~~the 1080 will have to do~~. In June 2023, I upgraded the 1080 to a Geforce RTX 2080 Ti Founder's Edition, [thanks to a colleague](/2023/07/09/weekly-notes-27-2023/).
 
-For the chair, initially I had bought an Ikea Matchspel. After trying it for couple of months, I gave up on it and returned the chair. I didn't get a full refund for it, only half off. The chair was just too hard and not wide enough for me sit comfortably - especially since I often fold my legs and sit. I ended buying a SecretLab Evo Titan and absolutely love. Assembling the chair was singficantly easier than the other chairs I've done before. They even send a laminated instruction set on how to assemble the chair complete with a QR code that links to video instructions on how to assemble it. The common feedback on the chair is that the bottom cushion is far too hard, compared to the Matchspel it is much better and I prefer the firm cushion.
+For the chair, initially, I bought an Ikea Matchspel. After trying it for a couple of months, I gave up on it and returned the chair. I didn't get a full refund for it, only half off. The chair was just too hard and not wide enough for me to sit comfortably - especially since I often fold my legs and sit. I ended up buying a SecretLab Evo Titan and love it. Assembling the chair was significantly easier than the other chairs I've done before. They even send a laminated instruction set on how to assemble the chair complete with a QR code that links to video instructions on how to assemble it. The common feedback on the chair is that the bottom cushion is far too hard, compared to the Matchspel it is much better and I prefer the firm cushion.
 
 ### TL;DR - The assembled components
 
@@ -74,7 +73,7 @@ Here's the finished system specs
 
 | Component   | Details
 | ----------- | --------------------------------------------------- |
-| Processor   | [AMD Ryzen 5 3600][proc]                            |
+| Processor   | [AMD Ryzen 7 5700x][proc2]                            |
 | CPU Cooler  | [Cooler Master Hyper 212 EVO V2][cooler]            |
 | Motherboard | [Gigabyte Aorus Elite X570][mb]                     |
 | RAM         | [Corsair Vengeance LPX 2x 16GB DDR4][ram]           |
@@ -94,6 +93,7 @@ Here's the finished system specs
 | CPU Stand   | [Ikea Uppspel CPU Stand][cpustand]                  |
 
 [proc]: https://www.amd.com/en/product/8456
+[proc2]: https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x
 [cooler]: https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo-v2/
 [mb]: https://www.gigabyte.com/Motherboard/X570-AORUS-ELITE-rev-10
 [ram]: https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16
