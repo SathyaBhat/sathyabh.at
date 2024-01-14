@@ -1,13 +1,13 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
+tags = ["weekly-notes", "concert"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-02-2024/"
 title = "Weekly notes 02/2024"
-date = 2024-01-14T12:00:00Z
+date = 2024-01-14T06:00:00Z
 summary = "Week 02 summary - first concert of the year."
 images = ["/weekly-notes-02-2024/thumb-customs-house.jpg"]
 draft = true
