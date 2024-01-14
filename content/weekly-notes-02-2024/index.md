@@ -10,7 +10,6 @@ title = "Weekly notes 02/2024"
 date = 2024-01-14T06:00:00Z
 summary = "Week 02 summary - first concert of the year."
 images = ["/weekly-notes-02-2024/thumb-customs-house.jpg"]
-draft = true
 +++
 
 ![](thumb-customs-house.jpg)
