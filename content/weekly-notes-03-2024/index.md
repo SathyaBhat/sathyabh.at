@@ -22,13 +22,13 @@ _Thumbnail image: [Walsh Bay](https://walshbayhistory.net/) is the docks zone wh
 
 * We went to our second concert of the year! Peter Cat Recording Co., performed at the Australian Chamber Orchestra Pier 2/3 stage. The stage/venue was quite small, allowing people to be quite close to the artist. Peter Cat Recording Co. were quite awesome, with their band members juggling with other instruments and swapping them out. I would highly recommend checking them out if they're playing in your town. 
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-1.jpg" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-1.jpg" "Peter Cat Recording Co." "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-2.jpg" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-2.jpg" "Peter Cat Recording Co." "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-3.jpg" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-3.jpg" "Peter Cat Recording Co." "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-4.jpg" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "peter-cat-recording-co-4.jpg" "Peter Cat Recording Co." "Weekly Notes" >}}
 
 
 * Diablo 3's Season 30 started last week, and I've been playing a bit of it. This season is the first of the rotate-old-seasons theme, as Blizzard has effectively sunset and put Diablo 3 into maintenance mode. This season is also likely to be the last I'd play of Diablo 3. I've had a blast playing the game over the past decade+ and a big thank you to Diablo 3 team members for fixing what was a bad game at launch and shaping it into an amazing game. 
