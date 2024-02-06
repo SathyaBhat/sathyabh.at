@@ -11,6 +11,8 @@ tags:
   - Romania
   - Bangalore
   - Marriage
+places:
+  - Bucharest
 ---
 
 Last week, Jo and I completed our [Seventh wedding anniversary](https://joshenoy.weds.sathyabh.at/). All these years have gone by so fast, it's hard to believe we've been together for so long. The pandemic has been quite hard on us. While [I moved to Bucharest](https://sathyabh.at/2020/05/17/life-in-bucharest) last year, we were waiting for Jo to get her paperwork done. And just as we got her paperwork done and submitted to the Embassy, the Indian govt imposed the lockdown in India, and accordingly the Embassy shutdown, cancelling all appointments. Sadly even to this day the Embassy is still not accepting applications for non-EU citizens, and for the second year in a row, we've been away on our anniversary. I wanted to do something memorable, but with the pandemic heading back home was sort of not an option. I thought of sending flowers and chocolates, but that was a bit of a cliche. Plus I sort of had been sending some flowers on and off via Ferns and Petals, so I wanted to do something else.
@@ -30,7 +32,7 @@ I completed the payment, got an invoice for the postcard and... silence after th
 
 While checking Google Photos, I noticed that Google Photos' Photo books are available and thought to myself, this would be a good thing to get. Jo's always been saying how we've never had any pictures of us and a curated photo album would be nice. The Photo books have 20 pages for a base price and you can add up to 140 pages with each page being charged extra. All good, I started combing through 7 years' pics, occasionally adding them to the photobook. The whole select-add-wait was slowing me down, so I thought of selecting the photos at first. Having spent a good 3 hours or so looking and selecting the best photos.. I accidentally pressed Escape and just like that, Google Photos promptly discarded my selection without a confirmation. 
 
-{{< tweet 1328729457692200961 >}}
+{{< tweet SathyaBhat 1328729457692200961 >}}
 
 So yeah, 3 hours worth work gone down the drain. I re-did the selection again, added the captions, go to shipping - only to be punched again - shipping is only within EU.
 
@@ -40,8 +42,8 @@ With that, I gave up on Google Photos, but I still wanted to go ahead with the p
 
 Zoomin's delivery estimate indicated that the delivery might happen +/- 2 days of our Anniversary and I was hoping it would happen on the Anniversary Day. Unfortunately, it wasn't to happen as the courier delayed the pick up by a day. However, Jo was saying she got an envelope and to my surprise - the postcard I had sent from Romania, arrived a month later, right on our Anniversary day. We were both elated, the timing was just right.
 
-{{< tweet 1332588852037431298 >}}
-{{< tweet 1332589434714415105 >}}
+{{< tweet SathyaBhat 1332588852037431298 >}}
+{{< tweet SathyaBhat 1332589434714415105 >}}
 
 {{< fancybox "https://i.sathyabh.at/sb/seven-years" "post-card.jfif" "Post Card" "Seven years of togetherness" >}}
 {{< fancybox "https://i.sathyabh.at/sb/seven-years" "post-card-back.jfif" "Post Card Back" "Seven years of togetherness" >}}

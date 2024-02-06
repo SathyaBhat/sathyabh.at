@@ -12,6 +12,8 @@ categories:
 tags:
   - Romania
   - covid
+places:
+  - Bucharest
 ---
 
 Just as Delta started picking up, Romania announced they were going to start administering the booster dose. The booster shots were to be given to medical staff and people in vulnerable categories first, and to the public later, much like the [first vaccination program](/2021/06/21/getting-covid-19-vaccine-as-a-foreigner-in-romania). To be eligible for the booster, people should have received their second dose six months ago. By this, it meant that I would have been eligible for the booster end of October. However, because of work and my [permit issues](/2021/12/25/blue-card-blues) I wasn't able to get it done then. By November, Romania was just about beginning from a terrible Delta wave, and since Jo would be eligible for her booster in December, we waited it out and get our booster dose together.

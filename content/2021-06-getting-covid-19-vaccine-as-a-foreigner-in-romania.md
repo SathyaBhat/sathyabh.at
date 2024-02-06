@@ -11,7 +11,8 @@ tags:
   - immigration
   - Romania
   - covid
-
+places:
+  - Bucharest
 ---
 
 As of yesterday, Jo and I completed our second dose of the COVID-19 vaccines, and I feel much better knowing that we have some sort of protection against COVID. 
@@ -39,13 +40,13 @@ With the registrations being done, all that we could do was wait. Some community
 Come Dose Day, I took an Uber to the vaccination centre, still quite in disbelief that my turn for the vaccination is here, even as many other countries in the EU were lagging far behind. At the vaccination centre, everything went smoothly. I had to fill in a health questionnaire(in Romanian, Google Translate to the rescue) and stepped right in. The vaccination process took less than 30 minutes, half of it being the post-injection inspection. 
 
 
-{{< tweet 1376872849567268864 >}}
+{{< tweet SathyaBhat 1376872849567268864 >}}
 
 The only hiccup I had was when the healthcare workers were looking at my resident permit like it was some piece of an alien artefact. That said, the healthcare workers were very nice and kind, and went the extra mile of walking over to the other side of the centre to ensure I got my vaccination certificate. 
 
 My second dose was scheduled when I did my first dose registration and the experience was quite similar, in and out in less than 30 minutes without any major problems.
 
-{{< tweet 1384472911411511300 >}}
+{{< tweet SathyaBhat 1384472911411511300 >}}
 
 I got the Pfizer vaccine and I didn't see any major side effects. After both the doses, the place where I got the injection was a bit sore till the next day. The second dose hit me a bit harder than the first dose though - although I did not have any major side effects like chills, fever - after the second dose I felt quite lethargic and sleepy the day after the shot and I took the entire day off sleeping to wear it off.
 
@@ -60,7 +61,7 @@ We decided to head to Romexpo since that was the place with the most centres (Ro
 
 Once at Romexpo, once again we were floored by how nice and helpful the people were. 
 
-{{< tweet 1406193372994342913 >}}
+{{< tweet SathyaBhat 1406193372994342913 >}}
 
 Jo got her both her doses by using her Passport as the id proof, and with a code that we've gotten over SMS, we can download a digitally signed copy of the certificate from the National Electronic Vaccination Register ([renv.ro](https://adulti.renv.ro/users/login)). It's a great relief to be vaccinated. COVID cases in Romania have been on a drastic downswing, which is always an encouraging sign. We're still waiting for Jo's resident permit, and once we have that, we're likely to start exploring more of Romania. Subscribe to the [RSS Feed](https://sathyabh.at/index.xml) for updates!
 
