@@ -7,14 +7,14 @@ url: /2020/01/19/hellforge-remastered-home-desktop/
 aliasses:
   - /setup
   - /hellforge
-featured_image: 
 categories:
   - Computing
 tags:
   - desktop
   - gaming
   - Hellforge
-
+places:
+  - Bucharest
 ---
 
 
@@ -111,7 +111,7 @@ AMD processors are stereotyped for running extremely hot and I can see why - at 
 
 Since I installed my existing SSD, I didn't do a fresh install of Windows and Windows just picked up where I had left off. From a functionality point of view, I didn't run into any issues, no BSODs or crashes even though it was a completely new system platform. That's pretty impressive. From a licensing perspective, and this was expected, Windows got deactivated due to the change in motherboard, processor and GPU. Usually, the inbuilt troubleshooter is good enough to detect and remediate this, but in my case it kept erroring out.
 
-{{< tweet 1196826396884123649 >}}
+{{< tweet SathyaBhat 1196826396884123649 >}}
 
 After raising a ticket with Microsoft, they arranged for a callback, verified my new system purchase and re-activated Windows with a new product key. 
 

@@ -17,9 +17,9 @@ tags:
 
 It's been a while since I posted anything, so lets get this started again. As I had tweeted few weeks back, I have moved to Bucharest, Romania. 
 
-{{< tweet 1182251512334077952 >}}
+{{< tweet SathyaBhat 1182251512334077952 >}}
 
-{{< tweet 1184008163546284032 >}}
+{{< tweet SathyaBhat 1184008163546284032 >}}
 
 So some of the obvious questions would be:
 

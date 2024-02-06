@@ -12,9 +12,11 @@ tags:
   - gaming
   - heatsink
   - Hellforge
+places:
+  Bangalore
 
 ---
-It's been about 4 years since I built <a href="https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank" rel="noopener noreferrer">Hellforge</a>. It's gotten some updates:
+It's been about 4 years since I built [Hellforge](https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/). It's gotten some updates:
 
   * Replaced Gigabyte 7750 with an Asus Strix 970
   * Added on a Samsung Evo 840 256GB
@@ -27,9 +29,9 @@ But the one thing that has remained constant: the CPU heat sink and cooler. My o
 The hesitation comes mainly because I had a torrid time when installing the heat sink the first time and didn't want to damage it. Off late the processor's been running hot and the CPU fan's been on overdrive pretty much all the time. Last week I was curious about the temperatures it was running at and HWMonitor - I wasn't prepared for this.
 
 
-{{< tweet 863777615315730432 >}} 
+{{< tweet SathyaBhat 863777615315730432 >}} 
 
-Basically the temperatures were close to Tj Max and I wonder how come the CPU wasn't throttling. With temperatures at this level, I had to do something about this. And egged on with support of <a href="https://twitter.com/ALPHA_Ronin" target="_blank" rel="noopener noreferrer">Alpha</a>, I decided it's time to clean it up.
+Basically the temperatures were close to Tj Max and I wonder how come the CPU wasn't throttling. With temperatures at this level, I had to do something about this. And egged on with support of <a href="" target="_blank" rel="noopener noreferrer">Alpha</a>, I decided it's time to clean it up.
 
 Here's what I bought to clean up:
 
@@ -40,8 +42,6 @@ Here's what I bought to clean up:
   * <a href="https://www.amazon.in/Cooler-Master-MasterGel-Thermal-Compound/dp/B01FZP18OG?_encoding=UTF8&psc=1&tag=mewoof-21&redirect=true&ref_=oh_aui_detailpage_o01_s00" target="_blank" rel="noopener noreferrer">CoolerMaster MasterGel</a> - I settled on this after extensive discussion with Alpha. He suggested to get the cheaper one, since the higher priced version is more suited for overclockers
 
 Now, for the pictures. You've been warned. This was how it was when I opened the cabinet
-
-
 
 {{< fancybox "https://i.sathyabh.at/sb/2017/05" "cpu-hsf-top-fans.jpg" "CPU heatsink/fan with cabinet top fans" "Cooldown" >}}
 {{< fancybox "https://i.sathyabh.at/sb/2017/05" "full-cabinet.jpg" "Full cabinet" "Cooldown" >}}
@@ -100,7 +100,7 @@ Now this is where my problems began. I tried to put the heat sink back on and wh
 
 I straightened it out, realigned the notches and tried again.. to no avail. By this time I was frustrated and had run out of time(I had guests coming over) so I left it as is and decided to relax for the evening
 
-{{< tweet 865989936478003204 >}}
+{{< tweet Sathyabhat 865989936478003204 >}}
 
 
 

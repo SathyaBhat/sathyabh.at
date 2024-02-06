@@ -13,6 +13,8 @@ tags:
   - Romania
   - Adobe
   - career
+places:
+  - Bucharest
 ---
 
 After an amazing 5 years at Adobe, I have decided to leave Adobe and take up a new challenge.
