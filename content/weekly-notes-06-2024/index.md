@@ -18,7 +18,7 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
 
 ### What's been happening
 
-* I got back to Sydney from a Seattle visit, and on the same evening, we went for our fourth concert of the year. Ludovico Einaudi was performing, and Jo was excited about this. The performance was a fabulous two-hour set. You know the performance is stellar when the audience gives the performers multiple standing ovations. 
+* I'm back in Sydney from my [Seattle visit](/weekly-notes-05-2024/), and on the same evening, we went for our fourth concert of the year. Ludovico Einaudi was performing, and Jo was excited about this. The performance was a fabulous two-hour set. You know the performance is stellar when the audience gives the performers multiple standing ovations. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "einaudi-1.jpg" "Ludovico Einaudi Concert at the Sydney Opera House" "Weekly Notes" >}}
 
@@ -28,7 +28,7 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "einaudi-3.jpg" "Ludovico Einaudi Concert at the Sydney Opera House" "Weekly Notes" >}}
 
-* Most of the week, we were busy with moving our house. Jo had booked [Men That Move](https://menthatmove.com/prices/) for their removal services, and as part of the package we got 50 moving boxes that are rented out to us for 14 days. Initially, we thought 50 boxes/crates would be way too much but it turns out we had a surprisingly large number of ~~~crap~~~ items. 
+* We were busy with the moving setup for most of the week. Jo had booked [Men That Move](https://menthatmove.com/prices/) for their removal services, and as part of the package we got 50 moving boxes that are rented out to us for 14 days. Initially, we thought 50 boxes/crates would be way too much but it turns out we had a surprisingly large number of ~~~crap~~~ items. 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-2.jpg" "Empty Crates stacked up" "Weekly Notes" >}}
 
 * Since we had booked only the removal service, we had to do most of the packing. By we, I mean Jo did most of the stuff. I pitched in a little bit.
@@ -44,7 +44,10 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-3.jpg" "Crates stacked up and ready to be picked up" "Weekly Notes" >}}
     
-* In our new house in North Sydney, we've unpacked most of the crates and arranged/rearranged a few items around. My desktop/WFH place is now all set, and Jo spent a lot of time tying the cables together with cable ties. We will probably get a sleeve to cover the cables coming from the desktop. 
+* In our new house in North Sydney, we've unpacked most of the crates and arranged/rearranged a few items around. My gaming/WFH setup is ready. Jo spent a lot of time tying the cables together with cable ties. We will probably get a sleeve to cover the cables coming from the desktop. 
+
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-3.jpg" "My gaming/WFH setup. Crates will be moved soon." "Weekly Notes" >}}
+    
 * We're still getting to know the area better. There are a couple of specialty coffee shops for our morning coffee/breakfast kicks as well as a Saravana Bhavan nearby for whenever the idly/vada/dosa craving kicks in. Look forward to exploring North Sydney more! 
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-3.jpg" "Yay for vadas!" "Weekly Notes" >}}
@@ -53,7 +56,7 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-5.jpg" "Bacon Egg Roll" "Weekly Notes" >}}
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-2.jpg" "Eggs on toast" "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-2.jpg" "Eggs and toast" "Weekly Notes" >}}
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-4.jpg" "Cappuccino" "Weekly Notes" >}}
 
