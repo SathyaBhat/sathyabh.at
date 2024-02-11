@@ -59,8 +59,9 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-2.jpg" "Eggs and toast" "Weekly Notes" >}}
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-4.jpg" "Cappuccino" "Weekly Notes" >}}
+* I had a fun Saturday evening, spending a couple of hours tending to my favorite pastime - [yak](https://seths.blog/2005/03/dont_shave_that/) shaving](https://seths.blog/2005/03/dont_shave_that/). Here's a [long thread](https://threadreaderapp.com/thread/1756319858340544861.html) of what I was trying to do.  
 
-
+  {{< tweet SathyaBhat 1756319858340544861 >}}
 ### Music of the Week
 
 After the concert, it's only natural for us to return and listen to more of the artist - and thus I found the NPR Tiny Desk Concert [with Ludovico Einaudi](https://www.youtube.com/watch?v=2oyZ9OM-neM)
