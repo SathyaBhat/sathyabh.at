@@ -18,7 +18,7 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
 
 ### What's been happening
 
-* I'm back in Sydney from my [Seattle visit](/weekly-notes-05-2024/), and on the same evening, we went for our fourth concert of the year. Ludovico Einaudi was performing, and Jo was excited about this. The performance was a fabulous two-hour set. You know the performance is stellar when the audience gives the performers multiple standing ovations. 
+* I'm back in Sydney from my [Seattle visit](/weekly-notes-05-2024/), and on the same evening, we went for our fourth concert of the year. Ludovico Einaudi was performing, and Jo was excited about this. The performance was a fabulous two-hour set. You know the performance is stellar when the audience gives multiple standing ovations. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "einaudi-1.jpg" "Ludovico Einaudi Concert at the Sydney Opera House" "Weekly Notes" >}}
 
@@ -40,15 +40,15 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
     * We were hoping that all our items could be packed and moved in a single trip. Sadly some of our tables/sideboards were a bit too wide and they couldn't move all the items in a single trip. 
     * As with most moves, nothing was perfect - as the removalists were moving the bed, they ended up smashing a lampshade to pieces. We informed the REA of the house, since they had a few inspections planned for the next day, and now I wonder how much we will be charged for this.
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-1.jpg" "Crates stacked up and ready to be picked up" "Weekly Notes" >}}
-
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-3.jpg" "Crates stacked up and ready to be picked up" "Weekly Notes" >}}
+
+        {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-1.jpg" "Crates delivered at the new house." "Weekly Notes" >}}
     
 * In our new house in North Sydney, we've unpacked most of the crates and arranged/rearranged a few items around. My gaming/WFH setup is ready. Jo spent a lot of time tying the cables together with cable ties. We will probably get a sleeve to cover the cables coming from the desktop. 
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-3.jpg" "My gaming/WFH setup. Crates will be moved soon." "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "desktop-setup.jpg" "My gaming/WFH setup. Crates will be moved soon." "Weekly Notes" >}}
     
-* We're still getting to know the area better. There are a couple of specialty coffee shops for our morning coffee/breakfast kicks as well as a Saravana Bhavan nearby for whenever the idly/vada/dosa craving kicks in. Look forward to exploring North Sydney more! 
+* North Sydney seems to be an interesting area. A highway goes by the frontside of our apartment and it is quite busy & noisy. The noise insulation is quite extraordinary and you barely hear anything inside. There are a couple of specialty coffee shops for our morning coffee/breakfast kicks as well as a Saravana Bhavan nearby for whenever the idly/vada/dosa craving kicks in. Look forward to exploring North Sydney more! 
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-3.jpg" "Yay for vadas!" "Weekly Notes" >}}
 
@@ -71,7 +71,7 @@ After the concert, it's only natural for us to return and listen to more of the 
 
 > I’ve led infrastructure at a startup for the past 4 years that has had to scale quickly. From the beginning I made some core decisions that the company has had to stick to, for better or worse, these past four years. This post will list some of the major decisions made and if I endorse them for your startup, or if I regret them and advise you to pick something else.
 
-It's a long read and I largely agree with most of them. This is a great write-up that not only talks about what tool was selected and also the why. Check out the [post by Jack Lindamood](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+It's a long read and I largely agree with most of them. This is a great write-up that not only talks about what tool was selected but also the why. Check out the [post by Jack Lindamood](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 
 ### Subscribe to my posts
 
