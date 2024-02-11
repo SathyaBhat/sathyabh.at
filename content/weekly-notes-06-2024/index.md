@@ -29,7 +29,8 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "einaudi-3.jpg" "Ludovico Einaudi Concert at the Sydney Opera House" "Weekly Notes" >}}
 
 * We were busy with the moving setup for most of the week. Jo had booked [Men That Move](https://menthatmove.com/prices/) for their removal services, and as part of the package we got 50 moving boxes that are rented out to us for 14 days. Initially, we thought 50 boxes/crates would be way too much but it turns out we had a surprisingly large number of ~~~crap~~~ items. 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-2.jpg" "Empty Crates stacked up" "Weekly Notes" >}}
+    
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-2.jpg" "Empty Crates stacked up" "Weekly Notes" >}}
 
 * Since we had booked only the removal service, we had to do most of the packing. By we, I mean Jo did most of the stuff. I pitched in a little bit.
 * Packing and shifting:
@@ -42,13 +43,13 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-3.jpg" "Crates stacked up and ready to be picked up" "Weekly Notes" >}}
 
-        {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-1.jpg" "Crates delivered at the new house." "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "moving-crates-1.jpg" "Crates delivered at the new house." "Weekly Notes" >}}
     
 * In our new house in North Sydney, we've unpacked most of the crates and arranged/rearranged a few items around. My gaming/WFH setup is ready. Jo spent a lot of time tying the cables together with cable ties. We will probably get a sleeve to cover the cables coming from the desktop. 
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "desktop-setup.jpg" "My gaming/WFH setup. Crates will be moved soon." "Weekly Notes" >}}
     
-* North Sydney seems to be an interesting area. A highway goes by the frontside of our apartment and it is quite busy & noisy. The noise insulation is quite extraordinary and you barely hear anything inside. There are a couple of specialty coffee shops for our morning coffee/breakfast kicks as well as a Saravana Bhavan nearby for whenever the idly/vada/dosa craving kicks in. Look forward to exploring North Sydney more! 
+* North Sydney seems to be an interesting area. A highway goes by the frontside of our apartment and it is quite busy & noisy. The noise insulation on the main door, however, is quite extraordinary and you barely hear anything inside. There are a couple of specialty coffee shops for our morning coffee/breakfast kicks as well as a Saravana Bhavan nearby for whenever the idly/vada/dosa craving kicks in. Look forward to exploring North Sydney more! 
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-3.jpg" "Yay for vadas!" "Weekly Notes" >}}
 
@@ -59,9 +60,10 @@ _Thumbnail image: Red Hat seems to have this rather huge building for their offi
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-2.jpg" "Eggs and toast" "Weekly Notes" >}}
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "food-cafe-4.jpg" "Cappuccino" "Weekly Notes" >}}
-* I had a fun Saturday evening, spending a couple of hours tending to my favorite pastime - [yak](https://seths.blog/2005/03/dont_shave_that/) shaving](https://seths.blog/2005/03/dont_shave_that/). Here's a [long thread](https://threadreaderapp.com/thread/1756319858340544861.html) of what I was trying to do.  
+* I had a fun Saturday evening, spending a couple of hours tending to my favorite pastime - [yak](https://seths.blog/2005/03/dont_shave_that/) shaving. Here's a [long thread](https://threadreaderapp.com/thread/1756319858340544861.html) of what I was trying to do.  
 
   {{< tweet SathyaBhat 1756319858340544861 >}}
+  
 ### Music of the Week
 
 After the concert, it's only natural for us to return and listen to more of the artist - and thus I found the NPR Tiny Desk Concert [with Ludovico Einaudi](https://www.youtube.com/watch?v=2oyZ9OM-neM)
