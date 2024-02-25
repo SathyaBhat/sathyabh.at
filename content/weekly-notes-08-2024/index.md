@@ -38,6 +38,7 @@ _Thumbnail image: [North Sydney War Memorial](https://monumentaustralia.org.au/t
 
 * After many years, Last Epoch, an ARPG that I've been following keenly is out of early access and had a public 1.0 release this week. last Epoch comes with full offline as well as online modes, and as with most games on launch dates, the online mode was completely swamped and most people had trouble logging in. I started a completely offline character and have been enjoying it. 
 
+* My good friend [Saurabh](https://mastodon.social/@the100rabh) has started writing his weekly series on "Interesting Things I Learnt this week". You might find this [fascinating](https://blog.100rabh.com/2024/02/feb-18-interesting-things-i-learnt-this.html)!
 
 ### Music of the Week
 
