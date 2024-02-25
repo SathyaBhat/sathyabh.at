@@ -9,11 +9,11 @@ url = "/weekly-notes-08-2024/"
 title = "Weekly notes 08/2024"
 date = 2024-02-25T12:00:00Z
 summary = "Week 08 summary - another busy week, couple of new records and a new game."
-images = ["/weekly-notes-08-2024/thumb-.jpg"]
+images = ["/weekly-notes-08-2024/thumb-north-sydney.jpg"]
 
 +++
 
-![](thumb-.jpg)
+![](thumb-north-sydney.jpg)
 
 _Thumbnail image: [North Sydney War Memorial](https://monumentaustralia.org.au/themes/conflict/multiple/display/22625-north-sydney-war-memorial/photo/2), St Leonard Park._ 
 
