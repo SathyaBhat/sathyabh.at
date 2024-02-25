@@ -29,14 +29,14 @@ _Thumbnail image: [North Sydney War Memorial](https://monumentaustralia.org.au/t
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ryos-noodles-5.jpg" "Ryo's Noodles" "Weekly Notes" >}}
 
 
-* As part of the Trade Desk's Christmas, I had chosen a record player, and the player was delivered this week. It's a [Victrola Eastwood](https://www.victrola.com.au/products/p/the-eastwood-hybrid-turntable). What I like about the player is that it supports Bluetooth output, thus I can play the music through my Bang & Olufsen M5 since the speakers on the Eastwood aren't that great. 
+* As part of the Trade Desk's Christmas gift, I chose a record player, and the player was delivered this week. It's a [Victrola Eastwood](https://www.victrola.com.au/products/p/the-eastwood-hybrid-turntable). What I like about the player is that it supports Bluetooth output, thus I can play the music through my Bang & Olufsen M5 since the speakers on the Eastwood aren't that great. 
     * We had bought a few records a while back, and we found out there's a second-hand book & record store nearby and so went and bought a few more records.
         
         {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "records.jpg" "My first set of records" "Weekly Notes" >}}
         {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "records-1.jpg" "My first set of records" "Weekly Notes" >}}
         {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "records-2.jpg" "My first set of records" "Weekly Notes" >}}
 
-* After many years, Last Epoch, an ARPG that I've been following keenly is out of early access and had a public 1.0 release this week. last Epoch comes with full offline as well as online modes, and as with most games on launch dates, the online mode was completely swamped and most people had trouble logging in. I started a completely offline character and have been enjoying it. 
+* After many years, [Last Epoch](https://store.steampowered.com/app/899770/Last_Epoch/), an ARPG that I've been following keenly is out of early access and had a public 1.0 release this week. Last Epoch comes with full offline as well as online modes, and as with most games on launch dates, the online mode was completely swamped and most people had trouble logging in. I started a completely offline character and have been enjoying it. 
 
 * My good friend [Saurabh](https://mastodon.social/@the100rabh) has started writing his weekly series on "Interesting Things I Learnt this week". You might find this [fascinating](https://blog.100rabh.com/2024/02/feb-18-interesting-things-i-learnt-this.html)!
 
