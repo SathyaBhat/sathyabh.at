@@ -9,7 +9,7 @@ url = "/weekly-notes-11-2024/"
 title = "Weekly notes 11/2024"
 date = 2024-03-18T12:00:00Z
 summary = "Week 11 summary - lots of meetings in Bellevue"
-images = ["/weekly-notes-11-2024/thumb-mt-rainier.jpg.jpg"]
+images = ["/weekly-notes-11-2024/thumb-mt-rainier.jpg"]
 +++
 
 ![](thumb-mt-rainier.jpg)
