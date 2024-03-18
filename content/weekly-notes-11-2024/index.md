@@ -14,7 +14,7 @@ images = ["/weekly-notes-11-2024/thumb-mt-rainier.jpg.jpg"]
 
 ![](thumb-mt-rainier.jpg)
 
-_Thumbnail image: Mount Rainier, captured as I was departing Seattle over to Los Angeles and then to Sydney._ 
+_Thumbnail image: Mount Rainier, captured as I was departing Seattle for Los Angeles and then to Sydney._ 
 
 ### What's been happening
 
@@ -28,7 +28,7 @@ _Thumbnail image: Mount Rainier, captured as I was departing Seattle over to Los
 * I didn't get to explore a lot of Bellevue since most of my days were occupied with the meetings and most evenings I went for dinner with my colleagues.
 * Bellevue is only about 10 miles away from Seattle but has different vibe from Seattle. It feels more suburban, with many high rises being constructed. You'll also see many, many, many Microsoft buildings. Bellevue also feels a lot safer than Seattle. 
 * I had couple of chance meetings with a few people while I was in Bellevue
-    * Met with Karthik again and thanks to Karthik & A, had some nice puris! I knew Karthik was traveling to India and wasn't sure if he'd be back in Bellevue when I'd be visiting. Karthik messaged me and asked me to come over and meet, and of course I couldn't say no!
+    * Met with Karthik again and thanks to Karthik & his wife A. I had some nice puris for dinner thanks to A! I knew Karthik was in India and wasn't sure if he'd be back in Bellevue when I'd be visiting. Karthik messaged me and asked me to come over to his house.
     * Met with [Nishant](https://twitter.com/nishantmodak) from Last9 - this was a chance meet. Turns out that Nishant knows Karthik and he found out I was in town via him. I didn't get much time to talk to Nishant since he had to rush to the airport but it was nice to talk to him.
     
       {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "nishant-me.jpg" "Pic with Nishant" "Weekly Notes" >}}
@@ -45,7 +45,7 @@ _Thumbnail image: Mount Rainier, captured as I was departing Seattle over to Los
     * Little Arc - a small popup that shows a preview of the link and that can be nicely re-opened in the main browser in the right space
     * Split view - you can drag a tab to an existing tab and Arc will nicely tile the tabs within the same window - making it easy to reference and write documents, for example. 
     * Whether I will continue to use Arc or fallback to Firefox remains to be seen but so far I've been pretty happy with it. 
-* I'll be back in Sydney on Monday morning, working for a couple of days before taking off to Melbourne for the Australian Grand Prix. I can't wait! I've asked Jo to get some earprotectors since the F1 cars themselves aren't that loud anymore, the supporting races (F2, Porsche, SuperCars) are known to have loud cars. 
+* I'll be back in Sydney on Monday morning, working for a couple of days before taking off to Melbourne for the Australian Grand Prix. I can't wait! I've asked Jo to get some earprotectors - while the F1 cars themselves aren't that loud anymore, the supporting races (F2, Porsche Carrera Cup, SuperCars) are known to have loud cars. 
 
 ### Music of the Week
 
@@ -55,7 +55,8 @@ Possibly made famous by inclusion of this song in American Pie movie, Tonic is a
 
 ### Link of the week
 
-> And now, ~4 years later, Hackintosh hits a brick wall of no easy WiFi options available, at all. Given how much of the macOS useful features is dependent on presence of particular WiFi chips
+> And now, ~4 years later, Hackintosh hits a brick wall of no easy WiFi options available, at all. Given how much of the macOS useful features is dependent on presence of particular WiFi chips.
+
 While I never dabbled in to Hackintosh, a fair few of my friends on Twitter did and it was interesting to see their progress. It seems now Hackintosh is [nearly dead](https://aplus.rs/2024/hackintosh-almost-dead/).
 
 ### Subscribe to my posts
