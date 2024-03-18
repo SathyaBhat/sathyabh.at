@@ -12,7 +12,7 @@ summary = "Week 11 summary - lots of meetings in Bellevue"
 images = ["/weekly-notes-11-2024/thumb-mt-rainier.jpg.jpg"]
 +++
 
-![](thumb-mt-rainier.jpg.jpg)
+![](thumb-mt-rainier.jpg)
 
 _Thumbnail image: Mount Rainier, captured as I was departing Seattle over to Los Angeles and then to Sydney._ 
 
@@ -36,14 +36,15 @@ _Thumbnail image: Mount Rainier, captured as I was departing Seattle over to Los
 
     * I also met with Gowtham, another friend from the now-defunct Devs & Hackers Slack. I went for lunch with him and my team mate to Madras Dosa Corner in Issaquah and loved the food! 
 
-      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "madras-cafe-2.jpg" "Paper Masala Dosa" "Weekly Notes" >}}
-      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "madras-cafe-1.jpg" "Filter Coffee" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "madras-cafe-1.jpg" "Paper Masala Dosa" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "madras-cafe-2.jpg" "Filter Coffee" "Weekly Notes" >}}
+      
 
 * I've been experimenting with [Arc browser](https://arc.net/gift/c3cb3d4b) (disclosure: referral link) in the past couple of weeks and been pretty pleased with it. Arc's got some  nice features I haven't seen in other browsers: 
- * Spaces - Spaces is like a weird mix of Bookmarks and grouped browsing area. You can have separates spaces such as Work and Personal and have an automated way of routing the specific sites to distinct spaces. 
- * Little Arc - a small popup that shows a preview of the link and that can be nicely re-opened in the main browser in the right space
- * Split view - you can drag a tab to an existing tab and Arc will nicely tile the tabs within the same window - making it easy to reference and write documents, for example. 
- * Whether I will continue to use Arc or fallback to Firefox remains to be seen but so far I've been pretty happy with it. 
+    * Spaces - Spaces is like a weird mix of Bookmarks and grouped browsing area. You can have separates spaces such as Work and Personal and have an automated way of routing the specific sites to distinct spaces. 
+    * Little Arc - a small popup that shows a preview of the link and that can be nicely re-opened in the main browser in the right space
+    * Split view - you can drag a tab to an existing tab and Arc will nicely tile the tabs within the same window - making it easy to reference and write documents, for example. 
+    * Whether I will continue to use Arc or fallback to Firefox remains to be seen but so far I've been pretty happy with it. 
 * I'll be back in Sydney on Monday morning, working for a couple of days before taking off to Melbourne for the Australian Grand Prix. I can't wait! I've asked Jo to get some earprotectors since the F1 cars themselves aren't that loud anymore, the supporting races (F2, Porsche, SuperCars) are known to have loud cars. 
 
 ### Music of the Week
