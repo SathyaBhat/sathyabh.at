@@ -20,7 +20,7 @@ Another delayed weekly note as we got back from a long weekend out in Melbourne.
 
 ### What's been happening
 
-* We flew to Melbourne on Wednesday night as I had bought the Grand Stand Tickets for the Australian GrandPrix in Melbourne. This was Jo's and my first long holiday together for quite some time - we didn't do much over Christmas/Weekend as Jo didn't have much holidays then. 
+* We flew to Melbourne on Wednesday night as I had bought the Grand Stand Tickets for the Australian GrandPrix in Melbourne. This was Jo's and my first long holiday together for quite some time - we didn't do much over Christmas/Weekend as Jo didn't have many holidays then. 
 * Both Jo and I thoroughly enjoyed the Grand Prix in Melbourne. I'll have another separate blog post talking about this. Given a chance to return next year, I think both of us will grab the chance and go back to Albert Park.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "albert-park-2024-1.jpg" "Views from Albert Park" "Weekly Notes" >}}
@@ -42,17 +42,17 @@ Another delayed weekly note as we got back from a long weekend out in Melbourne.
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-2024-3.jpg" "Views from Melbourne" "Weekly Notes" >}}
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-2024-4.jpg" "Views from Melbourne" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-1.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-2.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-3.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-4.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-5.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-6.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-7.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-8.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-9.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-10.jpg" "Views from Melbourne" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" melbourne-walk-2024-11.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-1.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-2.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-3.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-4.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-5.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-6.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-7.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-8.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-9.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-10.jpg" "Views from Melbourne" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "melbourne-walk-2024-11.jpg" "Views from Melbourne" "Weekly Notes" >}}
 
 * This weekend will be another long weekend as I have holidays on Friday & Monday for Easter Weekend. Jo's cousin and aunt are coming over to Sydney and we'll be doing a road trip to Bowral and Kangaroo Valley. Looking forward to it!
 * Blizzard gave a [preview of some](https://www.wowhead.com/diablo-4/news/diablo-4-ptr-overview-season-4-preview-and-itemization-rework-campfire-chat-338169) of the changes coming in Season 4 and I'm looking forward to seeing the changes come to fruition soon. While the PTR is coming relatively soon, the actual patch won't be out for a while.
