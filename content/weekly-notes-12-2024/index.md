@@ -57,6 +57,10 @@ Another delayed weekly note as we got back from a long weekend out in Melbourne.
 * This weekend will be another long weekend as I have holidays on Friday & Monday for Easter Weekend. Jo's cousin and aunt are coming over to Sydney and we'll be doing a road trip to Bowral and Kangaroo Valley. Looking forward to it!
 * Blizzard gave a [preview of some](https://www.wowhead.com/diablo-4/news/diablo-4-ptr-overview-season-4-preview-and-itemization-rework-campfire-chat-338169) of the changes coming in Season 4 and I'm looking forward to seeing the changes come to fruition soon. While the PTR is coming relatively soon, the actual patch won't be out for a while.
 
+### Mediawatch 
+
+I completed watching The Grand Tour's latest special [Sand Job](https://www.justwatch.com/au/tv-show/the-grand-tour/season-5) and loved it. Sand Job is a fantastic watch. It's much more laid back/muted as compared to the previous episodes, and there aren't many laughing moments but the cinematography, drone shots, and music, make up for it. I found it to be the best of the GT series. Highly recommend a watch.
+
 ### Music of the Week
 
 Another Martin Miller composition of a classic masterpiece - [David Bowie's Let's Dance](https://www.youtube.com/watch?v=2wUdXrBn2aw) featuring Mateus Asato.
