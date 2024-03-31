@@ -55,7 +55,8 @@ It's a long weekend here thanks to the Easter holidays. Barely back [from our Me
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-opera-house-2024-03.jpg" "The Sydney Opera House at Night" "Weekly Notes" >}}
 
-* For the next couple of days, we had a road trip planned to head over to Bowral and nearby places. Given there were 6 of us, I booked a people mover since most of the other SUVs were designed for seating 5 people. This meant I got to drive a Kia Carnival. I'm used to driving hatchbacks and small SUVs, never such a large vehicle, but it was quite easy to drive, especially with modern driving aids such as reverse parking cameras and adaptive cruise control. Over two days, we drove 440 kilometers covering popular spots such as Bowral, Cambewarra Mountain lookout, and Callala Beach at Jervis Bay, returning to Sydney via the scenic Grand Pacific Drive route.
+* For the next couple of days, we had a road trip planned to head over to Bowral and nearby places. Over two days, we drove 440 kilometers covering popular spots such as Bowral, Cambewarra Mountain lookout, and Callala Beach at Jervis Bay, returning to Sydney via the scenic Grand Pacific Drive route.
+  
   * We had an overnight halt at an Airbnb at Bowral, where Jo's cousins made good use of the available firepit and made a nice campfire. We had a nice time chilling by the fire and having a few drinks.
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "airbnb-bowral-2.jpg" "Our Airbnb at Bowral." "Weekly Notes" >}} 
@@ -78,11 +79,9 @@ It's a long weekend here thanks to the Easter holidays. Barely back [from our Me
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "callala-beach-jervis-bay-3.jpg" "The pristine Callala Beach at Jervis Bay" "Weekly Notes" >}}
 
-  * I do need to finish off my driving test to get my NSW Driving License and not have to rely on my Indian Driving License.
+  * Given there were 6 of us, I booked a [people mover class SUV](https://www.carsales.com.au/people-mover/) - a Kia Carnival since most of the regular SUVs were designed for seating 5 people. I'm used to driving hatchbacks and small/medium SUVs but never such a large vehicle. We booked the car via our usual car rental service, GoGet and even though the car was the base spec, it had modern driving aids such as reverse parking cameras and adaptive cruise control which made it quite easy to drive, though reversing was a bit unsettling due to lack of visibility. Overall, I enjoyed our road trip and look forward to revisiting the places, but for a longer period to relax some more. Here's a map of our road trip
 
-* Overall, I enjoyed our road trip and look forward to revisiting the places, but for a longer period to relax some more. Here's a map of our roadtrip
-
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tx6IZ7Kim_04lcpehuahdXo-RmBiep8&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tx6IZ7Kim_04lcpehuahdXo-RmBiep8&ehbc=2E312F&noprof=1" width="800" height="600"></iframe>
 
 ### Music of the Week
 
