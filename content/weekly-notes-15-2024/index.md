@@ -34,7 +34,7 @@ _Thumbnail image: The [Bon Andrews Oval](https://monumentaustralia.org.au/themes
 
 ### Media Watch
 
-Jo & I finished watching the first season of the 3 Body Problem and I enjoyed it. I must admit I was more hooked during the initial few episodes where there's more intrigue and a sense of what's happening. As I watched more episodes, it got a little more predictable and I can guess "Oh that's what's going to happen". I'm not saying that's bad - it's good at times to know what you're thinking is being validated but makes it a little predictive. There are still a lot of things happening in the show that make you wonder "Well if they can do x, why can't they do y?", plot holes at places, an overall lack of indication of the timelines/a sense of how much time has progressed, but if you're into Science Fiction and don't want to read through the books, I would highly recommend a watch.
+Jo & I finished watching the first season of the 3 Body Problem and I enjoyed it. I must admit I was more hooked during the initial few episodes where there's more intrigue and a sense of what's happening. As I watched more episodes, it got a little more predictable and I could guess "Oh that's what's going to happen". I'm not saying that's bad - it's good at times to know what you're thinking is being validated but makes it a little predictive. There are still a lot of things happening in the show that make you wonder "Well if they can do x, why can't they do y?", plot holes at places, an overall lack of indication of the timelines/a sense of how much time has progressed, but if you're into Science Fiction and don't want to read through the books, I would highly recommend a watch.
 
 ### Music of the Week
 
