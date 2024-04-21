@@ -52,7 +52,7 @@ _Thumbnail image: [Sydney Tower Eye](https://www.sydneytowereye.com.au/) is the 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-2.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-3.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
 
-* This week, a new game from the creators of Ori and the Blind Forest / Ori - The Will of the Wisps was launched in early access. Titled "No Rest for the Wicked" - with bold claims to reimagine the ARPG genre by combining a Souls-like experience with the ARPG experience. A few of the Diablo streamers were sponsored and playing it, I watched a bit of the gameplay, and doesn't look like it's something I'd be interested in - it's just too slow and punishing (something mentioned by several others) and is sitting on a "Mixed" rating right now on Steam. From my watching of the streams, the game looks gorgeous but the combat goes against the principles of ARPG, which should be fast, attacking action. 
+* This week, a new game from the creators of Ori and the Blind Forest / Ori - The Will of the Wisps was launched in early access. Titled "No Rest for the Wicked" - with bold claims to reimagine the ARPG genre by combining a Souls-like experience with the ARPG experience. A few of the Diablo streamers were sponsored and playing it, I watched a bit of the gameplay, and doesn't look like it's something I'd be interested in - it's just too slow and punishing (something mentioned by several others), and is sitting on a "Mixed" rating right now on Steam. From my watching of the streams, the game looks gorgeous but the combat goes against the principles of ARPG, which should be fast, attacking action. 
 
 * We had a fire alarm inspection in our apartment to check that the alarms were working. While the people were checking, I was talking to the inspectors and found out that in addition to the smoke detectors, the house also has a thermal sensor that triggers an alarm to the fire detector when the temperature near the roof reaches 55 degrees Celsius. I was amazed that such a sensor exists and I guess it makes sense, especially since the sensor is close to the dryer where it can get fairly hot and might be a fire risk. Anyway, that was a nice TIL moment. 
 
@@ -68,7 +68,9 @@ First heard back in 2017 when I used to do my [Monday Tunes](/tags/monday-tunes/
 
 ### Link of the week
 
-You've seen all the videos and reels of cats getting in the way of work, but in this case, this person's cat helped him to do more work! Funny post of SRE life, oncall, and how a cat alerted [him of a DDOS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack).
+You've seen all the videos and reels of cats getting in the way of work, but in this case, this person's cat helped him to do more work! Funny post of SRE's life, oncall, and how a cat alerted [him of a DDOS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack).
+
+[Thej](https://thejeshgn.com/about/) has published the results for the 2024 [NMG Grant Awards](https://thejeshgn.com/2024/04/12/nmg-2024-results/). NMG is short for Nagarathna Memorial Grant (named after his mother) and Thej has been awarding the grant for several years now. I highly commend Thej for the grant.
 
 ### Subscribe to my posts
 
