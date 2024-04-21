@@ -24,8 +24,8 @@ _Thumbnail image: [Sydney Tower Eye](https://www.sydneytowereye.com.au/) is the 
     * [The Witcher: Ronin](https://www.goodreads.com/book/show/60568782-the-witcher?from_search=true&from_srp=true&qid=AXctXsgzpF&rank=1). This is a manga featuring Geralt searching for Ciri, set in the Edo period in Japan. Given that I had never read a manga before, it took me a while to get used to reading one and I ended up re-reading the book thrice. The book is quite short, there isn't a lot of dialogue, the emotions don't quite carry on the drawings because it's so busy showing all the action. There's a larger story about having to find Ciri and a few smaller stories covered in the book but sadly, the main story ends on a cliffhanger as "end of volume 1", with no Volume 2 in sight yet and this left me slightly disappointed. The artwork and drawings are top-notch, combined with a bestiary giving background about the various monsters that Geralt comes across is a nice touch. 
     * [Andrzej Sapkowski's The Witcher: A Grain of Truth](https://www.goodreads.com/book/show/58787726-andrzej-sapkowski-s-the-witcher): A Dark Horse comic version of the short story featured in the Netflix series (Season 2, Episode 1). The book is incredibly short, but the conversation between Geralt and Nivellion is pretty nicely drawn out and the hardcover book is great to hold. 
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "witcher-a-grain-of-truth.jpg" "The Witcher - A Grain of Truth" "Weekly Notes" >}}
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "witcher-ronin.jpg" "Witcher Ronin " "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "witcher-a-grain-of-truth.jpg" "The Witcher - A Grain of Truth" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "witcher-ronin.jpg" "Witcher Ronin " "Weekly Notes" >}}
 
     * We returned these and a few more books and got some books:
 
@@ -48,9 +48,9 @@ _Thumbnail image: [Sydney Tower Eye](https://www.sydneytowereye.com.au/) is the 
 
 * I'd been thinking of getting a new microphone for a year, and I finally decided to purchase a new dynamic microphone - the Samson Q2U. The Samson's got pretty good reviews, is not too expensive, and comes with USB as well as XLR interface as well as a headphone out jack so you can monitor the volume levels. I gave it a try for [yesterday's stream on Twitch](https://www.twitch.tv/sathyabhat) and I must admit I expected a lot more. While the capture quality is pretty good, the volume is pretty wanting, especially with my current setup. I'll be experimenting with more microphone placements and see if I can get it to be louder without having to get a boom arm so I can get it closer to me. 
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-1.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-2.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-3.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-1.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-2.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "samson-q2u-3.jpg" "Samson Q2U Dynamic Microphone" "Weekly Notes" >}}
 
 * This week, a new game from the creators of Ori and the Blind Forest / Ori - The Will of the Wisps was launched in early access. Titled "No Rest for the Wicked" - with bold claims to reimagine the ARPG genre by combining a Souls-like experience with the ARPG experience. A few of the Diablo streamers were sponsored and playing it, I watched a bit of the gameplay, and doesn't look like it's something I'd be interested in - it's just too slow and punishing (something mentioned by several others), and is sitting on a "Mixed" rating right now on Steam. From my watching of the streams, the game looks gorgeous but the combat goes against the principles of ARPG, which should be fast, attacking action. 
 
