@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
+tags = ["weekly-notes", "guitar-classes"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
@@ -18,17 +18,17 @@ _Thumbnail image: The North Sydney Post Office flanked by the Coca-Cola Place._
 
 ### What's been happening
 
-* My GPU, the RTX 2080Ti that [my colleague gave away to me](/2023/07/09/weekly-notes-27-2023/) died unexpectedly. I'm still not sure what led to this, as it was working fine the previous day and the next, as soon as I turned my computer on, it started BSOD-ing and showing artifacts on screen. Now quite a few people believe that BSODs are because Windows sucks but running into a BSOD is primarily due to a hardware failure. That with the artifact patterns was a sure shot indicator that the GPU was dying. I tried my best to resort to software checks just in case:
+* My GPU, the RTX 2080Ti that [my colleague gave away to me](/2023/07/09/weekly-notes-27-2023/) died unexpectedly. I'm still not sure what led to this, as it was working fine the previous day. As soon as I turned my computer on, it started BSOD-ing and showing artifacts on the screen. Now quite a few people believe that BSODs happen because Windows sucks but running into a BSOD is primarily due to a hardware failure, at least in the past decade or so. That with the artifact patterns was a sure shot indicator that the GPU was dying. I tried my best to resort to software checks just in case:
     * used DDU to remove the existing drivers (got BSOD a couple of times here)
     * rolled back to the driver before the most current release (another couple of BSODs)
     * tried underclocking, and under-volting the GPU core and memory clocks to see if it was due to temperature or other issues
   None of these helped keep the system stable and it kept crashing regardless of whether I was playing or just keeping it idle. 
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "artifacts.jpg" "The artifacts on the desktop" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "artifacts.jpg" "The artifacts on the screen" "Weekly Notes" >}}
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "underclocking.jpg" "Underclocking to see if it makes a difference" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "underclocking.jpg" "Underclocking to see if it makes a difference" "Weekly Notes" >}}
 
-  * I got annoyed and frustrated and decided to swap out the RTX 2080TI and put in my older Geforce 1080 (which thankfully kept around, and installed into Jo's desktop) to see if it was due to the GPU and so far, it's been pretty stable with the older 1080 GPU. Well, guess it's time to get onto the 4xxx series. I'd been planning for a 4xxx series, and now with the newer Super refreshes, might be a good time to jump into the new series.
+  * I got annoyed and frustrated with the crashes and decided to swap out the RTX 2080TI and put in my older Geforce 1080 (installed in Jo's desktop, but her desktop comes with an APU so the external GPU isn't required) to see if it was due to the GPU and so far, it's been pretty stable with the older 1080 GPU. Well, guess it's time to get onto the 4xxx series. I'd been planning for a 4xxx series for a while now but with the 2080TI arrival, I put it on the backburner. With the newer Super refreshes the prices have stabilized and will look to get a new one.
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "2024-04-1080.jpg" "The 1080 back in the desktop on the desktop" "Weekly Notes" >}}
 
@@ -38,12 +38,15 @@ _Thumbnail image: The North Sydney Post Office flanked by the Coca-Cola Place._
 
 ### Music of the Week
 
-They say every performance of ["Yellow Ledbetter" by Pearl Jam](https://www.youtube.com/watch?v=2cyp1g7idYc) is different, and listening to it, you'll know why. Been on a Howard Stern show binge the past few days. 
+They say every performance of ["Yellow Ledbetter" by Pearl Jam](https://www.youtube.com/watch?v=2cyp1g7idYc) is different, and listening to it, you'll know why. Been on a Howard Stern show binge the past few days and this is what started it all.
 
 {{< youtube 2cyp1g7idYc >}}
 
-### Link of the week
+### Links of the week
 
+* [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/): This is a long-ish rant (and one that I largely agree with) about how passkeys have failed to get us out of the password pains.
+* [When Do We Stop Finding New Music? A Statistical Analysis](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music): This is an interesting post that looks into the statistical analysis of why every generation thinks the music of their gen was the best, and why many people's audio selection doesn't change much. 
+* [Google Won’t Pull Cookies In 2024](https://www.adexchanger.com/online-advertising/google-wont-pull-cookies-in-2024/): This has been the hottest news in the AdTech world and one that hasn't [surprised many](https://www.thecurrent.com/google-chrome-cookie-deprecation) in the industry.
 
 ### Subscribe to my posts
 
