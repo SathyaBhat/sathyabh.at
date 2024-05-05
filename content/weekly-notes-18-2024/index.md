@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming". "movie"]
+tags = ["weekly-notes", "gaming", "movie"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
