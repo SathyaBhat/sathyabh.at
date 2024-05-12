@@ -77,7 +77,7 @@ Here's the finished system specs
 | CPU Cooler  | [Cooler Master Hyper 212 EVO V2][cooler]            |
 | Motherboard | [Gigabyte Aorus Elite X570][mb]                     |
 | RAM         | [Corsair Vengeance LPX 2x 16GB DDR4][ram]           |
-| GPU         | [nVidia GeForce 2080Ti Founders Edition][gpu]      |
+| GPU         | [Zotac GeForce RTX 4070 Ti SUPER Trinity Black Edition][gpu]      |
 | Cabinet     | [Lian Li Lancool II Mesh C][cab]                    |
 | PSU         | [be quiet! Pure Power 11 FM Gold 850W Modular][psu] |
 | Monitors    | [LG UL500][mon1]                                    |
@@ -97,7 +97,7 @@ Here's the finished system specs
 [cooler]: https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo-v2/
 [mb]: https://www.gigabyte.com/Motherboard/X570-AORUS-ELITE-rev-10
 [ram]: https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16
-[gpu]: https://www.nvidia.com/en-au/geforce/graphics-cards/compare/?section=compare-20
+[gpu]: https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-4070-ti-super-trinity-black-edition-16gb-gddr6x
 [cab]: https://lian-li.com/product/lancool-ii-mesh-rgb/
 [psu]: https://www.bequiet.com/en/powersupply/3610
 [mon1]: https://www.lg.com/au/it-monitors/lg-27UL500-W
@@ -115,3 +115,10 @@ Here's the finished system specs
 Here's how the final build looks like:
 
 {{< fancybox "https://i.sathyabh.at/sb/hellforge-down-under" "full-build.jpeg" "The Complete Build" "Hellforge Down under" >}}
+
+
+### Changelog
+
+* [May 2024](/weekly-notes-17-2024/): Replaced 2080 Ti Founder's Edition with a Zotac GeForce RTX 4070 Ti SUPER Trinity Black Edition.
+* [Jan 2024](/weekly-notes-01-2024/): Replaced the Ryzen 5 3600 with a Ryzen 7 5700x 
+* [June 2023](/2023/07/09/weekly-notes-27-2023/): Replaced the GeForce 1080 with GeForce RTX 2080 Ti
