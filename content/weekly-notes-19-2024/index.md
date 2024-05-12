@@ -19,7 +19,7 @@ _Thumbnail image: Spotted a rainbow while I was heading to work this week._
 ### What's been happening
 
 * We're now firmly in winter, with dropping temperatures (used the heater for the first time), and early sunsets (our smart lights that turn on the lights an hour before sunset now kick in at 4 pm). It's also been raining all week and getting into the office has been a bit difficult.
-* Hades II was available to purchase in Early Access earlier in the week and I bought it right away. I don't buy games that are in Early Access, Hades II is an exception. I loved [the first Hades](/2021/01/02/gaming-report-for-2020/) and Hades II is looking pretty good. 
+* [Hades II](https://store.steampowered.com/app/1145350/Hades_II/) was available to purchase in Early Access earlier in the week and I bought it right away. I don't buy games that are in Early Access, Hades II is an exception. I loved [the first Hades](/2021/01/02/gaming-report-for-2020/) and Hades II is looking pretty good. 
     * I've written a longer write-up about my initial impressions of Hades II on [Mastodon](https://mastodon.social/@Sathyabhat/112399555345611057). 
 
     <iframe src="https://mastodon.social/@Sathyabhat/112399555345611057/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
@@ -27,17 +27,17 @@ _Thumbnail image: Spotted a rainbow while I was heading to work this week._
 * Despite the cloudy, rainy day, we went out on Saturday. To say that I was a bit grumpy would be an understatement 😅 
     * We had some nice Donburi at a Japanese Restaurant, along with Sake. The food was good!
 
-    <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/694866080130019845/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
+      <iframe title="Pixelfed Post Embed" src="https://pxl.mx/p/sathyabhat/694866080130019845/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pxl.mx/embed.js"></script>
 
     * From here, we went over to Red Eye Records to do some record hunting. We ended up buying Red Hot Chili Peppers' Return of the Dream Canteen, Kraftwerk's Man Machine. and Elton John's Here & There.
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "elton-john-here-then-vinyl.jpg" "Elton John - Here And Then" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "elton-john-here-then-vinyl.jpg" "Elton John - Here And Then" "Weekly Notes" >}}
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "rhcp-return-dream-canteen-kraftwerk-man-machine-vinyl.jpg" "Red Hot Chili Peppers and Kraftwerk Vinyls" "Weekly Notes" >}}
+      {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "rhcp-return-dream-canteen-kraftwerk-man-machine-vinyl.jpg" "Red Hot Chili Peppers and Kraftwerk Vinyls" "Weekly Notes" >}}
 
 
     * There was supposed to be a Fleetwood Mac tribute concert this Sunday as part of the Sunset Series that I was really looking forward to but sadly was canceled because of bad weather. Hopefully, it will be rescheduled to another day. 
-* My Prometheus Exporter for YNAB seemed to have missed a bunch of scrapes resulting in choppy data. Not sure what happened there, and since I always wanted to play a bit with Honeycomb and OTEL, I added support for it into the library. I'll do some more work to add custom spans and such, but for now, I'll look at the auto-instrumentation results and see if I can see anything that is trending. 
+* My [Prometheus Exporter for YNAB](https://github.com/SathyaBhat/ynab-exporter) seemed to have missed a bunch of scrapes resulting in choppy data. Not sure what happened there, and since I always wanted to play a bit with Honeycomb and OTEL, I added support for it into the library. I'll do some more work to add custom spans and such, but for now, I'll look at the auto-instrumentation results and see if I can see anything that is trending. 
 
 * With all the news of the Geomagnetic Storms that have been hitting Earth the past couple of days, Jo & I were mesmerized by the pictures and even more surprised with reports that they can be sighted in many parts of Australia. Sadly, with the clouds playing spoilsport, we didn't get to see anything and the aurora sighting remains a bucket list item.
 
@@ -50,7 +50,7 @@ Every now and then, Spotify's recommendation engine pops up a great song, and [L
 {{< youtube qoWRs7lXtYE >}}
 
 
-### Link of the week
+### Links of the week
 
 
 * Zomato announced that they have deployed a large number of crowd-supported weather infrastructure and [they even have free API access](https://www.weatherunion.com/). 
