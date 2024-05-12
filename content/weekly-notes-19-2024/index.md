@@ -47,7 +47,7 @@ _Thumbnail image: Spotted a rainbow while I was heading to work this week._
 
 Every now and then, Spotify's recommendation engine pops up a great song, and [Looking Too Closely by Fink](https://www.youtube.com/watch?v=qoWRs7lXtYE) is one of those that came up this week. 
 
-{{< youtube qoWRs7lXtYE > }}
+{{< youtube qoWRs7lXtYE >}}
 
 
 ### Link of the week

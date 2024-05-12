@@ -23,7 +23,7 @@ _Thumbnail image: Clock tower at General Post Office, Sydney. Check it out on my
 * It's kind of a long weekend, due to holiday on Tuesday for [Anzac Day](https://en.wikipedia.org/wiki/Anzac_Day). That said, I'm starting my oncall shift next week, so decided against taking the long weekend and will take the days off maybe sometime mid-May so Jo & I can head back to the Blue Mountains.
 * I resumed playing Divinity: Original Sin 2 again. For the longest time I noticed one of my characters had been missing a lot attacks, and this time I got annoyed enough to went and search for it. Turns out this was because I had a weapon of much higher level than my character. Most RPGs, don't let you equip items that are higher level than you, so this was a surprise for sure. Oh and I published a video of a fight, [so give it a look](https://www.youtube.com/watch?v=izrwQBuxE8U) if you're interested in knowing how combat works in Divinity. 
 
-    {{< tweet 1649684946108416001 >}}
+    {{< tweet sathyabhat 1649684946108416001 >}}
 
     {{< youtube izrwQBuxE8U >}}
 
