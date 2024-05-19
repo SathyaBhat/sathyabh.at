@@ -44,11 +44,12 @@ I was reminded of Keane earlier this week and searching for "Somewhere only we k
 
 [Fossil](https://x.com/Fossiloflife) shared this great [video of James Hoffman](https://www.youtube.com/watch?v=IkssYHTSpH4) talking about "What Does A Great Cup Of Coffee Taste Like?". Love the production quality of the video, though I'm still not quite sure of the answer. 
 
-{{< youtube https://www.youtube.com/watch?v=IkssYHTSpH4 >}}
+{{< youtube IkssYHTSpH4 >}}
+
 
 I saw this post on Reddit about a [guy still holding LAN parties](https://www.reddit.com/r/pcmasterrace/comments/1crado5/in_our_forties_and_still_hosting_our_annual_lan/). What a sight! 
 
-[Glance ](https://github.com/glanceapp/glance)is a self-hosted dashboard that puts all your feeds in one place. I will give this project a try soon. 
+[Glance](https://github.com/glanceapp/glance) is a self-hosted dashboard that puts all your feeds in one place. I will give this project a try soon. 
 
 ### Subscribe to my posts
 
