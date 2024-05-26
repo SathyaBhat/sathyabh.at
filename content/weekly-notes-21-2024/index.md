@@ -9,19 +9,19 @@ url = "/weekly-notes-21-2024/"
 title = "Weekly notes 21/2024"
 date = 2024-05-26T12:00:00Z
 summary = "Week 21 summary - panel member at a conference, trying out a LLM application and more."
-images = ["/weekly-notes-21-2024/thumb-winter.jpg"]
+images = ["/weekly-notes-21-2024/thumb-winter-2024-north-sydney.jpg"]
 +++
 
-![](thumb-winter.jpg)
+![](thumb-winter-2024-north-sydney.jpg)
 
 _Thumbnail image: Leaves on a tree withering and falling off in North Sydney._ 
 
 ### What's been happening
 
-* I attended ServerlessDays ANZ earlier this week. I don't do a lot of direct work with Serverless, but it's always good to learn what people are working on. I did submit a proposal for a talk that was not selected. However, I did get invited to be part of a panel discussion on all things Serverless, Multi-Cloud, and Security and I enjoyed that. 
+* I attended ServerlessDays ANZ earlier this week. It's always good to learn what people are working on. I submitted a talk on AWS App Runner but that did not get selected. However, I did get invited to be part of a panel discussion on all things Serverless, Multi-Cloud, and Security and I enjoyed that. 
     * The talks were pretty OK - generative AI being shoved in is what annoys me, and it was no different here as well. Some talks stood out and personally for me the best of the lot was [Ben Boyter](https://boyter.org/)'s talk about "Abusing Go, AWS Lambda, and bloom filters to make a true Australian serverless search engine". Go [check out his post](https://boyter.org/posts/serverlessdays-anz-2024-content/) which has links to the slides and other reference material.  
 
-* I recently found out that NVIDIA has a demo app that lets us personalize an LLM connected to our content. I gave it a try and to be honest, I wasn't very impressed. That's largely attributed to NVIDIA's claim of being able to use our content, but as I pointed to my meticulously organized files, it failed to parse several documents thus skipping those files completely. For the documents that did get parsed, I had to be very explicit about my questions. Unlike what the [user guide suggests](https://nvidia.custhelp.com/app/answers/detail/a_id/5542), I didn't see a option to select new models - not sure why this is the case since I installed it just last week and was certain it was up to date. Regardless, I will try out reinstalling to see if it's any better and will have a detailed write-up on my [tech blog](https://sathyasays.com).
+* I recently found out that NVIDIA has a demo app called [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) that lets us personalize an LLM connected to our content. I gave it a try and to be honest, I wasn't very impressed. NVIDIA claims that it can use our content and I tested this by pointing to my meticulously organized files. It failed to parse several documents thus skipping those files completely. For the documents that did get parsed, I had to be very explicit about my questions. Unlike what the [user guide suggests](https://nvidia.custhelp.com/app/answers/detail/a_id/5542), I didn't see a option to select new models - not sure why this is the case since I installed it just last week and was certain it was up to date. Regardless, I will try out reinstalling to see if it's any better and will have a detailed write-up on my [tech blog](https://sathyasays.com).
 
 * We're onto our 5th class Guitar class. We've been practicing a little and we've seen gradual improvements. This week's class focused on strumming techniques, and practice on chord progression. I've also realized how difficult it is to change chords - especially since we're new! We've also been practicing how to do melodies, reading the tablature while handling chord changes and moving across strings/frets. It can be quite difficult to do all at once but hopefully, with more practice, we will get better. 
 
