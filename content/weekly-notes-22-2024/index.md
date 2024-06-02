@@ -20,11 +20,11 @@ _Thumbnail image: A view of the Pyrmont Bridge and bay from The Trade Desk Baran
 
 * We almost made a month without going to a concert. *Almost*. Luckily, Jo found out [Boy & Bear](https://en.wikipedia.org/wiki/Boy_%26_Bear) was performing at the State Theatre and couldn't bear to miss one of Australia's most iconic bands. And the concert did not disappoint - it was the 10th anniversary of the release of the [Harlequin Dream album](https://open.spotify.com/album/6gUIDfKhqEk9Bezw7tlubB?si=1dOhhJWVTlWrt1d8AzhdHw), and they played the album, and a few more. Highly recommend watching them live if you get a chance.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" boy-bear-2024-1.jpg" "Boy & Bear" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" boy-bear-2024-5.jpg" "Boy & Bear" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" boy-bear-2024-1.jpg" "Boy & Bear" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" boy-bear-2024-1.jpg" "Boy & Bear" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" boy-bear-2024-1.jpg" "Boy & Bear" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-1.jpg" "Boy & Bear" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-5.jpg" "Boy & Bear" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-2.jpg" "Boy & Bear" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-3.jpg" "Boy & Bear" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-4.jpg" "Boy & Bear" "Weekly Notes" >}}
   
 * This was a busy work week as I had my teammates from the US visiting us here in Sydney. Besides the fully booked meeting days where we talked about our plans, looked back at the past year, had some laughs, and went out for some nice activities
     * One of the activities we did was axe throwing at Maniax Axe Throwing in Marrickville. We went against each other, one-on-one throwing axes (at the target board, not _at_ each other, of course). I think it's fair to say everyone enjoyed it. It was also a lot harder than it looked! Getting the angle, the placement, and the power all need to be just right, or else the accuracy goes for a toss, or the axe is likely to hit the wrong edge and bounce back. We were in for about two hours and have to say the time flew by so fast.
