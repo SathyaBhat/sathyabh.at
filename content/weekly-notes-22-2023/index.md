@@ -15,7 +15,7 @@ images = ["/2023/06/04/weekly-notes-22-2023/thumb-darling-harbour.jpg"]
 ### What's been happening
 
 * We started the week with a concert - something that I booked just two days before! It all began with me sending a message to my brother-in-law, asking him to check out the bass on this [Lanie Lane cover of 'Gold on the Ceiling'](https://www.youtube.com/watch?v=FM1nFz6spEM) by The Black Keys. He's a bass player, so I figured if he hadn't seen it, he'd enjoy the performance. And that led to him telling me that he's heading for the Victor Wooten and The Wooten Brothers gig. As soon as he mentioned that, I started looking for any shows, and incredibly enough, not only was there a show two days later, but the tickets were still available! I wasted no time and bought the tickets right away.
-    * The gig was awesome - the venue was the Manning Bar - and the venue was just perfect for an intimate gig. It was opened by [Frank Sultana](https://www.youtube.com/@franksultanamusic/videos), and then follwed by the Wooten Brothers. It was just incredible to watch them play live. I don't have any words to describe how amazing they were, and neither will the photos/videos do justice to their performance, but here's a small video clip of it.
+    * The gig was awesome - the venue was the Manning Bar - and the venue was just perfect for an intimate gig. It was opened by [Frank Sultana](https://www.youtube.com/@franksultanamusic/videos), and then followed by the Wooten Brothers. It was just incredible to watch them play live. I don't have any words to describe how amazing they were, and neither will the photos/videos do justice to their performance, but here's a small video clip of it.
 
     {{< youtube 5Z8RBqC2HBs >}}
 

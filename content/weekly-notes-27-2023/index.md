@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes",  "gaming"]
+tags = ["weekly-notes",  "gaming", "Diablo IV"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
@@ -13,8 +13,7 @@ images = ["/2023/07/09/weekly-notes-27-2023/thumb-plane-return.jpg"]
 +++
 
 ### What's been happening
-
-* After a three week visit to [Boulder, CO](/2023/06/19/weekly-notes-24-2023/) and [San Francisco, CA](/2023/07/01/weekly-notes-26-2023/), I'm back in Sydney. It's nice to be back after being away for so long. It seems that as I get older, I prefer less travel. The good thing about the return flight was that there was no one in the middle seat, so I was able to relax and sleep more than I usually would.
+After a three-week visit to [Boulder, CO](/2023/06/19/weekly-notes-24-2023/), and [San Francisco, CA](/2023/07/01/weekly-notes-26-2023/), I'm back in Sydney. It's nice to be back after being away for so long. It seems that as I get older, I prefer less travel. The good thing about the return flight was that there was no one in the middle seat, so I was able to relax and sleep more than I usually would.
 * I got a free GPU upgrade! I had been working with a colleague on a recent project. When I met him in SF, we started talking about games and I showed [him pics of the desktop](/setup). He saw I had the 1080 and offered me his [Gefore RTX 2080 Ti Founders Edition](https://www.techpowerup.com/gpu-specs/nvidia-geforce-rtx-2080-ti-founders-edition.b6197). Since then, I have installed the 1080 on Jo's desktop. The 2080 Ti is performing quite well! I've been able to play Diablo IV at 4k Ultra settings, with DLSS set to balanced, yielding over 90 fps.
 
     {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "gpu-1.jpg" "The 2080 Ti in the box" "Weekly Notes" >}}
