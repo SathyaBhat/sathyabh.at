@@ -23,8 +23,8 @@ _Thumbnail image: A view of the Pyrmont Bridge and bay from The Trade Desk Baran
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-1.jpg" "Boy & Bear" "Weekly Notes" >}}
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-5.jpg" "Boy & Bear" "Weekly Notes" >}}
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-2.jpg" "Boy & Bear" "Weekly Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-3.jpg" "Boy & Bear" "Weekly Notes" >}}
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-4.jpg" "Boy & Bear" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "boy-bear-2024-3.jpg" "Boy & Bear" "Weekly Notes" >}}
   
 * This was a busy work week as I had my teammates from the US visiting us here in Sydney. Besides the fully booked meeting days where we talked about our plans, looked back at the past year, had some laughs, and went out for some nice activities
     * One of the activities we did was axe throwing at Maniax Axe Throwing in Marrickville. We went against each other, one-on-one throwing axes (at the target board, not _at_ each other, of course). I think it's fair to say everyone enjoyed it. It was also a lot harder than it looked! Getting the angle, the placement, and the power all need to be just right, or else the accuracy goes for a toss, or the axe is likely to hit the wrong edge and bounce back. We were in for about two hours and have to say the time flew by so fast.
@@ -50,9 +50,9 @@ Between You & Me's cover of Smash Mouth's All Star is very refreshing. Go [check
 
 * A few shoutouts:
     * Check out [Chandni's newsletter](https://cookreja.substack.com/about) about food, easy recipes, and a punny URL to her Substack.
-    * Tejovanth (aka TJ) has started his newsletter about various topics. I've known TJ for quite some time now and I look forward to reading his posts. 
+    * Tejovanth (aka TJ) has started his newsletter about various topics. I've known TJ for quite some time now and I look forward to [reading his posts](https://teejofalltrades.substack.com/). 
     * Vishnu Gopal is another Twitter friend that I've been following for quite some time. Vishnu has been writing his weekly notes that you can follow on [his blog](https://vishnugopal.com/tag/weekly-notes/),
-    * Allan Helton, a fellow AWS Hero has set up a [GoFundMe](https://www.gofundme.com/f/help-olivias-fight-against-leukemia) for his daughter who has been diagnosed with Leukemia. 
+    * [Allan Helton](https://twitter.com/AllenHeltonDev), a fellow AWS Hero has set up a [GoFundMe](https://www.gofundme.com/f/help-olivias-fight-against-leukemia) for his daughter who has been diagnosed with Leukemia. 
 * John Graham-Cumming has a [fascinating blog post](https://blog.jgc.org/) about the wristbands that are used in large concerts, how they light up, how they are controlled, and how he uses Flipper Zero to control them. 
 
 ### Subscribe to my posts
