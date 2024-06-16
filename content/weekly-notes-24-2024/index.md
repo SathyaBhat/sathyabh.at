@@ -27,7 +27,7 @@ _Thumbnail image: Me waiting for our guitar tutor to ask me a few questions._
 
 * We wrapped up the first term of our guitar class. Over the past 8 weeks, we've been learning slowly on different aspects - the technique, the stretches, reading tabs, strumming patterns and this culminated today with a small recording of the class with us performing the chords of "Dreams" by The Cranberries, and the more advanced folks doing the melody for dreams and a couple of more recordings. I look forward to our next term starting in July.
 
-We have tried many different restaurants, but this week we tried a new cuisine - West African! We wanted to have dinner before The Paper Kites concert and I was looking for good restaurants near Enmore. While searching for options, I found this place that has West African cuisine called "[Little Lagos](https://maps.app.goo.gl/t7e6brKRe46GhvC87)". It was a bit expensive, but the food was good. The cuisine was it was quite similar to Indian - we had Jollof Rice (similar to our pulav), Goat Stew, and Fried Plantains that were so similar to Mangalorean Banana Podi, heh. 
+* We have tried many different restaurants, but this week we tried a new cuisine - West African! We wanted to have dinner before The Paper Kites concert and I was looking for good restaurants near Enmore. While searching for options, I found this place that has West African cuisine called "[Little Lagos](https://maps.app.goo.gl/t7e6brKRe46GhvC87)". It was a bit expensive, but the food was good. The cuisine was it was quite similar to Indian - we had Jollof Rice (similar to our pulav), Goat Stew, and Fried Plantains that were so similar to Mangalorean Banana Podi, heh. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "little-lagos-2024-1.jpg" "Food from Little Lagos" "Weekly Notes" >}}
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "little-lagos-2024-2.jpg" "Food from Little Lagos" "Weekly Notes" >}}
@@ -47,7 +47,7 @@ Earlier this week The Raghu Dixit Project announced his new song, and I was blow
 
 {{< youtube zW2T9GWlVnk >}}
 
-I came across a full symphony orchestra by a Korean group FLASIC, [who have performed close](https://www.youtube.com/watch?v=fZA7ARptg0M&list=PL777F6F97DC4ADD07) to two hours of music from Sid Meier's Civilization VI. This is another great listen if you want something pleasing to be playing in the background. 
+I came across a full symphony orchestra by a Korean group FLASIC, [who have performed close](https://www.youtube.com/watch?v=fZA7ARptg0M&list=PL777F6F97DC4ADD07) to two hours of music from Sid Meier's Civilization VI. This is an amazing listen if you want something pleasing to be playing in the background. Props to everyone for a fantastic orchestra - it truly lifted my mood.
 
 {{< youtube fZA7ARptg0M >}}
 
