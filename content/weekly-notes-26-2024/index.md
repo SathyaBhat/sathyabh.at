@@ -8,7 +8,7 @@ series = ["Weekly notes"]
 url = "/weekly-notes-26-2024/"
 title = "Weekly notes 26/2024"
 date = 2024-06-30T12:00:00Z
-summary = "Week 26 summary - meeting some old friends and making new ones."
+summary = "Week 26 summary - meeting an old friend and making a new one."
 images = ["/weekly-notes-26-2024/thumb-st-marys-cathedral-2024.jpg"]
 +++
 
@@ -35,7 +35,7 @@ _Thumbnail image: St Mary’s Cathedral stands on the site of the first Catholic
 
 * I had a fairly busy Saturday - Vijay, an old colleague from 3i Infotech, reached out to me saying he'd be in Sydney and wanted to meet. He was pretty busy through the week and I thought I wouldn't be able to meet, but late Friday he messaged me asking if we could meet on Saturday morning. He was set to depart to the airport by 9:30 am, so had to meet him at 8:30 am. We didn't get to talk for a long time but it was nice to meet. 
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "vijay.jpg" "Meeting Vijay" "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "vks.jpg" "Meeting Vijay" "Weekly Notes" >}}
 
   * In a similar vein, another person from [Rands' Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) was in Sydney and ended up having coffee with [Oliver](https://www.linkedin.com/in/oliver-bock). I found out Oliver runs his own firm BockPress - a WordPress consulting agency (and with a nice name to boot). We talked about different things and walked around Circular Quay for a bit. Overall a good interesting weekend!
 
