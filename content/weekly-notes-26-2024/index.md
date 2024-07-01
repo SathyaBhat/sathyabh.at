@@ -39,7 +39,7 @@ _Thumbnail image: St Mary’s Cathedral stands on the site of the first Catholic
 
   * In a similar vein, another person from [Rands' Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) was in Sydney and ended up having coffee with [Oliver](https://www.linkedin.com/in/oliver-bock). I found out Oliver runs his own firm BockPress - a WordPress consulting agency (and with a nice name to boot). We talked about different things and walked around Circular Quay for a bit. Overall a good interesting weekend!
 
-    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "oliver.jpg" "Meeting Vijay" "Weekly Notes" >}}
+    {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "oliver.jpg" "Meeting Oliver" "Weekly Notes" >}}
 
 * I have a busy couple of weeks ahead: a dental procedure this Monday, a PTE Academic exam to demonstrate my English proficiency that will be provided for my future visa work and I have a two-week visit to the US coming up in the last week of July. 
 * I've been playing some Diablo IV as well, having leveled my Barbarian to level 100 and slowly grinding it out to get the materials to upgrade my items. I completed a Tier 85 pit run and I think that'll be about my limit of Diabo IV for the Barbarian for this season. I still have a couple of non-level 100 characters, and I might pick up the Rogue and get it to 100 as well. I have a [YouTube video](https://www.youtube.com/watch?v=nHdOd6mniS0) about this run, take a look!
