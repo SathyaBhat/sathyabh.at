@@ -66,7 +66,7 @@ That's for some of the interesting food. Will try to keep this section running!
 
 One of the things I love the most about going to live gigs is to find other live versions of them performing and being able to contrast how they played live, or what improvisations they did. So here's a relatively old series of videos that I had no idea existed - Agam's live series of performances called A Dream to Remember. I love that there's a background choir with voices, strings, sitar, or other instruments. Wonderful series of videos. 
 
-{{< youtube zkvNnRjIhPE&list=PL7YnvBzsLo6hO9JJI2C6j39l_XUZgPOph >}}
+{{< youtube "zkvNnRjIhPE&list=PL7YnvBzsLo6hO9JJI2C6j39l_XUZgPOph" >}}
 
 ### Link of the week
 
