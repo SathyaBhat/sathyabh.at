@@ -8,7 +8,7 @@ url = "/alaska-airlines-the-worst-flight-of-my-life/"
 title = "The worst flight I've taken (yet) - thanks, Alaska Airlines"
 date = 2024-07-22T12:00:00Z
 summary = "A recollection of how a short supposedly three-hour flight became the worst flight I've taken (yet)."
-images = ["/weekly-notes-29-2024/thumb-alaska-airlines.jpg"]
+images = ["/alaska-airlines-the-worst-flight-of-my-life/thumb-alaska-airlines.jpg"]
 +++
 
 ### Crowdstruck? Not quite...
