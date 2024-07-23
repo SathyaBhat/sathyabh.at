@@ -5,7 +5,7 @@ tags = ["Hassles", "Travel", "rants"]
 places = ["Seattle"]
 type = "post"
 url = "/alaska-airlines-the-worst-flight-of-my-life/"
-title = "Weekly notes 29/2024"
+title = "The worst flight I've taken (yet) - thanks, Alaska Airlines"
 date = 2024-07-22T12:00:00Z
 summary = "A recollection of how a short supposedly three-hour flight became the worst flight I've taken (yet)."
 images = ["/weekly-notes-29-2024/thumb-alaska-airlines.jpg"]
@@ -13,9 +13,9 @@ images = ["/weekly-notes-29-2024/thumb-alaska-airlines.jpg"]
 
 ### Crowdstruck? Not quite...
 
-For my work, I get to travel a fair bit. Now, it's not like I do one flight a month or something, but I've had a fair share of my flight experiences - missed flights, turburlent flights, skidding tyre-flights, circling-around-forever-flights, I've seen it all. My first international flight was also [one of the most memorable experiences](/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/).  
+For my work, I get to travel a bit. Now, it's not like I do one flight a month or something, but I've had a fair share of my flight experiences - missed flights, turburlent flights, skidding tyre-flights, circling-around-forever-flights, I've seen it all. My first international flight was also [one of the most memorable experiences](/2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/).  
 
-On Sunday, July 21 - I had my flight from Seattle to Denver operated by on Alaska Airlines. I thought it would be a simple flight - [Crowdstrike](https://www.cnn.com/business/live-news/global-outage-intl-hnk#h_c3622dc75519703ce2734d31a98f6a5e)'s effects had settled down, but of course, Murphy had other ideas. I reached the Seattle Aiport about 2 hours prior to departure and spent an hour and half at Brewtop Social, having my lunch. As it got closer to the boarding time, I went over to the gate. Boarding completed pretty smoothly and we were all set to go. 
+On Sunday, July 21 - I had my flight from Seattle to Denver operated by on Alaska Airlines. I thought it would be a simple flight - [Crowdstrike](https://www.cnn.com/business/live-news/global-outage-intl-hnk#h_c3622dc75519703ce2734d31a98f6a5e)'s effects had settled in, but of course, Murphy had other ideas. I reached the Seattle Aiport about 2 hours prior to departure and spent an hour and half at Brewtop Social, having my lunch. As it got closer to the boarding time, I went over to the gate. Boarding completed pretty smoothly and we were all set to go. 
 
 Just then, the flight was initially delayed due to air traffic clearance issues - we were told that there was a violent storm in Denver and thus ATC did not provide the clearance. We also realized there was no airconditioning, and the captain informed us that this is temporary and soon as we take off, the airconditioners were kick in. With Seattle temperatures being more than 35 degrees Celsius it got very hot very fast. 
 
