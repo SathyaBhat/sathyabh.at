@@ -4,9 +4,9 @@ author: Sathyajith Bhat
 type: post
 date: 2008-11-22T04:25:14+00:00
 url: /2008/11/22/experience-of-a-lifetime-the-mumbai-austin-flight/
-
-
-
+places:
+  - Mumbai
+  - Austin
 categories:
   - Travel
 tags:
@@ -14,12 +14,10 @@ tags:
   - Hassles
   - Houston
 
----
+---\
 I've been in couple of flights before but this would be my first International, Intercontinental flight. As in my previous post, the flight was scheduled to depart at 23:40 from Mumbai on Nov 20 and arrive in Newark, New Jersey at 05:25 AM. And then the connecting flight from Newark, NJ to Austin, Texas was scheduled to leave at 07:15 and arrive in  Austin, Texas at 10:25. Like most other things, (surprise, surprise) this too didn't as per plan.
 
 Let me start from scratch.
-
-
 
 Before leaving from Mumbai, I had to get there, that was via the 15:15 flight from Chennai. That flight set the precident for flights ahead, it would seem, for that flight was delayed by half hour. So I reached Mumbai at about 18:30, and by the time I made it to International airport for the mini-tweetip, it was already 19:00. Soon I met up with Manan, Aalaap and Shadez (12-pack bodybuilder, was carrying my 12.5KG baggage all over :O ). We chatted for a bit, and then went for dinner. Aalaap and Shadez wanted to have some beer, I said no at first, but then its hard for a beer lover NOT to drink beer 😀 😉 ) After the dinner, just before heading for checkin met with Mehul and Aditya Sengupta (poor Mehul's bike ran out of fuel, hence the delay).
 
