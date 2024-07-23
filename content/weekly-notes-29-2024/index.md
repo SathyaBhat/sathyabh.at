@@ -14,7 +14,7 @@ images = ["/weekly-notes-29-2024/thumb-heroes.jpg"]
 
 ![](thumb-heroes.jpg)
 
-_Thumbnail image: The AWS Heroes program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community. I was announced as a hero back in 2018_ 
+_Thumbnail image: The AWS Heroes program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community. I was announced as [an AWS Hero](https://aws.amazon.com/blogs/aws/announcing-aws-machine-learning-heroes-plus-new-aws-community-heroes/) back in 2018._ 
 
 ### What's been happening
 
@@ -28,7 +28,7 @@ Wew, what a week. Yes, this week's edition is massively delayed, but we'll get t
 * With the remaining few days, I tried to meet as many people as I could:
     * Met [Gurupanguji](https://mastodon.social/@gurupanguji). I've been following pangu (I promise, I asked him if I can call him this :D) for a while now via [Saurabh](https://100rabh.com/). When I was in Seattle a few months ago, pangu asked if we could meet, but we couldn't do it at that time due to time constraints. This time we did, and it was great to put a face to the name, and had a good series of conversations. Here's to more.
     * I paid a visit to The Trade Desk Bellevue office and met my teammate and had lunch with him.
-    * Went with Karthik and his wife and enjoyed a nice, quiet evening picnic with their daughter at Meydenbauer Bay Park
+    * Went with Karthik and his wife and enjoyed a nice, quiet evening picnic with their daughter at Meydenbauer Bay Park.
     * Finally, went to [Reetesh](https://reetesh.v3r.us/)'s house and spent an amazing 6 hours talking about all things servers, gaming, completely drooling over his OnePiece shrine and amazing entertainment den, and more. 
 
 * I experienced the worst flight I've ever taken (yet). I've written a separate post about this, [have a read here](/alaska-airlines-the-worst-flight-of-my-life/). 
