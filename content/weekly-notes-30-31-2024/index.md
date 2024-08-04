@@ -8,7 +8,7 @@ series = ["Weekly notes"]
 url = "/weekly-notes-31-2024/"
 title = "Weekly notes 31/2024"
 date = 2024-08-04T12:00:00Z
-summary = "Week 31 summary - back in Sydney, a new game, recording hunting yields dividends and more."
+summary = "Week 31 summary - back in Sydney, a new game, vinyl hunting yields dividends and more."
 images = ["/weekly-notes-31-2024/thumb-boulder-marriott.jpg"]
 +++
 
@@ -19,17 +19,17 @@ _Thumbnail image: The Boulder Marriott is a boutique-style and pet-friendly hote
 ### What's been happening
 
 * Ah finally to be back in my own home and on my bed. And yes, I missed last week's weekly notes, and as much as I wanted to write, by the time I got back home, half the week had gone by.
-  * I had a series of flights starting from Denver to Seattle, and then from Seattle to Sydney via Los Angeles. I was supposed to reach Sydney on Monday morning. But of course, as fate would have it, the Sydney to Los Angeles flight was the worst flight ever, making last week's Alaska Airlines flight like child's play. 
+  * I had a series of flights starting from Denver to Seattle and then from Seattle to Sydney via Los Angeles. I was supposed to reach Sydney on Monday morning. But of course, as fate would have it, the Sydney to Los Angeles flight was the worst flight ever, making [last week's Alaska Airlines](/alaska-airlines-the-worst-flight-of-my-life/) flight look like a business-class trip.  
   * Essentially my flight from Saturday was initially delayed by 24 hours to Sunday, and then on Sunday, it was cancelled altogether. Thankfully, I was able to rebook on Qantas and I finally managed to be back in Sydney on Wednesday morning.
 * My week in Boulder was ok. A lot of my colleagues who I wanted to meet were on PTO, so that was a bit of a bummer. To make matters worse, I fell ill on Wednesday, to the extent that I decided to skip work on Thursday because I was feeling pretty weak. I didn't feel like eating anything and remembered that there was a Nepali restaurant near my hotel, and thus I ordered some Daal Tadka, Roti, and Daal Soup. The food was really good, and after having these I felt so much better. 
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dal-rice.jpg" "Rice and Dal was good to settle my stomach." "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dal-rice.jpg" "Rice and Dal was just what I wanted." "Weekly Notes" >}}
 
 * This week marks two years of us moving to Sydney and two years of working at The Trade Desk. Leaving Adobe was not an easy choice but things have been pretty good at The Trade Desk. My work profile is now closer to a mix of consulting and platform engineering and I program now with Typescript - didn't think I'd be working on Javascript but here we are. Overall, it's been a great ride and I look forward to the next few years!
 
   {{< tweet sathyabhat 1815518331551527018 >}}
 
-* The next term of my guitar classes has started again. Technically, they started two weeks ago but because of my travel, I missed the first two sessions. For this term, we're learning Coldplay's Yellow and the melody of Elvis Presley's Love Me Tender.
+* The next term of my guitar classes has started again. It started two weeks ago but because of my travel, I missed the first two sessions. For this term, we're learning Coldplay's Yellow and the melody of Elvis Presley's Love Me Tender.
 * Jo had picked up some records from the nearby second-hand book/record exchange store last week. The store accepts only cash and she didn't have enough cash that day so asked the owner to keep the records aside to come pick up the following week. We went and picked up the records, and just as we exited the store, I saw another person enter the store with a crate full of records. I mentioned this to Jo and said we should check out what they have. And what a decision that was - we picked up several more amazing records, including U2's The Joshua Tree, Dire Straits' Brothers in Arms, and Led Zepplin I and II. The person said he might be having Led Zepplin IV but unfortunately, they did not. Would have been a great addition if they did. Our record collection is now grown to pretty sizable counts and need a better way to collect/catalog the ones that we have. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "new-old-records-vinyl-08-2024-1.jpg" "Van Halen - Jump & Mr Mister - Broken Wings" "Weekly Notes" >}}
