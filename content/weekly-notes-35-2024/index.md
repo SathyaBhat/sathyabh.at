@@ -77,6 +77,9 @@ Julia Gaspar's phenomenal [cover](https://www.youtube.com/watch?v=gssnZl62op4) o
   {{< youtube jdYJf_ybyVo >}}
 ### Link of the week
 
+Sharath from Building Beautifully's publishing more awesome videos than ever. Enjoyed his blindfolded-IRL-geoguesser [episode](https://www.youtube.com/watch?v=M0B_hFBeIJY).
+
+{{< youtube M0B_hFBeIJY >}}
 
 ### Subscribe to my posts
 
