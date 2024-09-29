@@ -33,8 +33,6 @@ _Thumbnail image: White Bay Power Station is the only power station in Sydney th
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sony-trade-show-240929-5.jpg" "Photos from the Sony Trade Show" "Weekly Notes" >}}
 
-
-
 * Another concert this week and our 16th of the year! This was a bit of a weird one: Jo booked the tickets for [Sons of the East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej?si=S-Ey3X1EQa6tsWqzKwczVw) performing at the ICC, only to realize that they were the support artists (along with [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1?si=IeSSoSoyQ-yLS7iX-zWdUw)) for [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM?si=npH7auP7Sa61PvaNQGXxdQ). Might be the first case where we booked a ticket for a support artist without realizing. Oh well, no harm done - we enjoyed all three artists - country music isn't something we listen to a lot but the performances by everyone was fantastic. Can't say the same about the photos below though, heh. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kip-moore-james-johnston-sons-of-the-east-240929-1.jpg" "Kip Moore, James Johnston and Sons of the East" "Weekly Notes" >}}
@@ -50,7 +48,7 @@ _Thumbnail image: White Bay Power Station is the only power station in Sydney th
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kip-moore-james-johnston-sons-of-the-east-240929-6.jpg" "Kip Moore, James Johnston and Sons of the East" "Weekly Notes" >}}
 
 * We completed our New Zealand Visa paperwork and submitted the application. Hopefully, we'll know soon enough whether the visa was approved or not.
-* The upcoming weekend is a long weekend due since Monday's a holiday for Labour Day. We're heading over to [Port Stephens](https://www.portstephens.org.au/). I'm looking forward to the break!
+* The upcoming weekend is a long weekend as Monday is a holiday for Labour Day. We’re heading over to [Port Stephens](https://www.portstephens.org.au/).
 
 ### Music of the Week
 
