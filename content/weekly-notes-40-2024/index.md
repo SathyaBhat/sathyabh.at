@@ -8,7 +8,7 @@ series = ["Weekly notes"]
 url = "/weekly-notes-40-2024/"
 title = "Weekly notes 40/2024"
 date = 2024-10-05T12:00:00Z
-summary = "Week 40 summary - long weekend."
+summary = "Week 40 summary - a long weekend."
 images = ["/weekly-notes-40-2024/thumb-gadigal-the-underneath.jpg"]
 +++
 
@@ -17,8 +17,6 @@ images = ["/weekly-notes-40-2024/thumb-gadigal-the-underneath.jpg"]
 _Thumbnail image: The Underneath are two tiled artworks by Callum Morton marking both entrances of the new Gadigal Metro Station. Pictured here is one of them._ 
 
 ### What's been happening
-
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
 
 * This will be a short post since Jo & I are doing a road trip to Port Stephens, staying in Anna Bay. I'll have a separate longer post about the trip similar to the [Blue Mountains travelogue](/2023/05/07/blue-mountains-day-trip-travelogue/).
 * At work, I found and fixed a minor bug for our  internal "scream testing" tool (scream testing - block/stop something so that we can find out who's using for some really old infrastructure that have no tags etc). When I was testing the tool, I noticed that the tool reported it couldn't successfully block even when it completed the block successfully. After some time of debugging and looking at the code, I realized it was because the notification was looking at a wrong key in the response object in one case and in the other, the response object was not being passed to the arrow function (this is all in Typescript). The fix was quite easy but in my 18 something years of working this is the first time I'm doing a front-end fix (if you exclude the few years of Oracle Forms stuff anyway). Time to add React experience to CV 😂😆.
