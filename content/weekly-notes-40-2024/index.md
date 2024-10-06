@@ -31,7 +31,7 @@ Came across this cover of [Outkast's Hey Ya](https://youtu.be/PWgvGjAhvIw?si=Fnh
 
 ### Link of the week
 
-Ninad tries got resurrect his old Raspeberry Pi purchased in 2013 and hooks it up with a Network Video Recorder(NVR) and a custom LCD screen to stream the video from the cameras. Great [post](https://ninad.pundaliks.in/blog/2024/09/old-pi-gets-a-new-life/) on his struggles to get it up and running and eventual triumph!
+Ninad tries to resurrect his old Raspeberry Pi purchased in 2013 and hooks it up with a Network Video Recorder(NVR) and a custom LCD screen to stream the video from the cameras. Great [post](https://ninad.pundaliks.in/blog/2024/09/old-pi-gets-a-new-life/) on his struggles to get it up and running and eventual triumph!
 
 ### Subscribe to my posts
 
