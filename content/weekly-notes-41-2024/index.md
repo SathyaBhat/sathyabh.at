@@ -19,8 +19,6 @@ _Thumbnail image: The North Sydney Fire Station / Firehouse Hotel is a 1895 heri
 
 ### What's been happening
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
-
 * It was bit hard to get back to work because I was still in vacation mode. We have a long-ish vacation (and visit to India) coming up next month, so looking forward to that.
 * We had our health assessment earlier this for 186 ENS Permanent Residence visa application. The health assessment was pretty brief - fill in a form about history, complete a chest X-Ray, some blood tests and a physical examination. All in all, we completed it in an hour.
   * Along with this, we also got our Medicare cards. I thought we wouldn't be eligible for [Medicare](https://en.wikipedia.org/wiki/Medicare_(Australia)) till our Permanent Residence was approved, but it seems that applying for Permanent Residence is 
@@ -36,21 +34,21 @@ _Thumbnail image: The North Sydney Fire Station / Firehouse Hotel is a 1895 heri
 
 Soko Soko is a small, quick service Japanese/Korean fusion restaurant nearby Eat Street in North Sydney. We went over here last Friday to grab a quick lunch and ordered the Koren Pork poke bowl for me and Jo had the Teriyaki Salad bowl. The food was really good both quality and quantity wise. Highly recommend a visit.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "poke-bowl-241013-1.jpg" "Korean Pork Poke Bowl" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "poke-bowl-241013-2.jpg" "Korean Pork Poke Bowl" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "poke-bowl-241013-2.jpg" "Teriyaki Salad Bowl" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "poke-bowl-241013-1.jpg" "Teriyaki Salad Bowl" "Weekly Notes" >}}
 
 On Saturday, we went to Venn Cafe for brunch. Compared to other cafes, Venn has better food options and the coffee isn't too bad either. I had the Fried Potatoes with Pesto and Poached Eggs, while Jo had the Pumpkin Fritters. I didn't my food that much - the potatoes while nice and crunchy but pretty bland for the most part. Jo's Pumpkin Fritters were really good and would have traded my food for hers pretty bland for the most part. Jo's Pumpkin Fritters were really good and would have traded my food for hers 😆. The coffee was good as always. Worth a revisit to check out the other food options!
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-1.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-2.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-3.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-4.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
-
+  
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-5.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
+  
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-1.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-2.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-6.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
 
