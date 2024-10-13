@@ -21,7 +21,7 @@ _Thumbnail image: The North Sydney Fire Station / Firehouse Hotel is a 1895 heri
 
 * It was bit hard to get back to work because I was still in vacation mode. We have a long-ish vacation (and visit to India) coming up next month, so looking forward to that.
 * We had our health assessment earlier this for 186 ENS Permanent Residence visa application. The health assessment was pretty brief - fill in a form about history, complete a chest X-Ray, some blood tests and a physical examination. All in all, we completed it in an hour.
-  * Along with this, we also got our Medicare cards. I thought we wouldn't be eligible for [Medicare](https://en.wikipedia.org/wiki/Medicare_(Australia)) till our Permanent Residence was approved, but it seems that applying for Permanent Residence is 
+  * Along with this, we also got our Medicare cards. I thought we wouldn't be eligible for [Medicare](https://en.wikipedia.org/wiki/Medicare_(Australia)) till our Permanent Residence was approved, but it seems that applying for Permanent Residency is sufficient for us to apply for and enroll in Medicare. 
 * It's been about a month since I signed up for the gym and I've been going regularly - started with once a week for the first two weeks and now at twice a week. This upcoming week will be the last week at UBX North Sydney - they are shutting down end of week. I still haven't figured out what I will do. Jo went to check out a Muay Thai gym - might considering joining her for that.
 
 
@@ -38,7 +38,7 @@ Soko Soko is a small, quick service Japanese/Korean fusion restaurant nearby Eat
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "poke-bowl-241013-1.jpg" "Teriyaki Salad Bowl" "Weekly Notes" >}}
 
-On Saturday, we went to Venn Cafe for brunch. Compared to other cafes, Venn has better food options and the coffee isn't too bad either. I had the Fried Potatoes with Pesto and Poached Eggs, while Jo had the Pumpkin Fritters. I didn't my food that much - the potatoes while nice and crunchy but pretty bland for the most part. Jo's Pumpkin Fritters were really good and would have traded my food for hers pretty bland for the most part. Jo's Pumpkin Fritters were really good and would have traded my food for hers 😆. The coffee was good as always. Worth a revisit to check out the other food options!
+On Saturday, we went to Venn Cafe for brunch. Compared to other cafes, Venn has better food options and the coffee isn't too bad either. I had the Fried Potatoes with Pesto and Poached Eggs, while Jo had the Pumpkin Fritters. I didn't like my food that much - the potatoes were quite crunchy but pretty bland for the most part. Jo's Pumpkin Fritters were really good and would have traded my food for hers 😆. The coffee was good as always. Worth a revisit to check out the other food options!
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-brunch-241013-3.jpg" "Brunch at Venn Cafe" "Weekly Notes" >}}
 
