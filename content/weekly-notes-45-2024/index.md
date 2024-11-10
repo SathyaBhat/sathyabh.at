@@ -35,9 +35,9 @@ It's also time for our [vacation](/weekly-notes-44-2024/) - Jo and I flew to Man
 
 We had a 5 and half hour layover in Bangalore and spent the time in the VIP section of the 080 Lounge. I was pretty sure none of my existing Indian cards were eligible for lounge access, so went with the paid lounge access since we had a lot of time to kill. The VIP section was expensive (when purchased in INR - about 3500 per person) but worth it - the VIP section was cordoned off from the main section and had plenty of empty space, tables and lounge seats and more importantly, very quiet and good service.The food at the lounge was pretty good and we also had table service and an a la carte menu. I ordered a Mysore masala dosa and filter coffee for myself which Jo ordered a plain dosa and a Kerala Pepper Chicken. 
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blr-080-lounge-241110-1.jpg" "VIP Section of the 080 Lounge" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blr-080-lounge-241110-2.jpg" "VIP Section of the 080 Lounge" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blr-080-lounge-241110-2.jpg" "Mysore Masala Dosa at the 080 Lounge" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blr-080-lounge-241110-3.jpg" "Mysore Masala Dosa at the 080 Lounge" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blr-080-lounge-241110-1.jpg" "The only right way to eat a dosa." "Weekly Notes" >}}
 
