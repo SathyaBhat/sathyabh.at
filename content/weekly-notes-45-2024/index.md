@@ -21,7 +21,15 @@ _Thumbnail image: The new (well, not so new) designed Terminal 2 at Kempegowda I
 
 We started our week with potentially my final concert of the year. Jo has another K-POP artist concert at a later date. We went to see John Butler perform at the City Recital hall. I came across John Butler with his incredibly awesome song Ocean that I have referenced under my prior [Music of the week](/weekly-notes-35-2024/) and to catch him live is not something I would have wanted to miss. John Performed his latest instrumental album, [Still Searching](https://open.spotify.com/album/4rGSui8BAT9L627KTqlZ6t?si=yMtD3lqQTte3MWSXDLIJvA) plus a few other songs including Ocean. To see an amazing guitar player such as John was quite incredible and to have two percussionists join the stage and perform with him was even better. This was one of the most amazing recitals that I have been to yet and would highly recommend checking out his show if you ever get to see him live.
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "john-butler-concert-241110-1.jpg" "John Butler Concert" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "john-butler-concert-241110-2.jpg" "John Butler Concert" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "john-butler-concert-241110-3.jpg" "John Butler Concert" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "john-butler-concert-241110-4.jpg" "John Butler Concert" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "john-butler-concert-241110-5.jpg" "John Butler Concert" "Weekly Notes" >}}
 
 It's also time for our [vacation](/weekly-notes-44-2024/) - Jo and I are flying to Mangalore this Saturday via Bangalore. We'll be in Mangalore for couple of weeks. Looking forward to the break! We flew to Mangalore from Sydney via Bangalore. The onward flight from Sydney to Bangalore was pretty uneventful. We had paid extra for the exit row seats and that made the travel a little bit comfortable. We had a cabin crew member sitting right infront of us and had some interesting conversations with him. He was also curious to know whether we had paid extra for the exit row seats - apparently another traveller was arguing with him on why she couldn't get the exit row seat. I mean, like come on, seat selection is something that you do when you book your ticket, or even later on. Anyway.
 
