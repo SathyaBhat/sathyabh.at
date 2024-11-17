@@ -9,10 +9,10 @@ url = "/weekly-notes-46-2024/"
 title = "Weekly notes 46/2024"
 date = 2024-11-17T12:00:00Z
 summary = "Week 46 summary - relaxing at home and a little bit of drives."
-images = ["/weekly-notes-46-2024/thumb-tannir-bavi-beach-241117.jpg"]
+images = ["/weekly-notes-46-2024/thumb-tannir-bavi-beach-2411.jpg"]
 +++
 
-![](thumb-tannir-bavi-beach-241117.jpg)
+![](thumb-tannir-bavi-beach-2411.jpg)
 
 _Thumbnail image: Sunset from Tannirbavi Beach._ 
 
