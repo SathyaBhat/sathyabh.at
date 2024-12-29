@@ -9,12 +9,12 @@ url = "/weekly-notes-52-2024/"
 title = "Weekly notes 52/2024"
 date = 2024-12-28T12:00:00Z
 summary = "Week 52 summary - vacation cut short and emergency travel back to India."
-images = ["/weekly-notes-52-2024/thumb-.jpg"]
+images = ["/weekly-notes-52-2024/thumb-lake-pukaki.jpg"]
 +++
 
-![](thumb-.jpg)
+![](thumb-lake-pukaki.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: Lake Pukaki is an alpine lake in New Zealand._
 
 ### What's been happening
 
