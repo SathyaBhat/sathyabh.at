@@ -35,12 +35,36 @@ Usually, Mangalore visit for me is a lot of home cooked meals as we barely eat o
 
 Here are the places we visited:
 
-- New Taj Mahal Cafe: one of Mangalore's oldest and most iconic breakfast spots, New Taj Mahal Cafe can get quite crowded especially during weekend mornings. We had idly, vada, theek rotti (similar to Poori Bhaji, but the pooris are done slightly differently), buns and coffee are highly recommended.
-- [Janatha Deluxe, Pathmumudi Soudha](https://maps.app.goo.gl/9ZhiHhQiCPoCiGVD8?g_st=ic):: Another breakfast spot that's popular and can get quite crowded. I had the paper dosa here and was smacked by how big it was. Well worth a visit!
-- [Woodlands Hotel](https://maps.app.goo.gl/maDs9ZCvtZxJyDpHA?g_st=ic): Another iconic restaurant known for their car-side service (be lazy and don't step out of your car while you order and get your food delivered!). I have fond memories of visiting here with my parents for their sunday evening snack session, but we ended up being disappointed after the breakfast food was not quite up to par.
-- [The Liquid Lounge](https://maps.app.goo.gl/QdRc9SCMdjUyVZUy7?g_st=ic): One of Mangalore's most well known resto bars and a place that I have frequented quite a bit during my college days, Liquid Lounge still looks and feels exactly like how it was 18 years ago when I last visited. For food, the chicken steak with pepper sauce and cracking chicken are highly recommended.
-- [Froth on Top](https://maps.app.goo.gl/496JnCy5GHSETPHM6?g_st=ic): Another classic beer cafe by the same folks as Liquid Lounge, Froth on Top welcomes you with an amazing ambience with walls decorated by carciature of Managlorean culture/lifestyle. I've always loved that Froth is on of the few places back during my college days where beer was served in a chill mug and as for the food, highly recommend squid butter garlic and Chicken Keema rice.
-- [Hao Ming](https://maps.app.goo.gl/jMK9RS9Yi4AFr3WW7?g_st=ic): One of the two OG (Indo) Chinese cuisine restaruants of Mangalorev (the other one being Hao Hao), Hao Ming still retains it's old-school charm and the menu from ages back. In terms of food, would highly recommend Thai Crunchy Chicken and the Chef's Special Noodles.
+- [New Taj Mahal Cafe](https://maps.app.goo.gl/Ekqajx4Q3sJWsev87): one of Mangalore's oldest and most iconic breakfast spots, New Taj Mahal Cafe can get quite crowded especially during weekend mornings. We had idly, vada, theek rotti (similar to Poori Bhaji, but the pooris are done slightly differently), buns and coffee are highly recommended.
+- [Janatha Deluxe, Pathmumudi Soudha](https://maps.app.goo.gl/9ZhiHhQiCPoCiGVD8): Another breakfast spot that's popular and can get quite crowded. I had the paper dosa here and was smacked by how big it was. Well worth a visit!
+- [Woodlands Hotel](https://maps.app.goo.gl/maDs9ZCvtZxJyDpHA): Another iconic restaurant known for their car-side service (be lazy and don't step out of your car while you order and get your food delivered!). I have fond memories of visiting here with my parents for their sunday evening snack session, but we ended up being disappointed after the breakfast food was not quite up to par.
+- [The Liquid Lounge](https://maps.app.goo.gl/QdRc9SCMdjUyVZUy7): One of Mangalore's most well known resto bars and a place that I have frequented quite a bit during my college days, Liquid Lounge still looks and feels exactly like how it was 18 years ago when I last visited. For food, the chicken steak with pepper sauce and cracking chicken are highly recommended.
+- [Froth on Top](https://maps.app.goo.gl/496JnCy5GHSETPHM6): Another classic beer cafe by the same folks as Liquid Lounge, Froth on Top welcomes you with an amazing ambience with walls decorated by carciature of Managlorean culture/lifestyle. I've always loved that Froth is on of the few places back during my college days where beer was served in a chill mug and as for the food, highly recommend squid butter garlic and Chicken Keema rice.
+- [Hao Ming](https://maps.app.goo.gl/jMK9RS9Yi4AFr3WW7): One of the two OG (Indo) Chinese cuisine restaruants of Mangalore (the other one being Hao Hao), Hao Ming still retains it's old-school charm and the menu from ages back. In terms of food, would highly recommend Thai Crunchy Chicken and the Chef's Special Noodles.
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "hao-ming-crispy-chicken-2501-1.jpg" "Thai Crunchy Chciken at Hao Ming" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "masala-dosa-vada-2501-1.jpg" "Masala Dosa & Vada" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "liquid-lounge-2501-1.jpg" "Liquid Lounge" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "liquid-lounge-2501-2.jpg" "Liquid Lounge" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "liquid-lounge-2501-3.jpg" "Liquid Lounge" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ntc-poori-theek-rotti-2501-1.jpg" "New Taj Mahal Cafe" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ntc-buns-2501-2.jpg" "New Taj Mahal Cafe" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ntc-masala-dosa-2501-3.jpg" "New Taj Mahal Cafe" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "janatha-deluxe-vada-2501-1.jpg" "Janatha Deluxe" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "janatha-deluxe-paper-dosa-2501-2.jpg" "Janatha Deluxe" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "froth-on-top-2501-1.jpg" "Froth on Top" "Weekly Notes" >}}
+
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "froth-on-top-2501-2.jpg" "Froth on Top" "Weekly Notes" >}}
 
 ### Music of the Week
 
