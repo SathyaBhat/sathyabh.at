@@ -1,27 +1,41 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
-places = "Sydney"
+tags = ["weekly-notes"]
+places = "Mangalore"
 type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-01-2025/"
 title = "Weekly notes 01/2025"
 date = 2025-04-01T12:00:00Z
-summary = "Week 01 summary"
-images = ["/weekly-notes-01-2025/thumb-.jpg"]
+summary = "Week 01 summary - hospital visits and back to Sydney."
+images = ["/weekly-notes-01-2025/thumb-new-tajmahal-cafe.jpg"]
 
 +++
 
-![](thumb-.jpg)
+![](thumb-new-tajmahal-cafe.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: New Taj Mahal Cafe is one of Mangalore's iconic breakfast spots, known to have the best filter coffee. I can attest to that._
 
 ### What's been happening
 
-Welcome to 2025! Hope you folks had a good new year celebration. It's been a patient week for us. Since landing in Mangalore [last week](/weekly-notes-52-2024/), Jo's dad had been moved to the ward and has been getting better slowly. Jo and her mother would stay evening/overnight at the hospital, while her sister & brother-in-law would cover most of the day time. I assumed the driver duties of picking up Jo's mom/her from the hospital, drive them back to the house and then later drop them back at the hospital again. Last checked, I crossed about 190kms of driving, while a hospital trip, drop and return to home is about 5kms. So yeah, a fair bit of city driving. Most of the times, the traffic wasn't too bad - exceptions being Friday afternoon at Aloysious Hill (due the presence of Mosque and Friday prayers - the traffic was heavier than usual) and Saturday afternoon/evening were quite significantly heavy. Before we left Mangalore, I went to over to my sister's house to meet her and my niece for a short time.
+Welcome to 2025! Hope you folks had a good new year celebration. It's been a patient week for us. Since landing in Mangalore [last week](/weekly-notes-52-2024/), Jo's dad condition has improved quite a bit. Jo and her mother would stay evening/overnight at the hospital, while her sister & brother-in-law would cover most of the day time.
 
-We will, however, be heading back to Sydney this weekend. I am supposed to be heading to Denver, Colorado next week for [Palooza](/weekly-notes-05-2024/) but I'm still debating about it.
+I assumed the driver duties of picking up Jo's mom/her from the hospital, drive them back to the house and then later drop them back at the hospital again. Last checked, I crossed about 190kms of driving. A drive to the hospital trip, pick up and return to home is about 5kms. So yeah, a fair bit of city driving in the past two weeks. The traffic wasn't too bad - exceptions being Friday afternoon at Aloysious Hill (due the presence of Mosque and Friday prayers - the traffic was heavier than usual) and Saturday afternoon/evening were quite significantly heavy. Before we left Mangalore, I went to over to my sister's house to meet her and my niece for a short time.
+
+We head back to Sydney this weekend. Usually, I book the Indigo flight from Mangalore to Bangalore and the Qantas flight from Bangalore to Sydney as two separate tickets. Last time when I was in Bangalore I realized Qantas/Indigo are codeshare partners and that I could book a single PNR ticket from Mangalore to Sydney - this saves us from having to handle the baggage ourselves after landing in Bangalore. We'll be reaching Sydney Monday mid-morning and I've already got my PT booked for Monday afternoon.
+
+I thought I'd retain my weight or worse, put on more weight but it seems like the PT effects lingered on and I lost couple of kilos more (whether that is the effect of stress remains to be seen, heh).
+
+While our holiday went in a way that we least expected, it's good to see Jo's dad getting better. I am supposed to be heading to Denver, Colorado next week for [Palooza](/weekly-notes-05-2024/) but I'm still debating about it.
+
+### What I ate
+
+Usually, Mangalore visit for me at least is a lot of home cooked meals but this time, since I was staying at my in-laws' place, we went to a few different places for breakfast and lunch.
+
+Here are the places we visited:
+
+- New Taj Mahal Cafe
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
 
