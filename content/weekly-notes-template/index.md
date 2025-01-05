@@ -5,17 +5,17 @@ tags = ["weekly-notes", "gaming"]
 places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
-url = "/weekly-notes-<<week>>-2024/"
-title = "Weekly notes <<week>>/2024"
-# date = 2024-<<month>>-<<date>>T12:00:00Z
+url = "/weekly-notes-<<week>>-2025/"
+title = "Weekly notes <<week>>/2025"
+# date = 2025-<<month>>-<<date>>T12:00:00Z
 summary = "Week <<week>> summary"
-images = ["/weekly-notes-<<week>>-2024/thumb-.jpg"]
+images = ["/weekly-notes-<<week>>-2025/thumb-.jpg"]
 draft = true
 +++
 
 ![](thumb-.jpg)
 
-_Thumbnail image: ._ 
+_Thumbnail image: ._
 
 ### What's been happening
 
@@ -25,7 +25,13 @@ _Thumbnail image: ._
 
 ### Link of the week
 
+### Thanks for reading. 
 
-### Subscribe to my posts
+Thanks for reading and have a great week ahead.
 
-Till next week. If you enjoyed reading this post, please consider sharing it via the links below and subscribing to the blog. You can subscribe via email using [Substack](https://sathyabhat.substack.com/). If you prefer RSS/news readers, you can [click here](https://sathyabh.at/index.xml) for the feed link. If you prefer to follow only my weekly notes, here's [the RSS feed](https://sathyabh.at/series/weekly-notes/index.xml) for the Weekly Notes series. 
+Subscribe to my weekly notes:
+
+* [Email newsletter](https://sathyabhat.substack.com/)
+* [RSS feed for the weekly notes](https://sathyabh.at/series/weekly-notes/index.xml)
+* [RSS feed for my site](https://sathyabh.at/index.xml)
+
