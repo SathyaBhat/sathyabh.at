@@ -31,13 +31,16 @@ While our holiday went in a way that we least expected, it's good to see Jo's da
 
 ### What I ate
 
-Usually, Mangalore visit for me at least is a lot of home cooked meals but this time, since I was staying at my in-laws' place, we went to a few different places for breakfast and lunch.
+Usually, Mangalore visit for me is a lot of home cooked meals as we barely eat out. This time, since I was staying at my in-laws' place, we went to a few different places for breakfast and lunch.
 
 Here are the places we visited:
 
-- New Taj Mahal Cafe
-
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
+- New Taj Mahal Cafe: one of Mangalore's oldest and most iconic breakfast spots, New Taj Mahal Cafe can get quite crowded especially during weekend mornings. We had idly, vada, theek rotti (similar to Poori Bhaji, but the pooris are done slightly differently), buns and coffee are highly recommended.
+- [Janatha Deluxe, Pathmumudi Soudha](https://maps.app.goo.gl/9ZhiHhQiCPoCiGVD8?g_st=ic):: Another breakfast spot that's popular and can get quite crowded. I had the paper dosa here and was smacked by how big it was. Well worth a visit!
+- [Woodlands Hotel](https://maps.app.goo.gl/maDs9ZCvtZxJyDpHA?g_st=ic): Another iconic restaurant known for their car-side service (be lazy and don't step out of your car while you order and get your food delivered!). I have fond memories of visiting here with my parents for their sunday evening snack session, but we ended up being disappointed after the breakfast food was not quite up to par.
+- [The Liquid Lounge](https://maps.app.goo.gl/QdRc9SCMdjUyVZUy7?g_st=ic): One of Mangalore's most well known resto bars and a place that I have frequented quite a bit during my college days, Liquid Lounge still looks and feels exactly like how it was 18 years ago when I last visited. For food, the chicken steak with pepper sauce and cracking chicken are highly recommended.
+- [Froth on Top](https://maps.app.goo.gl/496JnCy5GHSETPHM6?g_st=ic): Another classic beer cafe by the same folks as Liquid Lounge, Froth on Top welcomes you with an amazing ambience with walls decorated by carciature of Managlorean culture/lifestyle. I've always loved that Froth is on of the few places back during my college days where beer was served in a chill mug and as for the food, highly recommend squid butter garlic and Chicken Keema rice.
+- [Hao Ming](https://maps.app.goo.gl/jMK9RS9Yi4AFr3WW7?g_st=ic): One of the two OG (Indo) Chinese cuisine restaruants of Mangalorev (the other one being Hao Hao), Hao Ming still retains it's old-school charm and the menu from ages back. In terms of food, would highly recommend Thai Crunchy Chicken and the Chef's Special Noodles.
 
 ### Music of the Week
 
@@ -50,6 +53,11 @@ David Bowie's Lets Dance is an iconic song from 1983, but I had no idea the musi
 Jason Cammisa from [Hagerty](https://youtu.be/YffShJxkUyU?si=lhTqux27ZOHaEQV8) has a fabulous video covering a drag race comparison of many cars. What caught my eye was the visuals and the cinematography of the entire video - incredibly well done that hooks you into the content even more.
 
 {{< youtube YffShJxkUyU  >}}
+
+I also found out about Soapbox Racing - a soapbox car is a motorless vehicle which is raced on a downhill road either against the clock or against another competitor. YouTube randomly recommended some videos from Redbull Soapbox Race and I spent a ridiculous amount of time watching them. Enjoy the mayhem. Special shoutout to the commentator who elevates the watching experience with his fabulous commentary! 
+
+{{< youtube xmOMpMRY3mg >}}
+
 
 ### Subscribe to my posts
 
