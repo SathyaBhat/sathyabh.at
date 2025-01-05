@@ -73,7 +73,7 @@ David Bowie's Lets Dance is an iconic song from 1983, but I had no idea the musi
 
 ### Link of the week
 
-Jason Cammisa from [Hagerty](https://youtu.be/YffShJxkUyU?si=lhTqux27ZOHaEQV8) has a fabulous video covering a drag race comparison of many cars. What caught my eye was the visuals and the cinematography of the entire video - incredibly well done that hooks you into the content even more.
+Jason Cammisa from [Hagerty](https://youtu.be/YffShJxkUyU?si=lhTqux27ZOHaEQV8) has a fabulous video covering a drag race comparison of many cars. What caught my eye were the visuals and the cinematography of the entire video - incredibly well done that hooks you into the content even more.
 
 {{< youtube YffShJxkUyU  >}}
 
