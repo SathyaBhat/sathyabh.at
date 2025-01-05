@@ -25,7 +25,13 @@ _Thumbnail image: ._
 
 ### Link of the week
 
-### Subscribe to my posts
+### Thanks for reading. 
 
-Till next week. If you enjoyed reading this post, please consider sharing it via the links below and subscribing to the blog. You can subscribe via email using [Substack](https://sathyabhat.substack.com/). If you prefer RSS/news readers, you can [click here](https://sathyabh.at/index.xml) for the feed link. If you prefer to follow only my weekly notes, here's [the RSS feed](https://sathyabh.at/series/weekly-notes/index.xml) for the Weekly Notes series.
+Thanks for reading and have a great week ahead.
+
+Subscribe to my weekly notes:
+
+* [Email newsletter](https://sathyabhat.substack.com/)
+* [RSS feed for the weekly notes](https://sathyabh.at/series/weekly-notes/index.xml)
+* [RSS feed for my site](https://sathyabh.at/index.xml)
 
