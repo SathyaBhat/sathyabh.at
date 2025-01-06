@@ -25,13 +25,12 @@ _Thumbnail image: ._
 
 ### Link of the week
 
-### Thanks for reading. 
+### Thanks for reading.
 
 Thanks for reading and have a great week ahead.
 
 Subscribe to my weekly notes:
 
-* [Email newsletter](https://sathyabhat.substack.com/)
-* [RSS feed for the weekly notes](https://sathyabh.at/series/weekly-notes/index.xml)
-* [RSS feed for my site](https://sathyabh.at/index.xml)
-
+- [Email newsletter](https://sathyabhat.substack.com/)
+- [RSS feed for the weekly notes](https://sathyabh.at/series/weekly-notes/index.xml)
+- [RSS feed for my site](https://sathyabh.at/index.xml)
