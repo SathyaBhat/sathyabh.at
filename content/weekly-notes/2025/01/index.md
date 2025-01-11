@@ -7,7 +7,7 @@ type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-01-2025/"
 title = "Weekly notes 01/2025"
-date = 2025-04-01T12:00:00Z
+date = 2025-01-04T12:00:00Z
 summary = "Week 01 summary - hospital visits and back to Sydney."
 images = ["/weekly-notes-01-2025/thumb-new-tajmahal-cafe.jpg"]
 
@@ -77,16 +77,16 @@ Jason Cammisa from [Hagerty](https://youtu.be/YffShJxkUyU?si=lhTqux27ZOHaEQV8) h
 
 {{< youtube YffShJxkUyU  >}}
 
-I also found out about Soapbox Racing - a soapbox car is a motorless vehicle which is raced on a downhill road either against the clock or against another competitor. YouTube randomly recommended [some videos from Redbull Soapbox Race](https://youtu.be/xmOMpMRY3mg?si=8KpGDDD3gzt8Yxrw) and I spent a ridiculous amount of time watching them. Enjoy the mayhem. Special shoutout to the commentator who elevates the watching experience with his fabulous commentary! 
+I also found out about Soapbox Racing - a soapbox car is a motorless vehicle which is raced on a downhill road either against the clock or against another competitor. YouTube randomly recommended [some videos from Redbull Soapbox Race](https://youtu.be/xmOMpMRY3mg?si=8KpGDDD3gzt8Yxrw) and I spent a ridiculous amount of time watching them. Enjoy the mayhem. Special shoutout to the commentator who elevates the watching experience with his fabulous commentary!
 
 {{< youtube xmOMpMRY3mg >}}
 
-### Thanks for reading. 
+### Thanks for reading.
 
 Thanks for reading and have a great week ahead.
 
 Subscribe to my weekly notes:
 
-* [EMail newsletter](https://sathyabhat.substack.com/)
-* [RSS feed for the weekly notes](https://sathyabh.at/series/weekly-notes/index.xml)
-* [RSS feed for my site](https://sathyabh.at/index.xml)
+- [EMail newsletter](https://sathyabhat.substack.com/)
+- [RSS feed for the weekly notes](https://sathyabh.at/series/weekly-notes/index.xml)
+- [RSS feed for my site](https://sathyabh.at/index.xml)
