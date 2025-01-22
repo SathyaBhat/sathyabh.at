@@ -21,6 +21,8 @@ _Thumbnail image: ._
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
 
+### What we ate
+
 ### Music of the Week
 
 ### Link of the week
