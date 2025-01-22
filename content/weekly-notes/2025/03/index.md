@@ -1,7 +1,7 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
+tags = ["weekly-notes", "palooza"]
 places = ["Denver", "Sydney"]
 type = "post"
 series = ["Weekly notes"]
@@ -28,35 +28,35 @@ I also met up with fellow AWS Hero [Matthew Bonig](https://matthewbonig.com/). W
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meet-with-matt-bonig.jpg" "Meeting Matt Bonig" "Weekly Notes" >}}
 
-My schedule was packed with sessions/talks during the day and we had dinner events at night, so there wasn't much to do. My teammate wanted to check out the Meow Wolf exhibit in Denver, and I wanted to escape the same old stuff, so I accompanied him to the exhibit, and I am so glad I did. Meow Wolf creates large-scale interactive and immersive art installations with multiple hidden stories, unreal light works and more. 
+My schedule was packed with sessions/talks during the day and we had dinner events at night, so there wasn't much to do. My teammate wanted to check out the Meow Wolf exhibit in Denver, and I wanted to escape the same old stuff, so I accompanied him to the exhibit, and I am so glad I did. Meow Wolf creates large-scale interactive and immersive art installations with multiple hidden stories, unreal light works and more.
 
 The Convergence Station, as the installation is known, covers a large area over three storeys and is presented as an interdimensional transport hub of different planets. Each of the planets has different stories to unravel and secrets to discover. When you walk in, you're transported to a cyberpunk-ish area, and what initially looks like just a bunch of different exhibits gets you hooked in deeper with many secret doors/corridors, scavenger hunts, code unlocks and more. We ended up spending close to two and a half hours. I must admit by this time, I was nearly exhausted and couldn't have gone further (we had only uncovered about half the stories), but you can always get an unlimited pass if you wish to return multiple times (and I suspect if you want to make sense of everything, you'd probably require at least two visits). Just a note that the facility definitely can get you overstimulated (one of the reasons why I got exhausted, apart from the non-stop walks).
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-1.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-1.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-2.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-2.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-3.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-3.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-4.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-4.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-5.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-5.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-6.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-6.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-7.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-7.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-8.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-8.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-9.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "meow-wolf-denver-convergence-250119-9.jpg" "Meow Wolf - Convergence" "Weekly Notes" >}}
 
 Another fun event was Trader 99 and The Bad Impressions - our office band provided the instrumentals while many of my colleagues came about and performed some popular songs. The band played for a couple of hours and then switched over to karaoke for the rest of the night.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "trader-99-250119-1.jpg" "Trader99 And The Bad Impressions" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "trader-99-250119-1.jpg" "Trader99 And The Bad Impressions" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "trader-99-250119-2.jpg" "Trader99 And The Bad Impressions" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "trader-99-250119-2.jpg" "Trader99 And The Bad Impressions" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "trader-99-250119-3.jpg" "Trader99 And The Bad Impressions" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "trader-99-250119-3.jpg" "Trader99 And The Bad Impressions" "Weekly Notes" >}}
 
 After the Trader 99 band performance was done, I went back to the hotel and found out my larger department had organized a private-room karaoke, so went over to the karaoke bar to join them. I did not sing any songs by myself, but I did join in singing along with many others, and it was quite fun.
 
@@ -70,9 +70,9 @@ Once back in Sydney, I cleared immigration and biosecurity pretty fast and spent
 
 Once I made it back to home, Jo & I went to Venn Cafe for brunch, and then to Stanton Library to pick up a few books - couple of Danganronpa: The Animation Manga and Hawking: The Man, the Genius, and the Theory of Everything
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "danganronpa-the-animation-250119-1.jpg" "" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "danganronpa-the-animation-250119-1.jpg" "" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "hawking-250119-2.jpg" "" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "hawking-250119-2.jpg" "" "Weekly Notes" >}}
 
 ### What I Ate
 
@@ -80,27 +80,27 @@ For Palooza, we had breakfast, lunch and dinner provided. However, I hate confer
 
 [Huckleberry Roasters, Denver](https://maps.app.goo.gl/KHTvL8btR7r8yzjh9): Considered as one of the best coffee roasters and coffee shops of Denver and I can see why. Just one sip of the cappuccino was enough to recommend these folks.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "huckleberry-roasters-250119-1.jpg" "Huckleberry Roasters Coffee" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "huckleberry-roasters-250119-1.jpg" "Huckleberry Roasters Coffee" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "huckleberry-roasters-250119-2.jpg" "Huckleberry Roasters Coffee" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "huckleberry-roasters-250119-2.jpg" "Huckleberry Roasters Coffee" "Weekly Notes" >}}
 
 [West Saloon & Kitchen, Denver](https://maps.app.goo.gl/GngcADAPtMnmEnru6): An old-fashioned saloon style eatery with some amazing cocktails and food. This was the first restaurant I was eating at in Denver and ordered an Anejo Old Fashioned and Salmon salad.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "west-saloon-250119-1.jpg" "West Saloon" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "west-saloon-250119-1.jpg" "West Saloon" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "west-saloon-250119-2.jpg" "West Saloon" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "west-saloon-250119-2.jpg" "West Saloon" "Weekly Notes" >}}
 
 [Sushi Den, Denver](https://maps.app.goo.gl/obNh1MphkoY3yVF26): I wasn't really expecting really good seafood in a mountain town, but this sushi place really surprised me both on the quality of the fish as well as the cost(though must admit, Jason covered the bill - thank you!)
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sushi-den-250119-1.jpg" "Sushi Den" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sushi-den-250119-1.jpg" "Sushi Den" "Weekly Notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sushi-den-250119-2.jpg" "Sushi Den" "Weekly Notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sushi-den-250119-2.jpg" "Sushi Den" "Weekly Notes" >}}
 
 [Venn Cafe, North Sydney](https://maps.app.goo.gl/UyqbUAgbbNuhXbym6): By the time I came back home from the airport, it was almost midday so we decided to head over to Venn and have some brunch and coffee. Jo had the iced long black (which was a bit too acidic) while I had a Iced Latte which came as deconstructed (to my surprise). The food was pretty decent as well - I had the bacon egg wrap while Jo had the Caesar salad. No pics were taken of the food as we were too hungry and gobbled it up.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250119-1.jpg" "Venn Cafe" "weekly notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250119-1.jpg" "Venn Cafe" "weekly notes" >}}
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250119-2.jpg" "Venn Cafe" "weekly notes" >}}
+{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250119-2.jpg" "Venn Cafe" "weekly notes" >}}
 
 ### Music of the Week
 
