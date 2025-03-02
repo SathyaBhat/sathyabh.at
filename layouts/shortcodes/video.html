@@ -1,0 +1,11 @@
+<video 
+    width="{{ default "100%" (.Get "width") }}"
+    controls 
+    preload="metadata"
+    {{ with .Get "poster" }}poster="{{ . }}"{{ end }}
+    {{ if eq (.Get "autoplay") "true" }}autoplay{{ end }}
+    playsinline
+>
+    <source src="{{ .Get 0 }}" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
