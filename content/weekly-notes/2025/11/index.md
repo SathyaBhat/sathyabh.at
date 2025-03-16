@@ -86,7 +86,7 @@ I started listening to Blackstrat Blues quite late (only about a few years ago) 
 
 ### Link of the week
 
-Ben Boyter writes about how he ended up building quite possibly one of the largest SQLite databases for a public facing website. Fabulous post which dives into the history of his product, [searchcode.com](https://searchcode.code) and all the changes that have been done since inception.
+Ben Boyter [writes about](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/) how he ended up building quite possibly one of the largest SQLite databases for a public facing website. Fabulous post which dives into the history of his product, [searchcode.com](https://searchcode.code) and all the changes that have been done since inception.
 
 ### Thanks for reading.
 
