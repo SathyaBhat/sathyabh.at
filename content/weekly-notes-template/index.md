@@ -21,6 +21,10 @@ _Thumbnail image: ._
 
 {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
 
+### What I've been playing
+
+### What we watched
+
 ### What we ate
 
 ### Music of the Week
