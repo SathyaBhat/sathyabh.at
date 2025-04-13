@@ -33,8 +33,6 @@ I also met up with a friend from my college days. He works near my office and we
 
 We've got a long weekend coming this weekend for Easter holidays and looking forward to it. We'll be driving down to Canberra for a couple of days and looking forward to it. The next week will be a short week as well due to Anzac day. My gym instructor told me that he plays "Two Up" on Anzac day, and encouraged me to find a local pub and play there. Two Up is a gambling game played in Australia, and is traditionally played on Anzac day. I'm not big on gambling, but it might be fun to check out a local pub and see how mad the crowd gets. On the topic of gym, I'm back to my personal best of 75kg on the dead lift. I had hit this weight [about a month back](/weekly-notes-09-2025/) and then I had to drop down immediately due to it affecting my back. After a few weeks of slow conditioning, improving my form, and working on my stance, this time I was able to hit it with relative ease and I didn't feel any pain. I'm looking to hold this weight for a few weeks before I try to increase it again.
 
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
-
 ### What I've been playing
 
 I've been playing the new league of Path of Exile 2 with the Mercenary class. Grinding Gear Games got a lot of flak for this league due to the various changes implemented, and they've had to do severe damage control, with a patch to change things almost every day for the past week.
