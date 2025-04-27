@@ -7,12 +7,12 @@ type = "post"
 series = ["Exploring Australia"]
 url = "/northern-beaches-day-trip/"
 title = "A Day Trip to the Northern Beaches"
-date = 2025-05-25T12:00:00Z
+date = 2025-04-25T12:00:00Z
 summary = "A day trip to the Northern Beaches of Sydney, Australia. We visited Narrabeen, Mona Vale and Palm Beach."
 images = ["/northern-beaches-day-trip/thumb-mona-vale-headland.jpg"]
 +++
 
-We had a Friday off thanks to Anzac Day. Jo & I went on a short walk around the block. The weather was nice and Jo quipped it would be a really nice day to head to the beach. Since we had nothing to do and our usual GoGet car (a Toyota RAV4) was available, we booked the car. We were still in our workout clothes and had to head back to home, so we walked over to the car, drove it home and parked the car.
+We had a Friday off thanks to Anzac Day. Jo & I went on a short walk around the block. The weather was nice and Jo quipped it would be a really nice day to head to the beach. Since we had nothing to do and our usual GoGet (GoGet is a car rental service that lets us rent a car by the hour) car - a Toyota RAV4 - was available, we booked the car. We were still in our workout clothes and had to head back to home, so we walked over to the car, drove it home and parked the car.
 
 A quick trip to our house, we changed our clothes, put some sunscreen on, filled up our water bottles, stuffed some protein bars, picnic blanket and the other essentials like power bank, cameras and started towards the Northern Beaches. I asked Jo if she had any specific places to visit, she said no, just go for a drive to the Northern Beaches. So we started off, with the first destination set to Narrabeen Rock Pools.
 
