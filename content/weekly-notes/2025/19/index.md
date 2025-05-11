@@ -28,6 +28,16 @@ Another milestone for this week is that I completed 50 workouts at BBB Gym. My t
 
 Our second guitar class went well. This class, we went back to the ABCs - learning to read sheet music starting with A, B, and C notes. We also learnt how sheet music denotes the length of the note (quarter note, half note, whole note etc.) and how to read the notes for rests. Following that, we learnt how to play these notes on the guitar, following the sheet music with changes to beats, notes etc. Individually, the notes were easy to play when when you combine the notes, along with the beats, rests, and trying to make sense of the sheet music, it becomes a bit tricky. As I mentioned [last week](/weekly-notes-18-2025/), Joseph, our instructor, really encourages us to do a lot of improvisation and it feels good when you are let loose to do whatever you want, regardless of how bad it sounds.
 
+Following the guitar class, we went for a small walk around North Sydney, heading over to the Mary Mackillop Chapel in search of a coffee shop - which we realized was attached to the museum/gift shop of the chapel. We skipped this visit and continued to find a coffee shop nearby (St Honores Bakery) and then walked back home, stopping by the near the train station for a nice view of the Sydney skyline & Harbour Bridge.
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-1.jpg" "Sydney Skyline" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-2.jpg" "Sydney Skyline" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-3.jpg" "Sydney Skyline" "Weekly Notes" >}}
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-4.jpg" "Sydney Skyline" "Weekly Notes" >}}
+
 ### What I've been playing
 
 I got tired of Last Epoch's flighty and lackluster gameplay loop and decided to take a break from it for now. With the new season of Diablo IV in progress, I have picked it up. Diablo IV still plays good and pushes all the right buttons to keep you pleased when starting off, but there’s not a lot of depth in the endgame. I’ll play for a bit and then jump back to Path of Exile 2, or maybe even to some single player Civilization VII _also totally ignoring the backlog of games that I have_.
