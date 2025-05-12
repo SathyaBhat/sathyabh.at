@@ -14,7 +14,7 @@ images = ["/weekly-notes-19-2025/thumb-mary-mackilliop-chapel.jpg"]
 
 ![](thumb-mary-mackilliop-chapel.jpg)
 
-_Thumbnail image: Mary Mackillop Chapel was built in 19139 in honour of Australia's first saint - Mary Mackillop._
+_Thumbnail image: Mary Mackillop Chapel was built in 1913 in honour of Australia's first saint - Mary Mackillop._
 
 ### What's been happening
 
