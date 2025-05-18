@@ -28,21 +28,22 @@ $.Scratch.Set "gallery" (.Get 3) }} {{ else }} {{ $.Scratch.Set "gallery" ""}}
 $.Scratch.Get "path" }} {{ if eq $path "date" }} {{ $.Scratch.Set "path" "/img/"
 }} {{ $.Scratch.Add "path" (.Page.Date.Format "2006/01") }} {{ end }} {{ $path
 := $.Scratch.Get "path" }} {{ $file := $.Scratch.Get "file" }} {{ $caption :=
-$.Scratch.Get "caption" }} {{ $gallery := $.Scratch.Get "gallery" }}
+$.Scratch.Get "caption" }} {{ $gallery := $.Scratch.Get "gallery" }} {{ if not
+$gallery }} {{ $gallery = "gallery" }} {{ end }}
 
-<div>
+<div class="fancybox-item">
   <a
-    data-fancybox="gallery"
+    data-fancybox="{{ $gallery }}"
     data-caption="{{ $caption }}"
-    data-src="{{ $path }}/{{ $file }}"
-    href="javascript:;"
-    ><img src="{{ $path }}/{{ $file }}"
-  /></a>
+    href="{{ $path }}/{{ $file }}"
+  >
+    <img src="{{ $path }}/{{ $file }}" loading="lazy" alt="{{ $caption }}" />
+  </a>
   <div class="caption">{{ $caption }}</div>
 </div>
 {{ end }}
+
 <script>
-  Fancybox.bind('[data-fancybox="gallery"]', {
-    //
-  });
+  Fancybox.bind('[data-fancybox]');
 </script>
+<link rel="stylesheet" href="/css/fancybox-masonry.css" />
