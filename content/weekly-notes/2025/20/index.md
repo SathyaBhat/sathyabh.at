@@ -28,7 +28,6 @@ After her appointment, we walked by an Asian seafood market that looked interest
 
 <div class="masonry-gallery">
 
-
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "chatswood-fish-market-250518-1.jpg" "Fish Market at Chatswood" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "chatswood-fish-market-250518-2.jpg" "Fish Market at Chatswood" "Weekly Notes" >}}
@@ -38,8 +37,6 @@ After her appointment, we walked by an Asian seafood market that looked interest
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "chatswood-fish-market-250518-3.jpg" "Fish Market at Chatswood" "Weekly Notes" >}}
 
 </div>
-
-
 On Saturday, we had our usual guitar class which went well. We continued practicing reading and playing to the sheet music, some quick improvs and learnt the how to play the second part of the riff of Norah Jones’ [Shoot the Moon](https://www.youtube.com/watch?v=CRSQTC2S-y0).
 
 {{< youtube CRSQTC2S-y0 >}}
@@ -95,12 +92,12 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-north-spoon-250518-4.jpg" "Brunch at The North Spoon" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-north-spoon-250518-5.jpg" "Brunch at The North Spoon" "Weekly Notes" >}}
-</div>
+
+ </div>
 
 [Yurica, North Sydney](https://maps.app.goo.gl/ikqTqQbpcXFnCFRK7) - It was Wednesday evening and neither of us felt like cooking something, so went to this Japanese restaurant which was nearby our house. We had the renkon chips and I ordered the ramen for myself. Just as the food was delivered, I was awestruck by the size of it. The ramen had a nice tangy kick and wasn’t as thick as I thought it would be. Jo ordered the katsu curry for herself. Overall, a good place to visit.
 
 <div class="masonry-gallery">
-
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "yurica-250518-1.jpg" "Dinner at Yurica" "Weekly Notes" >}}
 
