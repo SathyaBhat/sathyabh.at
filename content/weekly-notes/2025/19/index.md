@@ -30,6 +30,8 @@ Our second guitar class went well. This class, we went back to the ABCs - learni
 
 Following the guitar class, we went for a small walk around North Sydney, heading over to the Mary Mackillop Chapel in search of a coffee shop - which we realized was attached to the museum/gift shop of the chapel. We skipped this visit and continued to find a coffee shop nearby (St Honores Bakery) and then walked back home, stopping by the near the train station for a nice view of the Sydney skyline & Harbour Bridge.
 
+<div class="masonry-gallery">
+
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-1.jpg" "Sydney Skyline" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-2.jpg" "Sydney Skyline" "Weekly Notes" >}}
@@ -37,6 +39,8 @@ Following the guitar class, we went for a small walk around North Sydney, headin
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-3.jpg" "Sydney Skyline" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "north-sydney-skyline-250511-4.jpg" "Sydney Skyline" "Weekly Notes" >}}
+
+</div>
 
 ### What I've been playing
 

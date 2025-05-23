@@ -1,0 +1,37 @@
+/* Masonry gallery styles for fancybox shortcode */
+.masonry-gallery {
+  column-count: 3;
+  column-gap: 1.5rem;
+  width: 100%;
+  margin: 2rem 0;
+}
+.masonry-gallery .fancybox-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 1.5rem;
+  break-inside: avoid;
+}
+.masonry-gallery img {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+}
+.masonry-gallery img:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+}
+.masonry-gallery .caption {
+  text-align: center;
+  font-size: 0.95em;
+  color: #666;
+  margin-top: 0.5em;
+}
+@media (max-width: 900px) {
+  .masonry-gallery { column-count: 2; }
+}
+@media (max-width: 600px) {
+  .masonry-gallery { column-count: 1; }
+}

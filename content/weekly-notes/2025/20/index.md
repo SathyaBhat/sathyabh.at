@@ -26,6 +26,8 @@ From a work perspective, most of my time was spent rolling out some of the infra
 
 After her appointment, we walked by an Asian seafood market that looked interesting, and they had silver pomfret - a fish that we used to have quite a bit back in India. We bought couple of these, went over to the nearby butcher, bought some meat and we had enough to last the week. We should have come to these places before; they had some good quality meat & fish available. Jo made a pan-fry with the fish for the night.
 
+<div class="masonry-gallery">
+
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "chatswood-fish-market-250518-1.jpg" "Fish Market at Chatswood" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "chatswood-fish-market-250518-2.jpg" "Fish Market at Chatswood" "Weekly Notes" >}}
@@ -34,6 +36,7 @@ After her appointment, we walked by an Asian seafood market that looked interest
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "chatswood-fish-market-250518-3.jpg" "Fish Market at Chatswood" "Weekly Notes" >}}
 
+</div>
 On Saturday, we had our usual guitar class which went well. We continued practicing reading and playing to the sheet music, some quick improvs and learnt the how to play the second part of the riff of Norah Jones’ [Shoot the Moon](https://www.youtube.com/watch?v=CRSQTC2S-y0).
 
 {{< youtube CRSQTC2S-y0 >}}
@@ -62,6 +65,8 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
 
 [Ebisu, Chatswood](https://maps.app.goo.gl/QXVW5oAwB6vLhuHn7) - We went here after a restaurant Jo had originally selected was closed for maintenance. We were greeted very warmly with a nice “*Irasshai mase*“ (Japanese for welcome to the establishment!). I initially thought of getting some bbq but it was midday on a Monday and we had to return home to get back to our work so we decided to order the bento boxes which come with some renkon chips and kimchi. The food was again really good - well done meat and the sides were pretty good. The place was quite empty - sure it’s Monday mid-day but was expecting at least a few people. That said, definitely worth revisiting for a BBQ dinner here.
 
+<div class="masonry-gallery">
+
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ebisu-250518-1.jpg" "Lunch at Ebisu" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ebisu-250518-2.jpg" "Lunch at Ebisu" "Weekly Notes" >}}
@@ -72,7 +77,11 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "ebisu-250518-5.jpg" "Lunch at Ebisu" "Weekly Notes" >}}
 
+</div>
+
 [The North Spoon, McMahons Point](https://maps.app.goo.gl/SSM3vCVgpbPaWbN39) - A small busy coffee shop. It took them a while to acknowledge and get our orders in, and I was slightly annoyed by that especially since there were people besides us who were getting their orders in while we were like “hello?”. Anyway they apologized for their tardiness and got our orders in. Jo ordered the Roast Pork Focaccia while I ordered a Chilli Crunch Scramble (scrambled egg with chilli oil crunchy bits) along with our usual coffee orders. The Roast Pork Focaccia was quite good, but the scrambled eggs were let down by bland taste. We also ordered a orange poppy cake which made up for the scrambled eggs and was really delicious. While I was definitely annoyed by the initial service (or lack of it), we probably will pay a visit back.  
+
+<div class="masonry-gallery">
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-north-spoon-250518-1.jpg" "Brunch at The North Spoon" "Weekly Notes" >}}
 
@@ -84,7 +93,11 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-north-spoon-250518-5.jpg" "Brunch at The North Spoon" "Weekly Notes" >}}
 
+ </div>
+
 [Yurica, North Sydney](https://maps.app.goo.gl/ikqTqQbpcXFnCFRK7) - It was Wednesday evening and neither of us felt like cooking something, so went to this Japanese restaurant which was nearby our house. We had the renkon chips and I ordered the ramen for myself. Just as the food was delivered, I was awestruck by the size of it. The ramen had a nice tangy kick and wasn’t as thick as I thought it would be. Jo ordered the katsu curry for herself. Overall, a good place to visit.
+
+<div class="masonry-gallery">
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "yurica-250518-1.jpg" "Dinner at Yurica" "Weekly Notes" >}}
 
@@ -100,7 +113,12 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "yurica-250518-7.jpg" "Dinner at Yurica" "Weekly Notes" >}}
 
+</div>
+
+
 [The Momos Hub, Sydney CBD](https://maps.app.goo.gl/gNXo743hrh8pCtGh7) - The Momos Hub is easy to miss as it’s actually located in the basement but following the directions takes you down the stairs to the restaurant to reveal a pretty large place. There’s barely any front of the house staff for a restaurant this size but they are pretty efficient. We ordered the egg thukpa, paneer chilli and steamed chicken momos. The momos were really good, the chutney accompanying them was just perfect. The thukpa was exactly what we wanted for a cold Sydney winter evening, and the paneer chilli was incredibly hot, more than I thought it would be. The quantity was also quite good and we ended up packing the thukpa and paneer chilli to take it back home. 
+
+<div class="masonry-gallery">
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "momo-hub-250518-1.jpg" "Dinner at The Momos Hub" "Weekly Notes" >}}
 
@@ -118,7 +136,11 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "momo-hub-250518-8.jpg" "Dinner at The Momos Hub" "Weekly Notes" >}}
 
+</div>
+
 [Mumbaicha Vadapav, Paramatta](https://maps.app.goo.gl/qb4jER7FBTsaTGEu5) - Probably the first time we’re starting early to reach a restaurant, Mumbaicha Vadapav was suggested by our guitar class friends - they told us that this place has unlimited Marathi buffet for breakfast. We reached there at 9am, just as the restaurant had opened up and had quite a few people already dining. The breakfast buffet gives you a fair bit of food options - misal pav, kothimbir vadi, batata vada, sabudana vada, kachori, kanda poha, fried chillies, kokam sharbat, aam panna and puran poli. We tried all of this (except the sharbat and aam panna) and loved most of the food. They all were done well, quite delicious and the spice/heat levels were quite good. The puranpoli wasn’t as sweet as I thought it would be but was good nonetheless. At $25 per person for the buffet, I think it’s a good value meal and was good enough for us to skip lunch! 
+
+<div class="masonry-gallery">
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "mumbaicha-vada-pav-250518-1.jpg" "Breakfast at Mumbaicha Vadapav" "Weekly Notes" >}}
 
@@ -127,6 +149,8 @@ Foundation, Season 2 - Things are finally getting more chaotic and action-orient
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "mumbaicha-vada-pav-250518-3.jpg" "Breakfast at Mumbaicha Vadapav" "Weekly Notes" >}}
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "mumbaicha-vada-pav-250518-4.jpg" "Breakfast at Mumbaicha Vadapav" "Weekly Notes" >}}
+
+</div>
 
 ### Music of the Week
 
