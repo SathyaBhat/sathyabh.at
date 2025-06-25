@@ -8,7 +8,7 @@ type = "post"
 series = ["Exploring Australia"]
 url = "/kiama-day-trip/"
 title = "Kiama Travelogue"
-date = 2025-05-25T12:00:00Z
+date = 2025-06-25T12:00:00Z
 summary = ""
 images = ["/northern-beaches-day-trip/thumb-.jpg"]
 +++
@@ -83,7 +83,7 @@ By the time we were done with these sightseeing, it was close to 1:30 and we rea
 
 ### KG Cafe
 
-KG Cafe is a South African Cafe serving traditional South African dishes such as Bunny Chow, Bobotie, Boerewors, Great Gatsby, Koeksisters and many more traditional dishes. A lot of the dishes seem to be Indian inspired going by the description of the food. All of them looked really good, so we ordered the South African Tasting Board which had a selection of dishes including the Bunny Chow, Bobotie, Vetkoek and more. The most amazing thing was the chef who came out to deliver the food was a Bangalorian - a Malleshwaram _huduga_ and we spoke a bit in Kannada. The food was really good, and we were so stuffed that we did not end up eating dinner!
+KG Cafe is a South African Cafe serving traditional South African dishes such as Bunny Chow, Bobotie, Boerewors, Great Gatsby, Koeksisters and many more traditional dishes. A lot of the dishes seem to be Indian inspired going by the description of the food. All of them looked really good, so we ordered the South African Tasting Board which had a selection of dishes including the Bunny Chow, Bobotie, Vetkoek and more. The most amazing thing was the chef who came out to deliver the food was a Bangalorean - a Malleshwaram _huduga_ and we spoke a bit in Kannada. The food was really good, and we were so stuffed that we did not end up eating dinner!
 
 <div class="masonry-gallery">
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kg-cafe-250621-1.jpg" "Lunch at KG Cafe" "Kiama Daytrip" >}}
