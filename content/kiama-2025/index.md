@@ -14,7 +14,7 @@ images = ["/northern-beaches-day-trip/thumb-.jpg"]
 
 A few weeks back, we had a lazy weekend and Jo asked if we could do a day trip somewhere. Last year, when Jo's cousins were over, we did a trip to [Bowral](/weekly-notes-13-2024/), and while returning, we drove by Kiama. Unfortunately, we were already late and didn't have time to explore the town back then. We decided to make a day trip to Kiama to check out the town.
 
-The trip also gave me a chance to try out the Haval Jolion Pro HEV (and I wasn't too impressed with it – more on another post). Our trip started with us booking the car. I wasn't sure how long we'd take, so we booked the car on GoGet for 8 hours. The Haval Jolion was parked at Crow's Nest, near Moon Phase cafe, so we decided to head to the cafe for a quick breakfast, pick up coffee, and start driving towards Kiama.
+The trip also gave me a chance to try out the Haval Jolion Pro HEV (and I wasn't too impressed with it – see the section below). Our trip started with us booking the car. I wasn't sure how long we'd take, so we booked the car on GoGet for 8 hours. The Haval Jolion was parked at Crow's Nest, near Moon Phase cafe, so we decided to head to the cafe for a quick breakfast, pick up coffee, and start driving towards Kiama.
 
 ### Moon Phase
 
@@ -28,12 +28,6 @@ I've written about Moon Phase [previously](/weekly-notes-17-2025/) – it's a sm
 </div>
 
 The Haval was parked just outside the cafe, so we didn't have to walk far. Seated in the car, I did my usual driver adjustments, Jo started our road trip playlist, and we started off. Since this was a car I had never driven before, it took me a good half hour or so to get familiar with the acceleration, braking, adjusting the cruise control, and other such idiosyncrasies of the car.
-
-<div class="masonry-gallery">
-  {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-1.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-2.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-3.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
-</div>
 
 
 Once settled in, the rest of the ride to Kiama was smooth and comfortable. We took the M1 motorway – and that did mean we reached Kiama in about two hours. However, the M1 skips the Grand Pacific Drive and Sea Cliff Bridge – but that's okay, we'll do that route some other time.
@@ -107,6 +101,27 @@ Bellies full, I picked up one more coffee for the road, walking back to the car,
 ### Bombo Headland
 
 Once we were back in our car, it was time to head back home. But before that, we had one final stop – Bombo Headland Quarry & Geological Site. A vast open area and former quarry, Bombo offers some spectacular basalt columns that make for some really good photographs. You can also have a really nice long walk, climbing down from the top of the cliffs to the ocean level. It was already pretty late and sunlight was fading away, so we didn't get to do any walks – just stood there for a bit, checking out the ocean views, and headed back to the car to start driving towards Sydney to wrap up an amazing day.
+
+### Thoughts on the Haval Jolion
+
+As mentioned above, one of the reasons to take this trip was that I wanted to try out the Haval Jolion. Now, I'm not buying a car right away, but it's good to do some long-distance test drives – probably the best way to understand the car better. The Haval Jolion is a small-sized SUV. The one that we rented is a hybrid – it comes with a small battery pack that powers the electric engine for a short distance or at slower speeds.
+
+<div class="masonry-gallery">
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-1.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-2.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-3.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
+</div>
+
+The Haval Jolion was a comfortable car to sit in. The seats were quite supportive. Design-wise, it doesn't look too bad, but wasn't anything spectacular. The car was okay to drive – being a hybrid, it was quite silent for the most part, but occasionally the petrol engine would kick in, which wasn't too loud either – as long as you were not going uphill.
+
+The moment you start applying throttle, the roughness and loudness of the engine kick in, and not in a very nice way. My main frustrations with the car were:
+
+* Annoying 'safety aids': the number one cause of my stress while driving was the Haval's really annoying, ridiculous safety aids. The Haval comes with a driver monitoring setup which barks at you with inane prompts like "Hey don't stray" a lane keeping assist that is extremely sensitive and throws a big "Emergency Lane," "Keeping activated" (in separate lines), which makes absolutely no sense, and a bong or beep every few minutes – it was just so annoying. These safety aids are more likely to be a huge distraction than a safety aid.
+* No physical buttons – I know Tesla's UI looks funky and stuff, but not having any physical dials for aircon is a nightmare, especially when the 'safety aids' mentioned above don't let you change it easily.
+* Weird steering column controls – I legit thought the steering column controls were broken because it didn't let me switch to see fuel economy or the currently playing music on the heads-up display. I found out much later that I either have to disable the lane keeping assistance, or do an arcane incantation of holding the "OK button" for a few seconds, and then use the "back" button to navigate through the options. What a bizarre setup!
+* Bad sound system – the sound system was just bad. The music sounded very hollow and tinny. I mean, I am no audiophile, but yeah, it was exceptionally poor.
+
+This doesn't mean I hated the car – it was just fine, but could have been so much better.
 
 ### Maps & stats
 
