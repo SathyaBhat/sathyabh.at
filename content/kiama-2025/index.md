@@ -12,13 +12,13 @@ summary = "A daytrip to the southern coastal town of Kiama."
 images = ["/northern-beaches-day-trip/thumb-.jpg"]
 +++
 
-A few weeks back, we had a lazy weekend and Jo asked if we could do a day trip somewhere. Last year, when Jo's cousins were over, we did a trip to [Bowral](/weekly-notes-13-2024/), and while returning, we drove by Kiama. Unfortunately, we were already late and didn't have time to explore the town back then. We decided to make a day trip to Kiama to check out the town.
+A few weeks back, we had a lazy weekend and Jo asked if we could do a day trip somewhere. Last year, when Jo's cousins were over, we did a trip to [Bowral](/kiama-13-2024/), and while returning, we drove by Kiama. Unfortunately, we were already late and didn't have time to explore the town back then. We decided to make a day trip to Kiama to check out the town.
 
 The trip also gave me a chance to try out the Haval Jolion Pro HEV (and I wasn't too impressed with it – see the section below). Our trip started with us booking the car. I wasn't sure how long we'd take, so we booked the car on GoGet for 8 hours. The Haval Jolion was parked at Crow's Nest, near Moon Phase cafe, so we decided to head to the cafe for a quick breakfast, pick up coffee, and start driving towards Kiama.
 
 ### Moon Phase
 
-I've written about Moon Phase [previously](/weekly-notes-17-2025/) – it's a small little cafe that makes some seriously amazing pastries that are so amazingly crunchy. We picked a pastry each to eat at the cafe and then a couple of coffees for the road.
+I've written about Moon Phase [previously](/kiama-17-2025/) – it's a small little cafe that makes some seriously amazing pastries that are so amazingly crunchy. We picked a pastry each to eat at the cafe and then a couple of coffees for the road.
 
 <div class="masonry-gallery">
 
@@ -89,12 +89,12 @@ KG Cafe is a South African cafe serving traditional South African dishes such as
 Bellies full, I picked up one more coffee for the road, walking back to the car, passing by several of Kiama's heritage-listed buildings – including the Post Office, Courthouse, Council Chambers, and a building that Jo and I called the "Dracula House".
 
 <div class="masonry-gallery">
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "exploring-kiama-250621-1.jpg" "'Dracula' House" "Exploring Kiama Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "exploring-kiama-250621-2.jpg" "Court House" "Exploring Kiama Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "exploring-kiama-250621-3.jpg" "Court House" "Exploring Kiama Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "exploring-kiama-250621-4.jpg" "Court House" "Exploring Kiama Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "exploring-kiama-250621-5.jpg" "Kiama Post Office" "Exploring Kiama Notes" >}}
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "exploring-kiama-250621-6.jpg" "Fire Station" "Exploring Kiama Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "exploring-kiama-250621-1.jpg" "'Dracula' House" "Exploring Kiama Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "exploring-kiama-250621-2.jpg" "Court House" "Exploring Kiama Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "exploring-kiama-250621-3.jpg" "Court House" "Exploring Kiama Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "exploring-kiama-250621-4.jpg" "Court House" "Exploring Kiama Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "exploring-kiama-250621-5.jpg" "Kiama Post Office" "Exploring Kiama Notes" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/kiama" "exploring-kiama-250621-6.jpg" "Fire Station" "Exploring Kiama Notes" >}}
 </div>
 
 
