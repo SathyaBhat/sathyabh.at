@@ -104,7 +104,7 @@ Once we were back in our car, it was time to head back home. But before that, we
 
 ### Thoughts on the Haval Jolion
 
-As mentioned above, one of the reasons to take this trip was that I wanted to try out the Haval Jolion. Now, I'm not buying a car right away, but it's good to do some long-distance test drives – probably the best way to understand the car better. The Haval Jolion is a small-sized SUV. The one that we rented is a hybrid – it comes with a small battery pack that powers the electric engine for a short distance or at slower speeds.
+As mentioned above, one of the reasons to take this trip was I wanted to try out the Haval Jolion. Now I'm not buying a car right away, but it's good to do some long distance test drives - probably the best way to understand the car better. The Haval Jolion is a small size SUV. The one that we rented is a hybrid - it comes with a small battery pack that powers the electric engine for a short distance / at slower speeds. 
 
 <div class="masonry-gallery">
   {{< fancybox "https://i.sathyabh.at/sb/kiama" "haval-jolion-hev-250621-1.jpg" "Haval Jolion Pro HEV - our car for the trip" "Haval Jolion Pro" >}}
@@ -116,7 +116,7 @@ The Haval Jolion was a comfortable car to sit in. The seats were quite supportiv
 
 The moment you start applying throttle, the roughness and loudness of the engine kick in, and not in a very nice way. My main frustrations with the car were:
 
-* Annoying 'safety aids': the number one cause of my stress while driving was the Haval's really annoying, ridiculous safety aids. The Haval comes with a driver monitoring setup which barks at you with inane prompts like "Hey don't stray" a lane keeping assist that is extremely sensitive and throws a big "Emergency Lane," "Keeping activated" (in separate lines), which makes absolutely no sense, and a bong or beep every few minutes – it was just so annoying. These safety aids are more likely to be a huge distraction than a safety aid.
+* Annoying 'safety aids': the number one cause of my stress while driving was the Haval's really annoying, ridiculous safety aids. The Haval comes with a driver monitoring setup which barks at you with inane prompts like "Hey don't stray," a lane keeping assist that is extremely sensitive and throws a big "Emergency Lane," "Keeping activated" (in separate lines), which makes absolutely no sense, and a bong or beep every few minutes – it was just so annoying. These safety aids are more likely to be a huge distraction than a safety aid.
 * No physical buttons – I know Tesla's UI looks funky and stuff, but not having any physical dials for aircon is a nightmare, especially when the 'safety aids' mentioned above don't let you change it easily.
 * Weird steering column controls – I legit thought the steering column controls were broken because it didn't let me switch to see fuel economy or the currently playing music on the heads-up display. I found out much later that I either have to disable the lane keeping assistance, or do an arcane incantation of holding the "OK button" for a few seconds, and then use the "back" button to navigate through the options. What a bizarre setup!
 * Bad sound system – the sound system was just bad. The music sounded very hollow and tinny. I mean, I am no audiophile, but yeah, it was exceptionally poor.
@@ -134,3 +134,5 @@ We drove a total of 273 km.
 ### Video
 
 Much like our previous trip, I captured a lot of videos on my Insta360 Go 3S and made a video out of the trip. Enjoy. Till the next trip!
+
+{{< youtube ctmctyMdl34 >}}
