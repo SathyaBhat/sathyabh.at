@@ -64,7 +64,6 @@ We walked closer towards the Kiama Seaside Markets. The market was buzzing and q
 From here, we decided to head over to the Kiama Blowhole – arguably, Kiama's most famous and iconic spot. Kiama Blowhole is apparently the largest in the world and shoots up water through the 2.5-metre opening in the rocks to as high as 30 metres. The blowhole has many different viewing points, but I think the best one was the point that's just after the first level of steps. The level that the water plume reaches through the blowhole can vary depending on weather, wind, tide, and more. We didn't have to wait long before seeing the water shoot through, and while it wasn't as high as what we'd seen in some of the pictures, it was nonetheless quite spectacular. After walking around for a bit here, we went over to the Little Blowhole, which is less famous, but I found it to be a lot more spectacular.
 
 <div class="masonry-gallery">
-  {{< fancybox "https://i.sathyabh.at/sb/kiama" "kiama-lighthouse-blowhole-250621-1.jpg" "Kiama Blowhole and Lighthouse" "Kiama Lighthouse" >}}
   {{< fancybox "https://i.sathyabh.at/sb/kiama" "kiama-lighthouse-blowhole-250621-2.jpg" "Kiama Blowhole and Lighthouse" "Kiama Lighthouse" >}}
   {{< fancybox "https://i.sathyabh.at/sb/kiama" "kiama-lighthouse-blowhole-250621-3.jpg" "Kiama Blowhole and Lighthouse" "Kiama Lighthouse" >}}
   {{< fancybox "https://i.sathyabh.at/sb/kiama" "kiama-lighthouse-blowhole-250621-4.jpg" "Kiama Blowhole and Lighthouse" "Kiama Lighthouse" >}}
