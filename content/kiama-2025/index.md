@@ -7,9 +7,9 @@ type = "post"
 series = ["Exploring Australia"]
 url = "/kiama-day-trip/"
 title = "Kiama Travelogue"
-date = 2025-06-25T12:00:00Z
+date = 2025-06-29T12:00:00Z
 summary = "A daytrip to the southern coastal town of Kiama."
-images = ["/northern-beaches-day-trip/thumb-.jpg"]
+images = ["/northern-beaches-day-trip/thumb-kiama.jpg"]
 +++
 
 A few weeks back, we had a lazy weekend and Jo asked if we could do a day trip somewhere. Last year, when Jo's cousins were over, we did a trip to [Bowral](/kiama-13-2024/), and while returning, we drove by Kiama. Unfortunately, we were already late and didn't have time to explore the town back then. We decided to make a day trip to Kiama to check out the town.
