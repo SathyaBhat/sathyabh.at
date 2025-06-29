@@ -36,6 +36,20 @@ url = "/subscribe"
 weight = 20
 
 [[footer]]
+
+name = "Weekly Notes"
+identifier = "weekly-notes"
+url = "/series/weekly-notes/"
+weight = 2
+
+[[footer]]
+
+name = "Travelogues"
+identifier = "travelogues"
+url = "/categories/travel/"
+weight = 3
+
+[[footer]]
 name = "Categories"
 identifier = "categories"
 url = "/categories/"
