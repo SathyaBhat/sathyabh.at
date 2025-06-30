@@ -7,7 +7,7 @@ type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-26-2025/"
 title = "Weekly notes 26/2025"
-date = 2025-06-29T12:00:00Z
+date = 2025-06-30T12:00:00Z
 summary = "Week 26 summary - gym woes, work works, and more."
 images = ["/weekly-notes-26-2025/thumb-blues-point-hotel.jpg"]
 
