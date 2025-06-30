@@ -69,7 +69,6 @@ Our Sunday morning started with a nice walk to the Blues Point Reserve. Blues Po
  
 <div class="masonry-gallery">
 
- {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-1.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-2.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-3.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-4.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
