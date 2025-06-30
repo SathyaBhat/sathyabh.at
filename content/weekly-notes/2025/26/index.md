@@ -8,14 +8,14 @@ series = ["Weekly notes"]
 url = "/weekly-notes-26-2025/"
 title = "Weekly notes 26/2025"
 date = 2025-06-29T12:00:00Z
-summary = "Week 26 summary - gym woes, work wroks, and more."
-images = ["/weekly-notes-26-2025/thumb-.jpg"]
+summary = "Week 26 summary - gym woes, work works, and more."
+images = ["/weekly-notes-26-2025/thumb-blues-point-hotel.jpg"]
 
 +++
 
-![](thumb-.jpg)
+![](thumb-blues-point-hotel.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: The Blues Point Hotel was the first licensed premises on Sydney's north shore, and the first refreshment spot for travellers on the original ferry from Central Sydney. It has been a watering hole since 1864._
 
 ### What's been happening
 
@@ -38,10 +38,44 @@ I also published a travelogue on the Kiama trip that we did couple of weeks ago,
 
 On Saturday, we had our guitar class again after a two week break. And unlike the previous classes, this class was almost entirely theoretical - we learnt how each notes on a scale are separated on the basis of tones/semitones and knowing the distance helps us forge our own scale. We also learnt how to play chords for each of these notes of the scale and getting those chords involved learning know to barre chord, which was _fun_.
 
+
+<div class="masonry-gallery">
+
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "guitar-class-250628-1.jpg" "Making sense of note progressions, scales, tones and semitones" "Guitar Class" >}} 
+
+</div>
+
+
 After the guitar class, Jo wanted to explore a little bit of the suburb of Lane Cove, so went home to keep our guitars and took the bus to Lane Cove. 
 
 Lane Cove is a nice quiet little residential suburb in the lower North Shore. We got off the bus and walked around for a bit, finding a coffee shop to have brunch in. After brunch, we walked around for a little bit more, finding an Indian grocery store nicely tucked away between couple of buildings. It was pretty easy to miss but I spotted it thanks to a board they had kept outside. We walked into the shop and bought a few essentials such as chilies and brown rice. It’s hard to get the brown rice here. The store had brown rice but it was in 5kilo bad which would have been too much for us. The shop keeper was nice enough to open up the bag and give us only a kilo of the rice. From here, we went over to a book store nearby which had some _interesting_ notes at the top of the bookshelves. Jo bought couple of books for herself and we went back home. 
 
+<div class="masonry-gallery">
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "spices-of-asia-250628-1.jpg" "Spices of Asia - Indian Store" "Indian Store" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "spices-of-asia-250628-2.jpg" "Spices of Asia - Indian Store" "Indian Store" >}} 
+</div>
+
+
+<div class="masonry-gallery">
+
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-bookery-250628-1.jpg" "The Bookery - Book store" "The Bookery - Book store" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-bookery-250628-2.jpg" "The Bookery - Book store" "The Bookery - Book store" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-bookery-250628-3.jpg" "The Bookery - Book store" "The Bookery - Book store" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "the-bookery-250628-4.jpg" "The Bookery - Book store" "The Bookery - Book store" >}} 
+
+</div>
+
+Our Sunday morning started with a nice walk to the Blues Point Reserve. Blues Point Reserve in McMahons Point features some of the best views of the city, the harbour and the bridge. The walk to the reserve is a nice downhill stroll, which makes for a bit of a challenge while walking back. We reached the reserve at around 9am and saw a few people fishing. After a quick walk around the reserve, we started back to home, stopping by Fiore Bread for a quick coffee and some bread.
+ 
+<div class="masonry-gallery">
+
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-1.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-2.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-3.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-4.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "blues-point-reserve-250628-5.jpg" "Blues Point Reserve" "Blues Point Reserve" >}} 
+
+</div>
 
 ### What I've been playing
 
@@ -51,7 +85,28 @@ Roadcraft - Continued playing Roadcraft with Aman. We didn’t get a lot of miss
 
 ### What we ate
 
-Lil Lane Eatery, Lane Cove - A small cafe in Lane Cove. This place is highly rated, so went to check it out. I ordered the Spicy CHicken salad with quinoa, crunchy corn, and katsu which was pretty average - the greens were a bit dry and the katsu more so. The visit was redeemed by some really good coffee.
+[Lil Lane Eatery, Lane Cove](https://maps.app.goo.gl/AXPDCD4UgsMrKKD5A) - A small cafe in Lane Cove. This place is highi[ly rated, so went to check it out. I ordered the Spicy CHicken salad with quinoa, crunchy corn, and katsu which was pretty average - the greens were a bit dry and the katsu more so. The visit was redeemed by some really good coffee.
+
+
+<div class="masonry-gallery">
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lil-lane-eatery-250628-1.jpg" "Brunch at Lil Lane Eatery" "Lil Lane Eatery" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lil-lane-eatery-250628-2.jpg" "Brunch at Lil Lane Eatery" "Lil Lane Eatery" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lil-lane-eatery-250628-3.jpg" "Brunch at Lil Lane Eatery" "Lil Lane Eatery" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lil-lane-eatery-250628-4.jpg" "Brunch at Lil Lane Eatery" "Lil Lane Eatery" >}} 
+</div>
+
+
+[Fiore Bread, McMahon's Point](https://maps.app.goo.gl/AXPDCD4UgsMrKKD5A) - A small little bakery near Blues Point, known for their sourdough bread. We bought a seeded bun with ham and salami filling and an orange cake along with some coffee. The seeded bun was really good. We also bought some focaccia as takeaway. There's barely any place to sit, so have to be mindful of that, but the place is pretty active.
+
+
+ <div class="masonry-gallery">
+
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "fiore-bread-250628-2.jpg" "Fiore Bread" "Fiore Bread" >}} 
+ {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "fiore-bread-250628-1.jpg" "Fiore Bread" "Fiore Bread" >}} 
+</div>
+
+
+
 
 ### Music of the Week
 
