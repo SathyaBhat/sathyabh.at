@@ -18,7 +18,7 @@ _Thumbnail image: Came across this "pineapple tree" during our morning walk to C
 
 ### What's been happening
 
-Another cold windy week here in Sydney. The week started on a not-so-good note with Sydney being under the effects of a “[bomb cyclone](https://en.wikipedia.org/wiki/Explosive_cyclogenesis)”
+It's been yet another cold, windy week here in Sydney. The week started on a not-so-good note with Sydney being under the effects of a “[bomb cyclone](https://en.wikipedia.org/wiki/Explosive_cyclogenesis)”
 
 > a bomb cyclone forms when a low pressure system rapidly forms into a powerful storm in 24 hours. The word “bomb” is used to describe the storm’s explosive speed of development.
   
@@ -36,7 +36,7 @@ The gym sessions went well. On Tuesday, I had the joint PT session with Jo - wit
 
 My second session was a solo session - focusing on tempo bench press. After two sessions of being really wobbly to get my Bulgarian split squats in, I’m finally getting to being comfortable with it - to the extent that I don’t need to hold on to a pole to keep my balance. And to finish it off, I had a conditioning circuit - a superset of 10 reps of dumbbell push press, 10 reps of body weight squat, ring ropes pull up, and kettle bell swing each - all in under 100 seconds. I’m pretty stoked that I could finish a set of these, and actually completed *five sets* of the exercises - ecstatic! And the doctor appointment - that was a follow up with my sleep physician - my previous consult with him was last year and he had recommended me to lose some weight. A year later, he was pretty happy with my progress and asked me to keep at it.
 
-Our guitar class was pretty good - another heavy theoretical class. We did some more practice on the notes, scales and understand how to get to the right cords, based on the note progression. After the guitar class, produce market was on so we bought some groceries, including some smoked dark chocolate almonds. I really like the almonds coated in dark chocolate - it gives just a little bit of that sweet kick without being overly sweet.
+Our guitar class was pretty good - another heavy theoretical class. We did some more practice on the notes, scales and understand how to get to the right chords, based on the note progression. After the guitar class, produce market was on so we bought some groceries, including some smoked dark chocolate almonds. I really like the almonds coated in dark chocolate - it gives just a little bit of that sweet kick without being overly sweet.
 
 <div class="masonry-gallery">
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "produce-market-250706-1.jpg" "Produce Market Haul" "Weekly Notes" >}} 
@@ -94,15 +94,10 @@ Roadcraft - Continued playing Roadcraft with Aman. We started working on a large
 [Venn Cafe, North Sydney](https://maps.app.goo.gl/K3R3Sv7CdzC1wwEcA) - Our favorite cafe in all of North Sydney - we ended up coming here two days in a row! We visited here after picking up groceries from the produce market and this time I spotted the Steak Sandwich and ordered it, while Jo ordered the pancakes. I absolutely loved the sandwich - the meat was really well done, and it came with caramalized onions which was really well done. The pancakes were also well done and had just the right amount of sweetness, without being too sweet. The next day, after returning from our walk to Cremorne Reserve, there were no cafes nearby so we went here again and I ordered the steak sandwich again - and was really good again. Definitely my favorite food of the menu there.
 
 <div class="masonry-gallery">
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-1.jpg" "Brunch at Venn Cafe" "Brunch at Venn Cafe" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-2.jpg" "Brunch at Venn Cafe" "Brunch at Venn Cafe" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-3.jpg" "Brunch at Venn Cafe" "Brunch at Venn Cafe" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-4.jpg" "Brunch at Venn Cafe" "Brunch at Venn Cafe" >}} 
-
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-3.jpg" "Venn Cafe" "Brunch at Venn Cafe" >}} 
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-1.jpg" "Coffee at Venn Cafe" "Brunch at Venn Cafe" >}} 
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-2.jpg" "Steak Sandwich at Venn Cafe" "Brunch at Venn Cafe" >}} 
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "venn-cafe-250706-4.jpg" "Pancakes at Venn Cafe" "Brunch at Venn Cafe" >}} 
 </div>
 
 
