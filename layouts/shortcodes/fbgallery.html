@@ -1,0 +1,40 @@
+{{- $path := .Get 0 -}}
+{{- $gallery := .Get 1 | default "gallery" -}}
+
+{{- /* Handle date path resolution */ -}}
+{{- if eq $path "date" -}}
+  {{- $path = printf "/img/%s/%s" (.Page.Date.Format "2006") (.Page.Date.Format "01") -}}
+{{- end -}}
+
+{{- /* Only proceed if we have a path */ -}}
+{{- if $path -}}
+<div class="masonry-gallery" style="align-items: flex-start; display: flex; flex-wrap: wrap;">
+{{- /* Process parameters starting from index 2 as images */ -}}
+{{- range $index, $param := .Params -}}
+  {{- if gt $index 1 -}}
+    {{- $imageData := split $param "|" -}}
+    {{- $filename := index $imageData 0 -}}
+    {{- $caption := "" -}}
+    {{- if gt (len $imageData) 1 -}}
+      {{- $caption = index $imageData 1 -}}
+    {{- end -}}
+    
+    {{- /* Generate the fancybox link */ -}}
+    {{- $imageUrl := "" -}}
+    {{- if hasPrefix $filename "http" -}}
+      {{- $imageUrl = $filename -}}
+    {{- else -}}
+      {{- $imageUrl = printf "%s/%s" $path $filename -}}
+    {{- end -}}
+    
+    <a href="{{ $imageUrl }}" data-fancybox="{{ $gallery }}" {{ with $caption }}data-caption="{{ . }}"{{ end }} style="flex: 1 0 calc(33.333% - 1rem); margin: 0.5rem; vertical-align: top;">
+      <img src="{{ $imageUrl }}" {{ with $caption }}alt="{{ . }}"{{ end }} loading="lazy">
+      {{- if $caption -}}
+        <div class="caption">{{ $caption }}</div>
+      {{- end -}}
+    </a>
+  {{- end -}}
+{{- end -}}
+</div>
+<div class="gallery-title">{{ $gallery }}</div>
+{{- end -}}
