@@ -16,8 +16,6 @@ images = ["/weekly-notes-28-2025/thumb-berry-island-reserve.jpg"]
 
 _Thumbnail image: Berry Island was one of Sydney's Harbour Islands and is now connected to the mainland._
 
-
-
 ### What's been happening
 
 It’s been another windy week here. A lot of my colleagues were happy though - the heavy wind in Sydney is said to be a sign of heavy snow down in Australia’s snow corridor - the areas of [Thredbo](https://www.visitnsw.com/destinations/snowy-mountains/kosciuszko-national-park/thredbo), [Snowy Mountains](https://en.wikipedia.org/wiki/Snowy_Mountains) and [Jindabyne](https://en.wikipedia.org/wiki/Jindabyne,_New_South_Wales). And quite a bit of my colleagues will be on leave the upcoming week as they head to the ski resorts to get some skiing done before the end of the snow season. 
@@ -38,7 +36,6 @@ On Sunday morning, Jo picked another place to go for a morning walk - Berry Isla
 
 {{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Berry Island Reserve" "berry-island-reserve-250713-1.jpg" "berry-island-reserve-250713-2.jpg" "berry-island-reserve-250713-3.jpg" "berry-island-reserve-250713-4.jpg" "berry-island-reserve-250713-5.jpg" "berry-island-reserve-250713-6.jpg" "berry-island-reserve-250713-7.jpg" "berry-island-reserve-250713-8.jpg" "berry-island-reserve-250713-9.jpg" "berry-island-reserve-250713-10.jpg" "berry-island-reserve-250713-11.jpg" "berry-island-reserve-250713-12.jpg" >}}
 
-
 ### What I've been playing
 
 The new season of Diablo IV launched this week and I’d been playing it for a bit. The new season mechanics are nothing novel (recycled borrowed power), but they buffed the Hydra skill quite a bit and added supporting unique for the Hydra, and since I absolutely love the Sorcerer class, I decided to try the Hydra build. It’s been pretty fun and I’m still trying to get the required gear to get my Hydra skill do the damage that is required. Still at Torment 3, the build is doing pretty decent and I’m having fun.
@@ -53,17 +50,17 @@ From a Formula 1 fan (and as someone who has been watching F1 since ~ 1997), I a
 
 [Myeong Dong, Chatswood](https://foursquare.com/v/myeong-dong/5c2df63bc0af57002cc3bc8e) - A favourite of ours - we always end up coming back to this place when Jo craves Kimchi pancake, and it was the same. We weren’t in the mood for BBQ, so we ordered some spicy pork and glass noodles. The pork was really good as always, and we finished it all off. The glass noodles was a bit too much so we packed it as take away.
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Myeong Dong" "" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Myeong Dong" "myeong-dong-250713-1.jpg" "myeong-dong-250713-2.jpg" "myeong-dong-250713-3.jpg" >}}
 
 [La Latina, Chatswood](https://maps.app.goo.gl/ZXbABG1v3BTcHjWV6) - We were looking to have some lunch before watching the F1 movie and found this small little Colombian restaurant. 
 
 We had the share plate of Venezuelan Picada consisting of cheese fingers, fried arepitas, cassava chips, sweet and savoury plantains and empanadas. The food was pretty good - the share plate came with a side of guacamole and nata - both of which worked very well with the all of the above food. The share plate had a little salt sprinkled on it and added a little bit of extra flavour. Worth revisiting!
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "La Latina" "" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "La Latina" "la-latina-250713-1.jpg" "la-latina-250713-2.jpg" "la-latina-250713-3.jpg" >}}
 
 [Bay Brew, Waverton](https://maps.app.goo.gl/jcu8RHVqsg9X9xcQ6) - A busy coffee shop a few hundred meters after Waverton Train Station, we stopped by here while returning from our walk to Berry Island Reserve. Jo ordered the fried chicken pancake while I ordered the sausage and egg rolls. The food was pretty good - the panckes were not fluffy but wasn’t dense either. My sausage egg roll was pretty good - and the brioche bun was very soft (yes, the rolls here usually come as buns). I can see why the place was so busy - the coffee was decent and they have a rather large outdoor seating area, making it popular with people having pets as they stop by here.
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Gallery" "" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Bay Brew" "bay-brew-250713-1.jpg" "bay-brew-250713-2.jpg" >}}
 
 
 ### Music of the Week
