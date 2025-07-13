@@ -38,32 +38,15 @@ My second session was a solo session - focusing on tempo bench press. After two 
 
 Our guitar class was pretty good - another heavy theoretical class. We did some more practice on the notes, scales and understand how to get to the right chords, based on the note progression. After the guitar class, produce market was on so we bought some groceries, including some smoked dark chocolate almonds. I really like the almonds coated in dark chocolate - it gives just a little bit of that sweet kick without being overly sweet.
 
-<div class="masonry-gallery">
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "produce-market-250706-1.jpg" "Produce Market Haul" "Weekly Notes" >}} 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "produce-market-250706-2.jpg" "Produce Market Haul" "Weekly Notes" >}} 
-</div>
+ 
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Produce Market Haul" "produce-market-250706-1.jpg" "produce-market-250706-2.jpg" >}}
 
 Our Sunday morning started with a nice walk to Cremorne Reserve. It’s a path we hadn’t tried before and took us through some really pretty, and some seriously steep paths. It wasn’t the most walkable path either with lot of footpaths closing on one side having to cross the road with no pedestrian crossing, having to rush cross through couple of places waiting for traffic to clear. 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15019910841" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-<div class="masonry-gallery">
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-1.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-2.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-3.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-4.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-5.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-6.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
-
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "cremorne-reserve-250706-7.jpg" "Cremorne Reserve Walk" "Cremorne Reserve Walk" >}} 
-
-</div>
-
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Cremorne Reserve Walk" "cremorne-reserve-250706-1.jpg" "cremorne-reserve-250706-2.jpg" "cremorne-reserve-250706-3.jpg" "cremorne-reserve-250706-4.jpg" "cremorne-reserve-250706-5.jpg" "cremorne-reserve-250706-6.jpg" "cremorne-reserve-250706-7.jpg" >}}
 
 
 ### What I've been playing

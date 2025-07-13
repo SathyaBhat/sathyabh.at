@@ -1,15 +1,17 @@
 /* Masonry gallery styles for fancybox shortcode */
 .masonry-gallery {
-  column-count: 3;
-  column-gap: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1.5rem;
   width: 100%;
   margin: 2rem 0;
 }
-.masonry-gallery .fancybox-item {
-  display: inline-block;
+.masonry-gallery .fancybox-item,
+.masonry-gallery a {
+  display: block;
   width: 100%;
-  margin-bottom: 1.5rem;
-  break-inside: avoid;
+  margin-bottom: 0;
+  vertical-align: top;
 }
 .masonry-gallery img {
   width: 100%;
@@ -30,8 +32,12 @@
   margin-top: 0.5em;
 }
 @media (max-width: 900px) {
-  .masonry-gallery { column-count: 2; }
+  .masonry-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 @media (max-width: 600px) {
-  .masonry-gallery { column-count: 1; }
+  .masonry-gallery {
+    grid-template-columns: 1fr;
+  }
 }
