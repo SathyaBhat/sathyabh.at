@@ -37,4 +37,7 @@
 {{- end -}}
 </div>
 <div class="gallery-title">{{ $gallery }}</div>
+<script>
+  Fancybox.bind('[data-fancybox="{{ $gallery }}"]');
+</script>
 {{- end -}}

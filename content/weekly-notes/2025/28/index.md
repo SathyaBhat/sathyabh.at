@@ -9,12 +9,12 @@ url = "/weekly-notes-28-2025/"
 title = "Weekly notes 28/2025"
 date = 2025-07-13T12:00:00Z
 summary = "Week 28 summary - performance reviews, F1 movie and more."
-images = ["/weekly-notes-28-2025/thumb-.jpg"]
+images = ["/weekly-notes-28-2025/thumb-berry-island-reserve.jpg"]
 +++
 
-![](thumb-.jpg)
+![](thumb-berry-island-reserve.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: Berry Island was one of Sydney's Harbour Islands and is now connected to the mainland._
 
 
 
