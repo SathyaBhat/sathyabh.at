@@ -6,38 +6,114 @@
   width: 100%;
   margin: 2rem 0;
 }
-.masonry-gallery .fancybox-item,
-.masonry-gallery a {
+
+.masonry-gallery .gallery-item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.masonry-gallery .gallery-item a {
   display: block;
   width: 100%;
   margin-bottom: 0;
-  vertical-align: top;
+  text-decoration: none;
 }
+
 .masonry-gallery img {
   width: 100%;
   max-width: 320px;
   height: auto;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   cursor: pointer;
   transition: box-shadow 0.2s;
+  display: block;
 }
+
 .masonry-gallery img:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
 }
+
 .masonry-gallery .caption {
-  text-align: center;
-  font-size: 0.95em;
-  color: #666;
-  margin-top: 0.5em;
+  text-align: center !important;
+  font-size: 0.9em;
+  color: var(--color-neutral-600, #666);
+  margin: 0.75em auto 0 auto;
+  padding: 0 0.5em;
+  line-height: 1.4;
+  font-style: italic;
+  word-wrap: break-word;
+  hyphens: auto;
+  display: block;
+  width: 100%;
+  max-width: 320px;
 }
+
+/* Dark mode support for captions and gallery title */
+@media (prefers-color-scheme: dark) {
+  .masonry-gallery .caption {
+    color: var(--color-neutral-400, #999);
+  }
+
+  .masonry-gallery .gallery-title,
+  div.masonry-gallery div.gallery-title,
+  .masonry-gallery>.gallery-title {
+    color: #999 !important;
+    border-top-color: #555 !important;
+    background: rgba(255, 255, 255, 0.02) !important;
+  }
+}
+
+/* Gallery title styling with maximum specificity */
+.masonry-gallery .gallery-title,
+div.masonry-gallery div.gallery-title,
+.masonry-gallery>.gallery-title {
+  grid-column: 1 / -1 !important;
+  display: block !important;
+  text-align: center !important;
+  font-size: 12px !important;
+  font-weight: 300 !important;
+  color: #888 !important;
+  background: rgba(0, 0, 0, 0.02) !important;
+  margin: 1rem 0 0 0 !important;
+  padding: 0.5rem !important;
+  font-style: italic !important;
+  border-top: 2px solid #ddd !important;
+  border-radius: 0 0 4px 4px !important;
+  opacity: 0.8 !important;
+  visibility: visible !important;
+  height: auto !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  line-height: 1.2 !important;
+  letter-spacing: 0.3px !important;
+  text-transform: uppercase !important;
+  font-family: inherit !important;
+}
+
 @media (max-width: 900px) {
   .masonry-gallery {
     grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1.2rem;
+  }
+
+  .masonry-gallery .caption {
+    font-size: 0.85em;
+    margin: 0.6em auto 0 auto;
+    max-width: 280px;
   }
 }
+
 @media (max-width: 600px) {
   .masonry-gallery {
     grid-template-columns: 1fr;
+    grid-gap: 1rem;
+  }
+
+  .masonry-gallery .caption {
+    font-size: 0.9em;
+    margin: 0.7em auto 0 auto;
+    max-width: 100%;
   }
 }
