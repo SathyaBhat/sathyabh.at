@@ -1,8 +1,8 @@
 +++
 author = "Sathyajith Bhat"
 categories = ["Life"]
-tags = ["weekly-notes", "gaming"]
-places = "Sydney"
+tags = ["weekly-notes", "gaming", "fitness", "vacation"]
+places = ["Sydney", "Hunter Valley", "Polkobin"]
 type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-31-2025/"
