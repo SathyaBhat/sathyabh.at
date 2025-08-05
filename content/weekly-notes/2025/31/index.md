@@ -20,7 +20,7 @@ _Thumbnail image: I see this staircase and people climbing up/down every time I 
 
 This week's weekly notes is a bit late, as I was on a short trip to Hunter Valley for Jo's birthday. Her birthday is coming up and we figured we could do a weekend outing.
 
-I also wanted to surprise Jo by renting a car that she did not expect - one of her favorites, the Ford Mustang. I booked the car, and we were all set to take it out this weekend. However, the weather was not the best and it’d been raining towards the end of the week. To make things worse, I found out that NSW had changed the policies for people with temporary visas & foreign licenses. I didn’t want to risk getting caught with an invalid license so ended up cancelling the car rental. Thankfully, I got a full refund for my car rental booking.
+I also wanted to surprise Jo by renting a car that she did not expect - one of her favorites, the Ford Mustang. I booked the car, and we were all set to take it out this weekend. However, the weather was not the best and it’d been raining towards the end of the week. To make things worse, I found out that NSW had changed the policies for people with temporary visas & foreign licenses. I didn’t want to drive with an invalid license, so ended up cancelling the car rental. Thankfully, I got a full refund for my car rental booking.
 
 The Hunter Valley resort booking was still on and those could not be cancelled or rescheduled, so I looked for options. I found out there’s a regional train that goes from Sydney Central to Singleton and our resort can arrange for a pickup from the train station, so I booked the train tickets and now we’re on the train to Hunter Valley. With the trains and no car, I don’t believe we could get anything done but that’s ok :) 
 
