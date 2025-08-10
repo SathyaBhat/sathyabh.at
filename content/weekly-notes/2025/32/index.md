@@ -51,6 +51,12 @@ Teenage Mutant Ninja Turtles: The Last Ronin - Jo found this book at the library
 
 [Brazico Brazilian Churrasco, Barangaroo](https://maps.app.goo.gl/9Kfsr8j5QdyteKtj8) - We went to this Brazilian BBQ churrascaria for Jo’s birthday. A churrascaria is an all-you-can-eat restaurant featuring grilled meats and unlimited sides. The restaurant staff are constantly bringing different types and cuts of grilled meat to your table and if you accept, they will slice it to your liking. We spent a good amount of time here and really enjoyed ourselves. 
 
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Dinner at Brazico" "brazico-250809-1.jpg" "brazico-250809-2.jpg" "brazico-250809-3.jpg" >}}
+
+BTB, Kirribilli - We went to BTB for breakfast. BTB is a small cafe in Kirribilli. We got our usual coffee orders in and for food, I ordered a Spanish omelette while Jo ordered the Buckwheat Porridge that she tried the last [time](weekly-notes-25-2025/). I wasn't a big fan of the Spanish omelette as the caramelised onions were not that well caramelised but the coffee was good like the last time.
+
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Breakfast at BTB" "btb-250809-1.jpg" "btb-250809-2.jpg" "btb-250809-3.jpg" >}}
+
 ### Music of the Week
 
 BB King & Gary Moore - two legendary jazz & blues musicians performing this amazing song - [Thrill is Gone](https://www.youtube.com/watch?v=iUaevnP1LLg).
