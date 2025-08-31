@@ -9,8 +9,7 @@ url = "/weekly-notes-35-2025/"
 title = "Weekly notes 35/2025"
 date = 2025-08-31T12:00:00Z
 summary = "Week 35 summary - Travels continue with AWS Heroes Summit in Seattle and Australian Permanent Residence granted!"
-images = ["/weekly-notes-35-2025/thumb-.jpg"]
-
+images = ["/weekly-notes-35-2025/thumb-great-seattle-ferris-wheel.jpg"] 
 +++
 
 ![](thumb-great-seattle-ferris-wheel.jpg)
