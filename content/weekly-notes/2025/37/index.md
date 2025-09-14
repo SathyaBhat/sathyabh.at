@@ -30,7 +30,7 @@ The workouts were pretty decent as well. My trainer’s getting me to do volume 
 
 Last week, I was able to do two rounds of all of these and only the bike on the third round while this week I was able to finish the third round of bike, lunges and five reps of dumbbell snatch & clean and jerk. I was also able to do some resistance band assisted pull ups, starting with three bands first and then with just one. Happy with this! In addition I also managed to get a workout in the group class which was pretty heavy on the legs and feeling the effects of it even today.
 
-{{< video https://i.sathyabh.at/sb/weekly-notes/pull_up.mov >}}
+{{< video "https://i.sathyabh.at/sb/weekly-notes/pull_up.mov" >}}
 
 I’ve been working on sorting out some of the financial stuff for my accounts in India. I had claimed for withdrawal of my EPFO balance. After putting in a claim I realized that the money from my past employers was still in their member accounts (but in the same UAN) so I applied to transfer them all to the current account. Unfortunately the claim for withdrawal was rejected, claiming previous IDs were not linked and asked for the employer to reach out with clarification. I wrote to Adobe Payroll who told me to wait for the transfer from other accounts to be completed. So for now, the waiting game continues. 
 
