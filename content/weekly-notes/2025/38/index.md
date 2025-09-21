@@ -51,14 +51,14 @@ I finally completed the campaign of Path of Exile 2 and now into the end game ma
 
 ### Music of the Week
 
-I came across this wonderful [version](https://www.youtube.com/watch?v=-rM3xn2JXGU) of Colours by Black Pumas (previously covered in an earlier weeknote, featuring musicians across the world)
+I came across this wonderful [version](https://www.youtube.com/watch?v=-rM3xn2JXGU) of Colours by Black Pumas (previously covered in an earlier [weeknote](/weekly-notes-45-2024/)), featuring musicians across the world
 
 {{< youtube -rM3xn2JXGU >}}
 
 
 ### Link of the week
 
-Thanks to Saurabh for sharing [this article](https://bogdanthegeek.github.io/blog/projects/vapeserver/) on the work he did to serve the article off a disposable vape. Who knew they came with such capable hardware!
+Thanks to [Saurabh](https://blog.100rabh.com/) for sharing [this article](https://bogdanthegeek.github.io/blog/projects/vapeserver/) on the work he did to serve the article off a disposable vape. Who knew they came with such capable hardware!
 
 ### Thanks for reading.
 Thanks for reading and have a great week ahead. 
