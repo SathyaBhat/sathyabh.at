@@ -73,7 +73,7 @@ The first leg was set in the Netherlands. It was nice to see the first leg endin
 
 [Smoking Gringos](https://maps.app.goo.gl/KQFFGKi6L9NyU2Zi7) - We stopped by here for lunch while exploring Seven Hills for house inspections. Smoking Gringos is a small place that serves Mexican food. Both Jo and I got the burrito bowl with chicken, with Jo opting for the milder sauce while I went for the spicier Habanero sauce. For a change the hot sauce lived up to its name and add a good amount of heat. We also got a side of corn ribs that was pretty delicious as well!
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "smoking-gringoes-251012-1.jpg" "smoking-gringoes-251012-2.jpg" "Smoking Gringos" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Smoking Gringos" "smoking-gringoes-251012-1.jpg" "smoking-gringoes-251012-2.jpg"  >}}
 
 ### Music of the Week
 
