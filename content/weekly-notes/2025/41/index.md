@@ -9,11 +9,11 @@ url = "/weekly-notes-41-2025/"
 title = "Weekly notes 41/2025"
 date = 2025-10-12T12:00:00Z
 summary = "Week 41 summary - a relaxed week and a concert."
-images = ["/weekly-notes-41-2025/thumbs-dept-of-education.jpg"]
+images = ["/weekly-notes-41-2025/thumb-dept-of-education.jpg"]
 
 +++
 
-![](thumbs-dept-of-education.jpg)
+![](thumb-dept-of-education.jpg)
 
 _Thumbnail image: The Department of Education building is a heritage-listed state government building located in Bridge Street in Sydney CBD._
 
