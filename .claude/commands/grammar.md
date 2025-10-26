@@ -1,0 +1,2 @@
+The file #$ARGUMENTS is a blog post from my trip in Markdown format. Please look for grammar or spelling and make corrections. Exclude any text that are marked up using `<div>` or in double flower brackets with the angular bracket `{{<>}}`
+ 
