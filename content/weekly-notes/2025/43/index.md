@@ -39,7 +39,7 @@ Diablo 4 - Season 10 has been progressing well. I can now play in Torment 4, and
 
 Civilization 7 - The Genghis Khan campaign continues! I played a few more turns, taking on Jose Rizal and took over the capital. I then waged another war against them to take over two of his cities so that I can start sending the treasure ships over so I can get some progress on the economic victory front. 
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Civilization 7 - Persia/Genghis Khan" "civ-7-persia-251019-1.jpg" "civ-7-persia-251019-2.jpg" >}}  
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Civilization 7 - Genghis Khan" "civ-7-mongolia-capture-251026-1.jpg" "civ-7-mongolia-capture-251026-2.jpg" >}}
 
 ### What we ate
 
