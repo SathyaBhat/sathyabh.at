@@ -9,13 +9,13 @@ url = "/weekly-notes-44-2025/"
 title = "Weekly notes 44/2025"
 date = 2025-11-01T12:00:00Z
 summary = "Week 44 summary - Cooling weather, house inspections, audiobook and more"
-images = ["/weekly-notes-44-2025/thumb-.jpg"]
+images = ["/weekly-notes-44-2025/thumb-jacaranda-2025-2.jpg"]
 
 +++
 
-![](thumb-.jpg)
+![](thumb-jacaranda-2025-2.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: Jacarandas really elevate some of the Sydney suburbs._
 
 ### What's been happening
 
@@ -37,9 +37,20 @@ Path of Exile - The new season on Path of Exile starts this weekend. I've previo
 
 [The Butcher's Block, Barangaroo](https://maps.app.goo.gl/wHojuscQFRoj9dNS6) - We went to this steakhouse earlier in the week along with my team mates. Given the location, we were quite excited to visit this place. But unfortunately it was a dud. We ordered some wings and ribs for starters which were pretty ok. For the main steak, all of us ordered the Wagyu Striploin and unfortunately the steak was pretty poorly done. I'd ordered medium-rare but it was closer to well done. The steak was also underseasoned. For sauce, I selected the green peppercorn cream which was pretty good. However, with the disappointing steak, I won't be recommending this place to anyone. The service was also pretty poor with us having to call them out multiple times, and this with the restaurant mostly empty.
 
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "The Butcher's Block" "the-butchers-block-251102-1.jpg" "the-butchers-block-251102-2.jpg" >}}
+
+[Costi's Fish & Chips](https://maps.app.goo.gl/wiu1985bDZT1vmDN7) - Jo & I were in the city on Wednesday for work and decided to grab some lunch together. We went to Costi's Fish & Chips in Australia Square food court. I got the Tasmanian Salmon Fish & Chips while Jo got the "healthy combo" for the day. My dish was pretty bland and overcooked, totally didn't like it. Jo tells me hers was miuch better and suggested I should just try the healthy combo for the next visit. 
+
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Costi's Fish & Chips" "costis-fish-n-chips-251102-1.jpg" "costis-fish-n-chips-251102-2.jpg" "costis-fish-n-chips-251102-3.jpg" >}}
+
 [Haveli, Stanhope Gardens](https://maps.app.goo.gl/h1qYVq4EE47oWxdN7) - We went to this Indian restaurant on Saturday after the house inspections. This is one of the few Indian restaurants in the area and we wanted to see how it fares. We ordered some sev puri, tandoori roti and bhuna lamb. The food was pretty okay, nothing great. The place we went to last week was much better. Probably worth visiting again to see if they do better as the menu was pretty expansive. 
 
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Lunch at Haveli" "haveli-251102-1.jpg" "haveli-251102-2.jpg" "haveli-251102-3.jpg" >}}
+
 [Gelateria Gondola Chatswood](https://maps.app.goo.gl/Qx9bcGPg3vs6pFi16) - A small quaint little gelato place in Chatswood. We went here on Sunday after the house inspections. Jo had previously been here and she was raving about it, I figured would be a good treat for our 16k steps + 9k steps for the weekend. It's pretty easy to miss this place but once you walk in you realize they have a variety of gelato flavours. I had the pistachio and mint/chocolate while Jo had the hazelnut and vanilla. The gelato was indeed really good. The texture was rich and creamy and it wasn't too sweet either. Glad to find a good gelato place!
+
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Gelataria Gondola" "gelateria-gondola-251102-1.jpg" "gelateria-gondola-251102-2.jpg" "gelateria-gondola-251102-3.jpg" >}}
+
 
 ### Music of the Week
 
