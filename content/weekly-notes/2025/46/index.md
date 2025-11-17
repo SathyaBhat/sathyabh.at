@@ -9,15 +9,17 @@ url = "/weekly-notes-46-2025/"
 title = "Weekly notes 46/2025"
 date = 2025-11-16T12:00:00Z
 summary = "Week 46 summary - we bought a house."
-images = ["/weekly-notes-46-2025/thumb-.jpg"]
+images = ["/weekly-notes-46-2025/thumb-christmas-tree-brett-whiteley-place-2025.jpg"]
 
 +++
 
-![](thumb-.jpg)
+![](thumb-christmas-tree-brett-whiteley-place-2025.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: Named after famed Australian artist Brett Whiteley, the Brett Whiteley Place in North Sydney seems to have gotten an early Christmas tree._
 
 ### What's been happening
+
+_Meta: Yes, I've been slipping in getting my weekly notes out. We should be back to regular schedule soon, the house hunt has been painful._
 
 We bought a house. I can't believe it's done. The past week has been such a blur and stressful that I can't believe it's over. We'd been house hunting for the [past few weeks](https://sathyabh.at/tags/house-hunt/) now, and the workflow has been the same - keep checking for new properties, mark them for inspection, reach out to agents to get the pricing info, and then on Thursday/Friday, reach out to our mortgage broker for property valuation for the properties we were interested in and then finalize the inspection plan for Saturday/Sunday. 
 
@@ -35,9 +37,15 @@ Metallica took the stage a while later and were immediately greeted with great r
 
 {{< youtube S70sdWogbvs >}}
 
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Metallica & Evanescence" "metallica-evanescence-251116-1.jpg" "metallica-evanescence-251116-2.jpg" "metallica-evanescence-251116-3.jpg" "metallica-evanescence-251116-4.jpg" "metallica-evanescence-251116-5.jpg" "metallica-evanescence-251116-6.jpg" "metallica-evanescence-251116-7.jpg" >}}
+
 ### What we ate
 
 [The Hayberry Diner & Bar, Crows Nest](https://maps.app.goo.gl/JPXeJ2EYa1dUgEHL8) - A rustic little bar in Crows Nest that packs quite a character. We went here to celebrate our new house purchase with a drink and some tacos. We also ordered some cauliflower wings, which packed some good heat. For drinks, Jo ordered a cocktail called "Lemony Snicket" while I got a mezcal-based drink called Mexellent. The drinks were really good. The main taco itself was pretty average, but hey, nothing to get our mood down. 
+
+
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Dinner at The Hayberry" "the-hayberry-251116-1.jpg" "the-hayberry-251116-2.jpg" "the-hayberry-251116-3.jpg" "the-hayberry-251116-4.jpg" "the-hayberry-251116-5.jpg" >}}
+
 
 ### Music of the Week
 
