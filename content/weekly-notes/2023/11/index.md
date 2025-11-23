@@ -6,6 +6,7 @@ places = "Sydney"
 type = "post"
 series = ["Weekly notes"]
 url = "/2023/03/20/weekly-notes-11-2023/"
+aliases = ["/weekly-notes-11-2023/"]
 title = "Weekly notes 11/2023"
 date = 2023-03-20T12:00:00Z 
 description = "Week 11 summary - a birthday weekend out in Newcastle."
