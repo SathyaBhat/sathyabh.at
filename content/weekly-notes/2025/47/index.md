@@ -41,7 +41,9 @@ I came across this [awesome chillout remix](https://www.youtube.com/watch?v=OUrl
 
 ### Link of the week
 
-Josh Goes Slow takes a train (one of the newer Mariyung fleets that [we got to try](/weekly-notes-31-2025/) when we were trying to return from Hunter Valley) to Newcastle and explores it on foot. We had a nice time in Newcastle when we [visited a couple of years ago](/2023/03/20/weekly-notes-11-2023/) - definitely should plan to visit again.
+Josh Goes Slow takes a [train](https://www.youtube.com/watch?v=E0Cck2DALOs) (one of the newer Mariyung fleets that [we got to try](/weekly-notes-31-2025/) when we were trying to return from Hunter Valley) to Newcastle and explores it on foot. We had a nice time in Newcastle when we [visited a couple of years ago](/2023/03/20/weekly-notes-11-2023/) - definitely should plan to visit again.
+
+{{< youtube E0Cck2DALOs >}}
 
 ### Thanks for reading.
 
