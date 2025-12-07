@@ -15,7 +15,7 @@ images = ["/weekly-notes-49-2025/thumb-christmas-decoration-barangaroo.jpg"]
 
 ![](thumb-christmas-decoration-barangaroo.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: Christmas decoration and wreath at the International Towers, Barangaroo._
 
 ### What's been happening
 
@@ -27,10 +27,8 @@ On the gym front, everything is okay. I'm still not quite recovered from my hip 
 
 For next week, because we have our team meetup and office Christmas party, we'll move things around a little bit. The week after, we'll be in Brisbane for Christmas and will have to reschedule those classes as well.
 
-
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
-
 ### What I've been playing
+
 For a change, I actually did not play any aRPGs this week. With the new season of Path of Exile 2 starting next week, I didn't feel like I wanted to get into Path of Exile 1 or 2. So I tried something else. I've been hearing a lot about Ball X Pit, and my friends also told me to go check it out. It's been at the back of my mind, so I was excited to finally try it. It's a lot of fun. Ball X Pit is a game that's like a mix of [Arkanoid](https://en.wikipedia.org/wiki/Arkanoid) if you remember the old game which is the block breaker style combined with Vampire Survivor style roguelite.
 
 The basic principle is that you kill monsters by launching balls with your character. And, of course, each of these characters has special powers like freeze, fire, iron balls, bleed, etc. Then you can combine these balls to gain more power, or you can evolve these balls to get special abilities. Gameplay-wise, you launch balls and clear out the level until you reach the end of the level where you get into a boss fight, and there are different tiers of boss fights. Each round is pretty fast when you're starting off; it takes maybe 5 minutes before you fail. Each failed run improves your strength and your character, letting you go a little bit further into the game. I just finished the first level and cleared the boss which was a lot of fun. I've spent about 4 hours on it already which is quite a bit, considering that I've been playing an hour a day. 
