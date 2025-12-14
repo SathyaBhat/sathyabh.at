@@ -43,8 +43,7 @@ The Game Awards were on this weekend and I watched almost the whole thing live. 
 
 [Ho Jiak, Haymarket](https://maps.app.goo.gl/G7eNWFRAxSHEwk4k8) - Ho Jiak is a pretty well-known Malaysian restaurant. We had to get our reservations booked in here else we wouldn't have gotten a table. While reserving, we were also asked if we wanted to pre-book a mudcrab, which had to be done 24 hours ahead of time. I think this is just an upsell - when we arrived, you could pretty clearly see the crab order on the menu and didn't have to wait for it at all. We also ordered the mantou along with it, and I thought it was a fish, but it ended up being just a bun. Along with that, we also ordered steamed barramundi, some stir-fry of green veggies, and the jumbo prawn laksa. All the food was really good, the fish was really fresh, steamed quite well, the crab was pretty juicy and had a lot of meat. Worth coming back to this place.
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Ho Jiak" ""ho-jiak-251213-1.jpg" "ho-jiak-251213-2.jpg" "ho-jiak-251213-3.jpg" >}}
-
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Ho Jiak" "ho-jiak-251213-1.jpg" "ho-jiak-251213-2.jpg" "ho-jiak-251213-3.jpg" >}}
 
 [Pandawa Nasi Bungkus, Sydney CBD](https://maps.app.goo.gl/PBd14vPtUobzZKzZA) - Jo asked to look for a place to eat around Pitt Street and I saw this Indonesian restaurant with a 4.9 rating from over 6,900 ratings - and I had to check this place. The restaurant was really crowded - Jo had to wait in line for over 30 minutes before she could get an order in. We ordered the grilled chicken with rice and another dish which had a combo of eggs, rice, potatoes, jackfruit and more. The food was really good though, I could see why the restaurant had so many good reviews. 
 
