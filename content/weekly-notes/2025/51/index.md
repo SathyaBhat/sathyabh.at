@@ -33,7 +33,12 @@ Path of Exile 2 - I started playing the new league of Path of Exile 2 with the h
 
 [Anjappar, CBD](https://maps.app.goo.gl/yjCaE4XtDcNRiqGL9) - I joined Jo for lunch because she said she was going to this place and I wanted to grab parotta and some curry. I ended up getting the pepper chicken with a pomfret fish fry. The pepper chicken was really good and had just the right amount of heat. The pomfret fish fry was good as well - a bit bland but the fish was fresh. 
 
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Lunch at Anjappar" "anjappar-251221-1.jpg" >}}
+
+
 [Kirribilli Seafoods, Kirribilli](https://maps.app.goo.gl/YFDXFGc1PexYZ85d7) - We stopped by here for dinner when returning from the office. We'd previously been here and loved the fish and chips and wanted to try something else. Jo got the fish and chips while I got the grilled platter with grilled calamari, grilled scallops, grilled prawns, grilled fish and chips. The fish and assorted seafood were pretty fresh though from a taste perspective, the beer-battered fish and chips were better. 
+
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Dinner at Kirribilli Seafoods" "kirribilli-seafood-251221-1.jpg" "kirribilli-seafood-251221-2.jpg" "kirribilli-seafood-251221-3.jpg"  >}}
 
 ### Music of the Week
 
