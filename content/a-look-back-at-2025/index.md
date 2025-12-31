@@ -9,12 +9,11 @@ title = "A Look Back at 2025"
 type = "post"
 url = "/a-look-back-at-2025/"
 images = ["/a-look-back-at-2025/thumb-metallica-evanescence-251116-1.jpg"]
-draft = true
 +++
 
 ### Summary
 
-What a monumental year. 2025 was a year of incredible highs and intense periods of focus. We traveled extensively for work and leisure, with trips to Denver, San Francisco, Seattle, Hunter Valley, and Amsterdam. The concert-going streak continued with some truly epic shows. My fitness journey, which started last year, became a consistent part of my life, hitting milestones I never thought possible. But two events stand out above all others: in August, we were granted Australian Permanent Residence, a huge weight off our shoulders. And after a stressful house-hunting period, we capped off the year by buying our very first home in Sydney. It’s been a whirlwind, and I’m filled with gratitude. Our weekly Discord calls with the gang continued, providing a steady anchor through all the craziness.
+What a monumental year. 2025 was a year of incredible highs and intense periods of focus. We traveled extensively for work and leisure, with trips to Denver, San Francisco, Seattle, Hunter Valley, and Amsterdam. The concert-going streak continued with some truly epic shows. My fitness journey, which started last year, became a consistent part of my life, hitting milestones I never thought possible. But two events stand out above all others: in August, we were granted Australian Permanent Residence, a huge weight off our shoulders. And after a stressful house-hunting period, we capped off the year by buying our [very first home in Sydney](/weekly-notes-46-2025/). It’s been a whirlwind, and I’m filled with gratitude. Our weekly Discord calls with the gang continued, providing a steady anchor through all the craziness.
 
 ### By the months
 
@@ -64,7 +63,9 @@ Here’s a breakdown of how the year unfolded:
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "metallica-evanescence-251116-4.jpg" "Metallica bringing the fire!" "A look back at 2025" >}}
 
-**December:** *(Predicted)* With the house secured, we’re looking forward to a relaxed December. We'll be focusing on planning the move for next year, enjoying the Sydney summer, and welcoming the new year from our own home (well, soon-to-be home!).
+**December:** With the housing sorted and work generally winding down, December was a slow, relaxing month. We spent a [few days in Brisbane](/weekly-notes-52-2025/), visiting Jo's family and just chilling. NYE gets crazy busy in Sydney so we'll be staying, just relaxing.
+
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "walks-with-vada-251228-5.jpg" "Relaxing in Brisbane" "A look back at 2025" >}}
 
 ### What’s for 2026?
 
