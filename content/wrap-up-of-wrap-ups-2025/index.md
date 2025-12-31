@@ -21,7 +21,7 @@ Since each service now offers its look back at 2025 / year in review / wrapped, 
 
 No changes here, Rock is still my most listened-to genre. Nora En Pure takes the top artist, and that's because I've been listening to lot of her and Chill/Deep House especially during traels as it's a great genre to relax to. My top Songs 2025 is on [Spotify](https://open.spotify.com/playlist/37i9dQZEVXdh0favfbubxr?si=bc032ad7e2ec4aab).
 
-{{< fbgallery "https://i.sathyabh.at/sb/wrapped/2025" "Spotify Wrapped" "spotify-wrapped-2025.jpg|Spotify Wrapped" "spotify-wrapped-2025-genres|Spotify Wrapped - Top Genres" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/wrapped/2025" "Spotify Wrapped" "spotify-wrapped-2025.jpg|Spotify Wrapped" "spotify-wrapped-2025-genres.jpg|Spotify Wrapped - Top Genres" >}}
 
 
 ### Gaming
@@ -42,4 +42,4 @@ I started strength training last October but this year made it a goal to do at l
 
 {{< fbgallery "https://i.sathyabh.at/sb/wrapped/2025" "Fitness Wrapped" "train-fitness.jpg" >}}
 
-To the new year!
+That's for the wrap. Here's a look back at [2025](/a-look-back-at-2025/) and to the new year!
