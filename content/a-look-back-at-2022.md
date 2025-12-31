@@ -9,7 +9,7 @@ tags = ["Romania", "Australia", "year in review", "throwback"]
 title = "A Look Back at 2022"
 type = "post"
 url = "/2023/01/07/a-look-back-at-2022/"
-
+series = ["Year in review"]
 +++
 
 ### Summary

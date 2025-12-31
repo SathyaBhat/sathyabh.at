@@ -7,10 +7,12 @@ tags = ["year in review", "throwback", "2025"]
 places = "Sydney"
 title = "A Look Back at 2025" 
 type = "post"
+series = ["Year in review"]
 url = "/a-look-back-at-2025/"
-images = ["/a-look-back-at-2025/thumb-metallica-evanescence-251116-1.jpg"]
+images = ["/a-look-back-at-2025/thumb-paramtta-centenary-square.jpg"]
 +++
 
+Previous posts in this [series](/series/year-in-review/)
 ### Summary
 
 What a monumental year. 2025 was a year of incredible highs and intense periods of focus. We traveled extensively for work and leisure, with trips to Denver, San Francisco, Seattle, Hunter Valley, and Amsterdam. The concert-going streak continued with some truly epic shows. My fitness journey, which started last year, became a consistent part of my life, hitting milestones I never thought possible. But two events stand out above all others: in August, we were granted Australian Permanent Residence, a huge weight off our shoulders. And after a stressful house-hunting period, we capped off the year by buying our [very first home in Sydney](/weekly-notes-46-2025/). It’s been a whirlwind, and I’m filled with gratitude. Our weekly Discord calls with the gang continued, providing a steady anchor through all the craziness.
@@ -35,11 +37,11 @@ Here’s a breakdown of how the year unfolded:
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "hans-zimmer-250426-3.jpg" "Hans Zimmer Live was an unforgettable experience" "A look back at 2025" >}}
 
-**May:** The weather turned cold and we watched our first live AFL "footy" match at the SCG, which was a fantastic experience. I celebrated my 50th workout session at the gym, a milestone that felt great. The house hunt began to ramp up, and we started spending weekends at open-house inspections.
+**May:** The weather turned cold and we watched our first live AFL "footy" match at the SCG, which was a fantastic experience. I celebrated my 50th workout session at the gym, a milestone that felt great. 
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sydney-swans-250503-7.jpg" "Sydney Swans game at the SCG" "A look back at 2025" >}}
 
-**June:** Winter truly set in. I stepped up my fitness game by joining group cross-fit classes and hit a new deadlift personal best of 80kg. A highlight was a day trip to Kiama, exploring the coastline and the famous blowhole. My school friend announced his wedding in Amsterdam, and the visa application process began.
+**June:** Winter truly set in. I stepped up my fitness game by going for the group cross-fit classes and hit a new deadlift personal best of 80kg. A highlight was a [day trip to Kiama](/kiama-day-trip/), exploring the coastline and the famous blowhole. My school friend announced his wedding in Amsterdam, and the visa application process began.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kori-rotti-250615-1.jpg" "Delicious home-made Kori Rotti" "A look back at 2025" >}}
 
@@ -55,7 +57,7 @@ Here’s a breakdown of how the year unfolded:
 
   {{< fancybox "httpss://i.sathyabh.at/sb/weekly-notes" "sights-of-amsterdam-251005-1.jpg" "Sights of Amsterdam" "A look back at 2025" >}}
 
-**October:** Returning from my Amsterdam vacation, it was a relaxed re-entry with a Lucky Ali concert at the Sydney Opera House. The house hunt heated up significantly. We made our first offer on a property and attended our first-ever auction, where we were outbid. I also celebrated one full year of consistent strength training, having lost around 18kg and feeling fitter than ever.
+**October:** Returning from my Amsterdam vacation, it was a relaxed re-entry with a Lucky Ali concert at the Sydney Opera House. With our PR granted, we started thinking about our next milestone - purchasing our own house. The weeks and weekend went by fast. Our finances were approved and with that, we made our first offer on a property and attended our first-ever auction, where we were outbid. I also celebrated one full year of consistent strength training, having lost around 18kg and feeling fitter than ever.
 
   {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "lucky-ali-concert-251012-1.jpg" "Lucky Ali at the Sydney Opera House" "A look back at 2025" >}}
 
@@ -69,6 +71,6 @@ Here’s a breakdown of how the year unfolded:
 
 ### What’s for 2026?
 
-With the two huge goals of PR and a house achieved, 2026 will be about settling in. The big project will be moving into our new home and making it ours. I also need to finally get my Australian driver's license. I want to continue my fitness journey, explore more of our new neighborhood, and perhaps do some local travel. And of course, keep writing, gaming, and enjoying live music.
+With the two huge goals of PR and a house achieved, 2026 will be about settling in. The big project will be moving into our new home and making it ours. I also need to finally get my Australian driver's license. I want to continue my fitness journey, explore more of our new neighborhood, and perhaps do some local travel. And of course, keep writing, gaming, and enjoying live music. I do want to get into some hardware hacking - maybe work on a small project with an eInk display.
 
 Wishing you all a wonderful and fulfilling 2026!
