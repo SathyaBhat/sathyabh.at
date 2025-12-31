@@ -43,7 +43,7 @@ Here’s a breakdown of how the year unfolded:
 
 **June:** Winter truly set in. I stepped up my fitness game by going for the group cross-fit classes and hit a new deadlift personal best of 80kg. A highlight was a [day trip to Kiama](/kiama-day-trip/), exploring the coastline and the famous blowhole. My school friend announced his wedding in Amsterdam, and the visa application process began.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kori-rotti-250615-1.jpg" "Delicious home-made Kori Rotti" "A look back at 2025" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "kori-rotti-250615-4.jpg" "Delicious home-made Kori Rotti" "A look back at 2025" >}}
 
 **July:** We celebrated three years of living in Sydney! The month was marked by work events, including a fun winter party at Hijinx Hotel. I also got my old work desktop as part of a hardware refresh and began setting it up as a proper home server. We spent our Sunday mornings exploring local walking trails like the one at Berry Island Reserve.
 
@@ -51,11 +51,11 @@ Here’s a breakdown of how the year unfolded:
 
 **August:** A month of massive news and travel! We kicked it off with a trip to Hunter Valley for Jo's birthday, though the weather turned it into a cozy staycation. In the gym, I hit a huge milestone: a 100kg deadlift. Then I was off to the US for two weeks, first to San Francisco for a team meetup, where I tried a Waymo for the first time and saw Dave Matthews Band live. Then, I flew to Seattle for the AWS Hero Summit. While there, I received the incredible news that **our Australian Permanent Residence had been granted!**
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dave-matthews-band-250824-2.jpg" "Dave Matthews Band at Shoreline Amphitheater" "A look back at 2025" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "dave-matthews-band-250824-3.jpg" "Dave Matthews Band at Shoreline Amphitheater" "A look back at 2025" >}}
 
 **September:** Back in Sydney, the first order of business was getting my Schengen visa, which was approved just in time. I then flew to Amsterdam for my best friend Raylen's wedding. It was a beautiful ceremony and a fantastic opportunity to reconnect with school friends after two decades. Back home, we attended an amazing John Butler concert.
 
-  {{< fancybox "httpss://i.sathyabh.at/sb/weekly-notes" "sights-of-amsterdam-251005-1.jpg" "Sights of Amsterdam" "A look back at 2025" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "sights-of-amsterdam-251005-1.jpg" "Sights of Amsterdam" "A look back at 2025" >}}
 
 **October:** Returning from my Amsterdam vacation, it was a relaxed re-entry with a Lucky Ali concert at the Sydney Opera House. With our PR granted, we started thinking about our next milestone - purchasing our own house. The weeks and weekend went by fast. Our finances were approved and with that, we made our first offer on a property and attended our first-ever auction, where we were outbid. I also celebrated one full year of consistent strength training, having lost around 18kg and feeling fitter than ever.
 
@@ -63,7 +63,7 @@ Here’s a breakdown of how the year unfolded:
 
 **November:** The house hunt reached its climax. After observing another auction where the house we liked was passed in, we entered into a stressful negotiation process. And then, it happened - **we bought a house!** It’s an incredible feeling to finally have a place to call our own. We celebrated this massive milestone by attending a spectacular Metallica concert, with Evanescence supporting. A fittingly epic end to a stressful but rewarding month.
 
-  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "metallica-evanescence-251116-4.jpg" "Metallica bringing the fire!" "A look back at 2025" >}}
+  {{< fancybox "https://i.sathyabh.at/sb/weekly-notes" "metallica-evanescence-251116-7.jpg" "Metallica bringing the fire!" "A look back at 2025" >}}
 
 **December:** With the housing sorted and work generally winding down, December was a slow, relaxing month. We spent a [few days in Brisbane](/weekly-notes-52-2025/), visiting Jo's family and just chilling. NYE gets crazy busy in Sydney so we'll be staying, just relaxing.
 
