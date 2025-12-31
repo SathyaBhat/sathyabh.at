@@ -2,7 +2,7 @@
 author = "Sathyajith Bhat"
 categories = ["Life"]
 tags = ["weekly-notes"]
-places = "Sydney"
+places = ["Sydney", "Brisbane"]
 type = "post"
 series = ["Weekly notes"]
 url = "/weekly-notes-52-2025/"

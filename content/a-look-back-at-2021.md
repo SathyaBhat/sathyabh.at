@@ -9,6 +9,7 @@ tags = ["Romania", "year in review", "throwback", "2021"]
 title = "A Look Back at 2021"
 type = "post"
 url = "/2022/01/08/a-look-back-at-2021/"
+series = ["Year in review"]
 
 +++
 Another year has come and gone by. With vaccinations being made available at the start of the year, we thought the pandemic would be over by the end of the year. But with different variants and mutations, it's continued, and daresay gotten even worse. Hopefully 2022 will be the year of the saviour, but till anti-vaxxers exist, I don't see that happening.

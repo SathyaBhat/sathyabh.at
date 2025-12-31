@@ -9,6 +9,7 @@ summary = "Collecting all the wrap-ups of 2024."
 title = "The wrap-up of wrap-ups for 2024"
 url = "/wrap-up-of-wrap-ups-2024"
 images = ["/wrap-up-of-wrap-ups-2024/thumb-wrapup.jpg"]
+series = ["Year in review"]
 +++
 
 Since each service now offers its look back at 2024 / year in review / wrapped, I figured it'd be nice to collect them all in one place. Here's from the past few years:
