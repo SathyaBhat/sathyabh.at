@@ -9,17 +9,17 @@ url = "/weekly-notes-02-2026/"
 title = "Weekly notes 02/2026"
 date = 2026-01-11T12:00:00Z
 summary = "Week 02 summary - Another hot week in Sydney; move preparations"
-images = ["/weekly-notes-02-2026/thumb-.jpg"]
+images = ["/weekly-notes-02-2026/thumb-north-sydney-post-office-26.jpg"]
 
 +++
 
-![](thumb-.jpg)
+![](thumb-north-sydney-post-office-26.jpg)
 
-_Thumbnail image: ._
+_Thumbnail image: North Sydney Post Office._
 
 ### What's been happening
 
-At the risk of sounding like a broken record, it's been another hot week here in Sydney. The temperatures have been hovering around mid 30s Celsius  and it's been quite uncomfortable to be outside for long periods. The worst was on Saturday which recorded at 40 degree Celsius in North Sydney, and if that wasn't high enough, mid-40s in [Western Sydney](https://www.abc.net.au/news/2026-01-10/fire-danger-heatwave-winds-expected-across-nsw/106215426). It was so bad that the temperatures were at 35 degrees Celsius even as late as 8:30pm. That is just ridiculous. By around 10pm, a southerly buster[^1] cooled down the city and it's been cloudy today.
+At the risk of sounding like a broken record, it's been another hot week here in Sydney. The temperatures have been hovering around mid 30s Celsius and it's been quite uncomfortable to be outside for long periods. The worst was on Saturday which recorded at 40 degree Celsius in North Sydney, and if that wasn't high enough, mid-40s in [Western Sydney](https://www.abc.net.au/news/2026-01-10/fire-danger-heatwave-winds-expected-across-nsw/106215426). It was so bad that the temperatures were at 35 degrees Celsius even as late as 8:30pm. That is just ridiculous. By around 10pm, a southerly buster[^1] cooled down the city and it's been cloudy today.
 
 With our settlement and move coming close, the past week has been a book-and-organize everything week. I sorted out of the pending things that were required prior to the move:
 
@@ -35,14 +35,11 @@ I don't know when the next viewing is gonna be but we've been told by the real e
 
 Apart from this, we went over to Bunnings mid week to pick up some packing supplies - bubble wrap, tape, markers etc. We spent some time looking at the different aisles, checking out different flooring options, lighting options etc for the new house - nothing concrete yet, but it's good to get some ideas.
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Bunnings Walk" "" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Bunnings Walk" "bunnings-260111-1.jpg" "bunnings-260111-2.jpg" >}}
 
 On Sunday morning, we did our now-usual walk to Kirribilli and back, stopping at the local cafe for breakfast. The walk was nice, with a cool breeze coming in from the harbour, making it a pleasant experience. The wind was strong enough to bring in some dew from the harbour, making the air feel fresh and cool. It was a nice change from the hot weather we've been having. If there's one thing that we'll miss the most - I think it will be this walk to the lookout. There's a few national parks and reserves around the new house, so we can explore those, but I think this walk to Kirribilli will be missed. Kirribilli Markets was also on this Sunday, so there were a lot of people around the area, checking out the different stalls. Jo found a warrior robot to be most interesting, so picked it up as decor for the new house. We also spotted this incredibly cute mini-cat-succulent-pot, so picked that up as well.
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Kirribilli Markets Purchase" "" >}}
-
-
-{{< fancybox "https://i.sathyabh.at/sb/weekly-notes" ".jpg" "" "Weekly Notes" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Kirribilli Markets Purchase" "kirribilli-markets-260111-1.jpg" "kirribilli-markets-260111-2.jpg" "kirribilli-markets-260111-3.jpg" >}}
 
 ### What I've been playing
 
@@ -52,11 +49,11 @@ Diablo IV, Season 11 - The season of Divine Intervention - With all the 'admin' 
 
 [Venn Cafe](https://maps.app.goo.gl/y3akBzgf5bk3cu5V6) - Jo went to our usual Humm Cafe while waiting for the rental viewing to finish. After it was done and when I walked over there, we realized that it was closing down for the day so we went over to Venn just a short walk away. Usually, we are in Venn a lot earlier - visiting here during lunch time meant that I could try out their steak sandwich again, which I absolutely loved [last time around](/weekly-notes-27-2025/). And it was no different this time around - the steak sandwich was juicy, tender and packed with flavour. Jo had the satay chicken wrap which she said was good as well. Because it was so hot, I had the iced mocha while Jo had the 'Tromoso' juice - a mix of lemon, watermelon, carrot, orange which was pretty good as well.
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Venn Cafe" "" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Venn Cafe" "venn-260111-1.jpg" "venn-260111-2.jpg" "venn-260111-3.jpg" >}}
 
 [BTB Kirribilli]() - Jo wanted to stop by here before we move from this place as they have a rotating, season specific menu. We went over on Sunday after our walk to Kirribilli and picked up a few things. I had the sausage-and-egg muffin, while Jo had the avo smash on dark rye bread with grilled watermelon and macadamia salsa. The sausage patty was beef and roo and was really juicy. We had our usual coffee orders as well. I pointed Jo to the crocodile chorizo toastada and thought I was getting that - she wasn't too pleased to know I went for the sausage and egg muffin instead!
 
-{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "BTB Kirribilli" "" >}}
+{{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "BTB Kirribilli" "btb-260111-1.jpg" "btb-260111-2.jpg" "btb-260111-3.jpg" >}}
 
 ### Music of the Week
 
@@ -67,7 +64,7 @@ Mechagnome's [Solo Sailing](https://www.youtube.com/watch?v=bMas9G_yIkw) with th
 
 ### Link of the week
 
-A little late because I missed it, but Tom BetGeorge's Chrimas Show is absolutely worth a watch - [Tom BetGeorge Christmas Show 2025](https://www.youtube.com/watch?v=enhhtPZMwCE).
+A little late because I missed it, but Tom BetGeorge's Christmas Show is absolutely worth a watch - [Tom BetGeorge Christmas Show 2025](https://www.youtube.com/watch?v=enhhtPZMwCE).
 
 {{< youtube enhhtPZMwCE >}}
 
