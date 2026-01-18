@@ -30,6 +30,8 @@ On Saturday, we met up with our friends from the guitar class. We hadn’t yet t
 
 {{< fbgallery "https://i.sathyabh.at/sb/weekly-notes" "Ambis Chai" "ambis-chai-260118-1.jpg" "ambis-chai-260118-2.jpg" >}}
 
+And over the week, I managed to complete and publish my [YNAB Weekly Wrap](https://github.com/SathyaBhat/ynab-weekly-wrap) to Github. YNAB Weekly wrap is a Go-based tool that fetches your [YNAB](https://www.ynab.com/) budget data  and sends a formatted financial wrap report to a Telegram private group. [Jo](https://joshenoy.me/) had built a C# version [a few years ago](https://github.com/joshenoy/YNABReportGenerator) and that's been running as an Azure function. Since Azure functions do not have free tiers, it'd been charging me a trickle amount and I wanted to revamp it and run it on my homeserver. I also wanted a simple project to try [AmpCode](https://ampcode.com/) with, so I decided to give it a shot.  For now it works and I'll update it at a later time to clean up some code.
+
 ### What I've been playing
 
 I’ve been playing a lot of Diablo IV and have got my Spiritborn to Torment 4. Now that I’ve played both Path of Exile 2 and Diablo IV extensively, I can see the basic design philosophy differences across PoE 2 and Diablo IV - Diablo gives you all the loot and gear that you need to start out your ultimate build, but only just - most of the stat ranges will be at low levels and you won’t have the mats required to completely spec it out. That’s where the endgame grind comes in, giving you an incentive to keep doing the content over and again if you want the absolute best of rolls. 
