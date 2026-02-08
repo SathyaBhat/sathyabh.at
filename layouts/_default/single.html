@@ -42,13 +42,16 @@
       {{ end }}
     </header>
     <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row" style="width: 90%; margin: 0 auto;">
-      {{ if and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in .TableOfContents "<ul") }}
-        <div class="order-first px-0 lg:order-last lg:max-w-xs lg:ps-8">
-          <div class="toc pe-5 print:hidden lg:sticky lg:top-10">
-            {{ partial "toc.html" . }}
-          </div>
+      <div class="order-first px-0 lg:order-last lg:max-w-xs lg:ps-8">
+        <div class="pe-5 print:hidden lg:sticky lg:top-10 space-y-8">
+          {{ if and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in .TableOfContents "<ul") }}
+            <div class="toc">
+              {{ partial "toc.html" . }}
+            </div>
+          {{ end }}
+          {{ partial "sidebar.html" . }}
         </div>
-      {{ end }}
+      </div>
       <div class="min-w-0 min-h-0 max-w-full grow">
         {{ .Content | emojify }}
       </div>
